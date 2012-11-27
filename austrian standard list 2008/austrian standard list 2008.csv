@@ -372,7 +372,7 @@
 "vascular plants";"N-E";"Fischer 2008";"atri pros";"Atriplex prostrata s.lat.";"Atriplex prostrata sl";;"Spieß-Melde";"N-T";;;"● (N-E)";"N-T";"● (N-E)";;;;"W";8
 "vascular plants";"N-T";"Fischer 2008";"atri sagi";"Atriplex sagittata";"Atriplex sagittata";;"Glanz-Melde";"N-U";;;"N-T";"N-U";"N-T";;;;"W";8
 "vascular plants";"N-U";"Fischer 2008";"atri tata";"Atriplex tatarica";"Atriplex tatarica";;"Tataren-Melde";;;;"N-U";;"N-U";;;;"W";8
-"vascular plants";"I";"Fischer 2008";"atro bell donn";"Atropa bella-donna";"Atropa bella-donna";;"Echte Tollkirsche";"●";;;"●";"●";"●";"●";;;;9
+"vascular plants";"I";"Fischer 2008";"atro bell";"Atropa bella-donna";"Atropa bella-donna";;"Echte Tollkirsche";"●";;;"●";"●";"●";"●";;;;9
 "vascular plants";"N-U";"Fischer 2008";"aubr delt";"Aubrieta deltoidea";"Aubrieta deltoidea";;"Griechisches Blaukissen";;;;"N-U";;"N-U";;;;"W";8
 "vascular plants";"N-E";"Fischer 2008";"auri saxa";"Aurinia saxatilis";"Aurinia saxatilis";;"Felsensteinkraut";"N-U";;;"R (N-E)";"R (N-E)";"N-U";;;;"W";17
 "vascular plants";"I";"Fischer 2008";"aven adsu adsu";"Avenula adsurgens subsp. adsurgens";"Avenula adsurgens ssp. adsurgens";;;;4;;;;;;;;;
@@ -728,8 +728,9 @@
 "vascular plants";"I";"Fischer 2008";"cent scab slat";"Centaurea scabiosa s.lat.";"Centaurea scabiosa sl";;;;;;;;;;;;;
 "vascular plants";"N-U";"Fischer 2008";"cent sols";"Centaurea solstitialis";"Centaurea solstitialis";;"Sonnwend-Flockenblume";;;;"N-U";"N-U";"N-U";;;;"W";8
 "vascular plants";;"Fischer 2008";"cent spec ies";"Centaurea species";"Centaurea sp.";;;;;;;;;;;;;
+"vascular plants";"I";"Fischer 2008";"cent stoe slat";"Centaurea stoebe s.lat.";"Centaurea stoebe sl";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"cent stoe aust";"Centaurea stoebe subsp. australis";"Centaurea stoebe ssp. australis";;;;;;;;;;;;;
-"vascular plants";"I";"Fischer 2008";"cent stoe stoe";"Centaurea stoebe subsp. stoebe";"Centaurea stoebe subsp. stoebe";;"Gewöhnliche Rispen-Flockenblume";"N-U";3;;2;2;2;"●";;;;5
+"vascular plants";"I";"Fischer 2008";"cent stoe stoe";"Centaurea stoebe subsp. stoebe";"Centaurea stoebe ssp. stoebe";;"Gewöhnliche Rispen-Flockenblume";"N-U";3;;2;2;2;"●";;;;5
 "vascular plants";"I";"Fischer 2008";"ceph dama";"Cephalanthera damasonium";"Cephalanthera damasonium";;"Breitblättriges Waldvöglein";"●";5;"B";"●";1;3;"3r!/V";"§";;;14
 "vascular plants";"N-U";"Fischer 2008";"ceph giga";"Cephalaria gigantea";"Cephalaria gigantea";;"Riesen-Schuppenkopf";;;;"N-U";;"N-U";;;;"W";8
 "vascular plants";"I";"Fischer 2008";"ceph long";"Cephalanthera longifolia";"Cephalanthera longifolia";;"Schmalblättriges Waldvöglein";"●";;"B";"●";2;3;"4ar!/V";"§";;;14
@@ -778,6 +779,7 @@
 "vascular plants";"I";"Fischer 2008";"cham rati";"Chamaecytisus ratisbonensis";"Chamaecytisus ratisbonensis";;"Regensburger Zwerggeißklee";1;;;1;1;1;2;"§";;;5
 "vascular plants";"I";"Fischer 2008";"cham supi";"Chamaecytisus supinus";"Chamaecytisus supinus";;"Kopf-Zwerggeißklee";2;1;"B";2;2;2;3;"§";;;9
 "vascular plants";"I";"Fischer 2008";"chel maju";"Chelidonium majus";"Chelidonium majus";;"Schöllkraut";"●";;;"●";"●";"●";"●";;;;9
+"vascular plants";"I";"Fischer 2008";"chen albu slat";"Chenopodium album s.lat.";"Chenopodium album sl";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"chen albu albu";"Chenopodium album subsp. album";"Chenopodium album subsp. album";;"Eigentlicher Weißer Gänsefuß";"●";;;"●";"●";"●";"●";;;;8
 "vascular plants";"N-U";"Fischer 2008";"chen albu borb";"Chenopodium album subsp. borbasii";"Chenopodium album subsp. borbasii";;"Borbás' Weißer Gänsefuß";;;;"N-U";;"N-U";;;;"W";8
 "vascular plants";"I";"Fischer 2008";"chen albu pedu";"Chenopodium album subsp. pedunculare";"Chenopodium album subsp. pedunculare";;"Gestielter Weißer Gänsefuß";"●";;;"●";"●";"●";;;;;7
@@ -1312,8 +1314,9 @@
 "vascular plants";"I";"Fischer 2008";"fest rupi rina";"Festuca rupicaprina";"Festuca rupicaprina";;"Gämsen-Schwingel";"●";;;"●";;;"●";;;;6
 "vascular plants";;"Fischer 2008";"fest spec ies";"Festuca species";"Festuca sp.";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"fest sten";"Festuca stenantha";"Festuca stenantha";;"Schmalrispiger-Felsen-Schwingel";"R";4;;"R";;;"●";;;;6
-"vascular plants";;"(Tracey) Pils comb. nov.";"fest stri stri";"Festuca stricta subsp. stricta";"Festuca stricta subsp. stricta";;;;;;;;;;;;;
-"vascular plants";;"(Tracey) Pils comb. nov.";"fest stri sulc";"Festuca stricta subsp. sulcata";"Festuca stricta subsp. sulcata";;;;;;;;;;;;;
+"vascular plants";"I";"(Tracey) Pils comb. nov.";"fest stri stri";"Festuca stricta subsp. stricta";"Festuca stricta ssp. stricta";;;;;;;;;;;;;
+"vascular plants";"I";"(Tracey) Pils comb. nov.";"fest stri sulc";"Festuca stricta subsp. sulcata";"Festuca stricta ssp. sulcata";;;;;;;;;;;;;
+"vascular plants";"I";"(Hack.) Patzke";"fest stri trac";"Festuca stricta subsp. trachyphylla";"Festuca stricta ssp. trachyphylla";;;;;;;;;;;;;
 "vascular plants";"X";"Fischer 2008";"fest vagi";"Festuca vaginata";"Festuca vaginata";;"Scheiden-Schaf-Schwingel";;;;;;;;;;;
 "vascular plants";;"Fischer 2008";"fest vale";"Festuca valesiaca";"Festuica valesiaca";;;;;;;;;;;;;
 "vascular plants";"N-U";"Fischer 2008";"fest vale sstr";"Festuca valesiaca s.str.";"Festuca valesiaca s.str.";;"Wallis-Schwingel ieS";;;;"N-U";"N-U";"F";;;;"W";5
@@ -1390,9 +1393,9 @@
 "vascular plants";;"Fischer 2008";"gali moll aggr";"Galium mollugo agg.";"Galium mollugo agg.";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"gali nori";"Galium noricum";"Galium noricum";;"Norisches Labkraut";"●";;;"●";;;"●";;"S";;6
 "vascular plants";"I";"Fischer 2008";"gali odor";"Galium odoratum";"Galium odoratum";;"Waldmeister";"●";5;;"●";"●";"●";"●";;;;14
-"vascular plants";"I";"Fischer 2008";"gali palu palu";"Galium palustre";"Galium palustre subsp. palustre";;"Eigentliches Sumpf-Labkraut";"V";;;"V";"V";"V";"●";;;;2
+"vascular plants";"I";"Fischer 2008";"gali palu palu";"Galium palustre subsp. palustre";"Galium palustre ssp. palustre";;"Eigentliches Sumpf-Labkraut";"V";;;"V";"V";"V";"●";;;;2
 "vascular plants";"I";"Fischer 2008";"gali palu slat";"Galium palustre s.lat.";"Galium palustre sl";;;;;;;;;;;;;
-"vascular plants";"I";"Fischer 2008";"gali palu tetr";"Galium palustre subsp. tetraploideum";"Galium palustre subsp. tetraploideum*";;"Tetraploides Sumpf-Labkraut";;;;"G";"G";"G";;;;;2
+"vascular plants";"I";"Fischer 2008";"gali palu tetr";"Galium palustre subsp. tetraploideum";"Galium palustre ssp. tetraploideum*";;"Tetraploides Sumpf-Labkraut";;;;"G";"G";"G";;;;;2
 "vascular plants";"N-U";"Fischer 2008";"gali pari";"Galium parisiense";"Galium parisiense";;"Pariser Labkraut";;;;"N-U";"N-U";"N-U";;;;"W";7
 "vascular plants";"N-E";"Fischer 2008";"gali parv";"Galinsoga parviflora";"Galinsoga parviflora";;"Kleinköpfiges Franzosenkraut";"● (N-E)";;;"● (N-E)";"● (N-E)";"● (N-E)";;;;"W";7
 "vascular plants";"I";"Fischer 2008";"gali pome";"Galium × pomeranicum";"Galium × pomeranicum";;"Weißgelbes Labkraut";3;;;3;2;3;;;;;5
@@ -4112,7 +4115,8 @@ subsp. croceum";;;;;;;;;;;;;
 "bryophytes";"I";;"spha capi";"Sphagnum capillifolium";"Sphagnum capillifolium";;"Spitzblättriges Torfmoos";;;;;;;;;;;
 "bryophytes";"I";;"spha girg";"Sphagnum girgensonii";"Sphagnum girgensonii";;"Girgensons Torfmoos";;;;;;;;;;;
 "bryophytes";"I";"(Lindb. ex Braithw.) Warnst.";"spha quin";"Sphagnum quiquefarium";;;;;;;;;;;;;;
-;;"L.f. ex Hedw. ";"spla spha";"Splachnum sphaericum";;;;;;;;;;;;;;
+"bryophytes";"I";"L.f. ex Hedw. ";"spla spha";"Splachnum sphaericum";;;;;;;;;;;;;;
+"bryophytes";"I";;"spha spec ies";"Sphagnum species";"Sphagnum sp.";;;;;;;;;;;;;
 "bryophytes";"I";"(Dicks. ex Brid.) Hedenäs";"stra stra";"Straminergon stramineum";;;;;;;;;;;;;;
 "bryophytes";"I";"F.Weber";"synt norv";"Syntrichia norvegica";;;;;;;;;;;;;;
 "bryophytes";"I";"(Hedw.) Bruch & Schimp.";"tayl serr";"Tayloria serrata";;;;;;;;;;;;;;
