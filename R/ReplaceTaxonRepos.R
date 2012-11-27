@@ -40,7 +40,7 @@ replaceTaxon <- function (x, y, dir) {
 #	replaceTaxon("aven flex", "aven flex flex")
 
 #	folder wise replacement
-path <- "~/Documents/vegsoup-data/hauser kaibling dta"
+path <- "~/Documents/vegsoup-data/bitzenberg dta"
 day <- "2012-11-27"
 rpl <- as.matrix(read.delim(paste(path, "/recode ", day, ".txt", sep = ""),
 	colClasses = "character", header = FALSE))
@@ -48,9 +48,17 @@ rpl <- as.matrix(read.delim(paste(path, "/recode ", day, ".txt", sep = ""),
 
 rpl
 
-for (i in 1:nrow(rpl)) {
-	# i = 1
-	x <- rpl[i, 1]
-	y <- rpl[i, 2]
-	replaceTaxon(x, y, dir = path)
+#	full data set replacement
+if (FALSE) {
+	path <- list.files("~/Documents/vegsoup-data", full.names = T)
+	rpl <- matrix(c("care curv", "care curv curv"), ncol = 2)
 }
+
+	for (j in path) {
+		for (i in 1:nrow(rpl)) {
+			# i = 1
+			x <- rpl[i, 1]
+			y <- rpl[i, 2]
+			replaceTaxon(x, y, dir = path)
+		}
+	}
