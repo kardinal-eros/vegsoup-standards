@@ -1701,7 +1701,6 @@
 "vascular plants";"I";"Fischer 2008";"horn alpi slat";"Hornungia alpina s.lat.";"Hornungia alpina sl";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"horn alpi alpi";"Hornungia alpina subsp. alpina";"Hornungia alpina subsp. alpina";;"Kalk-Gamskresse";"●";;;"●";;"I-U";"●";;;;6
 "vascular plants";"X";"Fischer 2008";"horn alpi brev";"Hornungia alpina subsp. brevicaulis";"Hornungia alpina subsp. brevicaulis";;"Silikat-Gamskresse";;;;;;;"KB";;;;
-"vascular plants";;"Fischer 2008";"horn alpi slat";"Hornungia alpina s.lat.";"Hornungia alpina s.l.";;;;;;;;;;;;;
 "vascular plants";"X";"Fischer 2008";"horn petr";"Hornungia petraea";"Hornungia petraea";;"Steppenkresse";;;;;;;;;;;
 "vascular plants";"N-U";"Fischer 2008";"host cv fort";"Hosta cv. fortunei";"Hosta cv. fortunei";;"Graublättrige Funkie";"N-U";;;"N-U";;"N-U";;;;"W";8
 "vascular plants";"N-U";"Fischer 2008";"host lanc";"Hosta lancifolia";"Hosta lancifolia";;"Japanische Funkie";;;;"N-U";;"N-U";;;;"W";8
@@ -1776,7 +1775,6 @@
 "vascular plants";"N-U";"Fischer 2008";"jugl nigr";"Juglans nigra";"Juglans nigra";;"Schwarze Walnuss";;;;"N-U";;"N-U";;;;"W";9
 "vascular plants";"N-E?";"Fischer 2008";"jugl regi";"Juglans regia";"Juglans regia";;"Echte Walnuss";"● (N-E)";;;"● (N-E)";"● (N-E)";"● (N-E)";;;;"B";14
 "vascular plants";"I";"Fischer 2008";"junc acut";"Juncus acutiflorus";"Juncus acutiflorus";;"Spitzblütige Simse.";2;2;;3;3;2;"3r!/B";;;;2
-"vascular plants";"I";"Fischer 2008";"junc aacq";"Juncus jacquiniii";"Juncus jacquiniii";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"junc alpi alpi";"Juncus alpinoarticulatus subsp. alpinoarticulatus";"Juncus alpinoarticulatus (subsp. alpinoarticulatus)";;"Gebirgs-Simse, Alpen-S.";"●";;;"●";1;3;"-r/V";;;;2
 "vascular plants";"I";"Fischer 2008";"junc arti";"Juncus articulatus";"Juncus articulatus";;"Glieder-Simse";"●";;;"●";"●";"●";"●";;;;2
 "vascular plants";"I";"Fischer 2008";"junc bigl";"Juncus biglumis";"Juncus biglumis";;;;2;;;;;;;;;
@@ -1948,6 +1946,7 @@ subsp. croceum";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"list cord";"Listera cordata";"Listera cordata";;"Herz-Zweiblatt, Kleines Z.";"●";;"B";"●";1;1;"2r!/BV";"§";;;15
 "vascular plants";"I";"Fischer 2008";"list ovat";"Listera ovata";"Listera ovata";;"Großes Zweiblatt";"●";;"B";"●";3;"V";"-r/B";"§";;;10
 "vascular plants";"I";"Fischer 2008";"lith offi";"Lithospermum officinale";"Lithospermum officinale";;"Echter Steinsame";"●";;;"●";1;3;"-r/V";;;;5
+"vascular plants";"I";"Fischer 2008";"lloy sero";"Lloydia serotina";"Llyoidia serotina";;;;;;;;;;;;;
 "vascular plants";"N-U";"Fischer 2008";"lobe erin";"Lobelia erinus";"Lobelia erinus";;"Blaue Lobelie";"N-U";;;"N-U";"N-U";"N-U";;;;"W";8
 "vascular plants";"N-U";"Fischer 2008";"lobu mari";"Lobularia maritima";"Lobularia maritima";;"Strandkresse";"N-U";;;"N-U";"N-U";"N-U";;;;"W";8
 "vascular plants";"I";"Fischer 2008";"lois proc";"Loiseleuria procumbens";"Loiseleuria procumbens";;"Gamsheide";"●";;;"●";;;"●";;;;6
@@ -3155,8 +3154,9 @@ subsp. croceum";;;;;;;;;;;;;
 "vascular plants";"N-U";"Fischer 2008";"sicy angu";"Sicyos angulatus";"Sicyos angulatus";;"Kanten-Haargurke";;;;"N-U";;"N-U";;;;"W";8
 "vascular plants";"I";"Fischer 2008";"side mont";"Sideritis montana";"Sideritis montana";;"Berg-Gliedkraut";"F";;;0;;0;1;;;;5
 "vascular plants";"I";"Fischer 2008";"sila sila";"Silaum silaus";"Silaum silaus";;"Europäische Wiesensilge";0;2;;1;1;1;2;;;;2
-"vascular plants";;"Fischer 2008";"sile acau exsc";"Silene acaulis subsp. exscapa";;;;;;;;;;;;;;
-"vascular plants";"I";"Fischer 2008";"sile acau long";"Silene acaulis subsp. longiscapa";"Silene acaulis subsp. longiscapa";;"Kalk-Polster-Leimkraut";"●";;;"●";;"I-U";"4a";"§";;;6
+"vascular plants";"I";"Fischer 2008";"sile acau slat";"Silene acaulis s.lat.";"Silene acaulis sl";;;;;;;;;;;;;
+"vascular plants";;"Fischer 2008";"sile acau exsc";"Silene acaulis subsp. exscapa";"Silene acaulis ssp. exscapa";;;;;;;;;;;;;
+"vascular plants";"I";"Fischer 2008";"sile acau long";"Silene acaulis subsp. longiscapa";"Silene acaulis ssp. longiscapa";;"Kalk-Polster-Leimkraut";"●";;;"●";;"I-U";"4a";"§";;;6
 "vascular plants";"I";"Fischer 2008";"sile bacc";"Silene baccifera";"Silene baccifera";;"Hühnerbiss";;;;1;0;1;1;;;;10
 "vascular plants";"N-U";"Fischer 2008";"sile coni";"Silene conica";"Silene conica";;"Kegel-Leimkraut";;;;"N-U";"N-U";"N-U";;;;"W";7
 "vascular plants";"N-U";"Fischer 2008";"sile cono";"Silene conoidea";"Silene conoidea";;"Großkegel-Leimkraut";;;;"N-U";"N-U";;;;;"W";7
