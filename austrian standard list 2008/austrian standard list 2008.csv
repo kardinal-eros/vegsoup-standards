@@ -2741,7 +2741,7 @@ subsp. croceum";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"rhod inte";"Rhododendron × intermedium";"Rhododendron × intermedium";;;;;;;;;;;;;
 "vascular plants";"N-E";"Fischer 2008";"rhod japo";"Rhododendron japonicum";"Rhododendron japonicum";;"Japanische Azalee";"R (N-E)";;;"R (N-E)";;;;;;"H";3
 "vascular plants";"N-E";"Fischer 2008";"rhod pont";"Rhododendron ponticum";"Rhododendron ponticum";;"Pontischer Rhododendron";"R (N-E)";;;"R (N-E)";;"N-U";;;;"W";8
-"vascular plants";"I";"Fischer 2008";"rhod rose";"Rhodiola rosea";"Rhodiola rosea";;"Echte Rosenwurz";0;;;0;;;0;;;;6
+"vascular plants";"I";"Fischer 2008";"rhod rose a";"Rhodiola rosea";"Rhodiola rosea";;"Echte Rosenwurz";0;;;0;;;0;;;;6
 "vascular plants";"I";"Fischer 2008";"rhod tome";"Rhododendron tomentosum";"Rhododendron tomentosum";;"Moor-Porst";;;;1;1;;2;"§";;;3
 "vascular plants";"N-U";"Fischer 2008";"rhus typh";"Rhus typhina";"Rhus typhina";;"Hirschkolben-Sumach, Essigbaum";"N-U";;;"N-U";"N-U";"N-U";;;;"B";8
 "vascular plants";"I";"Fischer 2008";"rhyn alba";"Rhynchospora alba";"Rhynchospora alba";;"Weiße Schnabelbinse, Weißes Schnabelried";3;3;;3;1;2;"3r!/B";"§";;;3
@@ -4063,7 +4063,6 @@ subsp. croceum";;;;;;;;;;;;;
 "bryophytes";"I";;"leio coll";"Leiocolea collaris";;;;;;;;;;;;;;
 "bryophytes";"I";"(Hedw.) Ångstr.";"leuc glau";"Leucobryum glaucum";;;;;;;;;;;;;;
 "bryophytes";"I";;"leje cavi";"Lejeunea cavifolia";;;;;;;;;;;;;;
-"bryophytes";"I";;"lepi rept";"Lepidozia reptans";;;;;;;;;;;;;;
 "bryophytes";"I";;"lesk poly";"Leskea polymorpha";;;;;;;;;;;;;;
 "bryophytes";"I";"(L.) Dumort.";"lepi rept";"Lepidozia reptans";;;;;;;;;;;;;;
 "bryophytes";"I";;"leub juni";"Leucobryum juniperoideum";;;;;;;;;;;;;;
@@ -4151,7 +4150,7 @@ subsp. croceum";;;;;;;;;;;;;
 "bryophytes";"I";"(Hedw.) Brid.";"racu lanu";"Racomitrium lanuginosum";;;;;;;;;;;;;;
 "bryophytes";"I";;"radu comp";"Radula complanata";;;;;;;;;;;;;;
 "bryophytes";"I";"(Hedw.) T.J.Kop.";"rhiz punc";"Rhizomnium punctatum";;;;;;;;;;;;;;
-"bryophytes";"I";"(Hedw.) Limpr.";"rhod rose";"Rhodobryum roseum";;;;;;;;;;;;;;
+"bryophytes";"I";"(Hedw.) Limpr.";"rhod rose um";"Rhodobryum roseum";;;;;;;;;;;;;;
 "bryophytes";"I";"(Ehrh. ex Hedw.) Kindb.";"rhyt rugo";"Rhytidium rugosum";;;;;;;;;;;;;;
 "bryophytes";"I";;"rhyt squa";"Rhythidiadelphus squarrosus";;;;;;;;;;;;;;
 "bryophytes";"I";"(L. ex Hedw.) Warnst.";"rhyt triq";"Rhytidiadelphus triquetrus";;;;;;;;;;;;;;
