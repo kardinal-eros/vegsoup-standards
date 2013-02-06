@@ -2515,7 +2515,7 @@ subsp. croceum";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"poly odor";"Polygonatum odoratum";"Polygonatum odoratum";;"Duft-Weißwurz";"●";;;"●";3;3;3;;;;16
 "vascular plants";"N-U";"Fischer 2008";"poly tetr";"Polycarpon tetraphyllum";"Polycarpon tetraphyllum";;"Vierblättriges Nagelkraut";;;;"N-U";;"N-U";;;;"W";8
 "vascular plants";"I";"Fischer 2008";"poly vert";"Polygonatum verticillatum";"Polygonatum verticillatum";;"Quirl-Weißwurz";"●";;;"●";"●";"●";"●";;;;18
-"vascular plants";;;"poly vule";"Polypodium vulgare";;;;;;;;;;;;;;
+"vascular plants";;;"poly vule";"Polypodium vulgare";"Polypodium vulgare";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"poly vulg";"Polypodium vulgare s.str.";"Polypodium vulgare (s.str.)";;"Gewöhnlicher Tüpfelfarn";"●";;;"●";"●";3;"●";;;;17
 "vascular plants";"I";"Fischer 2008";"poly vulg oxyp";"Polygala vulgaris subsp. oxyptera";"Polygala vulgaris subsp. oxyptera";;"Spitzflüglige Wiesen-Kreuzblume";;3;;"G";"G";;;"§";;;5
 "vascular plants";"I";"Fischer 2008";"poly vulg vulg";"Polygala vulgaris subsp. vulgaris";"Polygala vulgaris subsp. vulgaris";;"Gewöhnliche Wiesen-Kreuzblume";"V";;;"V";3;3;"-r/BV";"§";;;5
@@ -3378,7 +3378,7 @@ subsp. croceum";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"thes rost";"Thesium rostratum";"Thesium rostratum";;;;0;;;;;;;;;
 "vascular plants";"N-E";"Fischer 2008";"thla alli";"Thlaspi alliaceum";"Thlaspi alliaceum";;"Lauch-Hellerkraut";"● (N-E)";;;"● (N-E)";;"● (N-E)";0;;;"W";8
 "vascular plants";"I";"Fischer 2008";"thla arve";"Thlaspi arvense";"Thlaspi arvense";;"Acker-Hellerkraut";"●";;;"●";"●";"●";"●";;;;7
-"vascular plants";"I";"Fischer 2008";"thla coer slat ";"Thlaspi coerulescens s.lat.";"Thlaspi coerulescens sl";;;;;;;;;;;;;
+"vascular plants";"I";"Fischer 2008";"thla coer slat";"Thlaspi coerulescens s.lat.";"Thlaspi coerulescens sl";;;;;;;;;;;;;
 "vascular plants";"N-U";"Fischer 2008";"thuj occi";"Thuja occidentalis";"Thuja occidentalis";;"Amerikanischer Lebensbaum";;;;"N-U";;"N-U";;;;"W";17
 "vascular plants";"N-U";"Fischer 2008";"thuj orie";"Thuja orientalis";"Thuja orientalis";;"Orientalischer Lebensbaum";"N-U";;;"N-U";"N-U";"N-U";;;;"W";17
 "vascular plants";"N-U";"Fischer 2008";"thuj plic";"Thuja plicata";"Thuja plicata";;"Riesen-Lebensbaum";;;;"N-U";;"N-U";;;;"W";14
@@ -3691,10 +3691,11 @@ subsp. croceum";;;;;;;;;;;;;
 "lichen";"I";"Pers.";"cali viri";"Calicium viride";;;;;;;;;;;;;;
 "lichen";"I";"(Wahlenb.) H. Olivier";"calo ammi";"Caloplaca ammiospila";;;;;;;;;;;;;;
 "lichen";"I";"(Ehrh. ex Hedw.) Th. Fr. var. cerina";"calo ceri";"Caloplaca cerina";;;;;;;;;;;;;;
-"lichen";"I";"(Ehrh. ex Hedw.) Th. Fr, (A. Massal.) Jatta";"calo ceri musc";"Caloplaca cerina . var. muscorum";;;;;;;;;;;;;;
+"lichen";"I";"(Ehrh. ex Hedw.) Th. Fr, (A. Massal.) Jatta";"calo ceri musc";"Caloplaca cerina var. muscorum";;;;;;;;;;;;;;
 "lichen";"I";"(Hue) H. Magnusson";"calo herb";"Caloplaca herbidella";;;;;;;;;;;;;;
 "lichen";"I";"(Lam. & DC.) Maheu & Gillet";"calo sina";"Caloplaca sinapisperma";;;;;;;;;;;;;;
 "lichen";"I";"Zahlbr.";"calo tiro";"Caloplaca tiroliensis";;;;;;;;;;;;;;
+"lichen";"I";;"calo spec ies";"Caloplaca species";;;;;;;;;;;;;;
 "lichen";"I";"(Del. ex Duby) Culb. & Culb.";"cete cetr";"Cetrelia cetrarioides";;;;;;;;;;;;;;
 "lichen";"I";;"cete mona";"Cetrelia monachorum";;;;;;;;;;;;;;
 "lichen";"I";"(NYL.) Culb. & Culb.";"cete oliv";"Cetrelia olivetorum";;;;;;;;;;;;;;
