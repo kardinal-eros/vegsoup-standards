@@ -23,6 +23,9 @@ replaceTaxon <- function (x, y, dir) {
 		if (length(grep("history", names(tmp.i))) < 1) {
 			stop(i, " has no history column")	
 		}
+		if (length(grep("abbr", names(tmp.i))) < 1) {
+			stop(i, " has no abbr column")	
+		}
 		if (!is.na(match(xx, tmp.i$abbr))) {
 			tmp.i$history[tmp.i$abbr %in% xx] <-
 				paste(tmp.i$history[tmp.i$abbr %in% xx], "| Changed", xx, "To", yy, Sys.time())
@@ -40,8 +43,8 @@ replaceTaxon <- function (x, y, dir) {
 #	replaceTaxon("aven flex", "aven flex flex")
 
 #	folder wise replacement
-path <- "~/Documents/vegsoup-data/bitzenberg dta"
-day <- "2012-11-27"
+path <- "~/Documents/vegsoup-data/fallbichl dta"
+day <- "2013-02-20"
 rpl <- as.matrix(read.delim(paste(path, "/recode ", day, ".txt", sep = ""),
 	colClasses = "character", header = FALSE))
 #	check spaces!
@@ -54,11 +57,11 @@ if (FALSE) {
 	rpl <- matrix(c("care curv", "care curv curv"), ncol = 2)
 }
 
-	for (j in path) {
-		for (i in 1:nrow(rpl)) {
-			# i = 1
-			x <- rpl[i, 1]
-			y <- rpl[i, 2]
-			replaceTaxon(x, y, dir = path)
-		}
+for (j in path) {
+	for (i in 1:nrow(rpl)) {
+		# i = 1
+		x <- rpl[i, 1]
+		y <- rpl[i, 2]
+		replaceTaxon(x, y, dir = path)
 	}
+}
