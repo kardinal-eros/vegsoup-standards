@@ -43,8 +43,9 @@ replaceTaxon <- function (x, y, dir) {
 #	replaceTaxon("aven flex", "aven flex flex")
 
 #	folder wise replacement
-path <- "~/Documents/vegsoup-data/fallbichl dta"
-day <- "2013-02-20"
+path <- "~/Documents/vegsoup-data/schleißheim dta"
+
+day <- "2013-05-11"
 rpl <- as.matrix(read.delim(paste(path, "/recode ", day, ".txt", sep = ""),
 	colClasses = "character", header = FALSE))
 #	check spaces!
