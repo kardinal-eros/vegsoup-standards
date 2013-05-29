@@ -761,7 +761,7 @@
 "vascular plants";"I";"Fischer 2008";"cera holo";"Cerastium holosteoides";"Cerastium holosteoides";;"Gewöhnliches Hornkraut";"●";;;"●";"●";"●";"●";;;;4
 "vascular plants";"X";"Fischer 2008";"cera lati";"Cerastium latifolium";"Cerastium latifolium";;"Breitblättriges Hornkraut";;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"cera luco";"Cerastium lucorum";"Cerastium lucorum";;"Großfrüchtiges Hornkraut";"D";4;;"●";"R";"●";"●";;;;10
-"vascular plants";"I";"Fischer 2008";"cera pedu";"Cerastium pedunculatum";;;;;4;;;;;;;;;
+"vascular plants";"I";"Fischer 2008";"cera pedu";"Cerastium pedunculatum";"Cerastium pedunculatum";;;;4;;;;;;;;;
 "vascular plants";"N-T?";"Fischer 2008";"cera pumi";"Cerastium pumilum s.str.";"Cerastium pumilum s.str.";;"Niedriges Hornkraut";;;;"N-T";"N-T";"N-T";;;;"W";8
 "vascular plants";"I";"Fischer 2008";"cera semi semi";"Cerastium semidecandrum subsp. semidecandrum";"Cerastium semidecandrum (subsp. semidecandrum)";;"Sand-Hornkraut";"N-T";;;"●";"●";"●";"●";;;;8
 "vascular plants";"I";"Fischer 2008";"cera subm subm";"Ceratophyllum submersum subsp. submersum";"Ceratophyllum submersum (subsp. submersum)";;"Glattes Hornblatt";0;;;1;1;1;1;;;;1
@@ -848,7 +848,7 @@
 "vascular plants";"I";"Fischer 2008";"clem vita";"Clematis vitalba";"Clematis vitalba";;"Gewöhnliche Waldrebe";"●";;;"●";"●";"●";"●";;;;10
 "vascular plants";"N-U";"Fischer 2008";"cleo spin";"Cleome spinosa";"Cleome spinosa";;"Dornen-Spinnenpflanze";;;;"N-U";;"N-U";;;;"W";8
 "vascular plants";"I";"Fischer 2008";"clin acin";"Clinopodium acinos";"Clinopodium acinos";;"Gewöhnlicher Steinquendel";3;;;3;3;3;3;;;;8
-"vascular plants";"I";"Fischer 2008";"clin alpi alpi";"Clinopodium alpinum subsp. alpinum";"Clinopodium alpinum (subsp. alpinum)";;"Alpen-Steinquendel";"●";;;"●";;1;"-r/V";;;;6
+"vascular plants";"I";"Fischer 2008";"clin alpi alpi";"Clinopodium alpinum subsp. alpinum";"Clinopodium alpinum (subsp. alpinum)";"Acinos alpinus";"Alpen-Steinquendel";"●";;;"●";;1;"-r/V";;;;6
 "vascular plants";"I";"Fischer 2008";"clin foli";"Clinopodium foliosum";"Clinopodium foliosum";;"Österreichische Bergminze";"R";3;;"R";1;1;3;;;;17
 "vascular plants";"N-U";"Fischer 2008";"clin gran";"Clinopodium grandiflorum";"Clinopodium grandiflorum";;"Großblütige Bergminze";;;;"N-U";;"N-U";;;;"W";8
 "vascular plants";"I";"Fischer 2008";"clin ment";"Clinopodium menthifolium";"Clinopodium menthifolium";;"Wald-Bergminze";;4;;1;1;0;"?";;;;17
@@ -909,6 +909,7 @@
 "vascular plants";"N-U";"Fischer 2008";"coto wate";"Cotoneaster × watereri";"Cotoneaster × watereri";;"Waterer-Steinmispel";;;;"N-U";;"N-U";;;;"B";9
 "vascular plants";"I";"Fischer 2008";"crat hete";"Crataegus × heterodonta";"Crataegus × heterodonta";;"Verschiedenzähniger Weißdorn";"G";;;"V";"V";"G";;;;;9
 "vascular plants";"I";"Fischer 2008";"crat laev laev";"Crataegus laevigata";"Crataegus laevigata (subsp. laevigata)";;"Zweikern-Weißdorn";"●";;;"●";3;"V";"-r/BV";;;;9
+"vascular plants";"I";"Fischer 2008";"crat laev aggr";"Crataegus laevigata agg.";"Crataegus laevigata agg.";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"crat macr";"Crataegus × macrocarpa";"Crataegus × macrocarpa";;"Großfrüchtiger Weißdorn";"G";;;"V";"V";"G";;;;;9
 "vascular plants";"I";"Fischer 2008";"crat medi";"Crataegus × media";"Crataegus × media";;"Mittlerer Weißdorn";"G";;;"G";"G";"G";;;;;9
 "vascular plants";"I";"Fischer 2008";"crat mono";"Crataegus monogyna";"Crataegus monogyna (subsp. monogyna)";;"Einkern-Weißdorn";"●";;;"●";"●";"●";"●";;;;9
@@ -1069,7 +1070,7 @@
 "vascular plants";"I";"Fischer 2008";"drab boer";"Draba boerhaavii";"Draba boerhaavii*";;"Rundfrüchtiges Hungerblümchen";;;;"●";"●";"●";"●";;;;8
 "vascular plants";"X";"Fischer 2008";"drab flad";"Draba fladnizensis";"Draba fladnizensis";;"Flattnitzer Felsenblümchen";;5;;;;;"KB";;;;
 "vascular plants";"N-E";"Fischer 2008";"drab mura";"Draba muralis";"Draba muralis";;"Mauer-Felsenblümchen";"● (N-E)";;;"● (N-E)";"● (N-E)";"● (N-E)";;;;"W";8
-"vascular plants";"I";"Fischer 2008";"drab pach";"Draba pacheri";;;;;3;;;;;;;;;
+"vascular plants";"I";"Fischer 2008";"drab pach";"Draba pacheri";"Draba pacheri";;;;3;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"drab prae";"Draba praecox";"Draba praecox*";;"Eifrüchtiges Hungerblümchen";;;;"●";"●";"●";"KB";;;;8
 "vascular plants";"I";"Fischer 2008";"drab saut";"Draba sauteri";"Draba sauteri";;"Sauter-Felsenblümchen";"R";;;"R";;;4;;"S";;6
 "vascular plants";"X";"Fischer 2008";"drab sili";"Draba siliquosa";"Draba siliquosa";;"Kärntner Felsenblümchen";;;;;;;;;;;
@@ -1082,6 +1083,7 @@
 "vascular plants";"I";"Fischer 2008";"dros rotu";"Drosera rotundifolia";"Drosera rotundifolia";;"Rundblättriger Sonnentau";3;3;"B";3;2;2;"3r!/BH";"§";;;3
 "vascular plants";"I";"Fischer 2008";"drya octo";"Dryas octopetala";"Dryas octopetala";;"Silberwurz";"●";;;"●";;"I-U";"-r/V";;;;6
 "vascular plants";"I";"Fischer 2008";"drym rupe";"Drymocallis rupestris";"Drymocallis rupestris";;"Gewöhnliches Steinfingerkraut";;3;;0;;0;0;;;;5
+"vascular plants";"I";"Fischer 2008";"dryo affi aggr";"Dryopteris affinis agg.";"Dryopteris affinis agg.";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"dryo borr";"Dryopteris borreri";"Dryopteris borreri";;"Kräftiger Dichtschuppiger Wurmfarn";"●";;;"●";"●";"●";"●";;;;12
 "vascular plants";"I";"Fischer 2008";"dryo camb";"Dryopteris cambrensis";"Dryopteris cambrensis";;"Insubrischer Dichtschuppiger Wurmfarn";"D";;;"●";"R";"●";;;;;15
 "vascular plants";"I";"Fischer 2008";"dryo cart";"Dryopteris carthusiana s.str.";"Dryopteris carthusiana s.str.";;"Kleiner Dornfarn";"●";;;"●";"●";"●";"●";;;;11
@@ -1309,7 +1311,7 @@
 "vascular plants";"I";"Fischer 2008";"fest hall aggr";"Festuca halleri agg.";"Festuca halleri agg.";;;;;;;;;;;;;
 "vascular plants";"N-U";"Fischer 2008";"fest hete alla";"Festuca heteromalla";"Festuca heteromalla";;"Vielblütiger Rot-Schwingel";"N-U";;;"N-U";"N-U";"N-U";;;;"W";8
 "vascular plants";"I";"Fischer 2008";"fest hete ylla";"Festuca heterophylla";"Festuca nigricans";;"Verschiedenblättriger Schwingel";3;3;;3;3;3;"-r/HM";;;;9
-"vascular plants";"I";"Fischer 2008";"fest nigr cans";"Festuca nigricans";;;;;;;;;;;;;;
+"vascular plants";"I";"Fischer 2008";"fest nigr cans";"Festuca nigricans";"Festuca nigricans";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"fest nigr cens";"Festuca nigrescens";"Festuca nigrescens";;"Horst-Rot-Schwingel";"●";;;"●";3;3;"●";;;;4
 "vascular plants";"I";"Fischer 2008";"fest nori";"Festuca norica";"Festuca norica";;"Norischer Schwingel";"●";;;"●";;;;;;;6
 "vascular plants";"I";"Fischer 2008";"fest ovin";"Festuca ovina s.str.";"Festuca ovina s.str.";;"Eigentlicher Schaf-Schwingel";;2;;2;2;;3;;;;5
@@ -1450,7 +1452,7 @@
 "vascular plants";"I";"Fischer 2008";"gent aspe";"Gentianella aspera";"Gentianella aspera";;"Rauer Kranzenzian";"●";;"B";"●";0;1;"4ar!/V";"§";;;5
 "vascular plants";"X";"Fischer 2008";"gent aust";"Gentianella austriaca";"Gentianella austriaca";;"Österreichischer Kranzenzian";;;;;;;;"§";;;
 "vascular plants";"I";"Fischer 2008";"gent bava";"Gentiana bavarica s.str.";"Gentiana bavarica (s.str.)";;"Bayerischer Enzian";"●";;;"●";;;"4a";"§";;;6
-"vascular plants";;"Fischer 2008";"gent bava suba";"Gentiana bavarica var. subacaulis";;;;;;;;;;;;;;
+"vascular plants";;"Fischer 2008";"gent bava suba";"Gentiana bavarica var. subacaulis";"Gentiana bavarica var. subacaulis";;;;;;;;;;;;;
 "vascular plants";"X";"Fischer 2008";"gent brac";"Gentiana brachyphylla";"Gentiana brachyphylla";;"Kurzblättriger Enzian";;;;;;;"KB";"§";;;
 "vascular plants";"I";"Fischer 2008";"gent cili";"Gentianopsis ciliata";"Gentianopsis ciliata";;"Gewöhnlicher Fransenenzian";"●";5;"B";"●";;2;"4ar!/V";"§";;;5
 "vascular plants";"I";"Fischer 2008";"gent clus clus";"Gentiana clusii subsp. clusii";"Gentiana clusii (subsp. clusii)";;"Kalk-Glocken-Enzian";"●";;"B";"●";0;1;"4ar!/V";"§";;;6
@@ -1585,7 +1587,7 @@
 "vascular plants";"I";"Fischer 2008";"hier bauh";"Hieracium bauhini";"Hieracium bauhini";;"Bauhin-Mausohrhabichtskraut";3;3;;3;3;3;"●";;;;5
 "vascular plants";"I";"Fischer 2008";"hier benz";"Hieracium benzianum";"Hieracium benzianum";;"Benz-Habichtskraut";"R";;;"R";;;;;;;2
 "vascular plants";"I";"Fischer 2008";"hier bifi";"Hieracium bifidum";"Hieracium bifidum";;"Gabel-Habichtskraut";"●";;;"●";"R";"●";"●";;;;14
-"vascular plants";"I";"Fischer 2008";"hier bocc";"Hieracium bocconei";;;;;4;;;;;;;;;
+"vascular plants";"I";"Fischer 2008";"hier bocc";"Hieracium bocconei";"Hieracium bocconei";;;;4;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"hier brac";"Hieracium brachiatum";"Hieracium brachiatum*";;"Gabelästiges Mausohrhabichtskraut";"D";4;;3;3;2;;;;;5
 "vascular plants";"I";"Fischer 2008";"hier brev";"Hieracium brevifolium";"Hieracium brevifolium*";;"Kurzblättriges Habichtskraut";;;;"R";"R";;;;;;9
 "vascular plants";"I";"Fischer 2008";"hier bupl";"Hieracium bupleuroides";"Hieracium bupleuroides";;"Hasenohr-Habichtskraut";"●";;;"●";;;"-r/V";;;;6
@@ -3214,7 +3216,7 @@ subsp. croceum";;;;;;;;;;;;;
 "vascular plants";"N-E";"Fischer 2008";"sola vill vill";"Solanum villosum subsp. villosum";"Solanum villosum subsp. villosum";;"Zottiger Gelbroter Nachtschatten";;;;"1 (N-E)";"N-U";"1 (N-E)";"S";;;"W";8
 "vascular plants";"I";"Fischer 2008";"sold alpi";"Soldanella alpina";"Soldanella alpina";;"Alpen-Soldanelle";"●";;;"●";;;"●";;;;6
 "vascular plants";"I";"Fischer 2008";"sold aust";"Soldanella austriaca";"Soldanella austriaca";;"Österreichische Soldanelle";"●";;;"●";;;"●";;"S";;6
-"vascular plants";"I";"Fischer 2008";"sold mini";"Soldanella minima";;;;;4;;;;;;;;;
+"vascular plants";"I";"Fischer 2008";"sold mini";"Soldanella minima";"Soldanella minima";;;;4;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"sold mont";"Soldanella montana s.str.";"Soldanella montana (s.str.)";;"Wald-Soldanelle";"V";;;"V";"V";3;"-r/V";;;;15
 "vascular plants";"I";"Fischer 2008";"sold pusi alpi";"Soldanella pusilla subsp. alpicola";"Soldanella pusilla subsp. alpicola";;"Alpische Zwerg-Soldanelle";"●";;;"●";;;"●";;;;6
 "vascular plants";"N-E";"Fischer 2008";"soli cana";"Solidago canadensis";"Solidago canadensis";;"Kanadische Goldrute";"● (N-E)";;;"● (N-E)";"● (N-E)";"● (N-E)";;;;"M";8
@@ -3368,7 +3370,7 @@ subsp. croceum";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"teuc mont";"Teucrium montanum";"Teucrium montanum";;"Berg-Gamander";"●";;;"●";;1;"-r/V";;;;16
 "vascular plants";"I";"Fischer 2008";"teuc scor dium";"Teucrium scordium s.str.";"Teucrium scordium (s.str.)";;"Knoblauch-Gamander";;;;0;0;0;0;;;;1
 "vascular plants";"I";"Fischer 2008";"teuc scor onia";"Teucrium scorodonia";"Teucrium scorodonia";;"Salbei-Gamander";"●";4;;"●";"●";"●";"●";;;;9
-"vascular plants";"I";"Fischer 2008";"thal alpi";"Thalictrum alpinum";;;;;0;;;;;;;;;
+"vascular plants";"I";"Fischer 2008";"thal alpi";"Thalictrum alpinum";"Thalictrum alpinum";;;;0;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"thal aqui";"Thalictrum aquilegiifolium";"Thalictrum aquilegiifolium";;"Akelei-Wiesenraute";"●";;;"●";"●";"V";"●";;;;10
 "vascular plants";"I";"Fischer 2008";"thal flav";"Thalictrum flavum";"Thalictrum flavum";;"Gelbe Wiesenraute";;;;1;;1;2;;;;2
 "vascular plants";"I";"Fischer 2008";"thal luci";"Thalictrum lucidum";"Thalictrum lucidum";;"Glanz-Wiesenraute";3;3;;"V";3;"V";"-r/H";;;;2
@@ -3645,6 +3647,7 @@ subsp. croceum";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"viol tric tric";"Viola tricolor subsp. tricolor";"Viola tricolor subsp. tricolor*";;"Wiesen-Stiefmütterchen";"●";;;"●";"G";"G";;;;;5
 "vascular plants";"X";"Fischer 2008";"viol ulig";"Viola uliginosa";"Viola uliginosa";;"Moor-Veilchen";;;;;;;;;;;
 "vascular plants";"N-U";"Fischer 2008";"viol witt";"Viola × wittrockiana";"Viola × wittrockiana";;"Garten-Stiefmütterchen";"N-U";;;"N-U";"N-U";"N-U";;;;"W";8
+"vascular plants";"I";"Schrank";"viol bava";"Viola × bavarica";"Viola riviniana × reichenbachiana";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"visc albu";"Viscum album s.str.";"Viscum album s.str.";;"Laubholz-Mistel";"●";;;"●";"●";"●";"●";;;;10
 "vascular plants";"I";"Fischer 2008";"visc laxu abie";"Viscum laxum subsp. abietis";"Viscum laxum subsp. abietis";;"Tannen-Mistel";"●";;;"●";"●";"●";;;;;15
 "vascular plants";"I";"Fischer 2008";"visc laxu laxu";"Viscum laxum subsp. laxum";"Viscum laxum subsp. laxum";;"Föhren-Mistel";"●";;;"●";"R";"R";"?";;;;16
