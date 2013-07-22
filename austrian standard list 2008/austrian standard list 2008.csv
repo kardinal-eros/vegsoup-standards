@@ -186,7 +186,7 @@
 "vascular plants";"N-E";"Fischer 2008";"ambr arte";"Ambrosia artemisiifolia";"Ambrosia artemisiifolia";;"Beifuß-Traubenkraut";"N-T";;;"● (N-E)";"N-T";"● (N-E)";;;;"B";8
 "vascular plants";"N-U";"Fischer 2008";"ambr psil";"Ambrosia psilostachya";"Ambrosia psilostachya";;"Nacktähriges Traubenkraut";;;;"N-U";;"N-U";;;;"W";8
 "vascular plants";"N-U";"Fischer 2008";"ambr trif";"Ambrosia trifida";"Ambrosia trifida";;"Dreilappiges Traubenkraut";;;;"N-U";;"N-U";;;;"W";8
-"vascular plants";;;"amel lama";"Amelanchier lamarkii";"Amelanchier lamarkii";;;;;;;;;;;;;
+"vascular plants";;"F.G.Schroed.";"amel lama";"Amelanchier lamarkii";"Amelanchier lamarkii";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"amel oval";"Amelanchier ovalis";"Amelanchier ovalis (subsp. ovalis)";;"Echte Felsenbirne";"●";;;"●";"N-U";1;"-r/V";;;;17
 "vascular plants";;"Fischer 2008";"amel spec ies";"Amelanchier species";"Amelanchier sp.";;;;;;;;;;;;;
 "vascular plants";"N-U";"Fischer 2008";"ammi maju";"Ammi majus";"Ammi majus";;"Große Knorpelmöhre";"N-U";;;"N-U";;"N-U";;;;"W";7
@@ -786,7 +786,7 @@
 "vascular plants";"N-U";"Fischer 2008";"cham nobi";"Chamaemelum nobile";"Chamaemelum nobile";;"Römerkamille";;;;"N-U";;"N-U";;;;"W";8
 "vascular plants";"N-U";"Fischer 2008";"cham pisi";"Chamaecyparis pisifera";"Chamaecyparis pisifera";;"Sawara-Scheinzypresse";;;;"N-U";;"N-U";;;;"W";8
 "vascular plants";"I";"Fischer 2008";"cham rati";"Chamaecytisus ratisbonensis";"Chamaecytisus ratisbonensis";;"Regensburger Zwerggeißklee";1;;;1;1;1;2;"§";;;5
-"vascular plants";"I";;"char spec ies";"Chara species";"Chara sp.";;;;;;;;;;;;;
+"vascular plants";"I";"L.";"char spec ies";"Chara species";"Chara sp.";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"cham supi";"Chamaecytisus supinus";"Chamaecytisus supinus";;"Kopf-Zwerggeißklee";2;1;"B";2;2;2;3;"§";;;9
 "vascular plants";"I";"Fischer 2008";"chel maju";"Chelidonium majus";"Chelidonium majus";;"Schöllkraut";"●";;;"●";"●";"●";"●";;;;9
 "vascular plants";"I";"Fischer 2008";"chen albu slat";"Chenopodium album s.lat.";"Chenopodium album sl";;;;;;;;;;;;;
@@ -1642,7 +1642,7 @@
 "vascular plants";"I";"Fischer 2008";"hier oxyo";"Hieracium oxyodon";"Hieracium oxyodon";;"Spitzzähniges Habichtskraut";"●";;;"●";;;;;;;6
 "vascular plants";"I";"Fischer 2008";"hier pall";"Hieracium pallescens";"Hieracium pallescens";;"Bleichgrünes Habichtskraut";"●";;;"●";;;;;;;6
 "vascular plants";"I";"Fischer 2008";"hier pant";"Hieracium panteblaston";"Hieracium panteblaston*";;"Vieltriebiges Mausohrhabichtskraut";;;;1;1;;;;;;5
-"vascular plants";;;"hier pilo aggr";"Hieracium pilosella agg.";;;;;;;;;;;;;;
+"vascular plants";;"L.";"hier pilo aggr";"Hieracium pilosella agg.";;;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"hier pilo ella";"Hieracium pilosella";"Hieracium pilosella";;"Kleines Mausohrhabichtskraut";"●";;;"●";"●";"V";"●";;;;5
 "vascular plants";"I";"Fischer 2008";"hier pilo ides";"Hieracium piloselloides s.str.";"Hieracium piloselloides s.str.*";;"Florentiner Mausohrhabichtskraut ieS";"D";;;"D";;"D";;;;;1
 "vascular plants";"I";"Fischer 2008";"hier pilo inum";"Hieracium pilosellinum";"Hieracium pilosellinum*";;"Mausohrähnliches Mausohrhabichtskraut";;;;1;1;;;;;;5
@@ -1915,7 +1915,7 @@
 "vascular plants";"N-U";"Fischer 2008";"leuc maxi hybr";"Leucanthemum maximum-Hybriden";"Leucanthemum maximum-Hybriden";;"Garten-Margerite";;;;"N-U";;"N-U";;;;"W";8
 "vascular plants";"I";"Fischer 2008";"leuc vern";"Leucojum vernum";"Leucojum vernum";;"Frühlings-Knotenblume";"V";;"D";"V";3;"V";3;"(§)";;;10
 "vascular plants";"I";"Fischer 2008";"leuc vulg";"Leucanthemum vulgare s.str.";"Leucanthemum vulgare s.str.";;"Kleine Wiesen-Margerite";"V";;;"V";3;"V";"●";;;;5
-"vascular plants";;;"leuc vulg aggr";"Leucanthemum vulgare agg.";;;;;;;;;;;;;;
+"vascular plants";;"Fischer 2008";"leuc vulg aggr";"Leucanthemum vulgare agg.";;;;;;;;;;;;;;
 "vascular plants";"N-U";"Fischer 2008";"levi offi";"Levisticum officinale";"Levisticum officinale";;"Liebstöckel";;;;"N-U";;"N-U";;;;"W";8
 "vascular plants";"N-U";"Fischer 2008";"leym aren";"Leymus arenarius";"Leymus arenarius";;"Strandroggen";;;;"N-U";"N-U";;;;;"W";8
 "vascular plants";"N-U";"Fischer 2008";"ligu oval";"Ligustrum ovalifolium";"Ligustrum ovalifolium";;"Breitblättriger Liguster";;;;"N-U";"N-U";;;;;"W";8
@@ -2441,7 +2441,7 @@ subsp. croceum";;;;;;;;;;;;;
 "vascular plants";"X";"Fischer 2008";"phyt spic coer";"Phyteuma spicatum subsp. coeruleum";"Phyteuma spicatum subsp. coeruleum*";;"Blaue Ähren-Teufelskralle";;0;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"phyt spic spic";"Phyteuma spicatum subsp. spicatum";"Phyteuma spicatum subsp. spicatum";;"Gewöhnliche Ähren-Teufelskralle";"●";;;"●";"●";"●";"●";;;;14
 "vascular plants";"I";"Fischer 2008";"pice abie";"Picea abies";"Picea abies (subsp. abies)";;"Gewöhnliche Fichte";"●";;;"●";"●";"●";"●";;;;15
-"vascular plants";;;"pice pung";"Picea pungens";"Picea pungens";;"Blau-fichte";;;;;;;;;;;
+"vascular plants";;"Engelm.";"pice pung";"Picea pungens";"Picea pungens";;"Blau-fichte";;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"picr hier hier";"Picris hieracioides subsp. hieracioides";"Picris hieracioides subsp. hieracioides";;"Gewöhnliches Habichtskraut-Bitterkraut";"●";;;"●";"●";"●";"●";;;;8
 "vascular plants";;"Fischer 2008";"picr hier slat";"Picris hieracioides s.lat.";"Picris hieracioides sl";;;;;;;;;;;;;
 "vascular plants";"N-U";"Fischer 2008";"picr hier spin";"Picris hieracioides subsp. spinulosa";"Picris hieracioides subsp. spinulosa*";;"Stachliges Habichtskraut-Bitterkraut";;;;"N-U";;"N-U";;;;"W";8
@@ -2976,7 +2976,7 @@ subsp. croceum";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"sali rube";"Salix × rubens";"Salix × rubens";;"Hohe Weide";"●";;"D";"●";"●";"●";"●";;;;10
 "vascular plants";"I";"Fischer 2008";"sali serp";"Salix serpyllifolia";"Salix serpyllifolia";;"Quendel-Weide";"●";;"D";"●";;;"●";;;;6
 "vascular plants";"X";"Fischer 2008";"sali sile";"Salix silesiaca";"Salix silesiaca";;"Schlesische Weide";;;;;;;;;;;
-"vascular plants";;;"sali spec ies";"Salix species";"Salix sp.";;;;;;;;;;;;;
+"vascular plants";;"L.";"sali spec ies";"Salix species";"Salix sp.";;;;;;;;;;;;;
 "vascular plants";"I";"Fischer 2008";"sali tria amyg";"Salix triandra subsp. amygdalina";"Salix triandra subsp. amygdalina";;"Bereifte Mandel-Weide";"D";3;"D";"D";"D";"D";;;;;10
 "vascular plants";"I";"Fischer 2008";"sali tria slat";"Salix triandra s.lat.";"Salix triandra sl";;"Mandel-Weide";"●";3;"D";"●";"●";"V";"-r/V";;;;10
 "vascular plants";"I";"Fischer 2008";"sali tria tria";"Salix triandra subsp. triandra";"Salix triandra subsp. triandra";;"Grüne Mandel-Weide";"D";3;"D";"D";"D";"D";;;;;10
@@ -4092,8 +4092,8 @@ subsp. croceum";;;;;;;;;;;;;
 "bryophytes";"I";;"loph spec ies";"Lophozia species";;;;;;;;;;;;;;
 "bryophytes";"I";"(Nees ex Huebener) Grolle";"loph sude";"Lophozia sudetica";;;;;;;;;;;;;;
 "bryophytes";"I";"(Nees) Steph.";"loph wenz";"Lophozia wenzelii";;;;;;;;;;;;;;
-"bryophytes";"I";;"marc poly";"Marchantia polymorpha s.lat.";;;;;;;;;;;;;;
-"bryophytes";"I";"L.";"marc poly poly";"Marchantia polymorpha L. Subsp. polymorpha";;;;;;;;;;;;;;
+"bryophytes";"I";;"marc poly slat";"Marchantia polymorpha s.lat.";;;;;;;;;;;;;;
+"bryophytes";"I";"L.";"marc poly poly";"Marchantia polymorpha L. subsp. polymorpha";;;;;;;;;;;;;;
 "bryophytes";"I";"(F.Weber & D.Mohr) Dumort.";"mars func";"Marsupella funckii";;;;;;;;;;;;;;
 "bryophytes";"I";"Hedw.";"mees ulig";"Meesia uliginosa";;;;;;;;;;;;;;
 "bryophytes";"I";;"metz furc";"Metzgeria furcata";;;;;;;;;;;;;;
@@ -4161,6 +4161,7 @@ subsp. croceum";;;;;;;;;;;;;
 "bryophytes";"I";"(De Not.) De Not.";"pter fili maju";"Pterigynandrum filiforme var. majus";;;;;;;;;;;;;;
 "bryophytes";"I";;"pter fili slat";"Pterigynandrum filiforme s.lat";;;;;;;;;;;;;;
 "bryophytes";"I";"(L.) Hampe";"ptil cili";"Ptilidium ciliare";;;;;;;;;;;;;;
+"bryophytes";"I";"(L. ex Hedw.) De Not.";"ptil cris";"Ptilium crista-castrensis";;;;;;;;;;;;;;
 "bryophytes";"I";;"ptil pulc";"Ptilidium pulcherrimum";;;;;;;;;;;;;;
 "bryophytes";;"(L. ex Hedw.) De Not.";"ptil cris";"Ptilium crista-castrensis";;;;;;;;;;;;;;
 "bryophytes";"I";"(Schleich. ex F.Weber & D.Mohr) Schimp.";"ptyc plic";"Ptychodium plicatum";;;;;;;;;;;;;;
@@ -4177,7 +4178,9 @@ subsp. croceum";;;;;;;;;;;;;
 "bryophytes";"I";"(Ehrh. ex Hedw.) Kindb.";"rhyt rugo";"Rhytidium rugosum";;;;;;;;;;;;;;
 "bryophytes";;;"rhyt spec ies";"Rhythidiadelphus sp.";;;;;;;;;;;;;;
 "bryophytes";"I";;"rhyt squa";"Rhythidiadelphus squarrosus";;;;;;;;;;;;;;
+"bryophytes";"I";;"rhyt spec ies";"Rhythidiadelphus species";;;;;;;;;;;;;;
 "bryophytes";"I";"(L. ex Hedw.) Warnst.";"rhyt triq";"Rhytidiadelphus triquetrus";;;;;;;;;;;;;;
+"bryophytes";;"(Hedw.) Warnst.";"rhyt lore";"Rhytidiadelphus loreus";;;;;;;;;;;;;;
 "bryophytes";"I";"(Hedw.) Loeske";"sani unci";"Sanionia uncinata";;;;;;;;;;;;;;
 "bryophytes";"I";"(Schwägr.) Dumort.";"scap aequ";"Scapania aequiloba";;;;;;;;;;;;;;
 "bryophytes";"I";"Bernet & M.Bernet";"scap aspe";"Scapania aspera";;;;;;;;;;;;;;
