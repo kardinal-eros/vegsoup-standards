@@ -11,6 +11,7 @@ tv <- read.csv2("~/Documents/vegsoup-standards/turboveg/c europe.csv",
 	
 x0 <- vs$taxon[1000:1020]
 x <- prepareString(x0)
+
 y <- tv$ABBREVIAT
 
 l <- pbsapply(x, function (x) grepTaxon(x, y))
@@ -22,7 +23,7 @@ m <- matrix("", nrow = length(x), ncol = max(ll) + 1)
 m[, 1] <- x0
 #	fill matrix
 for (i in 1:length(l)) {
-	if (length(l[[i]]) > 0) {
+	if (ll[i] > 0) {
 		m[i, (1:length(l[[i]])) + 1] <- y[l[[i]]]
 	}
 }
