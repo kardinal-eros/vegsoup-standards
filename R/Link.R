@@ -1,11 +1,12 @@
 library(stringr)
+source("~/Documents/vegsoup-standards/R/DropInfraspecific.R")
 
 vs <- read.csv2("~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv",
 	stringsAsFactors = FALSE)
 tv <- read.csv2("~/Documents/vegsoup-standards/turboveg/c europe.csv",
 	stringsAsFactors = FALSE)
 	
-x0 <- x1 <- vs$taxon[1000:1200]
+x0 <- x1 <- vs$taxon[1000:1500]
 x2 <- tv$ABBREVIAT
 
 x1 <- sub("cf. ", "", x1, fixed = TRUE)
@@ -27,6 +28,8 @@ x1 <- sub("s.lat ", "", x1, fixed = TRUE)
 x1 <- sub("s.str. ", "", x1, fixed = TRUE)
 x1 <- sub("s.str.", "", x1, fixed = TRUE)
 
+x1 <- sub(" × ", " x ", x1, fixed = TRUE)
+
 x1 <- str_trim(x1, side = "right")
 
 
@@ -42,7 +45,13 @@ for (i in 1:lx1) {
 	} else {
 		ii <- agrep(x1[i], x2, max.distance = 0.05)
 		if (length(ii) == 0) {
-			ll[[i]] <- agrep(x1[i], x2, max.distance = 0.3)	
+			#	drop intraspecific taxon ssp.
+			ii <- agrep(dropInfraspecific(x1[i]), x2, max.distance = 0.1)
+			if (length(ii) == 0) {	
+				ll[[i]] <- agrep(x1[i], x2, max.distance = 0.3)	
+			} else {
+				ll[[i]] <- ii					
+			}
 		} else {
 			ll[[i]] <- ii	
 		}
