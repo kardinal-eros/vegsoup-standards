@@ -19,3 +19,15 @@ prepareString <- function (x, y) {
 		return(x)
 	}
 }
+
+slat <- function (x) {
+	xx <- x
+	y <- c(
+		"s.lat. ", "s.lat.", "s.lat",
+		"s.l. ", "s.l.", "sl.", "sl"
+		)
+	x <- sapply(paste0(" ", y), function (x) grep(x, xx, fixed = TRUE))	
+	r <- any(sapply(x, length)>0)
+	return(r)		
+	
+}
