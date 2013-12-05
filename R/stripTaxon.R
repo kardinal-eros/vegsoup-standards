@@ -1,4 +1,4 @@
-prepareString <- function (x, y) {
+stripTaxon <- function (x, y) {
 	if	(missing(y)) {
 	y <- c(
 		"cf. ", "cf.", # better not "cf"
@@ -16,18 +16,7 @@ prepareString <- function (x, y) {
 			x <- sub(paste0(" ", i), "", x, fixed = TRUE)		
 		}
 		x <- str_trim(x, side = "right")
+		x <- subHybrid(x)
 		return(x)
 	}
-}
-
-slat <- function (x) {
-	xx <- x
-	y <- c(
-		"s.lat. ", "s.lat.", "s.lat",
-		"s.l. ", "s.l.", "sl.", "sl"
-		)
-	x <- sapply(paste0(" ", y), function (x) grep(x, xx, fixed = TRUE))	
-	r <- any(sapply(x, length)>0)
-	return(r)		
-	
 }
