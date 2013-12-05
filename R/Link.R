@@ -27,10 +27,15 @@ source("~/Documents/vegsoup-standards/R/castList.R")
 
 vs <- read.csv2("~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv",
 	stringsAsFactors = FALSE)
+	
+library(vegsoup)
+load("~/Documents/vegsoup-data/aineck dta/an.rda")
+
+vs <- Taxonomy(an)
 tv <- read.csv2("~/Documents/vegsoup-standards/turboveg/c europe.csv",
 	stringsAsFactors = FALSE)
 	
-x0 <- vs$taxon[1:500]
+x0 <- vs$taxon#[1:500]
 x <- x0
 
 y <- tv$ABBREVIAT

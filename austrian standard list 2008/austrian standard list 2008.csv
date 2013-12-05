@@ -170,7 +170,7 @@ vascular plants;I;Fischer 2008;alys alys;Alyssum alyssoides;Alyssum alyssoides;;
 vascular plants;X;Fischer 2008;alys dese;Alyssum desertorum;Alyssum desertorum;;Steppen-Steinkraut;;;;;;;;;;;
 vascular plants;N-U;Fischer 2008;alys mont;Alyssum montanum;Alyssum montanum;;Berg-Steinkraut;;;;N-U;;N-U;S;;;W;5
 vascular plants;N-T;Fischer 2008;alys mura;Alyssum murale;Alyssum murale;;Mauer-Steinkraut;;;;N-T;N-T;;;;;W;17
-vascular plants;;Fischer 2008;alys repe tran;Alysum repens ssp. transsilvanicum;Alysum repens ssp. transsilvanicum;;;;;;;;;;;;;
+vascular plants;;Fischer 2008;alys repe tran;Alyssum repens ssp. transsilvanicum;Alyssum repens ssp. transsilvanicum;;;;;;;;;;;;;
 vascular plants;N-E;Fischer 2008;amar albu;Amaranthus albus;Amaranthus albus;;Weißer Amarant;;;;● (N-E);;● (N-E);;;;W;8
 vascular plants;I?;Fischer 2008;amar blit blit;Amaranthus blitum ssp. blitum;Amaranthus blitum subsp. blitum;;Eigentlicher Stutzblatt-Amarant;N-U;;;●;●;●;;;;;7
 vascular plants;N-U?;Fischer 2008;amar blit emar;Amaranthus blitum ssp. emarginatus;Amaranthus blitum subsp. emarginatus;;Ausgerandeter Stutzblatt-Amarant;;;;N-U;N-U;;;;;W;8
@@ -186,7 +186,7 @@ vascular plants;N-U;Fischer 2008;amar viri;Amaranthus viridis;Amaranthus viridis
 vascular plants;N-E;Fischer 2008;ambr arte;Ambrosia artemisiifolia;Ambrosia artemisiifolia;;Beifuß-Traubenkraut;N-T;;;● (N-E);N-T;● (N-E);;;;B;8
 vascular plants;N-U;Fischer 2008;ambr psil;Ambrosia psilostachya;Ambrosia psilostachya;;Nacktähriges Traubenkraut;;;;N-U;;N-U;;;;W;8
 vascular plants;N-U;Fischer 2008;ambr trif;Ambrosia trifida;Ambrosia trifida;;Dreilappiges Traubenkraut;;;;N-U;;N-U;;;;W;8
-vascular plants;;F.G.Schroed.;amel lama;Amelanchier lamarkii;Amelanchier lamarkii;;;;;;;;;;;;;
+vascular plants;;F.G.Schroed.;amel lama;Amelanchier lamarckii;Amelanchier lamarckii;;;;;;;;;;;;;
 vascular plants;I;Fischer 2008;amel oval;Amelanchier ovalis;Amelanchier ovalis (subsp. ovalis);;Echte Felsenbirne;●;;;●;N-U;1;-r/V;;;;17
 vascular plants;;Fischer 2008;amel spec ies;Amelanchier sp.;Amelanchier sp.;;;;;;;;;;;;;
 vascular plants;N-U;Fischer 2008;ammi maju;Ammi majus;Ammi majus;;Große Knorpelmöhre;N-U;;;N-U;;N-U;;;;W;7
@@ -259,7 +259,7 @@ vascular plants;N-U;Fischer 2008;apha aust;Aphanes australis;Aphanes australis;;
 vascular plants;N-U;Fischer 2008;apiu grav rapa;Apium graveolens ssp. rapaceum;Apium graveolens subsp. rapaceum;;Küchen-Sellerie;;;;N-U;;N-U;;;;W;8
 vascular plants;I;Fischer 2008;apos foet;Aposeris foetida;Aposeris foetida;;Stinklattich;●;5;;●;;●;●;;;;14
 vascular plants;I;Fischer 2008;aqui atra;Aquilegia atrata;Aquilegia atrata;;Schwarzviolette Akelei;●;;D;●;0;3;4ar!/V;§;;;9
-vascular plants;I;Fischer 2008;aqui eins;Aquilegia einseliana;Aquilegia einseliana;;;;;D;;;;;;;;
+vascular plants;I;Fischer 2008;aqui eins;Aquilegia einseleana;Aquilegia einseleana;;;;;D;;;;;;;;
 vascular plants;I;Fischer 2008;aqui nigr;Aquilegia nigricans;Aquilegia nigricans*;;Dunkle Akelei;R;;;R;;N-U;;§;;;9
 vascular plants;I;Fischer 2008;aqui vulg;Aquilegia vulgaris;Aquilegia vulgaris s.str.*;;Gewöhnliche Akelei;G;;D;G;G;G;3;§;;;8
 vascular plants;I;Fischer 2008;arab alpi alpi;Arabis alpina ssp. alpina;Arabis alpina subsp. alpina;;Alpen-Gänsekresse ieS;●;;;●;I-U;I-U;●;;;;6
@@ -271,7 +271,7 @@ vascular plants;I;Fischer 2008;arab caer;Arabis caerulea;Arabis caerulea;;Blaue 
 vascular plants;I;Fischer 2008;arab cili;Arabis ciliata;Arabis ciliata;;Schirm-Gänsekresse;●;;;●;;I-U;●;;;;6
 vascular plants;I;Fischer 2008;arab hall;Arabidopsis halleri;Arabidopsis halleri;;Kriech-Schaumkresse;●;;;●;3;D;-r/BV;;;;2
 vascular plants;I;Fischer 2008;arab hirs;Arabis hirsuta s.str.;Arabis hirsuta s.str.;;Bauern-Tabak;V;;;V;3;V;●;;;;5
-vascular plants;;Fischer 2008;arab hirs aggr;Arabis hirstua agg.;Arabis hirstua agg.;;;;;;;;;;;;;
+vascular plants;;Fischer 2008;arab hirs aggr;Arabis hirsuta agg.;Arabis hirsuta agg.;;;;;;;;;;;;;
 vascular plants;I;Fischer 2008;arab nemo;Arabis nemorensis;Arabis nemorensis;;Auen-Gänsekresse;;;;1;1;1;;;;;5
 vascular plants;F;Fischer 2008;arab petr;Arabidopsis petraea;Arabidopsis petraea;;Felsen-Schaumkresse;;;;;;;0;;;;
 vascular plants;I;Fischer 2008;arab sagi;Arabis sagittata;Arabis sagittata;;Pfeil-Gänsekresse;;3;;2;2;1;3;;;;5
