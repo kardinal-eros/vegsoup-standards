@@ -1,5 +1,5 @@
 dropInfraspecific <- function (x, y) {
-	#	x = "Luzula spicata ssp. conglomerata"
+	#	x = "Gentiana bavarica var. subacaulis"
 	if (missing(y)) {
 		y <- c(
 			"var.", "ssp."
@@ -7,8 +7,13 @@ dropInfraspecific <- function (x, y) {
 	}
 	x <- strsplit(x, " ", fixed = TRUE)[[1]]
 	
-	i <- sapply(y, function (z) grep(z, x))
-	ii <- sapply(i, length) > 0
+	i <- sapply(y, function (z) grep(z, x, fixed = TRUE))
+	if (any(sapply(i, length) > 1)) {
+		message("abigous matches for", y, "in", paste(x, collapse = ""))
+	}
+	else {
+		ii <- sapply(i, length) > 0		
+	}
 	
 	if (any(ii)) {
 		if (sum(ii) > 1) {

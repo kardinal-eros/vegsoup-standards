@@ -29,7 +29,7 @@ grepTaxon <- function (x, y, clean = TRUE, exact = TRUE) {
 				t3 <- agrep(xx, y, max.distance = 0.1, ignore.case = TRUE)
 				if (length(t3) == 0) {
 					#	relax distance to return at least something similar	
-					r <- agrep(x, y, max.distance = 0.5, ignore.case = TRUE)	
+					r <- agrep(x, y, max.distance = 0.3, ignore.case = TRUE)	
 				} else {
 					r <- t3					
 				}	

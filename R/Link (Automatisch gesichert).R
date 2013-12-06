@@ -36,13 +36,12 @@ load("~/Documents/vegsoup-data/windsfeld dta/wf.rda")
 vs <- Taxonomy(wf)
 tv <- read.csv2("~/Documents/vegsoup-standards/turboveg/c europe.csv",
 	stringsAsFactors = FALSE)
+y <- tv$ABBREVIAT
 	
 x <- vs$taxon#[1:10]
+grep("Carex ornithopoda s. lat.", x)
 
-
-y <- tv$ABBREVIAT
-
-grep("Carex ornithopoda s. lat.", x0)
+x <- x[100:106]
 require(pbapply)
 
 #require(multicore)
