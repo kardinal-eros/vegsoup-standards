@@ -618,7 +618,6 @@ vascular plants;Cyperaceae;care cris;Carex cristatella;sensu Fischer et al. 2008
 vascular plants;Cyperaceae;care curv slat;Carex curvula s.lat.;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Cyperaceae;care curv curv;Carex curvula ssp. curvula;sensu Fischer et al. 2008;;(Silikat-)Krumm-Segge;;5;;;;;4;;;
 vascular plants;Cyperaceae;care curv rose;Carex curvula ssp. rosea;sensu Fischer et al. 2008;;;;4;;;;;;;;
-vascular plants;Cyperaceae;care curv slat;Carex curvata s.lat.;sensu Fischer et al. 2008;;Bogen-Segge;;;;1;1;1;2;;;
 vascular plants;Cyperaceae;care dava;Carex davalliana;sensu Fischer et al. 2008;;Davall-Segge;V;;;V;1;1;-r/BV;§;;
 vascular plants;Cyperaceae;care dian;Carex diandra;sensu Fischer et al. 2008;;Draht-Segge;2;2;;2;0;2;2;;;
 vascular plants;Cyperaceae;care digi;Carex digitata;sensu Fischer et al. 2008;;Finger-Segge;;;;;;;;;;
@@ -783,7 +782,9 @@ vascular plants;Apiaceae;chae temu;Chaerophyllum temulum;sensu Fischer et al. 20
 vascular plants;Apiaceae;chae vill;Chaerophyllum villarsii;sensu Fischer et al. 2008;;Alpen-Kälberkropf;;;;;;;;;;
 vascular plants;Orchidaceae;cham alpi;Chamorchis alpina;sensu Fischer et al. 2008;;Zwergständel;;;B;;;;;§;;
 vascular plants;Leguminosae;cham aust;Chamaecytisus austriacus;sensu Fischer et al. 2008;;Österreichischer Zwerggeißklee;;;;0;0;0;;§;;
-vascular plants;Leguminosae;cham hirs;Chamaecytisus hirsutus;sensu Fischer et al. 2008;;Rauhaariger Zwerggeißklee;;;;;;;;§;;
+vascular plants;Leguminosae;cham hirs slat.;Chamaecytisus hirsutus s.lat.;sensu Fischer et al. 2008;;Rauhaariger Zwerggeißklee;;;;;;;;§;;
+vascular plants;Leguminosae;cham hirs hirs;Chamaecytisus hirsutus ssp. hirsutus;sensu Fischer et al. 2008;;;;;;;;;;;;
+vascular plants;Leguminosae;cham hirs cili;Chamaecytisus hirsutus ssp. ciliatus;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Cupressaceae;cham laws;Chamaecyparis lawsoniana;sensu Fischer et al. 2008;;Lawson-Scheinzypresse;N-U;;;N-U;;;;;;W
 vascular plants;Compositae;cham nobi;Chamaemelum nobile;sensu Fischer et al. 2008;;Römerkamille;;;;N-U;;N-U;;;;W
 vascular plants;Cupressaceae;cham pisi;Chamaecyparis pisifera;sensu Fischer et al. 2008;;Sawara-Scheinzypresse;;;;N-U;;N-U;;;;W
@@ -950,6 +951,7 @@ vascular plants;Rubiaceae;cruc laev;Cruciata laevipes;sensu Fischer et al. 2008;
 vascular plants;Rubiaceae;cruc pede;Cruciata pedemontana;sensu Fischer et al. 2008;;Piemonteser Kreuzlabkraut;;;;;;;;;;
 vascular plants;Poaceae;cryp acul;Crypsis aculeata;sensu Fischer et al. 2008;;Dorngras;;;;;;;;;;
 vascular plants;Poaceae;cryp alop;Crypsis alopecuroides;sensu Fischer et al. 2008;;Fuchsschwanz-Sumpfgras;;;;;;;;;;
+vascular plants;Adiantaceae;cryp cris;Cryptogramma crispa;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Cucurbitaceae;cucu melo;Cucumis melo;sensu Fischer et al. 2008;;Zuckermelone;;;;N-U;;N-U;;;;W
 vascular plants;Cucurbitaceae;cucu pepo;Cucurbita pepo;sensu Fischer et al. 2008;;Feld-Kürbis;N-U;;;N-U;N-U;N-U;;;;W
 vascular plants;Cucurbitaceae;cucu sati;Cucumis sativus;sensu Fischer et al. 2008;;Gurke;;;;N-U;N-U;;;;;W
@@ -1913,6 +1915,9 @@ vascular plants;Caryophyllaceae;lepy holo;Lepyrodiclis holosteoides;sensu Fische
 vascular plants;Amaryllidaceae;leuc aest;Leucojum aestivum;sensu Fischer et al. 2008;;Sommer-Knotenblume;;;;0 (N-E);0 (N-E);;;;;W
 vascular plants;Compositae;leuc alpi;Leucanthemopsis alpina;sensu Fischer et al. 2008;;Alpenmargerite;;;;;;;?;;;
 vascular plants;Compositae;leuc atra;Leucanthemum atratum s.str.;sensu Fischer et al. 2008;;Schwarzrandige Margerite ieS;;;;;;;;;E;
+vascular plants;Compositae;leuc adus slat;Leucanthemum adustum s.lat.;sensu Fischer et al. 2008;;;;;;;;;;;;
+vascular plants;Compositae;leuc adus adus;Leucanthemum adustum ssp. adustum;sensu Fischer et al. 2008;;;;;;;;;;;;
+vascular plants;Compositae;leuc adus marg;Leucanthemum adustum ssp. margaritae;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Compositae;leuc gaud;Leucanthemum gaudinii;sensu Fischer et al. 2008;;Gebirgs-Margerite;;4;;;;;?;;;
 vascular plants;Compositae;leuc hall;Leucanthemum halleri;sensu Fischer et al. 2008;;Haller-Margerite;D;;;D;;;;;;
 vascular plants;Compositae;leuc ircu;Leucanthemum ircutianum;sensu Fischer et al. 2008;;Große Wiesen-Margerite;;;;;;;;;;

@@ -1,85 +1,85 @@
 syntaxon;tv.code
-Polygono arenastri-Poetea annuae;01
-Polygono arenastri-Poetalia annuae;011
-Matricario matricarioidis-Polygonion;0111
-Saginion procumbentis;0112
-Bidentetea tripartiti;02
-Bidentetalia tripartiti;021
-Bidention tripartiti;0211
-Chenopodion glauci;0212
-Stellarietea mediae;03
-Centaureetalia cyani;031
-Caucalidion lappulae;0311
-Veronico-Euphorbion;0312
-Chenopodietalia albi;032
-Arnoseridion minimae;0321
-Scleranthion annui;0322
-Spergulo-Oxalidion;0323
-Panico-Setarion;0324
-Eragrostietalia;033
-Salsolion ruthenicae;0331
-Euphorbion prostratae;0332
-Matricario chamomillae-Chenopodion;0333
-Sisymbrietalia;034
-Sisymbrion officinalis;0341
-Atriplicion nitentis;0342
-Malvion neglectae;0343
-Artemisietea vulgaris;04
-Onopordetalia acanthii;041
-Onopordion acanthii;0411
-Erysimo wittmannii-Hackelion;0412
-Dauco-Melilotion;0413
-Arction lappae;0414
-Agropyretalia repentis;042
-Convolvulo-Agropyrion repentis;0421
-Agropyro-Kochion;0422
-Galio-Urticetea;05
-Lamio albi-Chenopodietalia;051
-Galio-Alliarion;0511
-Impatienti noli-tangere-Stachyion;0512
-Aegopodion podagrariae;0513
-Convolvuletalia sepium;052
-Senecionion fluviatilis;0521
-Petasition officinalis;0522
-Epilobietea angustifolii;06
-Atropetalia;061
-Atropion;0611
-Carici piluliferae-Epilobion;0612
-Trifolio-Geranietea sanguinei;07
-Origanetalia vulgaris;071
-Geranion sanguinei;0711
-Trifolion medii;0712
-Melampyro-Holcetalia;072
-Melampyrion pratensis;0721
-Molinio-Arrhenatheretea;08
-Molinietalia;081
-Molinion;0811
-Calthion (excl. Filipendulion);0812
-Cnidion;0813
-Deschampsion;0814
-Veronico longifoliae-Lysimachion;0815
-Filipendulion;0819
-Arrhenatheretalia;082
-Arrhenatherion;0821
-Phyteumo-Trisetion;0822
-Cynosurion;0823
-Plantagini-Prunelletalia;083
-Plantagini-Prunellion;0831
-Poo alpinae-Trisetetalia;084
-Polygono-Trisetion;0841
-Poion alpinae;0842
-Alchemillo-Poion supinae;0843
-Potentillo-Polygonetalia;085
-Potentillion anserinae;0851
-Calluno-Ulicetea;09
-Vaccinio-Genistetalia;091
-Genistion pilosae;0911
-Vaccinion vitis-idaeae;0912
-Euphorbio-Callunion (excl. Koel-Phl);0913
-Nardetalia;092
-Violion caninae;0921
-Nardo-Juncion squarrosi;0922
-Nardo-Agrostion tenuis;0923
+Polygono arenastri-Poetea annuae;1
+Polygono arenastri-Poetalia annuae;11
+Matricario matricarioidis-Polygonion;111
+Saginion procumbentis;112
+Bidentetea tripartiti;2
+Bidentetalia tripartiti;21
+Bidention tripartiti;211
+Chenopodion glauci;212
+Stellarietea mediae;3
+Centaureetalia cyani;31
+Caucalidion lappulae;311
+Veronico-Euphorbion;312
+Chenopodietalia albi;32
+Arnoseridion minimae;321
+Scleranthion annui;322
+Spergulo-Oxalidion;323
+Panico-Setarion;324
+Eragrostietalia;33
+Salsolion ruthenicae;331
+Euphorbion prostratae;332
+Matricario chamomillae-Chenopodion;333
+Sisymbrietalia;34
+Sisymbrion officinalis;341
+Atriplicion nitentis;342
+Malvion neglectae;343
+Artemisietea vulgaris;4
+Onopordetalia acanthii;41
+Onopordion acanthii;411
+Erysimo wittmannii-Hackelion;412
+Dauco-Melilotion;413
+Arction lappae;414
+Agropyretalia repentis;42
+Convolvulo-Agropyrion repentis;421
+Agropyro-Kochion;422
+Galio-Urticetea;5
+Lamio albi-Chenopodietalia;51
+Galio-Alliarion;511
+Impatienti noli-tangere-Stachyion;512
+Aegopodion podagrariae;513
+Convolvuletalia sepium;52
+Senecionion fluviatilis;521
+Petasition officinalis;522
+Epilobietea angustifolii;6
+Atropetalia;61
+Atropion;611
+Carici piluliferae-Epilobion;612
+Trifolio-Geranietea sanguinei;7
+Origanetalia vulgaris;71
+Geranion sanguinei;711
+Trifolion medii;712
+Melampyro-Holcetalia;72
+Melampyrion pratensis;721
+Molinio-Arrhenatheretea;8
+Molinietalia;81
+Molinion;811
+Calthion (excl. Filipendulion);812
+Cnidion;813
+Deschampsion;814
+Veronico longifoliae-Lysimachion;815
+Filipendulion;819
+Arrhenatheretalia;82
+Arrhenatherion;821
+Phyteumo-Trisetion;822
+Cynosurion;823
+Plantagini-Prunelletalia;83
+Plantagini-Prunellion;831
+Poo alpinae-Trisetetalia;84
+Polygono-Trisetion;841
+Poion alpinae;842
+Alchemillo-Poion supinae;843
+Potentillo-Polygonetalia;85
+Potentillion anserinae;851
+Calluno-Ulicetea;9
+Vaccinio-Genistetalia;91
+Genistion pilosae;911
+Vaccinion vitis-idaeae;912
+Euphorbio-Callunion (excl. Koel-Phl);913
+Nardetalia;92
+Violion caninae;921
+Nardo-Juncion squarrosi;922
+Nardo-Agrostion tenuis;923
 Festuco-Brometea;10
 Brometalia erecti;101
 Bromion erecti;1011
@@ -92,7 +92,7 @@ Koelerio-Phleion;1031
 Stipo-Festucetalia pallentis;104
 Seslerio-Festucion pallentis s.l.;1041
 Alysso saxatilis-Festucion pallentis;1043
-Avenulo adsurgentis-Festucion pall.;1044
+Avenulo adsurgentis-Festucion pallentis;1044
 Festucetalia vaginatae;105
 Festucion vaginatae;1051
 Koelerio-Corynephoretea;11
