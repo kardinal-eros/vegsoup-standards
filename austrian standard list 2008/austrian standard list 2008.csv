@@ -604,7 +604,7 @@ vascular plants;Compositae;card pers pers;Carduus personata ssp. personata;sensu
 vascular plants;Brassicaceae;card prat;Cardamine pratensis s.str.;sensu Fischer et al. 2008;;Gewöhnliches Wiesen-Schaumkraut;;;;;;;;;;
 vascular plants;Brassicaceae;card prat aggr;Cardamine pratensis agg.;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Brassicaceae;card rese;Cardamine resedifolia;sensu Fischer et al. 2008;;Resedablättriges Schaumkraut;;;;;;;;;;
-vascular plants;Brassicaceae;card rivu;Cardamine rivularis;sensu Fischer et al. 2008;;Gebirgs-Wiesen-Schaumkraut;;;;;;;;;;
+vascular plants;Brassicaceae;card rivu;Cardamine „rivularis“;sensu Fischer et al. 2008;;Gebirgs-Wiesen-Schaumkraut;;;;;;;;;;
 vascular plants;Compositae;card spec ies;Carduus sp.;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Brassicaceae;card trif;Cardamine trifolia;sensu Fischer et al. 2008;;Kleeblättriges Schaumkraut;;;;;;;-r/V;;;
 vascular plants;Brassicaceae;card udic;Cardamine udicola;sensu Fischer et al. 2008;;Morast-Wiesen-Schaumkraut;;;;;;;?;;;
@@ -1496,6 +1496,7 @@ vascular plants;Gentianaceae;gent anis;Gentianella anisodonta;sensu Fischer et a
 vascular plants;Gentianaceae;gent ascl;Gentiana asclepiadea;sensu Fischer et al. 2008;;Schwalbenwurz-Enzian;;;;;;1;4ar!/V;§;;
 vascular plants;Gentianaceae;gent aspe;Gentianella aspera;sensu Fischer et al. 2008;;Rauer Kranzenzian;;;B;;0;1;4ar!/V;§;;
 vascular plants;Gentianaceae;gent aust;Gentianella austriaca;sensu Fischer et al. 2008;;Österreichischer Kranzenzian;;;;;;;;§;;
+vascular plants;Gentianaceae;gent germ aggr;Gentianella germanica agg.;sensu Ehrendorfer 1973;;;;;;;;;;;;
 vascular plants;Gentianaceae;gent lute tatr;Gentianella lutescens ssp. tatrae;(Renn.) Holub;;;;;;;;;;;;
 vascular plants;Gentianaceae;gent bava;Gentiana bavarica s.str.;sensu Fischer et al. 2008;;Bayerischer Enzian;;;;;;;4a;§;;
 vascular plants;Gentianaceae;gent bava suba;Gentiana bavarica var. subacaulis;sensu Fischer et al. 2008;;;;;;;;;;;;
@@ -3509,6 +3510,7 @@ vascular plants;Lamiaceae;thym serp;Thymus serpyllum;sensu Fischer et al. 2008;;
 vascular plants;Lamiaceae;thym vulg;Thymus vulgaris;sensu Fischer et al. 2008;;Gewürz-Thymian;;;;N-U;N-U;;;;;W
 vascular plants;Malvaceae;tili cord;Tilia cordata;sensu Fischer et al. 2008;;Winter-Linde;;;;;;;;;;
 vascular plants;Malvaceae;tili plat;Tilia platyphyllos;sensu Fischer et al. 2008;;Sommer-Linde;;;;;;;-r/B;;;
+vascular plants;Malvaceae;tili ✕eur;Tilia ✕ europaea;L.;;;;;;;;;;;;
 vascular plants;Malvaceae;tili spec ies;Tilia sp.;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Tofieldiaceae;tofi caly;Tofieldia calyculata;sensu Fischer et al. 2008;;Kelch-Simsenlilie, Gewöhnliche S.;;;;;0;2;-r/BV;;;
 vascular plants;Tofieldiaceae;tofi pusi;Tofieldia pusilla;sensu Fischer et al. 2008;;Zwerg-Simsenlilie;;;;;;;;;;
