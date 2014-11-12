@@ -3766,7 +3766,10 @@ vascular plants;Leguminosae;vici vill;Vicia villosa s.str.;sensu Fischer et al. 
 vascular plants;Apocynaceae;vinc hiru;Vincetoxicum hirundinaria;sensu Fischer et al. 2008;;Echte Schwalbenwurz;;;;;3;3;-r/BH;;;
 vascular plants;Apocynaceae;vinc majo;Vinca major;sensu Fischer et al. 2008;;Großes Immergrün;N-U;;;N-T;N-U;N-T;;;;W
 vascular plants;Apocynaceae;vinc mino;Vinca minor;sensu Fischer et al. 2008;;Kleines Immergrün;;;;;;;;;;
-vascular plants;Violaceae;viol alba;Viola alba;sensu Fischer et al. 2008;;Weißes Veilchen;1;3;;1;1;1;3;;;
+vascular plants;Violaceae;viol alba slat;Viola alba s.lat;;;Weißes Veilchen;1;3;;1;1;1;3;;;
+vascular plants;Violaceae;viol alba alba;Viola alba ssp. alba;sensu Fischer et al. 2008;;;;;;;;;;;;
+vascular plants;Violaceae;viol alba viol;Viola alba ssp. violacea;sensu Fischer et al. 2008;;;;;;;;;;;;
+vascular plants;Violaceae;viol alba scot;Viola alba ssp. scotophylla;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Violaceae;viol alpi;Viola alpina;sensu Fischer et al. 2008;;Ostalpen-Stiefmütterchen;;;;;;;KB;;;
 vascular plants;Violaceae;viol arve slat;Viola arvensis s.lat.;;;;;;;;;;;;;
 vascular plants;Violaceae;viol arve arve;Viola arvensis ssp. arvensis;sensu Fischer et al. 2008;;Gewöhnliches Acker-Stiefmütterchen;;;;;;;;;;
