@@ -432,6 +432,7 @@ Carici humilis-Callunetum
 Verbascum austriacum-Festuca rupicola-Gesellschaft
 Stipo pulcherrimae-Festucetalia pallentis
 Diantho lumnitzeri-Seslerion albicantis
+Seslerio-Festucion pallentis	Willner 2013
 Fumano-Stipetum eriocaulis
 Carici humilis-Seslerietum calcariae
 Seslerietum budensis
@@ -823,7 +824,7 @@ Epilobietum fleischeri
 Myricario-Chondrilletum
 Epilobio-Myricarietum
 Galio-Parietarietalia officinalis
-Stipion calamagrostis
+Stipion calamagrostis	Jenny-Lips ex Br.-Blö. et al 1952
 Stipetum calamagrostis
 Rumicetum scutati
 Vincetoxicetum officinalis
@@ -877,7 +878,7 @@ Caricetum mucronatae
 Festucetum pumilae
 Homogyno discoloris-Loiseleurietum
 Dryadetum octopetalae
-Seslerion coeruleae
+Seslerion coeruleae	Br.-Bl. in Br.-Bl. & Jenny 1926
 Seslerio-Caricetum sempervirentis
 Athamanto-Festucetum pallidulae
 Valeriano-Seslerietum albicantis
@@ -973,7 +974,7 @@ Andere Gesellschaften der Salicetea
 Salix purpurea-Gesellschaft
 Rhamno-Prunetea
 Prunetalia spinosae
-Berberidion
+Berberidion	Br.-Bl. ex Tx. 1952
 Cotoneastro-Amelanchieretum
 Berberido-Rosetum
 Hippophao-Berberidetum
@@ -1006,7 +1007,12 @@ Ulmenion
 Querco-Ulmetum
 Fraxino pannonicae-Ulmetum
 Fraxino-Populetum
-Tilio platyphylli-Acerion pseudoplatani
+%Tilio platyphylli-Acerion pseudoplatani
+
+Tilio-Acerion	Klika 1955
+Tilenion platyphylli	(Moor 1973) Müller 1992
+Lunario-Acerenion pseudoplatani	(Moor 1973) Müller 1992
+
 Ahornreiche Gesellschaftsgruppe
 Mercuriali-Fraxinetum
 Corydalido cavae-Aceretum pseudoplatani
@@ -1024,7 +1030,7 @@ Poo nemoralis-Tilietum cordatae
 Cynancho-Tilietum platyphyllis
 Asperulo taurinae-Tilietum
 Corylus avellana-Gesellschaft
-Carpinion betuli
+Carpinion betuli	Issler 1931
 Galio sylvatici-Carpinetum
 Melampyro nemorosi-Carpinetum
 Carici pilosae-Carpinetum
@@ -1034,8 +1040,9 @@ Festuco heterophyllo-Querceetum
 Erythronio-Carpinion
 Asperulo odoratae-Carpinetum
 Helleboro nigri-Carpinetum
-Fagion sylvaticae
-Eu-Fagenion
+Fagion sylvaticae	Luquet 1926
+Lonicero alpigenae-Fagenion	Borhidi ex Soó 1964
+Eu-Fagenion	Oberd. 1957
 Asperulo odoratae-Fagetum
 Dentario enneaphylli-Fagetum
 Carici pilosae-Fagetum
@@ -1047,7 +1054,7 @@ Adenostylo glabrae-Fagetum
 Helleboro nigri-Fagetum
 Poo stiriacae-Fagetum
 Aro maculati-Fagetum
-Cephalanthero-Fagenion
+Cephalanthero-Fagenion	Tx. & Oberd. 1958
 Carici albae-Fagetum
 Seslerio-Fagetum
 Taxo-Fagetum
@@ -1132,11 +1139,12 @@ Athyrio-Piceetalia
 Chrysanthemo rotundifolii-Piceion
 Adenostylo glabrae-Piceetum
 Adenostylo alliariae-Abietetum
-Abieti-Piceion
+Abieti-Piceion	(Br.-Bl. 1939) Soó 1963 s.l.
 Galio rotundifolii-Piceetum
 Veronico latifoliae-Piceetum
 Adenostylo glabrae-Abietetum
-Calamagrostio variae-Piceetum
+Calamagrostio variae-Piceetum	Schweingruber 1972
+Calamagrostio variae-Abietenion  	(Horvat 1962) Exner & Willner 2007
 Carici albae-Piceetum
 Asplenio-Piceetum
 Equiseto sylvatici-Abietetum
