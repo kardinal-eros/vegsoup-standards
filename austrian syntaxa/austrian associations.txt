@@ -1,0 +1,821 @@
+name author
+Sclerochloo-Polygonetum arenastri 
+Matricario-Polygonetum arenastri 
+Poa annua-Gesellschaft 
+Sagino procumbentis-Bryetum argentei 
+Rumici acetosellae-Spergularietum rubrae 
+Veronico serpyllifoliae-Spergularietum rubrae 
+Polygono lapathifolii-Bidentetum 
+Bidenti-Polygonetum hydropiperis 
+Rumicetum maritimi 
+Rumici-Alopecuretum aequalis 
+Rorippo palustris-Myosotetum 
+Bidentetum cernui 
+Catabroso-Polygonetum hydropiperi 
+Chenopodietum rubri 
+Chenopodietum ficifolii 
+Bidenti-Atriplicetum prostratae 
+Echinochloo-Polygonetum 
+Chenopodio rubri-Polygonetum brittingeri 
+Caucalido daucoidis-Scandicetum pecten-veneris 
+Camelino microcarpae-Anthemidetum austriacae 
+Euphorbio exiguae-Melandrietum noctiflori 
+Adonido-Delphinietum consolidae 
+Veronicetum trilobae-triphyllidi 
+Geranio rotundifolii-Allietum vineale 
+Setario-Veronicetum politae 
+Soncho-Veronicetum agrestis 
+Anchusa officinalis-Gesellschaft 
+Sclerantho annui-Arnoseridetum minimae 
+Spergulo arvensis-Scleranthetum annui 
+Aegopodio-Campanuletum rapunculoidis 
+Trifolietum campestri-arvensis 
+Papaveretum argemones 
+Aethuso-Galeopsietum 
+Anthemido ruthenicae-Sperguletum arvensis 
+Alchemillo arvensis-Matricarietum 
+Vicio pseudovillosae-Legousietum 
+Spergulo-Oxalidion 
+Panico-Chenopodietum polyspermi 
+Hyoscyamo-Chenopodietum hybridi 
+Euphorbio-Galinsogetum ciliatae 
+Galeopsietum speciosae 
+Echinochloo-Setarietum pumilae 
+Stachyo annui-Setarietum pumilae 
+Panicetum ischaemii 
+Setarietum viridis-verticillatae 
+Mercuriali-Chenopodietum polyspermi 
+Setario-Lycopsietum arvensis 
+Setario-Plantaginetum indicae 
+Chenopodietum botryos 
+Panicetum capillaris 
+Eragrostio-Polygonetum arenastri 
+Plantagini-Cynodontetum 
+Chamaesyco humifusae-Oxalidetum corniculatae 
+Matricario chamomillae-Atriplicetum littoralis 
+Carex hirta-Gesellschaft 
+Cynodon dactylon-Gesellschaft 
+Bothriochloa ischaemum-Gesellschaft 
+Digitaria sanguinalis-Gesellschaft 
+Capsello-Descurainietum sophiae 
+Elymo repentis-Sisymbrietum loeselii 
+Sisymbrietum altissimi 
+Erigeronto-Lactucetum serriolae 
+Lactuco-Diplotaxietum tenuifoliae 
+Hordeetum murini 
+Linario vulgaris-Brometum tectorum 
+Polygono arenastri-Lepidietum ruderalis 
+Sisymbrium officinale-Gesellschaft 
+Cynodonto-Atriplicetum tataricae 
+Sisymbrio-Atriplicetum nitentis 
+Chenopodietum stricti 
+Atriplicetum roseae 
+Sisymbrio-Atriplicetum oblongifoliae 
+Kochietum densiflorae 
+Bromo tectorum-Sisymbrietum orientalis 
+Hyoscyamo nigri-Malvetum neglectae 
+Malvetum pusillae 
+Malvo neglectae-Chenopodietum vulvariae 
+Atriplex patula-Gesellschaft 
+Solanum lycopersicum-Gesellschaft 
+Chenopodium album-Gesellschaft 
+Tripleurospermum inodorum-Gesellschaft 
+Bromus sterilis-Gesellschaft 
+Onopordetum acanthii 
+Lappulo heteracanthae-Onopordetum acanthii 
+Potentillo argenteae-Artemisietum absinthii 
+Salvio-Marrubietum peregrini 
+Cirsietum eriophori 
+Lappulo echinatae-Cynoglossetum 
+Hackelio deflexae-Chenopodietum foliosi 
+Cynoglosso-Chenopodietum boni-henrici 
+Echio-Melilotetum 
+Tanaceto-Artemisietum vulgaris 
+Dauco-Picridetum 
+Berteroetum incanae 
+Dauco-Crepidetum rhoeadifoliae 
+Cerintho-Vicietum villosae 
+Poo compressae-Tussilaginetum 
+Arctietum lappae 
+Arctio-Artemisietum vulgaris 
+Cirsietum lanceolati-arvensis 
+Hyoscyamo-Conietum maculati 
+Balloto-Malvetum sylvestris 
+Balloto-Marrubietum vulgaris 
+Urtico urentis-Chenopodietum boni-henrici 
+Carduus acanthoides-Gesellschaft 
+Calamagrostis epigejos-(Onopordetalia)-Gesellschaft 
+Equisetum arvense-Gesellschaft 
+Erigeron annuus-Gesellschaft 
+Poa compressa-Gesellschaft 
+Solidago canadensis-(Onopordetalia)-Gesellschaft 
+Lepidio drabae-Agropyretum repentis 
+Falcario vulgaris-Agropyretum repentis 
+Diplotaxidi tenuifoliae-Agropyretum repentis 
+Convolvulo-Brometum inermis 
+Melico transsilvanicae-Agropyretum repentis 
+Poo compressae-Anthemidetum tinctoriae 
+Elymo repentis-Seselietum libanotis 
+Agropyro cristati-Kochietum prostratae 
+Elymus repens-Gesellschaft 
+Camalagrostis epigejos-Gesellschaft 
+Sambucetum ebuli 
+Conio-Chaerophylletum bulbosi 
+Alliario-Chaerophylletum temuli 
+Anthriscetum trichospermi 
+Lactuco-Anthriscetum caucalidis 
+Anthrisco-Asperugetum procumbentis 
+Torilidetum japonicae 
+Urtico-Cruciatetum laevipedis 
+Urtico-Parietarietum officinalis 
+Alliaria petiolata-Gesellschaft 
+Impatiens parviflora-Gesellschaft 
+Chelidonium majus-Gesellschaft 
+Epilobio-Geranietum robertiani 
+Cephalarietum pilosae 
+Circaeetum lutetianae 
+Campanulo rapunculoidis-Brachypodietum sylvatici 
+Chaerophylletum aromatici 
+Chaerophylletum aurei 
+Aegopodio-Anthriscetum nitidi 
+Geranio phaei-Urticetum 
+Urtico-Lamietum albi 
+Sisymbrietum strictissimi 
+Aegopodio-Menthetum longifoliae 
+Euphorbietum strictae 
+Phalarido-Petasitetum officinalis 
+Aegopodium podagraria-Gesellschaft 
+Elymus caninus-Gesellschaft 
+Anthriscus sylvestris-Gesellschaft 
+Galeopsis pubescens-Gesellschaft 
+Galeopsis speciosa-Gesellschaft 
+Acer negundo-Gesellschaft 
+Ailanthus altissima-Gesellschaft 
+Buddleja davidii-Gesellschaft 
+Lycium barbarum-Gesellschaft 
+Sambucus nigra-Gesellschaft 
+Cuscuto europaeae-Convolvuletum sepium 
+Senecionetum fluviatilis 
+Convolvulo-Archangelicetum 
+Convolvulo-Epilobietum hirsuti 
+Convolvulo-Eupatorietum cannabini 
+Artemisia verlotiorum-Gesellschaft 
+Aster lanceolatus-Gesellschaft 
+Humulus lupulus-Gesellschaft 
+Impatiens glandulifera-Gesellschaft 
+Phragmites australis-Gesellschaft 
+Fallopia japonica-Gesellschaft 
+Rudbeckia laciniata-Gesellschaft 
+Solidago canadensis-(Senecionion)-Gesellschaft 
+Solidago gigantea-Gesellschaft 
+Chaerophyllo-Petasitetum officinalis 
+Arunco-Petasitetum albi 
+Chaerophyllum hirsutum-(Petasition)-Gesellschaft 
+Equisetum telmateia-Gesellschaft 
+Clematis vitalba-Gesellschaft 
+Rubus caesius-Gesellschaft 
+Urtica dioica-(Galio-Urticetea)-Gesellschaft 
+Epilobio-Atropetum bellae-donnae 
+Arctietum nemorosi 
+Eupatorietum cannabini 
+Atropo-Poetum stiriacae 
+Senecioni sylvatici-Epilobietum angustifolii 
+Epilobio-Digitalietum purpureae 
+Digitali ambiguae-Calamagrostietum arundinaceae 
+Calamagrostis epigejos-(Carici-Epilobion)-Gesellschaft 
+Avenella flexuosa-Gesellschaft 
+Rubetum idaei 
+Senecietum fuchsii 
+Sambucetum racemosae 
+Piceo-Sorbetum aucupariae 
+Salicetum capreae 
+Frangulo-Betuletum pendulae 
+Calamagrostis varia-Gesellschaft 
+Pteridium aquilinum-Gesellschaft 
+Geranio-Dictamnetum 
+Arabidi turritae-Laserpitietum asperi 
+Peucedanetum cervariae 
+Geranio-Anemonetum sylvestris 
+Rosetum gallicae 
+Geranio-Trifolietum alpestris 
+Campanulo bononiensis-Vicietum tenuifoliae 
+Trifolio-Laserpitietum latifoliae 
+Ranunculetum nemorosi 
+Trifolio medii-Agrimonietum 
+Trifolio medii-Melampyretum nemorosi 
+Vicietum sylvaticae 
+Agrimonio-Vicietum cassubicae 
+Knautietum dipsacifoliae 
+Genista sagittalis-Gesellschaft 
+Teucrio scorodoniae-Polygonatetum odorati 
+Lathyro montani-Melampyretum pratensis 
+Selino-Molinietum caeruleae 
+Succiso-Molinietum caeruleae 
+Gentiano asclepiadeae-Molinietum caeruleae 
+Allio suaveolentis-Molinietum 
+Gentiano pneumonanthes-Molinietum litoralis 
+Junco-Molinietum 
+Silaetum pratensis 
+Serratulo-Festucetum commutatae 
+Sanguisorbo-Festucetum commutatae 
+Angelico-Cirsietum oleracei 
+Scirpo-Cirsietum cani 
+Caricetum cespitosae 
+Cirsietum rivularis 
+Trifolio patentis-Calthetum 
+Valeriano-Cirsietum oleracei 
+Epilobio-Juncetum effusi 
+Angelico-Cirsietum palustris 
+Polygono-Cirsietum heterophylli 
+Scirpetum sylvatici 
+Chaerophyllo-Ranunculetum aconitifolii 
+Sanguisorbo-Polygonetum bistortae 
+Juncetum sylvatici 
+Allietum schoenoprasi 
+Chaerophyllo hirsuti-Filipenduletum 
+Filipendulo-Geranietum palustris 
+Lysimachio vulgaris-Filipenduletum 
+Valeriano officinalis-Filipenduletum 
+Epilobio hirsuti-Filipenduletum 
+Ranunculo aconitifolii-Filipenduletum 
+Iridetum sibiricae 
+Cirsio heterophylli-Filipenduletum 
+Caricetum buekii 
+Mentho aquaticae-Juncetum effusi 
+Lathyro palustris-Gratioletum 
+Gratiolo-Caricetum suzae 
+Cnidio dubii-Violetum pumilae 
+Gratiolo-Caricetum fuscae 
+Ophioglosso-Caricetum tomentosae 
+Serratulo-Plantaginetum altissimae 
+Succisello inflexae-Deschampsietum cespitosae 
+Phragmiti-Euphorbietum palustris 
+Chaerophyllum hirsutum-(Molinietalia)-Gesellschaft 
+Filipendula ulmaria-Gesellschaft 
+Deschampsia cespitosa-(Molinietalia)-Gesellschaft 
+Pastinaco-Arrhenatheretum 
+Ranunculo bulbosi-Arrhenatheretum 
+Ranunculo repentis-Alopecuretum pratensis 
+Filipendulo vulgaris-Arrhenatheretum 
+Lolietum multiflorae 
+Tanaceto-Arrhenatheretum 
+Cichorietum intybi 
+Bromus hordeaceus-Gesellschaft 
+Poo-Trisetetum 
+Geranio sylvatici-Trisetetum 
+Lolio perennis-Cynosuretum 
+Festuco commutatae-Cynosuretum 
+Trifolio repentis-Veronicetum filiformis 
+Lolietum perennis 
+Prunello-Ranunculetum repentis 
+Juncetum macri 
+Junco compressi-Trifolietum repentis 
+Oxalido-Duchesnetum indicae 
+Trisetetum flavescentis 
+Astrantio-Trisetetum 
+Geranio lividi-Trisetetum 
+Crepido-Cynosuretum 
+Crepido-Festucetum commutatae 
+Alchemillo-Poetum supinae 
+Deschampsio cespitosae-Poetum alpinae 
+Poetum alpino-supinae 
+Ranunculo repentis-Alopecuretum geniculati 
+Rumici crispi-Agrostietum stoloniferae 
+Dactylido-Festucetum arundinaceae 
+Junco inflexi-Menthetum longifoliae 
+Agrostis stolonifera-Potentilla anserina-Gesellschaft 
+Potentilla reptans-Gesellschaft 
+Ranunculus repens-Gesellschaft 
+Lysimachia nummularia-Gesellschaft 
+Cytiso supini-Antennarietum 
+Genisto pilosae-Callunetum 
+Vaccinio-Callunetum 
+Polygalo-Nardetum 
+Gymnadenio-Nardetum 
+Eriophoro angustifolii-Nardetum 
+Homogyno-Nardetum 
+Lycopodio alpini-Nardetum 
+Euphorbio verrucosae-Caricetum montanae 
+Carlino acaulis-Brometum 
+Hypochoerido-Festucetum rupicolae 
+Polygalo majoris-Brachypodietum pinnati 
+Onobrychido arenariae-Brachypodietum pinnati 
+Potentillo erectae-Brachypodietum pinnati 
+Trifolio montani-Brachypodietum rupestris 
+Asperulo tinctoriae-Brachypodietum rupestris 
+Astragalo austriaci-Festucetum sulcatae 
+Ranunculo illyrici-Festucetum valesiacae 
+Medicagini minimae-Festucetum valesiacae 
+Poo angustifoliae-Festucetum valesiacae 
+Astragalo exscapi-Crambetum tatariae 
+Stipo joannis-Avenastretum besseri 
+Teucrio botryos-Andropogonetum ischaemii 
+Potentillo puberulae-Festucetum sulcatae 
+Potentillo arenariae-Festucetum pseudovinae 
+Melica transsilvanica-Festuca rupicola-Gesellschaft 
+Avenula pratensis-Festuca rupicola-Gesellschaft 
+Calamagrostis epigejos-Galium verum-Gesellschaft 
+Astragalo-Brometum 
+Achnathero-Stipetum capillatae 
+Agropyro dumetori-Artemisietum absinthii 
+Teucrio-Caricetum humilis 
+Gentiano cruciatae-Centaureetum alpestris 
+Carici humilis-Callunetum 
+Verbascum austriacum-Festuca rupicola-Gesellschaft 
+Fumano-Stipetum eriocaulis 
+Carici humilis-Seslerietum calcariae 
+Seslerietum budensis 
+Drabo lasiocarpae-Dianthetum neilreichii 
+Drabo aizoidis-Seslerietum albicantis 
+Teucrio montani-Seselietum austriaci 
+Seselietum austriaci 
+Koelerio pyramidatae-Teucrietum montani 
+Festuco stenanthae-Stipetum eriocaulis 
+Sileno hayekianae-Seslerietum albicantis 
+Poo badensis-Festucetum pallentis 
+Sempervivetum soboliferi 
+Festuco pallentis-Caricetum humilis 
+Alysso saxatilis-Festucetum pallentis 
+Armerio-Potentilletum arenariae 
+Festucetum vaginatae 
+Thymo angustifolii-Corynephoretum canescentis 
+Brometum tectorum 
+Equisetetum ramosissimi 
+Tortula ruralis-Sedum sexangulare-Gesellschaft 
+Filagini-Vulpietum 
+Gageo bohemicae-Veronicetum dillenii 
+Polytricho piliferi-Scleranthetum perennis 
+Cerastio arvensis-Agrostietum pusillae 
+Jasiono montanae-Dianthetum deltoidis 
+Sclerantho-Sempervivetum arachnoidei 
+Violo saxatilis-Saxifragetum asperae 
+Cerastietum pumili 
+Erodio cicutarium-Brometum hordeacei 
+Saxifrago tridactylito-Poetum compressae 
+Alysso alyssoidis-Sedetum albi 
+Sedo sexangularis-Sempervivetum tectorum 
+Medicagini lupulinae-Sedetum spurium 
+Petrorhagia saxifraga-Tortula ruralis-Gesellschaft 
+Sedum acre-Ceratodon purpureus-Gesellschaft 
+Salicornietum prostratae 
+Crypsido aculeatae-Suaedetum maritimae 
+Suaedetum pannonicae 
+Crypsidetum aculeatae 
+Atriplici prostratae-Chenopodietum crassifolii 
+Atriplicetum prostratae 
+Cyperetum pannonici 
+Lepidietum crassifolii 
+Atropidetum peisonis 
+Plantagini tenuiflorae-Pholiuretum pannonici 
+Hordeetum hystricis 
+Camphorosmetum annuae 
+Puccinellietum limosae 
+Artemisietum santonici 
+Centaureo pannonicae-Festucetum pseudovinae 
+Scorzonero parviflorae-Juncetum gerardii 
+Taraxaco bessarabici-Caricetum distantis 
+Loto-Potentilletum anserinae 
+Carici distantis-Eleocharitetum quinqueflorae 
+Lemnetum minoris 
+Lemnetum gibbae 
+Lemno-Spirodeletum polyrhizae 
+Lemnetum trisulcae 
+Riccietum fluitantis 
+Ricciocarpetum natantis 
+Hydrocharitetum morsus-ranae 
+Stratiotetum aloidis 
+Ceratophylletum demersi 
+Lemno-Utricularietum vulgaris 
+Utricularietum neglectae 
+Nitelletum flexilis 
+Nitelletum mucronatae 
+Nitelletum opacae 
+Charetum asperae 
+Magnocharetum hispidae 
+Charetum tomentosae 
+Charetum fragilis 
+Charetum vulgaris 
+Charo-Tolypelletum intricatae 
+Charetum canescentis 
+Beruletum submersae 
+Callitrichetum obtusangulae 
+Ranunculetum fluitantis 
+Callitricho hamulatae-Ranunculetum fluitantis 
+Potametum filiformis 
+Hottonietum palustris 
+Ranunculetum aquatilis 
+Potametum lucentis 
+Myriophyllo-Potametum lucentis 
+Potamo perfoliati-Ranunculetum circinati 
+Najadetum marinae 
+Parvopotamo-Zannichellietum tenuis 
+Potamogeton coloratus-Gesellschaft 
+Potamogeton perfoliatus-Gesellschaft 
+Potamogeton pectinatus-Gesellschaft 
+Limnanthemetum nymphaeoidis 
+Trapetum natantis 
+Nymphaeetum albo-luteae 
+Nymphaeetum minoris 
+Nupharetum pumilae 
+Potamogeton natans-Gesellschaft 
+Phragmitetum vulgaris 
+Scirpetum lacustris 
+Typhetum angustifoliae 
+Typhetum latifoliae 
+Glycerietum aquaticae 
+Acoretum calami 
+Equisetetum limosi 
+Leersietum oryzoidis 
+Sparganietum erecti 
+Caricetum elatae 
+Scorpidio-Caricetum dissolutae 
+Cicuto-Caricetum pseudocyperi 
+Mariscetum serrati 
+Peucedano-Caricetum lasiocarpae 
+Comaro-Caricetum lasiocarpae 
+Caricetum paradoxae 
+Caricetum paniculatae 
+Caricetum acutiformis 
+Calamagrostietum canescentis 
+Caricetum gracilis 
+Caricetum oenensis 
+Caricetum vesicariae 
+Galio palustris-Caricetum ripariae 
+Caricetum intermediae 
+Caricetum vulpinae 
+Caricetum melanostachyae 
+Phalaridetum arundinaceae 
+Eleocharitetum palustris 
+Iris pseudacorus-Gesellschaft 
+Bolboschoenetum maritimi 
+Schoenoplectetum tabernaemontani 
+Bolboschoeno-Phragmitetum communis 
+Glycerietum fluitantis 
+Glycerietum plicatae 
+Nasturtietum officinalis 
+Veronica beccabunga-Gesellschaft 
+Rorippo-Phalaridetum 
+Calamagrostietum pseudophragmitis 
+Oenantho aquaticae-Rorippetum amphibiae 
+Sagittario-Sparganietum emersi 
+Eleocharito palustri-Hippuridetum vulgaris 
+Scirpetum radicantis 
+Caricetum limosae 
+Sphagno tenelli-Rhynchosporetum albae 
+Caricetum lasiocarpae 
+Caricetum rostratae 
+Amblystegio scorpioidis-Caricetum diandrae 
+Sphagno-Caricetum appropinquatae 
+Amblystegio scorpioidis-Caricetum chordorrhizae 
+Caricetum goodenowii 
+Caricetum magellanicae 
+Eriophoretum scheuchzeri 
+Menyantho trifoliatae-Sphagnetum teretis 
+Amblystegio stellati-Caricetum dioicae 
+Schoenetum ferruginei 
+Junco obtusiflori-Schoenetum nigricantis 
+Juncetum subnodulosi 
+Caricetum davallianae 
+Amblystegio intermedii-Scirpetum austriaci 
+Eleocharitetum pauciflorae 
+Caricetum frigidae 
+Juncetum alpini 
+Astero bellidiastrum-Saxifragetum mutatae 
+Equiseto variegati-Typhetum minimae 
+Juncetum castanei 
+Astero bellidiastrum-Kobresietum simpliciusculae 
+Empetro nigri-Sphagnetum fusci 
+Scirpo cespitosi-Sphagnetum compacti 
+Ledo palustris-Sphagnetum medii 
+Sphagnetum medii 
+Scirpetum austriaci 
+Pinetum rotundatae 
+Scorpidio-Utricularietum 
+Sparganio minimi-Utricularietum intermediae 
+Sphagnum cuspidatum-Gesellschaft 
+Littorello lacustris-Eleocharitetum acicularis 
+Deschampsietum rhenanae 
+Ranunculo-Juncetum bulbosi 
+Sphagno obesi-Sparganietum angustifolii 
+Polygono-Heleocharitetum ovatae 
+Heleocharito acicularis-Limoselletum aquaticae 
+Centunculo-Anthocerotetum punctati 
+Scirpo setacei-Stellarietum uliginosae 
+Juncetum bufonii 
+Glycerio declinatae-Limoselletum aquaticae 
+Cyperetum flavescentis 
+Samolo-Cyperetum fusci 
+Erythraeo-Blackstonietum 
+Veronico anagalloidis-Lythretum hyssopifoliae 
+Dichostylido michelianae-Gnaphalietum uliginosae 
+Cerastio-Ranunculetum sardoi 
+Centunculo-Radioletum linoidis 
+Cyperus fuscus-Gesellschaft 
+Cardamino-Chrysosplenietum alternifolii 
+Trichocoleo-Sphagnetum 
+Montio-Philonotidetum fontanae 
+Montio-Bryetum schleicheri 
+Marsupelletum emarginatae 
+Blindio-Scapanietum undulatae 
+Scapanietum paludosae 
+Mniobryetum albicantis 
+Solenostomo-Hygrohypnetum smithii 
+Scapanietum uliginosae 
+Dermatocarpetum rivulorum 
+Cratoneuretum falcati 
+Cratoneuro-Hygrohypnetum luridi 
+Cratoneuretum commutati 
+Catoscopietum nigriti 
+Eucladietum verticillati 
+Scytonematetum myochrous 
+Hieracio humilis-Potentilletum caulescentis 
+Hieracio humilis-Campanuletum praesignis 
+Drabetum thomasii 
+Drabo stellatae-Potentilletum clusianae 
+Androsacetum helveticae 
+Potentilletum caulescentis 
+Potentillo clusianae-Campanuletum zoysii 
+Potentilletum nitidae 
+Cystopteridetum fragilis 
+Heliospermo-Cystopteridetum alpinae 
+Valeriano elongatae-Asplenietum viridis 
+Asplenio viridis-Caricetum brachystachyos 
+Asplenietum lepidi 
+Moehringietum bavaricae 
+Asplenietum rutae-murariae-trichomanis 
+Cymbalarietum muralis 
+Corydalidetum luteae 
+Sedum album-Gesellschaft 
+Sedum dasyphyllum-Gesellschaft 
+Cystopteris fragilis-Gesellschaft 
+Asplenio-Primuletum hirsutae 
+Woodsio-Asplenietum septentrionalis 
+Sileno rupestris-Asplenietum septentrionalis 
+Asplenietum septentrionali-adianti-nigri 
+Moehringietum diversifoliae 
+Asplenium septentrionale-Gesellschaft 
+Notholaeno-Sempervivetum hirti 
+Saxifragetum paradoxae 
+Thlaspietum rotundifolii 
+Papaveretum rhaetici 
+Papaveri kerneri-Thlaspietum kerneri 
+Crepidetum terglouensis 
+Leontodontetum montani 
+Saxifragetum hohenwartii 
+Thlaspietum cepaeifolii 
+Doronicum grandiflorum-Arabis alpina-Gesellschaft 
+Minuartia gerardii-Gesellschaft 
+Minuartia austriaca-Gesellschaft 
+Petasitetum nivei 
+Athamanto-Trisetetum distichophylli 
+Festucetum laxae 
+Anthyllido-Leontodontetum hyoseroidis 
+Dryopteridetum villarii 
+Petasitetum albi 
+Moehringio-Gymnocarpietum robertiani 
+Cystopteridetum montanae 
+Polystichetum lonchitis 
+Saxifragetum biflorae 
+Saxifragetum rudolphianae 
+Campanulo cenisiae-Saxifragetum oppositifoliae 
+Drabetum hoppeanae 
+Arabidetum caeruleae 
+Arabido-Rumicetum nivalis 
+Campanulo pullae-Achilleetum atratae 
+Campanulo pullae-Achilleetum clusianae 
+Homogyno discoloris-Salicetum retusae 
+Potentillo dubiae-Homogynetum discoloris 
+Salicetum retuso-reticulatae 
+Androsacetum alpinae 
+Sieversio-Oxyrietum digynae 
+Androsacetum wulfenianae 
+Allosuretum crispae 
+Galeopsio-Rumicetum 
+Epilobietum fleischeri 
+Myricario-Chondrilletum 
+Epilobio-Myricarietum 
+Stipetum calamagrostis 
+Rumicetum scutati 
+Vincetoxicetum officinalis 
+Galeopsietum angustifoliae 
+Caricetum curvulae 
+Loiseleurio-Caricetum curvulae 
+Hygrocaricetum curvulae 
+Carici curvulae-Nardetum 
+Festucetum halleri 
+Juncetum trifidi 
+Pulsatillo albae-Festucetum variae 
+Hypochoerido uniflorae-Festucetum paniculatae 
+Caricetum sempervirentis 
+Sieversio-Nardetum strictae 
+Festucetum picturatae 
+Agrostio schraderianae-Festucetum nigricantis 
+Pediculari recutitae-Agrostietum schraderianae 
+Chaerophyllo villarsii-Agrostietum schraderianae 
+Elynetum myosuroides 
+Caricetum rupestris 
+Elyno-Caricetum rosae 
+Agrostis alpina-Gesellschaften 
+Cardamino alpinae-Anthelietum juratzkanae 
+Polytrichetum sexangularis 
+Polytricho juniperini-Soldanelletum pusillae 
+Salicetum herbaceae 
+Salici herbaceae-Caricetum lachenalii 
+Poo-Cerastietum cerastoidis 
+Nardo-Gnaphalietum supini 
+Luzuletum spadiceae 
+Caricetum firmae 
+Gentiano terglouensis-Caricetum firmae 
+Caricetum mucronatae 
+Festucetum pumilae 
+Homogyno discoloris-Loiseleurietum 
+Dryadetum octopetalae 
+Seslerio-Caricetum sempervirentis 
+Athamanto-Festucetum pallidulae 
+Valeriano-Seslerietum albicantis 
+Alchemillo decumbentis-Juncetum monanthi 
+Acinoetum alpini 
+Globularia cordifolia-Gesellschaft 
+Ranunculo hybridi-Caricetum sempervirentis 
+Avenastro parlatorei-Festucetum calvae 
+Trifolio-Seslerietum albicantis 
+Trifolio thalii-Festucetum nigricantis 
+Campanulo scheuchzeri-Festucetum noricae 
+Caricetum ferrugineae 
+Hyperico alpini-Caricetum ferrugineae 
+Origano-Calamagrostietum variae 
+Molinietum litoralis 
+Ericetum carneae 
+Rhododendretum hirsuti 
+Loiseleurio-Cetrarietum 
+Gymnomitrio concinnati-Loiseleurietum procumbentis 
+Empetro-Vaccinietum gaultherioidis 
+Rhododendretum ferruginei 
+Salicetum helveticae 
+Junipero-Arctostaphyletum 
+Cicerbitetum alpinae 
+Festuco pseudodurae-Aconitetum taurici 
+Centaureetum rhaponticae 
+Carduo carduelis-Cirsietum carniolici 
+Alnetum viridis 
+Allio victorialis-Fagetum 
+Salici appendiculatae-Aceretum pseudoplatani 
+Saxifrago rotundifoliae-Salicetum appendiculatae 
+Salicetum waldsteinianae 
+Salicetum caesio-foetidae 
+Salicetum bicoloris 
+Campanulo scheuchzeri-Calamagrostietum villosae 
+Athyrietum alpestris 
+Athyrietum filicis-feminae 
+Centaureo montanae-Calamagrostietum arundinaceae 
+Rumicetum alpini 
+Peucedanetum ostruthii 
+Poo supinae-Chenopodietum boni-henrici 
+Senecietum alpini 
+Mentha longifolia-Gesellschaft 
+Salicetum cinereae 
+Salicetum auritae 
+Betuletum humilis 
+Phragmiti-Salicetum cinereae 
+Carici elongatae-Alnetum glutinosae 
+Hottonio-Alnetum 
+Carici acutiformis-Alnetum glutinosae 
+Carici elatae-Alnetum glutinosae 
+Cardamino trifoliae-Alnetum glutinosae 
+Rhamno catharticae-Alnetum glutinosae 
+Carici ripariae-Alnetum glutinosae 
+Salici-Myricarietum 
+Salici incanae-Hippophaetum 
+Salicetum incano-purpureae 
+Salicetum triandrae 
+Salicetum albae 
+Salicetum fragilis 
+Salix purpurea-Gesellschaft 
+Cotoneastro-Amelanchieretum 
+Berberido-Rosetum 
+Hippophao-Berberidetum 
+Populo-Coryletum 
+Ligustro-Prunetum 
+Roso-Ulmetum campestris 
+Prunus × eminens-Gesellschaft 
+Rubo-Coryletum 
+Carpino-Prunetum 
+Prunetum fruticosae 
+Prunetum tenellae 
+Rosetum pimpinellifoliae 
+Waldsteinio geoidis-Spiraeetum mediae 
+Prunus spinosa-Gesellschaft 
+Cornus sanguinea-Gesellschaft 
+Prunus domestica-Gesellschaft 
+Alnetum incanae 
+Stellario nemorum-Alnetum glutinosae 
+Stellario bulbosae-Fraxinetum 
+Carici remotae-Fraxinetum 
+Pruno-Fraxinetum 
+Querco-Ulmetum 
+Fraxino pannonicae-Ulmetum 
+Fraxino-Populetum 
+Tilio-Acerion Klika 1955
+Mercuriali-Fraxinetum 
+Corydalido cavae-Aceretum pseudoplatani 
+Carici pendulae-Aceretum pseudoplatani 
+Hacquetio-Fraxinetum 
+Scolopendrio-Fraxinetum 
+Lunario-Aceretum pseudoplatani 
+Violo albae-Fraxinetum 
+Arunco-Aceretum 
+Ulmo-Aceretum pseudoplatani 
+Asperulo taurinae-Aceretum 
+Aceri-Carpinetum 
+Poo nemoralis-Tilietum cordatae 
+Cynancho-Tilietum platyphyllis 
+Asperulo taurinae-Tilietum 
+Corylus avellana-Gesellschaft 
+Galio sylvatici-Carpinetum 
+Melampyro nemorosi-Carpinetum 
+Carici pilosae-Carpinetum 
+Primulo veris-Carpinetum 
+Fraxino pannonici-Carpinetum 
+Festuco heterophyllo-Querceetum 
+Erythronio-Carpinion 
+Asperulo odoratae-Carpinetum 
+Helleboro nigri-Carpinetum 
+Asperulo odoratae-Fagetum 
+Dentario enneaphylli-Fagetum 
+Carici pilosae-Fagetum 
+Melittio-Fagetum 
+Daphno-Fagenion 
+Pulmonario-Fagetum 
+Aposerido-Fagetum 
+Adenostylo glabrae-Fagetum 
+Helleboro nigri-Fagetum 
+Poo stiriacae-Fagetum 
+Aro maculati-Fagetum 
+Carici albae-Fagetum 
+Seslerio-Fagetum 
+Taxo-Fagetum 
+Cephalanthero-Fagetum 
+Aceri-Fagetum 
+Ostryo-Fagetum 
+Hacquetio-Fagetum 
+Lamio orvalae-Fagetum 
+Ranunculo platanifolii-Fagetum 
+Anemono trifoliae-Fagetum 
+Polysticho lonchitis-Fagetum 
+Aconito paniculati-Fagetum 
+Deschampsio flexuosae-Quercetum sessiliflorae 
+Molinio arundinaceae-Quercetum 
+Cytiso nigricantis-Quercetum 
+Sorbo torminalis-Quercetum 
+Genisto pilosae-Quercetum petraeae 
+Luzulo nemorosae-Fagetum sylvatici 
+Luzulo-Tilietum cordatae 
+Geranio sanguinei-Quercetum pubescentis 
+Euphorbio angulatae-Quercetum pubescentis 
+Pruno mahaleb-Quercetum pubescentis 
+Corno-Quercetum pubescentis 
+Quercetum petraeae-cerris 
+Aceri tatarici-Quercetum 
+Ononido-Pinetum 
+Junipero sabinae-Laricetum 
+Salici eleagni-Pinetum 
+Molinio litoralis-Pinetum 
+Cephalanthero-Pinetum sylvestris 
+Carici humilis-Pinetum sylvestris 
+Erico-Pinetum sylvestris 
+Dorycnio-Pinetum sylvestris 
+Euphorbio saxatilis-Pinetum nigrae 
+Seslerio-Pinetum nigrae 
+Ostryo carpinifoliae-Fraxinetum orni 
+Fraxino orni-Pinetum nigrae 
+Rhodothamno-Rhododendretum hirsuti 
+Erico carneae-Pinetum prostratae 
+Vaccinio myrtilli-Pinetum montanae 
+Lycopodio annotini-Pinetum uncinatae 
+Erico carneae-Pinetum uncinatae 
+Rhododendro hirsuti-Pinetum montanae 
+Pinetum cembrae 
+Laricetum deciduae 
+Larici-Piceetum 
+Soldanello montanae-Piceetum 
+Mastigobryo-Piceetum 
+Luzulo nemorosae-Piceetum 
+Larici-Pinetum cembrae 
+Rhododendro ferruginei-Pinetum prostratae 
+Dicrano-Pinetum 
+Vaccinio vitis-idaeae-Pinetum 
+Cardaminopsio petraeae-Pinetum 
+Festuco eggleri-Pinetum 
+Festuco ovinae-Pinetum 
+Vaccinio uliginosi-Betuletum pubescentis 
+Vaccinio uliginosi-Pinetum sylvestris 
+Sphagno girgensohnii-Piceetum 
+Adenostylo glabrae-Piceetum 
+Adenostylo alliariae-Abietetum 
+Galio rotundifolii-Piceetum 
+Veronico latifoliae-Piceetum 
+Adenostylo glabrae-Abietetum 
+Calamagrostio variae-Piceetum Schweingruber 1972
+Carici albae-Piceetum 
+Asplenio-Piceetum 
+Equiseto sylvatici-Abietetum 

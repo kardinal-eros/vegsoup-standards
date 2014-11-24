@@ -1,0 +1,1125 @@
+name	author	association	suballiance	alliance	order	class
+Polygono arenastri-Poetea annuae		FALSE	FALSE	FALSE	FALSE	TRUE
+Polygono arenastri-Poetalia annuae		FALSE	FALSE	FALSE	TRUE	FALSE
+Matricario matricarioidis-Polygonion arenastri		FALSE	FALSE	TRUE	FALSE	FALSE
+Sclerochloo-Polygonetum arenastri		TRUE	FALSE	FALSE	FALSE	FALSE
+Matricario-Polygonetum arenastri		TRUE	FALSE	FALSE	FALSE	FALSE
+Poa annua-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Saginion procumbentis		FALSE	FALSE	TRUE	FALSE	FALSE
+Sagino procumbentis-Bryetum argentei		TRUE	FALSE	FALSE	FALSE	FALSE
+Rumici acetosellae-Spergularietum rubrae		TRUE	FALSE	FALSE	FALSE	FALSE
+Veronico serpyllifoliae-Spergularietum rubrae		TRUE	FALSE	FALSE	FALSE	FALSE
+Bidentetea tripartiti		FALSE	FALSE	FALSE	FALSE	TRUE
+Bidentetalia tripartiti		FALSE	FALSE	FALSE	TRUE	FALSE
+Bidention tripartiti		FALSE	FALSE	TRUE	FALSE	FALSE
+Polygono lapathifolii-Bidentetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Bidenti-Polygonetum hydropiperis		TRUE	FALSE	FALSE	FALSE	FALSE
+Rumicetum maritimi		TRUE	FALSE	FALSE	FALSE	FALSE
+Rumici-Alopecuretum aequalis		TRUE	FALSE	FALSE	FALSE	FALSE
+Rorippo palustris-Myosotetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Bidentetum cernui		TRUE	FALSE	FALSE	FALSE	FALSE
+Catabroso-Polygonetum hydropiperi		TRUE	FALSE	FALSE	FALSE	FALSE
+Chenopodion glauci		FALSE	FALSE	TRUE	FALSE	FALSE
+Chenopodietum rubri		TRUE	FALSE	FALSE	FALSE	FALSE
+Chenopodietum ficifolii		TRUE	FALSE	FALSE	FALSE	FALSE
+Bidenti-Atriplicetum prostratae		TRUE	FALSE	FALSE	FALSE	FALSE
+Echinochloo-Polygonetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Chenopodio rubri-Polygonetum brittingeri		TRUE	FALSE	FALSE	FALSE	FALSE
+Stellarietea mediae		FALSE	FALSE	FALSE	FALSE	TRUE
+Centaureetalia cyani		FALSE	FALSE	FALSE	TRUE	FALSE
+Caucalidion lappulae		FALSE	FALSE	TRUE	FALSE	FALSE
+Caucalido daucoidis-Scandicetum pecten-veneris		TRUE	FALSE	FALSE	FALSE	FALSE
+Camelino microcarpae-Anthemidetum austriacae		TRUE	FALSE	FALSE	FALSE	FALSE
+Euphorbio exiguae-Melandrietum noctiflori		TRUE	FALSE	FALSE	FALSE	FALSE
+Adonido-Delphinietum consolidae		TRUE	FALSE	FALSE	FALSE	FALSE
+Veronico-Euphorbion		FALSE	FALSE	TRUE	FALSE	FALSE
+Veronicetum trilobae-triphyllidi		TRUE	FALSE	FALSE	FALSE	FALSE
+Geranio rotundifolii-Allietum vineale		TRUE	FALSE	FALSE	FALSE	FALSE
+Setario-Veronicetum politae		TRUE	FALSE	FALSE	FALSE	FALSE
+Soncho-Veronicetum agrestis		TRUE	FALSE	FALSE	FALSE	FALSE
+Anchusa officinalis-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Chenopodietalia albi		FALSE	FALSE	FALSE	TRUE	FALSE
+Arnoseridion minimae		FALSE	FALSE	TRUE	FALSE	FALSE
+Sclerantho annui-Arnoseridetum minimae		TRUE	FALSE	FALSE	FALSE	FALSE
+Scleranthion annui		FALSE	FALSE	TRUE	FALSE	FALSE
+Spergulo arvensis-Scleranthetum annui		TRUE	FALSE	FALSE	FALSE	FALSE
+Aegopodio-Campanuletum rapunculoidis		TRUE	FALSE	FALSE	FALSE	FALSE
+Trifolietum campestri-arvensis		TRUE	FALSE	FALSE	FALSE	FALSE
+Papaveretum argemones		TRUE	FALSE	FALSE	FALSE	FALSE
+Aethuso-Galeopsietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Anthemido ruthenicae-Sperguletum arvensis		TRUE	FALSE	FALSE	FALSE	FALSE
+Alchemillo arvensis-Matricarietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Vicio pseudovillosae-Legousietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Spergulo-Oxalidion		TRUE	FALSE	FALSE	FALSE	FALSE
+Panico-Chenopodietum polyspermi		TRUE	FALSE	FALSE	FALSE	FALSE
+Hyoscyamo-Chenopodietum hybridi		TRUE	FALSE	FALSE	FALSE	FALSE
+Euphorbio-Galinsogetum ciliatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Galeopsietum speciosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Panico-Setarion		FALSE	FALSE	TRUE	FALSE	FALSE
+Echinochloo-Setarietum pumilae		TRUE	FALSE	FALSE	FALSE	FALSE
+Stachyo annui-Setarietum pumilae		TRUE	FALSE	FALSE	FALSE	FALSE
+Panicetum ischaemii		TRUE	FALSE	FALSE	FALSE	FALSE
+Setarietum viridis-verticillatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Mercuriali-Chenopodietum polyspermi		TRUE	FALSE	FALSE	FALSE	FALSE
+Setario-Lycopsietum arvensis		TRUE	FALSE	FALSE	FALSE	FALSE
+Eragrostietalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Salsolion ruthenicae		FALSE	FALSE	TRUE	FALSE	FALSE
+Setario-Plantaginetum indicae		TRUE	FALSE	FALSE	FALSE	FALSE
+Chenopodietum botryos		TRUE	FALSE	FALSE	FALSE	FALSE
+Panicetum capillaris		TRUE	FALSE	FALSE	FALSE	FALSE
+Euphorbion prostratae		FALSE	FALSE	TRUE	FALSE	FALSE
+Eragrostio-Polygonetum arenastri		TRUE	FALSE	FALSE	FALSE	FALSE
+Plantagini-Cynodontetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Chamaesyco humifusae-Oxalidetum corniculatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Matricario chamomillae-Chenopodion albi		FALSE	FALSE	TRUE	FALSE	FALSE
+Matricario chamomillae-Atriplicetum littoralis		TRUE	FALSE	FALSE	FALSE	FALSE
+Carex hirta-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Cynodon dactylon-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Bothriochloa ischaemum-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Digitaria sanguinalis-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Sisymbrietalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Sisymbrion officinalis		FALSE	FALSE	TRUE	FALSE	FALSE
+Capsello-Descurainietum sophiae		TRUE	FALSE	FALSE	FALSE	FALSE
+Elymo repentis-Sisymbrietum loeselii		TRUE	FALSE	FALSE	FALSE	FALSE
+Sisymbrietum altissimi		TRUE	FALSE	FALSE	FALSE	FALSE
+Erigeronto-Lactucetum serriolae		TRUE	FALSE	FALSE	FALSE	FALSE
+Lactuco-Diplotaxietum tenuifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Hordeetum murini		TRUE	FALSE	FALSE	FALSE	FALSE
+Linario vulgaris-Brometum tectorum		TRUE	FALSE	FALSE	FALSE	FALSE
+Polygono arenastri-Lepidietum ruderalis		TRUE	FALSE	FALSE	FALSE	FALSE
+Sisymbrium officinale-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Atriplicion nitentis		FALSE	FALSE	TRUE	FALSE	FALSE
+Cynodonto-Atriplicetum tataricae		TRUE	FALSE	FALSE	FALSE	FALSE
+Sisymbrio-Atriplicetum nitentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Chenopodietum stricti		TRUE	FALSE	FALSE	FALSE	FALSE
+Atriplicetum roseae		TRUE	FALSE	FALSE	FALSE	FALSE
+Sisymbrio-Atriplicetum oblongifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Kochietum densiflorae		TRUE	FALSE	FALSE	FALSE	FALSE
+Bromo tectorum-Sisymbrietum orientalis		TRUE	FALSE	FALSE	FALSE	FALSE
+Malvion neglectae		FALSE	FALSE	TRUE	FALSE	FALSE
+Hyoscyamo nigri-Malvetum neglectae		TRUE	FALSE	FALSE	FALSE	FALSE
+Malvetum pusillae		TRUE	FALSE	FALSE	FALSE	FALSE
+Malvo neglectae-Chenopodietum vulvariae		TRUE	FALSE	FALSE	FALSE	FALSE
+Atriplex patula-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Solanum lycopersicum-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Chenopodium album-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Tripleurospermum inodorum-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Bromus sterilis-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Artemisietea vulgaris		FALSE	FALSE	FALSE	FALSE	TRUE
+Onopordetalia acanthii		FALSE	FALSE	FALSE	TRUE	FALSE
+Onopordion acanthii		FALSE	FALSE	TRUE	FALSE	FALSE
+Onopordetum acanthii		TRUE	FALSE	FALSE	FALSE	FALSE
+Lappulo heteracanthae-Onopordetum acanthii		TRUE	FALSE	FALSE	FALSE	FALSE
+Potentillo argenteae-Artemisietum absinthii		TRUE	FALSE	FALSE	FALSE	FALSE
+Salvio-Marrubietum peregrini		TRUE	FALSE	FALSE	FALSE	FALSE
+Cirsietum eriophori		TRUE	FALSE	FALSE	FALSE	FALSE
+Lappulo echinatae-Cynoglossetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Erysimo wittmannii-Hackelion		FALSE	FALSE	TRUE	FALSE	FALSE
+Hackelio deflexae-Chenopodietum foliosi		TRUE	FALSE	FALSE	FALSE	FALSE
+Cynoglosso-Chenopodietum boni-henrici		TRUE	FALSE	FALSE	FALSE	FALSE
+Dauco-Melilotion		FALSE	FALSE	TRUE	FALSE	FALSE
+Echio-Melilotetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Tanaceto-Artemisietum vulgaris		TRUE	FALSE	FALSE	FALSE	FALSE
+Dauco-Picridetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Berteroetum incanae		TRUE	FALSE	FALSE	FALSE	FALSE
+Dauco-Crepidetum rhoeadifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Cerintho-Vicietum villosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Poo compressae-Tussilaginetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Arction lappae		FALSE	FALSE	TRUE	FALSE	FALSE
+Arctietum lappae		TRUE	FALSE	FALSE	FALSE	FALSE
+Arctio-Artemisietum vulgaris		TRUE	FALSE	FALSE	FALSE	FALSE
+Cirsietum lanceolati-arvensis		TRUE	FALSE	FALSE	FALSE	FALSE
+Hyoscyamo-Conietum maculati		TRUE	FALSE	FALSE	FALSE	FALSE
+Balloto-Malvetum sylvestris		TRUE	FALSE	FALSE	FALSE	FALSE
+Balloto-Marrubietum vulgaris		TRUE	FALSE	FALSE	FALSE	FALSE
+Urtico urentis-Chenopodietum boni-henrici		TRUE	FALSE	FALSE	FALSE	FALSE
+Carduus acanthoides-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Calamagrostis epigejos-(Onopordetalia)-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Equisetum arvense-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Erigeron annuus-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Poa compressa-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Solidago canadensis-(Onopordetalia)-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Agropyretalia repentis		FALSE	FALSE	FALSE	TRUE	FALSE
+Convolvulo-Agropyrion repentis		FALSE	FALSE	TRUE	FALSE	FALSE
+Lepidio drabae-Agropyretum repentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Falcario vulgaris-Agropyretum repentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Diplotaxidi tenuifoliae-Agropyretum repentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Convolvulo-Brometum inermis		TRUE	FALSE	FALSE	FALSE	FALSE
+Melico transsilvanicae-Agropyretum repentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Poo compressae-Anthemidetum tinctoriae		TRUE	FALSE	FALSE	FALSE	FALSE
+Elymo repentis-Seselietum libanotis		TRUE	FALSE	FALSE	FALSE	FALSE
+Agropyro-Kochion		FALSE	FALSE	TRUE	FALSE	FALSE
+Agropyro cristati-Kochietum prostratae		TRUE	FALSE	FALSE	FALSE	FALSE
+Elymus repens-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Camalagrostis epigejos-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Galio-Urticetea		FALSE	FALSE	FALSE	FALSE	TRUE
+Lamio albi-Chenopodietalia boni-henrici		FALSE	FALSE	FALSE	TRUE	FALSE
+Galio-Alliarion		FALSE	FALSE	TRUE	FALSE	FALSE
+Sambucetum ebuli		TRUE	FALSE	FALSE	FALSE	FALSE
+Conio-Chaerophylletum bulbosi		TRUE	FALSE	FALSE	FALSE	FALSE
+Alliario-Chaerophylletum temuli		TRUE	FALSE	FALSE	FALSE	FALSE
+Anthriscetum trichospermi		TRUE	FALSE	FALSE	FALSE	FALSE
+Lactuco-Anthriscetum caucalidis		TRUE	FALSE	FALSE	FALSE	FALSE
+Anthrisco-Asperugetum procumbentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Torilidetum japonicae		TRUE	FALSE	FALSE	FALSE	FALSE
+Urtico-Cruciatetum laevipedis		TRUE	FALSE	FALSE	FALSE	FALSE
+Urtico-Parietarietum officinalis		TRUE	FALSE	FALSE	FALSE	FALSE
+Alliaria petiolata-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Impatiens parviflora-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Chelidonium majus-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Impatienti noli-tangere-Stachyion sylvaticae		FALSE	FALSE	TRUE	FALSE	FALSE
+Epilobio-Geranietum robertiani		TRUE	FALSE	FALSE	FALSE	FALSE
+Cephalarietum pilosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Circaeetum lutetianae		TRUE	FALSE	FALSE	FALSE	FALSE
+Campanulo rapunculoidis-Brachypodietum sylvatici		TRUE	FALSE	FALSE	FALSE	FALSE
+Aegopodion podagrariae		FALSE	FALSE	TRUE	FALSE	FALSE
+Chaerophylletum aromatici		TRUE	FALSE	FALSE	FALSE	FALSE
+Chaerophylletum aurei		TRUE	FALSE	FALSE	FALSE	FALSE
+Aegopodio-Anthriscetum nitidi		TRUE	FALSE	FALSE	FALSE	FALSE
+Geranio phaei-Urticetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Urtico-Lamietum albi		TRUE	FALSE	FALSE	FALSE	FALSE
+Sisymbrietum strictissimi		TRUE	FALSE	FALSE	FALSE	FALSE
+Aegopodio-Menthetum longifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Euphorbietum strictae		TRUE	FALSE	FALSE	FALSE	FALSE
+Phalarido-Petasitetum officinalis		TRUE	FALSE	FALSE	FALSE	FALSE
+Aegopodium podagraria-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Elymus caninus-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Anthriscus sylvestris-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Galeopsis pubescens-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Galeopsis speciosa-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Acer negundo-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Ailanthus altissima-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Buddleja davidii-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Lycium barbarum-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Sambucus nigra-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Convolvuletalia sepium		FALSE	FALSE	FALSE	TRUE	FALSE
+Senecionion fluviatilis		FALSE	FALSE	TRUE	FALSE	FALSE
+Cuscuto europaeae-Convolvuletum sepium		TRUE	FALSE	FALSE	FALSE	FALSE
+Senecionetum fluviatilis		TRUE	FALSE	FALSE	FALSE	FALSE
+Convolvulo-Archangelicetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Convolvulo-Epilobietum hirsuti		TRUE	FALSE	FALSE	FALSE	FALSE
+Convolvulo-Eupatorietum cannabini		TRUE	FALSE	FALSE	FALSE	FALSE
+Artemisia verlotiorum-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Aster lanceolatus-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Humulus lupulus-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Impatiens glandulifera-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Phragmites australis-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Fallopia japonica-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Rudbeckia laciniata-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Solidago canadensis-(Senecionion)-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Solidago gigantea-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Petasition officinalis		FALSE	FALSE	TRUE	FALSE	FALSE
+Chaerophyllo-Petasitetum officinalis		TRUE	FALSE	FALSE	FALSE	FALSE
+Arunco-Petasitetum albi		TRUE	FALSE	FALSE	FALSE	FALSE
+Chaerophyllum hirsutum-(Petasition)-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Equisetum telmateia-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Clematis vitalba-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Rubus caesius-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Urtica dioica-(Galio-Urticetea)-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Epilobietea angustifolii		FALSE	FALSE	FALSE	FALSE	TRUE
+Atropetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Atropion		FALSE	FALSE	TRUE	FALSE	FALSE
+Epilobio-Atropetum bellae-donnae		TRUE	FALSE	FALSE	FALSE	FALSE
+Arctietum nemorosi		TRUE	FALSE	FALSE	FALSE	FALSE
+Eupatorietum cannabini		TRUE	FALSE	FALSE	FALSE	FALSE
+Atropo-Poetum stiriacae		TRUE	FALSE	FALSE	FALSE	FALSE
+Carici piluliferae-Epilobion angustifolii		FALSE	FALSE	TRUE	FALSE	FALSE
+Senecioni sylvatici-Epilobietum angustifolii		TRUE	FALSE	FALSE	FALSE	FALSE
+Epilobio-Digitalietum purpureae		TRUE	FALSE	FALSE	FALSE	FALSE
+Digitali ambiguae-Calamagrostietum arundinaceae		TRUE	FALSE	FALSE	FALSE	FALSE
+Calamagrostis epigejos-(Carici-Epilobion)-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Avenella flexuosa-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Sambuco-Salicion capreae		FALSE	FALSE	TRUE	FALSE	FALSE
+Rubetum idaei		TRUE	FALSE	FALSE	FALSE	FALSE
+Senecietum fuchsii		TRUE	FALSE	FALSE	FALSE	FALSE
+Sambucetum racemosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Piceo-Sorbetum aucupariae		TRUE	FALSE	FALSE	FALSE	FALSE
+Salicetum capreae		TRUE	FALSE	FALSE	FALSE	FALSE
+Lonicero-Rubion silvatici		FALSE	FALSE	TRUE	FALSE	FALSE
+Frangulo-Betuletum pendulae		TRUE	FALSE	FALSE	FALSE	FALSE
+Calamagrostis varia-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Pteridium aquilinum-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Trifolio-Geranietea sanguinei		FALSE	FALSE	FALSE	FALSE	TRUE
+Origanetalia vulgaris		FALSE	FALSE	FALSE	TRUE	FALSE
+Geranion sanguinei		FALSE	FALSE	TRUE	FALSE	FALSE
+Geranio-Dictamnetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Arabidi turritae-Laserpitietum asperi		TRUE	FALSE	FALSE	FALSE	FALSE
+Peucedanetum cervariae		TRUE	FALSE	FALSE	FALSE	FALSE
+Geranio-Anemonetum sylvestris		TRUE	FALSE	FALSE	FALSE	FALSE
+Rosetum gallicae		TRUE	FALSE	FALSE	FALSE	FALSE
+Geranio-Trifolietum alpestris		TRUE	FALSE	FALSE	FALSE	FALSE
+Campanulo bononiensis-Vicietum tenuifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Trifolion medii		FALSE	FALSE	TRUE	FALSE	FALSE
+Trifolio-Laserpitietum latifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Ranunculetum nemorosi		TRUE	FALSE	FALSE	FALSE	FALSE
+Trifolio medii-Agrimonietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Trifolio medii-Melampyretum nemorosi		TRUE	FALSE	FALSE	FALSE	FALSE
+Vicietum sylvaticae		TRUE	FALSE	FALSE	FALSE	FALSE
+Agrimonio-Vicietum cassubicae		TRUE	FALSE	FALSE	FALSE	FALSE
+Knautietum dipsacifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Genista sagittalis-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Melampyro-Holcetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Melampyrion pratensis		FALSE	FALSE	TRUE	FALSE	FALSE
+Teucrio scorodoniae-Polygonatetum odorati		TRUE	FALSE	FALSE	FALSE	FALSE
+Lathyro montani-Melampyretum pratensis		TRUE	FALSE	FALSE	FALSE	FALSE
+Molinio-Arrhenatheretea		FALSE	FALSE	FALSE	FALSE	TRUE
+Molinietalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Molinion		FALSE	FALSE	TRUE	FALSE	FALSE
+Selino-Molinietum caeruleae		TRUE	FALSE	FALSE	FALSE	FALSE
+Succiso-Molinietum caeruleae		TRUE	FALSE	FALSE	FALSE	FALSE
+Gentiano asclepiadeae-Molinietum caeruleae		TRUE	FALSE	FALSE	FALSE	FALSE
+Allio suaveolentis-Molinietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Gentiano pneumonanthes-Molinietum litoralis		TRUE	FALSE	FALSE	FALSE	FALSE
+Junco-Molinietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Silaetum pratensis		TRUE	FALSE	FALSE	FALSE	FALSE
+Serratulo-Festucetum commutatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Sanguisorbo-Festucetum commutatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Calthion		FALSE	FALSE	TRUE	FALSE	FALSE
+Calthenion		FALSE	TRUE	FALSE	FALSE	FALSE
+Angelico-Cirsietum oleracei		TRUE	FALSE	FALSE	FALSE	FALSE
+Scirpo-Cirsietum cani		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum cespitosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Cirsietum rivularis		TRUE	FALSE	FALSE	FALSE	FALSE
+Trifolio patentis-Calthetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Valeriano-Cirsietum oleracei		TRUE	FALSE	FALSE	FALSE	FALSE
+Epilobio-Juncetum effusi		TRUE	FALSE	FALSE	FALSE	FALSE
+Angelico-Cirsietum palustris		TRUE	FALSE	FALSE	FALSE	FALSE
+Polygono-Cirsietum heterophylli		TRUE	FALSE	FALSE	FALSE	FALSE
+Scirpetum sylvatici		TRUE	FALSE	FALSE	FALSE	FALSE
+Chaerophyllo-Ranunculetum aconitifolii		TRUE	FALSE	FALSE	FALSE	FALSE
+Sanguisorbo-Polygonetum bistortae		TRUE	FALSE	FALSE	FALSE	FALSE
+Juncetum sylvatici		TRUE	FALSE	FALSE	FALSE	FALSE
+Allietum schoenoprasi		TRUE	FALSE	FALSE	FALSE	FALSE
+Filipendulenion		FALSE	TRUE	FALSE	FALSE	FALSE
+Chaerophyllo hirsuti-Filipenduletum		TRUE	FALSE	FALSE	FALSE	FALSE
+Filipendulo-Geranietum palustris		TRUE	FALSE	FALSE	FALSE	FALSE
+Lysimachio vulgaris-Filipenduletum		TRUE	FALSE	FALSE	FALSE	FALSE
+Valeriano officinalis-Filipenduletum		TRUE	FALSE	FALSE	FALSE	FALSE
+Epilobio hirsuti-Filipenduletum		TRUE	FALSE	FALSE	FALSE	FALSE
+Ranunculo aconitifolii-Filipenduletum		TRUE	FALSE	FALSE	FALSE	FALSE
+Iridetum sibiricae		TRUE	FALSE	FALSE	FALSE	FALSE
+Cirsio heterophylli-Filipenduletum		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum buekii		TRUE	FALSE	FALSE	FALSE	FALSE
+Mentho aquaticae-Juncetum effusi		TRUE	FALSE	FALSE	FALSE	FALSE
+Cnidion		FALSE	FALSE	TRUE	FALSE	FALSE
+Lathyro palustris-Gratioletum		TRUE	FALSE	FALSE	FALSE	FALSE
+Gratiolo-Caricetum suzae		TRUE	FALSE	FALSE	FALSE	FALSE
+Cnidio dubii-Violetum pumilae		TRUE	FALSE	FALSE	FALSE	FALSE
+Gratiolo-Caricetum fuscae		TRUE	FALSE	FALSE	FALSE	FALSE
+Ophioglosso-Caricetum tomentosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Serratulo-Plantaginetum altissimae		TRUE	FALSE	FALSE	FALSE	FALSE
+Deschampsion		FALSE	FALSE	TRUE	FALSE	FALSE
+Succisello inflexae-Deschampsietum cespitosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Veronico longifoliae-Lysimachion vulgaris		FALSE	FALSE	TRUE	FALSE	FALSE
+Phragmiti-Euphorbietum palustris		TRUE	FALSE	FALSE	FALSE	FALSE
+Chaerophyllum hirsutum-(Molinietalia)-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Filipendula ulmaria-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Deschampsia cespitosa-(Molinietalia)-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Arrhenatheretalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Arrhenatherion		FALSE	FALSE	TRUE	FALSE	FALSE
+Pastinaco-Arrhenatheretum		TRUE	FALSE	FALSE	FALSE	FALSE
+Ranunculo bulbosi-Arrhenatheretum		TRUE	FALSE	FALSE	FALSE	FALSE
+Ranunculo repentis-Alopecuretum pratensis		TRUE	FALSE	FALSE	FALSE	FALSE
+Filipendulo vulgaris-Arrhenatheretum		TRUE	FALSE	FALSE	FALSE	FALSE
+Lolietum multiflorae		TRUE	FALSE	FALSE	FALSE	FALSE
+Tanaceto-Arrhenatheretum		TRUE	FALSE	FALSE	FALSE	FALSE
+Cichorietum intybi		TRUE	FALSE	FALSE	FALSE	FALSE
+Bromus hordeaceus-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Phyteumo-Trisetion		FALSE	FALSE	TRUE	FALSE	FALSE
+Poo-Trisetetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Geranio sylvatici-Trisetetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Cynosurion		FALSE	FALSE	TRUE	FALSE	FALSE
+Lolio perennis-Cynosuretum		TRUE	FALSE	FALSE	FALSE	FALSE
+Festuco commutatae-Cynosuretum		TRUE	FALSE	FALSE	FALSE	FALSE
+Trifolio repentis-Veronicetum filiformis		TRUE	FALSE	FALSE	FALSE	FALSE
+Lolietum perennis		TRUE	FALSE	FALSE	FALSE	FALSE
+Plantagini-Prunelletalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Plantagini-Prunellion		FALSE	FALSE	TRUE	FALSE	FALSE
+Prunello-Ranunculetum repentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Juncetum macri		TRUE	FALSE	FALSE	FALSE	FALSE
+Junco compressi-Trifolietum repentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Oxalido-Duchesnetum indicae		TRUE	FALSE	FALSE	FALSE	FALSE
+Poo alpinae-Trisetetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Polygono-Trisetion		FALSE	FALSE	TRUE	FALSE	FALSE
+Trisetetum flavescentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Astrantio-Trisetetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Geranio lividi-Trisetetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Poion alpinae		FALSE	FALSE	TRUE	FALSE	FALSE
+Crepido-Cynosuretum		TRUE	FALSE	FALSE	FALSE	FALSE
+Crepido-Festucetum commutatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Alchemillo-Poion supinae		FALSE	FALSE	TRUE	FALSE	FALSE
+Alchemillo-Poetum supinae		TRUE	FALSE	FALSE	FALSE	FALSE
+Deschampsio cespitosae-Poetum alpinae		TRUE	FALSE	FALSE	FALSE	FALSE
+Poetum alpino-supinae		TRUE	FALSE	FALSE	FALSE	FALSE
+Potentillo-Polygonetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Potentillion anserinae		FALSE	FALSE	TRUE	FALSE	FALSE
+Ranunculo repentis-Alopecuretum geniculati		TRUE	FALSE	FALSE	FALSE	FALSE
+Rumici crispi-Agrostietum stoloniferae		TRUE	FALSE	FALSE	FALSE	FALSE
+Dactylido-Festucetum arundinaceae		TRUE	FALSE	FALSE	FALSE	FALSE
+Junco inflexi-Menthetum longifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Agrostis stolonifera-Potentilla anserina-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Potentilla reptans-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Ranunculus repens-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Lysimachia nummularia-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Calluno-Ulicetea		FALSE	FALSE	FALSE	FALSE	TRUE
+Vaccinio-Genistetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Genistion pilosae		FALSE	FALSE	TRUE	FALSE	FALSE
+Cytiso supini-Antennarietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Genisto pilosae-Callunetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Vaccinio-Callunetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Nardetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Violion caninae		FALSE	FALSE	TRUE	FALSE	FALSE
+Polygalo-Nardetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Gymnadenio-Nardetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Nardo-Juncion squarrosi		FALSE	FALSE	TRUE	FALSE	FALSE
+Eriophoro angustifolii-Nardetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Nardo-Agrostion tenuis		FALSE	FALSE	TRUE	FALSE	FALSE
+Homogyno-Nardetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Lycopodio alpini-Nardetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Festuco-Brometea		FALSE	FALSE	FALSE	FALSE	TRUE
+Brometalia erecti		FALSE	FALSE	FALSE	TRUE	FALSE
+Bromion erecti		FALSE	FALSE	TRUE	FALSE	FALSE
+Onobrychido viciifoliae-Brometum		FALSE	FALSE	TRUE	FALSE	FALSE
+Euphorbio verrucosae-Caricetum montanae		TRUE	FALSE	FALSE	FALSE	FALSE
+Carlino acaulis-Brometum		TRUE	FALSE	FALSE	FALSE	FALSE
+Hypochoerido-Festucetum rupicolae		TRUE	FALSE	FALSE	FALSE	FALSE
+Cirsio-Brachypodion pinnati		FALSE	FALSE	TRUE	FALSE	FALSE
+Polygalo majoris-Brachypodietum pinnati		TRUE	FALSE	FALSE	FALSE	FALSE
+Onobrychido arenariae-Brachypodietum pinnati		TRUE	FALSE	FALSE	FALSE	FALSE
+Potentillo erectae-Brachypodietum pinnati		TRUE	FALSE	FALSE	FALSE	FALSE
+Trifolio montani-Brachypodietum rupestris		TRUE	FALSE	FALSE	FALSE	FALSE
+Asperulo tinctoriae-Brachypodietum rupestris		TRUE	FALSE	FALSE	FALSE	FALSE
+Festucetalia valesiacae		FALSE	FALSE	FALSE	TRUE	FALSE
+Festucion valesiacae		FALSE	FALSE	TRUE	FALSE	FALSE
+Astragalo austriaci-Festucetum sulcatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Ranunculo illyrici-Festucetum valesiacae		TRUE	FALSE	FALSE	FALSE	FALSE
+Medicagini minimae-Festucetum valesiacae		TRUE	FALSE	FALSE	FALSE	FALSE
+Poo angustifoliae-Festucetum valesiacae		TRUE	FALSE	FALSE	FALSE	FALSE
+Astragalo exscapi-Crambetum tatariae		TRUE	FALSE	FALSE	FALSE	FALSE
+Stipo joannis-Avenastretum besseri		TRUE	FALSE	FALSE	FALSE	FALSE
+Teucrio botryos-Andropogonetum ischaemii		TRUE	FALSE	FALSE	FALSE	FALSE
+Potentillo puberulae-Festucetum sulcatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Potentillo arenariae-Festucetum pseudovinae		TRUE	FALSE	FALSE	FALSE	FALSE
+Melica transsilvanica-Festuca rupicola-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Avenula pratensis-Festuca rupicola-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Calamagrostis epigejos-Galium verum-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Stipo-Poion xerophilae		FALSE	FALSE	TRUE	FALSE	FALSE
+Astragalo-Brometum		TRUE	FALSE	FALSE	FALSE	FALSE
+Achnathero-Stipetum capillatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Agropyro dumetori-Artemisietum absinthii		TRUE	FALSE	FALSE	FALSE	FALSE
+Teucrio-Caricetum humilis		TRUE	FALSE	FALSE	FALSE	FALSE
+Gentiano cruciatae-Centaureetum alpestris		TRUE	FALSE	FALSE	FALSE	FALSE
+Koelerio-Phleetalia phleoidis		FALSE	FALSE	FALSE	TRUE	FALSE
+Euphorbio-Callunion		FALSE	FALSE	TRUE	FALSE	FALSE
+Carici humilis-Callunetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Verbascum austriacum-Festuca rupicola-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Stipo pulcherrimae-Festucetalia pallentis		FALSE	FALSE	FALSE	TRUE	FALSE
+Diantho lumnitzeri-Seslerion albicantis		FALSE	FALSE	TRUE	FALSE	FALSE
+Seslerio-Festucion pallentis	Willner 2013	FALSE	FALSE	TRUE	FALSE	FALSE
+Fumano-Stipetum eriocaulis		TRUE	FALSE	FALSE	FALSE	FALSE
+Carici humilis-Seslerietum calcariae		TRUE	FALSE	FALSE	FALSE	FALSE
+Seslerietum budensis		TRUE	FALSE	FALSE	FALSE	FALSE
+Drabo lasiocarpae-Dianthetum neilreichii		TRUE	FALSE	FALSE	FALSE	FALSE
+Drabo aizoidis-Seslerietum albicantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Teucrio montani-Seselietum austriaci		TRUE	FALSE	FALSE	FALSE	FALSE
+Seselietum austriaci		TRUE	FALSE	FALSE	FALSE	FALSE
+Koelerio pyramidatae-Teucrietum montani		TRUE	FALSE	FALSE	FALSE	FALSE
+Festuco stenanthae-Stipetum eriocaulis		TRUE	FALSE	FALSE	FALSE	FALSE
+Sileno hayekianae-Seslerietum albicantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Bromo pannonici-Festucion pallentis		FALSE	FALSE	TRUE	FALSE	FALSE
+Poo badensis-Festucetum pallentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Sempervivetum soboliferi		TRUE	FALSE	FALSE	FALSE	FALSE
+Festuco pallentis-Caricetum humilis		TRUE	FALSE	FALSE	FALSE	FALSE
+Alysso saxatilis-Festucion pallentis		FALSE	FALSE	TRUE	FALSE	FALSE
+Alysso saxatilis-Festucetum pallentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Avenulo adsurgentis-Festucion pallentis		FALSE	FALSE	TRUE	FALSE	FALSE
+Armerio-Potentilletum arenariae		TRUE	FALSE	FALSE	FALSE	FALSE
+Festucetalia vaginatae		FALSE	FALSE	FALSE	TRUE	FALSE
+Festucion vaginatae		FALSE	FALSE	TRUE	FALSE	FALSE
+Festucetum vaginatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Koelerio-Corynephoretea		FALSE	FALSE	FALSE	FALSE	TRUE
+Corynephoretalia canescentis		FALSE	FALSE	FALSE	TRUE	FALSE
+Corynephorion canescentis		FALSE	FALSE	TRUE	FALSE	FALSE
+Thymo angustifolii-Corynephoretum canescentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Koelerion arenariae		FALSE	FALSE	TRUE	FALSE	FALSE
+Brometum tectorum		TRUE	FALSE	FALSE	FALSE	FALSE
+Equisetetum ramosissimi		TRUE	FALSE	FALSE	FALSE	FALSE
+Tortula ruralis-Sedum sexangulare-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Thero-Airion		FALSE	FALSE	TRUE	FALSE	FALSE
+Filagini-Vulpietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Sedo-Scleranthetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Arabidopsidion thalianae		FALSE	FALSE	TRUE	FALSE	FALSE
+Gageo bohemicae-Veronicetum dillenii		TRUE	FALSE	FALSE	FALSE	FALSE
+Hyperico perforati-Scleranthion perennis		FALSE	FALSE	TRUE	FALSE	FALSE
+Polytricho piliferi-Scleranthetum perennis		TRUE	FALSE	FALSE	FALSE	FALSE
+Cerastio arvensis-Agrostietum pusillae		TRUE	FALSE	FALSE	FALSE	FALSE
+Jasiono montanae-Dianthetum deltoidis		TRUE	FALSE	FALSE	FALSE	FALSE
+Sedo-Scleranthion biennis		FALSE	FALSE	TRUE	FALSE	FALSE
+Sclerantho-Sempervivetum arachnoidei		TRUE	FALSE	FALSE	FALSE	FALSE
+Violo saxatilis-Saxifragetum asperae		TRUE	FALSE	FALSE	FALSE	FALSE
+Alysso-Sedetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Alysso alyssoidis-Sedion albi		FALSE	FALSE	TRUE	FALSE	FALSE
+Cerastietum pumili		TRUE	FALSE	FALSE	FALSE	FALSE
+Erodio cicutarium-Brometum hordeacei		TRUE	FALSE	FALSE	FALSE	FALSE
+Saxifrago tridactylito-Poetum compressae		TRUE	FALSE	FALSE	FALSE	FALSE
+Alysso alyssoidis-Sedetum albi		TRUE	FALSE	FALSE	FALSE	FALSE
+Sedo sexangularis-Sempervivetum tectorum		TRUE	FALSE	FALSE	FALSE	FALSE
+Medicagini lupulinae-Sedetum spurium		TRUE	FALSE	FALSE	FALSE	FALSE
+Petrorhagia saxifraga-Tortula ruralis-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Sedum acre-Ceratodon purpureus-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Puccinellio-Salicornietea		FALSE	FALSE	FALSE	TRUE	FALSE
+Crypsidetalia aculeatae		FALSE	FALSE	FALSE	TRUE	FALSE
+Cypero-Spergularion salinae		FALSE	FALSE	TRUE	FALSE	FALSE
+Salicornietum prostratae		TRUE	FALSE	FALSE	FALSE	FALSE
+Crypsido aculeatae-Suaedetum maritimae		TRUE	FALSE	FALSE	FALSE	FALSE
+Suaedetum pannonicae		TRUE	FALSE	FALSE	FALSE	FALSE
+Crypsidetum aculeatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Atriplici prostratae-Chenopodietum crassifolii		TRUE	FALSE	FALSE	FALSE	FALSE
+Atriplicetum prostratae		TRUE	FALSE	FALSE	FALSE	FALSE
+Cyperetum pannonici		TRUE	FALSE	FALSE	FALSE	FALSE
+Puccinellion peisonis		FALSE	FALSE	TRUE	FALSE	FALSE
+Lepidietum crassifolii		TRUE	FALSE	FALSE	FALSE	FALSE
+Atropidetum peisonis		TRUE	FALSE	FALSE	FALSE	FALSE
+Puccinellietalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Puccinellion limosae		FALSE	FALSE	TRUE	FALSE	FALSE
+Plantagini tenuiflorae-Pholiuretum pannonici		TRUE	FALSE	FALSE	FALSE	FALSE
+Hordeetum hystricis		TRUE	FALSE	FALSE	FALSE	FALSE
+Camphorosmetum annuae		TRUE	FALSE	FALSE	FALSE	FALSE
+Puccinellietum limosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Festucion pseudovinae		FALSE	FALSE	TRUE	FALSE	FALSE
+Artemisietum santonici		TRUE	FALSE	FALSE	FALSE	FALSE
+Centaureo pannonicae-Festucetum pseudovinae		TRUE	FALSE	FALSE	FALSE	FALSE
+Scorzonero-Juncetalia gerardii		FALSE	FALSE	FALSE	TRUE	FALSE
+Scorzonero-Juncion gerardii		FALSE	FALSE	TRUE	FALSE	FALSE
+Scorzonero parviflorae-Juncetum gerardii		TRUE	FALSE	FALSE	FALSE	FALSE
+Taraxaco bessarabici-Caricetum distantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Loto-Potentilletum anserinae		TRUE	FALSE	FALSE	FALSE	FALSE
+Carici distantis-Eleocharitetum quinqueflorae		TRUE	FALSE	FALSE	FALSE	FALSE
+Lemnetea		FALSE	FALSE	FALSE	FALSE	TRUE
+Lemnetalia minoris		FALSE	FALSE	FALSE	TRUE	FALSE
+Lemnion minoris		FALSE	FALSE	TRUE	FALSE	FALSE
+Lemnetum minoris		TRUE	FALSE	FALSE	FALSE	FALSE
+Lemnetum gibbae		TRUE	FALSE	FALSE	FALSE	FALSE
+Lemno-Spirodeletum polyrhizae		TRUE	FALSE	FALSE	FALSE	FALSE
+Lemnetum trisulcae		TRUE	FALSE	FALSE	FALSE	FALSE
+Riccietum fluitantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Ricciocarpetum natantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Hydrocharitetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Hydrocharition		FALSE	FALSE	TRUE	FALSE	FALSE
+Hydrocharitetum morsus-ranae		TRUE	FALSE	FALSE	FALSE	FALSE
+Stratiotetum aloidis		TRUE	FALSE	FALSE	FALSE	FALSE
+Ceratophylletum demersi		TRUE	FALSE	FALSE	FALSE	FALSE
+Utricularietalia minoris		FALSE	FALSE	FALSE	TRUE	FALSE
+Utricularion vulgaris		FALSE	FALSE	TRUE	FALSE	FALSE
+Lemno-Utricularietum vulgaris		TRUE	FALSE	FALSE	FALSE	FALSE
+Utricularietum neglectae		TRUE	FALSE	FALSE	FALSE	FALSE
+Charetea fragilis		FALSE	FALSE	FALSE	FALSE	TRUE
+Nitelletalia flexilis		FALSE	FALSE	FALSE	TRUE	FALSE
+Nitellion flexilis		FALSE	FALSE	TRUE	FALSE	FALSE
+Nitelletum flexilis		TRUE	FALSE	FALSE	FALSE	FALSE
+Nitellion syncarpae-tenuissimae		FALSE	FALSE	TRUE	FALSE	FALSE
+Nitelletum mucronatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Nitelletum opacae		TRUE	FALSE	FALSE	FALSE	FALSE
+Charetalia hispidae		FALSE	FALSE	FALSE	TRUE	FALSE
+Charion fragilis		FALSE	FALSE	TRUE	FALSE	FALSE
+Charetum asperae		TRUE	FALSE	FALSE	FALSE	FALSE
+Magnocharetum hispidae		TRUE	FALSE	FALSE	FALSE	FALSE
+Charetum tomentosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Charetum fragilis		TRUE	FALSE	FALSE	FALSE	FALSE
+Charion vulgaris		FALSE	FALSE	TRUE	FALSE	FALSE
+Charetum vulgaris		TRUE	FALSE	FALSE	FALSE	FALSE
+Charo-Tolypelletum intricatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Charion canescentis		FALSE	FALSE	TRUE	FALSE	FALSE
+Charetum canescentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Potametea		FALSE	FALSE	FALSE	FALSE	TRUE
+Potametalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Ranunculion fluitantis		FALSE	FALSE	TRUE	FALSE	FALSE
+Beruletum submersae		TRUE	FALSE	FALSE	FALSE	FALSE
+Callitrichetum obtusangulae		TRUE	FALSE	FALSE	FALSE	FALSE
+Ranunculetum fluitantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Callitricho hamulatae-Ranunculetum fluitantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Potamion pectinati		FALSE	FALSE	TRUE	FALSE	FALSE
+Potametum filiformis		TRUE	FALSE	FALSE	FALSE	FALSE
+Hottonietum palustris		TRUE	FALSE	FALSE	FALSE	FALSE
+Ranunculetum aquatilis		TRUE	FALSE	FALSE	FALSE	FALSE
+Potametum lucentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Myriophyllo-Potametum lucentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Potamo perfoliati-Ranunculetum circinati		TRUE	FALSE	FALSE	FALSE	FALSE
+Najadetum marinae		TRUE	FALSE	FALSE	FALSE	FALSE
+Parvopotamo-Zannichellietum tenuis		TRUE	FALSE	FALSE	FALSE	FALSE
+Potamogeton coloratus-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Potamogeton perfoliatus-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Potamogeton pectinatus-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Nymphaeion albae		FALSE	FALSE	TRUE	FALSE	FALSE
+Limnanthemetum nymphaeoidis		TRUE	FALSE	FALSE	FALSE	FALSE
+Trapetum natantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Nymphaeetum albo-luteae		TRUE	FALSE	FALSE	FALSE	FALSE
+Nymphaeetum minoris		TRUE	FALSE	FALSE	FALSE	FALSE
+Nupharetum pumilae		TRUE	FALSE	FALSE	FALSE	FALSE
+Potamogeton natans-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Phragmiti-Magnocaricetea		FALSE	FALSE	FALSE	FALSE	TRUE
+Phragmitetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Phragmition communis		FALSE	FALSE	TRUE	FALSE	FALSE
+Phragmitetum vulgaris		TRUE	FALSE	FALSE	FALSE	FALSE
+Scirpetum lacustris		TRUE	FALSE	FALSE	FALSE	FALSE
+Typhetum angustifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Typhetum latifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Glycerietum aquaticae		TRUE	FALSE	FALSE	FALSE	FALSE
+Acoretum calami		TRUE	FALSE	FALSE	FALSE	FALSE
+Equisetetum limosi		TRUE	FALSE	FALSE	FALSE	FALSE
+Leersietum oryzoidis		TRUE	FALSE	FALSE	FALSE	FALSE
+Sparganietum erecti		TRUE	FALSE	FALSE	FALSE	FALSE
+Magnocaricion elatae		FALSE	FALSE	TRUE	FALSE	FALSE
+Caricenion rostratae		FALSE	TRUE	FALSE	FALSE	FALSE
+Caricetum elatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Scorpidio-Caricetum dissolutae		TRUE	FALSE	FALSE	FALSE	FALSE
+Cicuto-Caricetum pseudocyperi		TRUE	FALSE	FALSE	FALSE	FALSE
+Mariscetum serrati		TRUE	FALSE	FALSE	FALSE	FALSE
+Peucedano-Caricetum lasiocarpae		TRUE	FALSE	FALSE	FALSE	FALSE
+Comaro-Caricetum lasiocarpae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum paradoxae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum paniculatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum acutiformis		TRUE	FALSE	FALSE	FALSE	FALSE
+Calamagrostietum canescentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricenion gracilis		FALSE	TRUE	FALSE	FALSE	FALSE
+Caricetum gracilis		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum oenensis		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum vesicariae		TRUE	FALSE	FALSE	FALSE	FALSE
+Galio palustris-Caricetum ripariae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum intermediae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum vulpinae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum melanostachyae		TRUE	FALSE	FALSE	FALSE	FALSE
+Phalaridetum arundinaceae		TRUE	FALSE	FALSE	FALSE	FALSE
+Eleocharitetum palustris		TRUE	FALSE	FALSE	FALSE	FALSE
+Iris pseudacorus-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Bolboschoenetalia maritimi		FALSE	FALSE	FALSE	TRUE	FALSE
+Cirsio brachycephali-Bolboschoenion		FALSE	TRUE	FALSE	FALSE	FALSE
+Bolboschoenetum maritimi		TRUE	FALSE	FALSE	FALSE	FALSE
+Schoenoplectetum tabernaemontani		TRUE	FALSE	FALSE	FALSE	FALSE
+Bolboschoeno-Phragmitetum communis		TRUE	FALSE	FALSE	FALSE	FALSE
+Nasturtio-Glycerietalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Glycerio-Sparganion		FALSE	FALSE	TRUE	FALSE	FALSE
+Glycerietum fluitantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Glycerietum plicatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Nasturtietum officinalis		TRUE	FALSE	FALSE	FALSE	FALSE
+Veronica beccabunga-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Phalaridion arundinaceae		FALSE	FALSE	TRUE	FALSE	FALSE
+Rorippo-Phalaridetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Calamagrostietum pseudophragmitis		TRUE	FALSE	FALSE	FALSE	FALSE
+Oenanthetalia aquaticae		FALSE	FALSE	FALSE	TRUE	FALSE
+Oenanthion aquaticae		FALSE	FALSE	TRUE	FALSE	FALSE
+Oenantho aquaticae-Rorippetum amphibiae		TRUE	FALSE	FALSE	FALSE	FALSE
+Sagittario-Sparganietum emersi		TRUE	FALSE	FALSE	FALSE	FALSE
+Eleocharito palustri-Hippuridetum vulgaris		TRUE	FALSE	FALSE	FALSE	FALSE
+Scirpetum radicantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Scheuchzerio-Caricetea fuscae		FALSE	FALSE	FALSE	FALSE	TRUE
+Scheuchzerietalia palustris		FALSE	FALSE	FALSE	TRUE	FALSE
+Rhynchosporion albae		FALSE	FALSE	TRUE	FALSE	FALSE
+Caricetum limosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Sphagno tenelli-Rhynchosporetum albae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricion lasiocarpae		FALSE	FALSE	TRUE	FALSE	FALSE
+Caricetum lasiocarpae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum rostratae		TRUE	FALSE	FALSE	FALSE	FALSE
+Amblystegio scorpioidis-Caricetum diandrae		TRUE	FALSE	FALSE	FALSE	FALSE
+Sphagno-Caricetum appropinquatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Amblystegio scorpioidis-Caricetum chordorrhizae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetalia fuscae		FALSE	FALSE	FALSE	TRUE	FALSE
+Caricion fuscae		FALSE	FALSE	TRUE	FALSE	FALSE
+Caricetum goodenowii		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum magellanicae		TRUE	FALSE	FALSE	FALSE	FALSE
+Eriophoretum scheuchzeri		TRUE	FALSE	FALSE	FALSE	FALSE
+Menyantho trifoliatae-Sphagnetum teretis		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetalia davallianae		FALSE	FALSE	FALSE	TRUE	FALSE
+Caricion davallianae		FALSE	FALSE	TRUE	FALSE	FALSE
+Amblystegio stellati-Caricetum dioicae		TRUE	FALSE	FALSE	FALSE	FALSE
+Schoenetum ferruginei		TRUE	FALSE	FALSE	FALSE	FALSE
+Junco obtusiflori-Schoenetum nigricantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Juncetum subnodulosi		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum davallianae		TRUE	FALSE	FALSE	FALSE	FALSE
+Amblystegio intermedii-Scirpetum austriaci		TRUE	FALSE	FALSE	FALSE	FALSE
+Eleocharitetum pauciflorae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum frigidae		TRUE	FALSE	FALSE	FALSE	FALSE
+Juncetum alpini		TRUE	FALSE	FALSE	FALSE	FALSE
+Astero bellidiastrum-Saxifragetum mutatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Equiseto variegati-Typhetum minimae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricion atrofusco-saxatilis		FALSE	FALSE	TRUE	FALSE	FALSE
+Juncetum castanei		TRUE	FALSE	FALSE	FALSE	FALSE
+Astero bellidiastrum-Kobresietum simpliciusculae		TRUE	FALSE	FALSE	FALSE	FALSE
+Oxycocco-Sphagnetea		FALSE	FALSE	FALSE	FALSE	TRUE
+Sphagnetalia medii		FALSE	FALSE	FALSE	TRUE	FALSE
+Oxycocco-Empetrion hermaphroditi		FALSE	FALSE	TRUE	FALSE	FALSE
+Empetro nigri-Sphagnetum fusci		TRUE	FALSE	FALSE	FALSE	FALSE
+Scirpo cespitosi-Sphagnetum compacti		TRUE	FALSE	FALSE	FALSE	FALSE
+Sphagnion medii		FALSE	FALSE	TRUE	FALSE	FALSE
+Ledo palustris-Sphagnetum medii		TRUE	FALSE	FALSE	FALSE	FALSE
+Sphagnetum medii		TRUE	FALSE	FALSE	FALSE	FALSE
+Scirpetum austriaci		TRUE	FALSE	FALSE	FALSE	FALSE
+Pinetum rotundatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Utricularietea intermedio-minoris		FALSE	FALSE	FALSE	FALSE	TRUE
+Urticularietalia intermedio-minoris		FALSE	FALSE	FALSE	TRUE	FALSE
+Scorpidio-Utricularion minoris		FALSE	FALSE	TRUE	FALSE	FALSE
+Scorpidio-Utricularietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Sparganio minimi-Utricularietum intermediae		TRUE	FALSE	FALSE	FALSE	FALSE
+Sphagno-Utricularion		FALSE	FALSE	TRUE	FALSE	FALSE
+Sphagnum cuspidatum-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Littorelletea		FALSE	FALSE	FALSE	FALSE	TRUE
+Littorelletalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Eleocharition acicularis		FALSE	FALSE	TRUE	FALSE	FALSE
+Littorello lacustris-Eleocharitetum acicularis		TRUE	FALSE	FALSE	FALSE	FALSE
+Deschampsietum rhenanae		TRUE	FALSE	FALSE	FALSE	FALSE
+Ranunculo-Juncetum bulbosi		TRUE	FALSE	FALSE	FALSE	FALSE
+Sphagno obesi-Sparganietum angustifolii		TRUE	FALSE	FALSE	FALSE	FALSE
+Isoeto-Nanojuncetea		FALSE	FALSE	FALSE	FALSE	TRUE
+Nanocyperetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Nanocyperion		FALSE	FALSE	TRUE	FALSE	FALSE
+Polygono-Heleocharitetum ovatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Heleocharito acicularis-Limoselletum aquaticae		TRUE	FALSE	FALSE	FALSE	FALSE
+Centunculo-Anthocerotetum punctati		TRUE	FALSE	FALSE	FALSE	FALSE
+Scirpo setacei-Stellarietum uliginosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Juncetum bufonii		TRUE	FALSE	FALSE	FALSE	FALSE
+Glycerio declinatae-Limoselletum aquaticae		TRUE	FALSE	FALSE	FALSE	FALSE
+Cyperetum flavescentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Samolo-Cyperetum fusci		TRUE	FALSE	FALSE	FALSE	FALSE
+Erythraeo-Blackstonietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Veronico anagalloidis-Lythretum hyssopifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Dichostylido michelianae-Gnaphalietum uliginosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Cerastio-Ranunculetum sardoi		TRUE	FALSE	FALSE	FALSE	FALSE
+Centunculo-Radioletum linoidis		TRUE	FALSE	FALSE	FALSE	FALSE
+Cyperus fuscus-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Montio-Cardaminetea		FALSE	FALSE	FALSE	FALSE	TRUE
+Montio-Cardaminetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Caricion remotae		FALSE	FALSE	TRUE	FALSE	FALSE
+Cardamino-Chrysosplenietum alternifolii		TRUE	FALSE	FALSE	FALSE	FALSE
+Trichocoleo-Sphagnetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Epilobio nutantis-Montion		FALSE	FALSE	TRUE	FALSE	FALSE
+Montio-Philonotidetum fontanae		TRUE	FALSE	FALSE	FALSE	FALSE
+Cardamino-Montion		FALSE	FALSE	TRUE	FALSE	FALSE
+Montio-Bryetum schleicheri		TRUE	FALSE	FALSE	FALSE	FALSE
+Marsupelletum emarginatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Blindio-Scapanietum undulatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Scapanietum paludosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Mniobryetum albicantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Solenostomo-Hygrohypnetum smithii		TRUE	FALSE	FALSE	FALSE	FALSE
+Scapanietum uliginosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Dermatocarpion		FALSE	FALSE	TRUE	FALSE	FALSE
+Dermatocarpetum rivulorum		TRUE	FALSE	FALSE	FALSE	FALSE
+Cratoneurion		FALSE	FALSE	TRUE	FALSE	FALSE
+Cratoneuretum falcati		TRUE	FALSE	FALSE	FALSE	FALSE
+Cratoneuro-Hygrohypnetum luridi		TRUE	FALSE	FALSE	FALSE	FALSE
+Adiantion		FALSE	FALSE	TRUE	FALSE	FALSE
+Cratoneuretum commutati		TRUE	FALSE	FALSE	FALSE	FALSE
+Catoscopietum nigriti		TRUE	FALSE	FALSE	FALSE	FALSE
+Eucladietum verticillati		TRUE	FALSE	FALSE	FALSE	FALSE
+Scytonematetum myochrous		TRUE	FALSE	FALSE	FALSE	FALSE
+Asplenietea trichomanis		FALSE	FALSE	FALSE	FALSE	TRUE
+Potentilletalia caulescentis		FALSE	FALSE	FALSE	TRUE	FALSE
+Potentillion caulescentis		FALSE	FALSE	TRUE	FALSE	FALSE
+Hieracio humilis-Potentilletum caulescentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Hieracio humilis-Campanuletum praesignis		TRUE	FALSE	FALSE	FALSE	FALSE
+Drabetum thomasii		TRUE	FALSE	FALSE	FALSE	FALSE
+Drabo stellatae-Potentilletum clusianae		TRUE	FALSE	FALSE	FALSE	FALSE
+Androsacetum helveticae		TRUE	FALSE	FALSE	FALSE	FALSE
+Androsaco-Drabion tomentosae		FALSE	FALSE	TRUE	FALSE	FALSE
+Potentilletum caulescentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Potentillo clusianae-Campanuletum zoysii		TRUE	FALSE	FALSE	FALSE	FALSE
+Potentilletum nitidae		TRUE	FALSE	FALSE	FALSE	FALSE
+Cystopteridion		FALSE	FALSE	TRUE	FALSE	FALSE
+Cystopteridetum fragilis		TRUE	FALSE	FALSE	FALSE	FALSE
+Heliospermo-Cystopteridetum alpinae		TRUE	FALSE	FALSE	FALSE	FALSE
+Valeriano elongatae-Asplenietum viridis		TRUE	FALSE	FALSE	FALSE	FALSE
+Asplenio viridis-Caricetum brachystachyos		TRUE	FALSE	FALSE	FALSE	FALSE
+Tortulo-Cymbalarietalia		FALSE	FALSE	FALSE	FALSE	TRUE
+Cymbalario-Asplenion		FALSE	FALSE	TRUE	FALSE	FALSE
+Asplenietum lepidi		TRUE	FALSE	FALSE	FALSE	FALSE
+Moehringietum bavaricae		TRUE	FALSE	FALSE	FALSE	FALSE
+Asplenietum rutae-murariae-trichomanis		TRUE	FALSE	FALSE	FALSE	FALSE
+Cymbalarietum muralis		TRUE	FALSE	FALSE	FALSE	FALSE
+Corydalidetum luteae		TRUE	FALSE	FALSE	FALSE	FALSE
+Sedum album-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Sedum dasyphyllum-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Cystopteris fragilis-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Androsacetalia multiflorae		FALSE	FALSE	FALSE	TRUE	FALSE
+Androsacion multiflorae		FALSE	FALSE	TRUE	FALSE	FALSE
+Asplenio-Primuletum hirsutae		TRUE	FALSE	FALSE	FALSE	FALSE
+Asplenion septentrionalis		FALSE	FALSE	TRUE	FALSE	FALSE
+Woodsio-Asplenietum septentrionalis		TRUE	FALSE	FALSE	FALSE	FALSE
+Sileno rupestris-Asplenietum septentrionalis		TRUE	FALSE	FALSE	FALSE	FALSE
+Asplenietum septentrionali-adianti-nigri		TRUE	FALSE	FALSE	FALSE	FALSE
+Moehringietum diversifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Asplenium septentrionale-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Asplenion serpentini		FALSE	FALSE	TRUE	FALSE	FALSE
+Notholaeno-Sempervivetum hirti		TRUE	FALSE	FALSE	FALSE	FALSE
+Hypno-Polypodion vulgaris		FALSE	FALSE	TRUE	FALSE	FALSE
+Saxifragetum paradoxae		TRUE	FALSE	FALSE	FALSE	FALSE
+Thlaspietea rotundifolii		FALSE	FALSE	FALSE	FALSE	TRUE
+Thlaspietalia rotundifolii		FALSE	FALSE	FALSE	TRUE	FALSE
+Thlaspion rotundifolii		FALSE	FALSE	TRUE	FALSE	FALSE
+Thlaspietum rotundifolii		TRUE	FALSE	FALSE	FALSE	FALSE
+Papaveretum rhaetici		TRUE	FALSE	FALSE	FALSE	FALSE
+Papaveri kerneri-Thlaspietum kerneri		TRUE	FALSE	FALSE	FALSE	FALSE
+Crepidetum terglouensis		TRUE	FALSE	FALSE	FALSE	FALSE
+Leontodontetum montani		TRUE	FALSE	FALSE	FALSE	FALSE
+Saxifragetum hohenwartii		TRUE	FALSE	FALSE	FALSE	FALSE
+Thlaspietum cepaeifolii		TRUE	FALSE	FALSE	FALSE	FALSE
+Doronicum grandiflorum-Arabis alpina-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Minuartia gerardii-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Minuartia austriaca-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Petasition paradoxi		FALSE	FALSE	TRUE	FALSE	FALSE
+Petasitetum nivei		TRUE	FALSE	FALSE	FALSE	FALSE
+Athamanto-Trisetetum distichophylli		TRUE	FALSE	FALSE	FALSE	FALSE
+Festucetum laxae		TRUE	FALSE	FALSE	FALSE	FALSE
+Anthyllido-Leontodontetum hyoseroidis		TRUE	FALSE	FALSE	FALSE	FALSE
+Dryopteridetum villarii		TRUE	FALSE	FALSE	FALSE	FALSE
+Petasitetum albi		TRUE	FALSE	FALSE	FALSE	FALSE
+Moehringio-Gymnocarpietum robertiani		TRUE	FALSE	FALSE	FALSE	FALSE
+Cystopteridetum montanae		TRUE	FALSE	FALSE	FALSE	FALSE
+Polystichetum lonchitis		TRUE	FALSE	FALSE	FALSE	FALSE
+Drabetalia hoppeanae		FALSE	FALSE	FALSE	TRUE	FALSE
+Drabion hoppeanae		FALSE	FALSE	TRUE	FALSE	FALSE
+Saxifragetum biflorae		TRUE	FALSE	FALSE	FALSE	FALSE
+Saxifragetum rudolphianae		TRUE	FALSE	FALSE	FALSE	FALSE
+Campanulo cenisiae-Saxifragetum oppositifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Drabetum hoppeanae		TRUE	FALSE	FALSE	FALSE	FALSE
+Arabidetalia caeruleae		FALSE	FALSE	FALSE	TRUE	FALSE
+Arabidion caeruleae		FALSE	FALSE	TRUE	FALSE	FALSE
+Arabidetum caeruleae		TRUE	FALSE	FALSE	FALSE	FALSE
+Arabido-Rumicetum nivalis		TRUE	FALSE	FALSE	FALSE	FALSE
+Campanulo pullae-Achilleetum atratae		TRUE	FALSE	FALSE	FALSE	FALSE
+Campanulo pullae-Achilleetum clusianae		TRUE	FALSE	FALSE	FALSE	FALSE
+Homogyno discoloris-Salicetum retusae		TRUE	FALSE	FALSE	FALSE	FALSE
+Potentillo dubiae-Homogynetum discoloris		TRUE	FALSE	FALSE	FALSE	FALSE
+Salicetum retuso-reticulatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Androsacetalia alpinae		FALSE	FALSE	FALSE	TRUE	FALSE
+Androsacion alpinae		FALSE	FALSE	TRUE	FALSE	FALSE
+Androsacetum alpinae		TRUE	FALSE	FALSE	FALSE	FALSE
+Sieversio-Oxyrietum digynae		TRUE	FALSE	FALSE	FALSE	FALSE
+Androsacetum wulfenianae		TRUE	FALSE	FALSE	FALSE	FALSE
+Allosuro-Athyrion alpestris		FALSE	FALSE	TRUE	FALSE	FALSE
+Allosuretum crispae		TRUE	FALSE	FALSE	FALSE	FALSE
+Galeopsidion		FALSE	FALSE	TRUE	FALSE	FALSE
+Galeopsio-Rumicetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Epilobietalia fleischeri		FALSE	FALSE	FALSE	TRUE	FALSE
+Salicion incanae		FALSE	FALSE	TRUE	FALSE	FALSE
+Epilobietum fleischeri		TRUE	FALSE	FALSE	FALSE	FALSE
+Myricario-Chondrilletum		TRUE	FALSE	FALSE	FALSE	FALSE
+Epilobio-Myricarietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Galio-Parietarietalia officinalis		FALSE	FALSE	FALSE	TRUE	FALSE
+Stipion calamagrostis	Jenny-Lips ex Br.-Blö. et al 1952	FALSE	FALSE	TRUE	FALSE	FALSE
+Stipetum calamagrostis		TRUE	FALSE	FALSE	FALSE	FALSE
+Rumicetum scutati		TRUE	FALSE	FALSE	FALSE	FALSE
+Vincetoxicetum officinalis		TRUE	FALSE	FALSE	FALSE	FALSE
+Galeopsietum angustifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetea curvulae		FALSE	FALSE	FALSE	FALSE	TRUE
+Caricetalia curvulae		FALSE	FALSE	FALSE	TRUE	FALSE
+Caricion curvulae		FALSE	FALSE	TRUE	FALSE	FALSE
+Caricetum curvulae		TRUE	FALSE	FALSE	FALSE	FALSE
+Loiseleurio-Caricetum curvulae		TRUE	FALSE	FALSE	FALSE	FALSE
+Hygrocaricetum curvulae		TRUE	FALSE	FALSE	FALSE	FALSE
+Carici curvulae-Nardetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Festucetum halleri		TRUE	FALSE	FALSE	FALSE	FALSE
+Juncion trifidi		FALSE	FALSE	TRUE	FALSE	FALSE
+Juncetum trifidi		TRUE	FALSE	FALSE	FALSE	FALSE
+Festucetalia spadiceae		FALSE	FALSE	FALSE	TRUE	FALSE
+Festucion variae		FALSE	FALSE	TRUE	FALSE	FALSE
+Pulsatillo albae-Festucetum variae		TRUE	FALSE	FALSE	FALSE	FALSE
+Hypochoerido uniflorae-Festucetum paniculatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum sempervirentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Nardion strictae		FALSE	FALSE	TRUE	FALSE	FALSE
+Sieversio-Nardetum strictae		TRUE	FALSE	FALSE	FALSE	FALSE
+Agrostion schraderianae		FALSE	FALSE	TRUE	FALSE	FALSE
+Festucetum picturatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Agrostio schraderianae-Festucetum nigricantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Pediculari recutitae-Agrostietum schraderianae		TRUE	FALSE	FALSE	FALSE	FALSE
+Chaerophyllo villarsii-Agrostietum schraderianae		TRUE	FALSE	FALSE	FALSE	FALSE
+Carici rupestris-Kobresietea bellardii		FALSE	FALSE	FALSE	FALSE	TRUE
+Oxytropido-Kobresietalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Oxytropido-Elynion		FALSE	FALSE	TRUE	FALSE	FALSE
+Elynetum myosuroides		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum rupestris		TRUE	FALSE	FALSE	FALSE	FALSE
+Elyno-Caricetum rosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Agrostis alpina-Gesellschaften		TRUE	FALSE	FALSE	FALSE	FALSE
+Salicetea herbaceae		FALSE	FALSE	FALSE	FALSE	TRUE
+Salicetalia herbaceae		FALSE	FALSE	FALSE	TRUE	FALSE
+Salicion herbaceae		FALSE	FALSE	TRUE	FALSE	FALSE
+Cardamino alpinae-Anthelietum juratzkanae		TRUE	FALSE	FALSE	FALSE	FALSE
+Polytrichetum sexangularis		TRUE	FALSE	FALSE	FALSE	FALSE
+Polytricho juniperini-Soldanelletum pusillae		TRUE	FALSE	FALSE	FALSE	FALSE
+Salicetum herbaceae		TRUE	FALSE	FALSE	FALSE	FALSE
+Salici herbaceae-Caricetum lachenalii		TRUE	FALSE	FALSE	FALSE	FALSE
+Poo-Cerastietum cerastoidis		TRUE	FALSE	FALSE	FALSE	FALSE
+Nardo-Gnaphalietum supini		TRUE	FALSE	FALSE	FALSE	FALSE
+Luzuletum spadiceae		TRUE	FALSE	FALSE	FALSE	FALSE
+Seslerietea albicantis		FALSE	FALSE	FALSE	FALSE	TRUE
+Seslerietalia coeruleae		FALSE	FALSE	FALSE	TRUE	FALSE
+Caricion firmae		FALSE	FALSE	TRUE	FALSE	FALSE
+Caricetum firmae		TRUE	FALSE	FALSE	FALSE	FALSE
+Gentiano terglouensis-Caricetum firmae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum mucronatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Festucetum pumilae		TRUE	FALSE	FALSE	FALSE	FALSE
+Homogyno discoloris-Loiseleurietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Dryadetum octopetalae		TRUE	FALSE	FALSE	FALSE	FALSE
+Seslerion coeruleae	Br.-Bl. in Br.-Bl. & Jenny 1926	FALSE	FALSE	TRUE	FALSE	FALSE
+Seslerio-Caricetum sempervirentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Athamanto-Festucetum pallidulae		TRUE	FALSE	FALSE	FALSE	FALSE
+Valeriano-Seslerietum albicantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Alchemillo decumbentis-Juncetum monanthi		TRUE	FALSE	FALSE	FALSE	FALSE
+Acinoetum alpini		TRUE	FALSE	FALSE	FALSE	FALSE
+Globularia cordifolia-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricion austroalpinae		FALSE	FALSE	TRUE	FALSE	FALSE
+Ranunculo hybridi-Caricetum sempervirentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Avenastro parlatorei-Festucetum calvae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricion ferrugineae		FALSE	FALSE	TRUE	FALSE	FALSE
+Trifolio-Seslerietum albicantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Trifolio thalii-Festucetum nigricantis		TRUE	FALSE	FALSE	FALSE	FALSE
+Campanulo scheuchzeri-Festucetum noricae		TRUE	FALSE	FALSE	FALSE	FALSE
+Caricetum ferrugineae		TRUE	FALSE	FALSE	FALSE	FALSE
+Hyperico alpini-Caricetum ferrugineae		TRUE	FALSE	FALSE	FALSE	FALSE
+Calamagrostion variae		FALSE	FALSE	TRUE	FALSE	FALSE
+Origano-Calamagrostietum variae		TRUE	FALSE	FALSE	FALSE	FALSE
+Molinietum litoralis		TRUE	FALSE	FALSE	FALSE	FALSE
+Rhododendro hirsuti-Ericetalia carneae		FALSE	FALSE	FALSE	TRUE	FALSE
+Ericion carneae		FALSE	FALSE	TRUE	FALSE	FALSE
+Ericetum carneae		TRUE	FALSE	FALSE	FALSE	FALSE
+Rhododendretum hirsuti		TRUE	FALSE	FALSE	FALSE	FALSE
+Loiseleurio-Vaccinietea		FALSE	FALSE	FALSE	FALSE	TRUE
+Rhododendro-Vaccinietalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Loiseleurio-Vaccinion		FALSE	FALSE	TRUE	FALSE	FALSE
+Loiseleurio-Cetrarietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Gymnomitrio concinnati-Loiseleurietum procumbentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Empetro-Vaccinietum gaultherioidis		TRUE	FALSE	FALSE	FALSE	FALSE
+Rhododendro-Vaccinion		FALSE	FALSE	TRUE	FALSE	FALSE
+Rhododendretum ferruginei		TRUE	FALSE	FALSE	FALSE	FALSE
+Salicetum helveticae		TRUE	FALSE	FALSE	FALSE	FALSE
+Juniperion nanae		FALSE	FALSE	TRUE	FALSE	FALSE
+Junipero-Arctostaphyletum		TRUE	FALSE	FALSE	FALSE	FALSE
+Mulgedio-Aconitetea		FALSE	FALSE	FALSE	FALSE	TRUE
+Adenostyletalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Adenostylion alliariae		FALSE	FALSE	TRUE	FALSE	FALSE
+Cicerbitetum alpinae		TRUE	FALSE	FALSE	FALSE	FALSE
+Festuco pseudodurae-Aconitetum taurici		TRUE	FALSE	FALSE	FALSE	FALSE
+Centaureetum rhaponticae		TRUE	FALSE	FALSE	FALSE	FALSE
+Carduo carduelis-Cirsietum carniolici		TRUE	FALSE	FALSE	FALSE	FALSE
+Alnion viridis		FALSE	FALSE	TRUE	FALSE	FALSE
+Alnetum viridis		TRUE	FALSE	FALSE	FALSE	FALSE
+Allio victorialis-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Salici appendiculatae-Aceretum pseudoplatani		TRUE	FALSE	FALSE	FALSE	FALSE
+Saxifrago rotundifoliae-Salicetum appendiculatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Salicetum waldsteinianae		TRUE	FALSE	FALSE	FALSE	FALSE
+Salicetum caesio-foetidae		TRUE	FALSE	FALSE	FALSE	FALSE
+Salicetum bicoloris		TRUE	FALSE	FALSE	FALSE	FALSE
+Calamagrostietalia villosae		FALSE	FALSE	FALSE	TRUE	FALSE
+Calamagrostion villosae		FALSE	FALSE	TRUE	FALSE	FALSE
+Campanulo scheuchzeri-Calamagrostietum villosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Athyrietum alpestris		TRUE	FALSE	FALSE	FALSE	FALSE
+Athyrietum filicis-feminae		TRUE	FALSE	FALSE	FALSE	FALSE
+Calamagrostion arundinaceae		FALSE	FALSE	TRUE	FALSE	FALSE
+Centaureo montanae-Calamagrostietum arundinaceae		TRUE	FALSE	FALSE	FALSE	FALSE
+Rumicetalia alpini		FALSE	FALSE	FALSE	TRUE	FALSE
+Rumicion alpini		FALSE	FALSE	TRUE	FALSE	FALSE
+Rumicetum alpini		TRUE	FALSE	FALSE	FALSE	FALSE
+Peucedanetum ostruthii		TRUE	FALSE	FALSE	FALSE	FALSE
+Poo supinae-Chenopodietum boni-henrici		TRUE	FALSE	FALSE	FALSE	FALSE
+Senecietum alpini		TRUE	FALSE	FALSE	FALSE	FALSE
+Deschampsia cespitosa-(Rumicion alpini)-Gesellschaft		FALSE	FALSE	TRUE	FALSE	FALSE
+Urtica dioica-(Rumicion alpini)-Gesellschaft		FALSE	FALSE	TRUE	FALSE	FALSE
+Mentha longifolia-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Alnetea glutinosae		FALSE	FALSE	FALSE	FALSE	TRUE
+Salicetalia auritae		FALSE	FALSE	FALSE	TRUE	FALSE
+Salicion cinereae		FALSE	FALSE	TRUE	FALSE	FALSE
+Salicetum cinereae		TRUE	FALSE	FALSE	FALSE	FALSE
+Salicetum auritae		TRUE	FALSE	FALSE	FALSE	FALSE
+Betuletum humilis		TRUE	FALSE	FALSE	FALSE	FALSE
+Phragmiti-Salicetum cinereae		TRUE	FALSE	FALSE	FALSE	FALSE
+Alnetalia glutinosae		FALSE	FALSE	FALSE	TRUE	FALSE
+Alnion glutinosae		FALSE	FALSE	TRUE	FALSE	FALSE
+Carici elongatae-Alnetum glutinosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Hottonio-Alnetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Carici acutiformis-Alnetum glutinosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Carici elatae-Alnetum glutinosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Cardamino trifoliae-Alnetum glutinosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Rhamno catharticae-Alnetum glutinosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Carici ripariae-Alnetum glutinosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Salicetea purpureae		FALSE	FALSE	FALSE	FALSE	TRUE
+Salicetalia purpureae		FALSE	FALSE	FALSE	TRUE	FALSE
+Salicion eleagno-daphnoidis		FALSE	FALSE	TRUE	FALSE	FALSE
+Salici-Myricarietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Salici incanae-Hippophaetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Salicetum incano-purpureae		TRUE	FALSE	FALSE	FALSE	FALSE
+Salicion albae		FALSE	FALSE	TRUE	FALSE	FALSE
+Salicetum triandrae		TRUE	FALSE	FALSE	FALSE	FALSE
+Salicetum albae		TRUE	FALSE	FALSE	FALSE	FALSE
+Salicetum fragilis		TRUE	FALSE	FALSE	FALSE	FALSE
+Salix purpurea-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Rhamno-Prunetea		FALSE	FALSE	FALSE	FALSE	TRUE
+Prunetalia spinosae		FALSE	FALSE	FALSE	TRUE	FALSE
+Berberidion	Br.-Bl. ex Tx. 1952	FALSE	FALSE	TRUE	FALSE	FALSE
+Cotoneastro-Amelanchieretum		TRUE	FALSE	FALSE	FALSE	FALSE
+Berberido-Rosetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Hippophao-Berberidetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Populo-Coryletum		TRUE	FALSE	FALSE	FALSE	FALSE
+Ligustro-Prunetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Roso-Ulmetum campestris		TRUE	FALSE	FALSE	FALSE	FALSE
+Prunus × eminens-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Rubo-Prunion spinosae		FALSE	FALSE	TRUE	FALSE	FALSE
+Rubo-Coryletum		TRUE	FALSE	FALSE	FALSE	FALSE
+Carpino-Prunetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Prunion spinosae		FALSE	FALSE	TRUE	FALSE	FALSE
+Prunetum fruticosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Prunetum tenellae		TRUE	FALSE	FALSE	FALSE	FALSE
+Rosetum pimpinellifoliae		TRUE	FALSE	FALSE	FALSE	FALSE
+Waldsteinio geoidis-Spiraeetum mediae		TRUE	FALSE	FALSE	FALSE	FALSE
+Prunus spinosa-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Cornus sanguinea-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Prunus domestica-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Querco-Fagetea		FALSE	FALSE	FALSE	FALSE	TRUE
+Fagetalia sylvaticae		FALSE	FALSE	FALSE	TRUE	FALSE
+Alnion incanae		FALSE	FALSE	TRUE	FALSE	FALSE
+Alnenion glutinoso-incanae		FALSE	TRUE	FALSE	FALSE	FALSE
+Alnetum incanae		TRUE	FALSE	FALSE	FALSE	FALSE
+Stellario nemorum-Alnetum glutinosae		TRUE	FALSE	FALSE	FALSE	FALSE
+Stellario bulbosae-Fraxinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Carici remotae-Fraxinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Pruno-Fraxinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Ulmenion		FALSE	TRUE	FALSE	FALSE	FALSE
+Querco-Ulmetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Fraxino pannonicae-Ulmetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Fraxino-Populetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Tilio-Acerion	Klika 1955	TRUE	FALSE	FALSE	FALSE	FALSE
+Tilenion platyphylli	(Moor 1973) Müller 1992	FALSE	TRUE	FALSE	FALSE	FALSE
+Lunario-Acerenion pseudoplatani	(Moor 1973) Müller 1992	FALSE	TRUE	FALSE	FALSE	FALSE
+Mercuriali-Fraxinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Corydalido cavae-Aceretum pseudoplatani		TRUE	FALSE	FALSE	FALSE	FALSE
+Carici pendulae-Aceretum pseudoplatani		TRUE	FALSE	FALSE	FALSE	FALSE
+Hacquetio-Fraxinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Scolopendrio-Fraxinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Lunario-Aceretum pseudoplatani		TRUE	FALSE	FALSE	FALSE	FALSE
+Violo albae-Fraxinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Arunco-Aceretum		TRUE	FALSE	FALSE	FALSE	FALSE
+Ulmo-Aceretum pseudoplatani		TRUE	FALSE	FALSE	FALSE	FALSE
+Asperulo taurinae-Aceretum		TRUE	FALSE	FALSE	FALSE	FALSE
+Aceri-Carpinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Poo nemoralis-Tilietum cordatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Cynancho-Tilietum platyphyllis		TRUE	FALSE	FALSE	FALSE	FALSE
+Asperulo taurinae-Tilietum		TRUE	FALSE	FALSE	FALSE	FALSE
+Corylus avellana-Gesellschaft		TRUE	FALSE	FALSE	FALSE	FALSE
+Carpinion betuli	Issler 1931	FALSE	FALSE	TRUE	FALSE	FALSE
+Galio sylvatici-Carpinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Melampyro nemorosi-Carpinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Carici pilosae-Carpinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Primulo veris-Carpinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Fraxino pannonici-Carpinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Festuco heterophyllo-Querceetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Erythronio-Carpinion		TRUE	FALSE	FALSE	FALSE	FALSE
+Asperulo odoratae-Carpinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Helleboro nigri-Carpinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Fagion sylvaticae	Luquet 1926	FALSE	FALSE	TRUE	FALSE	FALSE
+Lonicero alpigenae-Fagenion	Borhidi ex Soó 1964	FALSE	TRUE	FALSE	FALSE	FALSE
+Eu-Fagenion	Oberd. 1957	FALSE	TRUE	FALSE	FALSE	FALSE
+Asperulo odoratae-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Dentario enneaphylli-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Carici pilosae-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Melittio-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Daphno-Fagenion		TRUE	FALSE	FALSE	FALSE	FALSE
+Pulmonario-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Aposerido-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Adenostylo glabrae-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Helleboro nigri-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Poo stiriacae-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Aro maculati-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Cephalanthero-Fagenion	Tx. & Oberd. 1958	FALSE	TRUE	FALSE	FALSE	FALSE
+Carici albae-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Seslerio-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Taxo-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Cephalanthero-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Acerenion pseudoplatani		FALSE	TRUE	FALSE	FALSE	FALSE
+Aceri-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Aremonio-Fagion		FALSE	FALSE	TRUE	FALSE	FALSE
+Ostryo-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Hacquetio-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Lamio orvalae-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Ranunculo platanifolii-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Anemono trifoliae-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Polysticho lonchitis-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Aconito paniculati-Fagetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Quercetalia roboris		FALSE	FALSE	FALSE	TRUE	FALSE
+Genisto germanicae-Quercion		FALSE	FALSE	TRUE	FALSE	FALSE
+Deschampsio flexuosae-Quercetum sessiliflorae		TRUE	FALSE	FALSE	FALSE	FALSE
+Molinio arundinaceae-Quercetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Cytiso nigricantis-Quercetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Sorbo torminalis-Quercetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Genisto pilosae-Quercetum petraeae		TRUE	FALSE	FALSE	FALSE	FALSE
+Luzulo-Fagion		FALSE	FALSE	TRUE	FALSE	FALSE
+Luzulo nemorosae-Fagetum sylvatici		TRUE	FALSE	FALSE	FALSE	FALSE
+Luzulo-Tilietum cordatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Quercetalia pubescentis		FALSE	FALSE	FALSE	TRUE	FALSE
+Quercion pubescentis-sessiliflorae		FALSE	FALSE	TRUE	FALSE	FALSE
+Geranio sanguinei-Quercetum pubescentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Euphorbio angulatae-Quercetum pubescentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Pruno mahaleb-Quercetum pubescentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Corno-Quercetum pubescentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Quercetum petraeae-cerris		TRUE	FALSE	FALSE	FALSE	FALSE
+Aceri tatarici-Quercion		FALSE	FALSE	TRUE	FALSE	FALSE
+Aceri tatarici-Quercetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Pulsatillo-Pinetea		FALSE	FALSE	FALSE	FALSE	TRUE
+Pulsatillo-Pinetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Ononido-Pinion		FALSE	FALSE	TRUE	FALSE	FALSE
+Ononido-Pinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Junipero sabinae-Laricetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Salici eleagni-Pinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Erico-Pinetea		FALSE	FALSE	FALSE	FALSE	TRUE
+Erico-Pinetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Erico-Pinion sylvestris		FALSE	FALSE	TRUE	FALSE	FALSE
+Molinio litoralis-Pinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Cephalanthero-Pinetum sylvestris		TRUE	FALSE	FALSE	FALSE	FALSE
+Carici humilis-Pinetum sylvestris		TRUE	FALSE	FALSE	FALSE	FALSE
+Erico-Pinetum sylvestris		TRUE	FALSE	FALSE	FALSE	FALSE
+Dorycnio-Pinetum sylvestris		TRUE	FALSE	FALSE	FALSE	FALSE
+Euphorbio saxatilis-Pinetum nigrae		TRUE	FALSE	FALSE	FALSE	FALSE
+Seslerio-Pinetum nigrae		TRUE	FALSE	FALSE	FALSE	FALSE
+Fraxino orni-Ostryion carpinifoliae		FALSE	FALSE	TRUE	FALSE	FALSE
+Ostryo carpinifoliae-Fraxinetum orni		TRUE	FALSE	FALSE	FALSE	FALSE
+Fraxino orni-Pinetum nigrae		TRUE	FALSE	FALSE	FALSE	FALSE
+Erico-Pinion mugo		FALSE	FALSE	TRUE	FALSE	FALSE
+Rhodothamno-Rhododendretum hirsuti		TRUE	FALSE	FALSE	FALSE	FALSE
+Erico carneae-Pinetum prostratae		TRUE	FALSE	FALSE	FALSE	FALSE
+Vaccinio myrtilli-Pinetum montanae		TRUE	FALSE	FALSE	FALSE	FALSE
+Lycopodio annotini-Pinetum uncinatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Erico carneae-Pinetum uncinatae		TRUE	FALSE	FALSE	FALSE	FALSE
+Rhododendro hirsuti-Pinetum montanae		TRUE	FALSE	FALSE	FALSE	FALSE
+Pinetum cembrae		TRUE	FALSE	FALSE	FALSE	FALSE
+Laricetum deciduae		TRUE	FALSE	FALSE	FALSE	FALSE
+						
+Vaccinio-Piceetea	Br.-Bl. et al. 1939	FALSE	FALSE	FALSE	FALSE	TRUE
+Piceetalia	Pawł. 1928	FALSE	FALSE	FALSE	TRUE	FALSE
+Abietii-Piceion	(Br.-Bl. 1939) Soó 1963 s.l.	FALSE	FALSE	TRUE	FALSE	FALSE
+Larici-Piceetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Soldanello montanae-Piceetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Mastigobryo-Piceetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Luzulo nemorosae-Piceetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Larici-Pinetum cembrae		TRUE	FALSE	FALSE	FALSE	FALSE
+Rhododendro ferruginei-Pinetum prostratae		TRUE	FALSE	FALSE	FALSE	FALSE
+Dicrano-Pinion		FALSE	FALSE	TRUE	FALSE	FALSE
+Dicrano-Pinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Vaccinio vitis-idaeae-Pinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Cardaminopsio petraeae-Pinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Festuco eggleri-Pinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Festuco ovinae-Pinetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Betulion pubescentis		FALSE	FALSE	TRUE	FALSE	FALSE
+Vaccinio uliginosi-Betuletum pubescentis		TRUE	FALSE	FALSE	FALSE	FALSE
+Vaccinio uliginosi-Pinetum sylvestris		TRUE	FALSE	FALSE	FALSE	FALSE
+Sphagno girgensohnii-Piceetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Athyrio-Piceetalia		FALSE	FALSE	FALSE	TRUE	FALSE
+Chrysanthemo rotundifolii-Piceion		FALSE	FALSE	TRUE	FALSE	FALSE
+Adenostylo glabrae-Piceetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Adenostylo alliariae-Abietetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Abieti-Piceion	(Br.-Bl. 1939) Soó 1963 s.l.	FALSE	FALSE	TRUE	FALSE	FALSE
+Galio rotundifolii-Piceetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Veronico latifoliae-Piceetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Adenostylo glabrae-Abietetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Calamagrostio variae-Piceetum	Schweingruber 1972	TRUE	FALSE	FALSE	FALSE	FALSE
+						
+Calamagrostio variae-Abietenion  	(Horvat 1962) Exner & Willner 2007	FALSE	TRUE	FALSE	FALSE	FALSE
+Carici albae-Abietetum	Ling ex Gafta 1994	TRUE	FALSE	FALSE	FALSE	FALSE
+Cylamini-Abietetum	Willner & Zukrigl (1999) nom. nov.					
+Asplenio-Piceetum		TRUE	FALSE	FALSE	FALSE	FALSE
+Equiseto sylvatici-Abietetum		TRUE	FALSE	FALSE	FALSE	FALSE
