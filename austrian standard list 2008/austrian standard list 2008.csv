@@ -955,7 +955,9 @@ vascular plants;Compositae;crep cony;Crepis conyzifolia;sensu Fischer et al. 200
 vascular plants;Compositae;crep foet foet;Crepis foetida ssp. foetida;sensu Fischer et al. 2008;;Eigentlicher Stink-Pippau;;;;;;;;;;
 vascular plants;Compositae;crep foet rhoe;Crepis foetida ssp. rhoeadifolia;sensu Fischer et al. 2008;;Klatschmohn-Stink-Pippau;F;;;1 (N-E);N-U;1 (N-E);0;;;W
 vascular plants;Compositae;crep froe;Crepis froelichiana;sensu Fischer et al. 2008;;Frölich-Pippau;;;;;;;;;;
+vascular plants;Compositae;crep jacq slat;Crepis jacquinii s.lat.;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Compositae;crep jacq jacq;Crepis jacquinii ssp. jacquinii;sensu Fischer et al. 2008;;Östlicher Felsschutt-Pippau;;4;;;;;;;;
+vascular plants;Compositae;crep jacq kern;Crepis jacquinii ssp. kerneri;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Compositae;crep moll moll;Crepis mollis ssp. mollis;sensu Fischer et al. 2008;;Gewöhnlicher Weichhaariger Pippau;G;3;;G;G;G;;;;
 vascular plants;Compositae;crep moll slat;Crepis mollis s.lat.;sensu Fischer et al. 2008;;Weichhaariger Pippau;3;3;;3;3;3;3;;;
 vascular plants;Compositae;crep moll succ;Crepis mollis ssp. succisifolia;sensu Fischer et al. 2008;;Abbissblättriger Weichhaariger Pippau;G;3;;G;G;G;;;;
@@ -2547,6 +2549,7 @@ vascular plants;Pinaceae;pinu mugo;Pinus mugo s.str.;sensu Fischer et al. 2008;;
 vascular plants;Pinaceae;pinu nigr nigr;Pinus nigra ssp. nigra;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Pinaceae;pinu rotu;Pinus × rotundata;sensu Fischer et al. 2008;;Moor-Spirke und andere Zwischenformen der Leg-Föhre;1;3;;2;2;1;3;§,(§);;
 vascular plants;Pinaceae;pinu sylv;Pinus sylvestris;sensu Fischer et al. 2008;;Rot-Föhre;;;;;;;;;;
+vascular plants;Pinaceae;pinu unci;Pinus uncinata;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Poaceae;pipt mili;Piptatherum miliaceum;sensu Fischer et al. 2008;;Südliche Grannenhirse;;;;;;;;;;
 vascular plants;Poaceae;pipt vire;Piptatherum virescens;sensu Fischer et al. 2008;;Grünliche Grannenhirse;N-T;;;N-T;;;;;;W
 vascular plants;Leguminosae;pisu sati arve;Pisum sativum var. arvense;sensu Fischer et al. 2008;;Futter-Erbse;;;;N-U;;N-U;;;;W
@@ -3067,6 +3070,7 @@ vascular plants;Caryophyllaceae;sagi subu;Sagina subulata;sensu Fischer et al. 2
 vascular plants;Salicaceae;sali alba;Salix alba;sensu Fischer et al. 2008;;Silber-Weide;;;D;;;;;;;
 vascular plants;Salicaceae;sali alpi;Salix alpina;sensu Fischer et al. 2008;;Ostalpen-Weide;;;D;;;;;;;
 vascular plants;Salicaceae;sali appe;Salix appendiculata s.str.;sensu Fischer et al. 2008;;Großblättrige Weide;;;D;;F;;-r/V;;;
+vascular plants;Salicaceae;sali appe ×wal;Salix appendiculata × waldsteiniana;;;;;;;;;;;;;
 vascular plants;Salicaceae;sali auri;Salix aurita;sensu Fischer et al. 2008;;Ohr-Weide;V;3;D;;;V;-r/V;;;
 vascular plants;Salicaceae;sali baby hybr;Salix babylonica-Hybriden;sensu Fischer et al. 2008;;Trauer-Weide;F;;;N-U;F;F;;;;W
 vascular plants;Salicaceae;sali bico;Salix bicolor;sensu Fischer et al. 2008;;;;;D;;;;;;;
@@ -3234,6 +3238,7 @@ vascular plants;Crassulaceae;sedu hisp;Sedum hispanicum;sensu Fischer et al. 200
 vascular plants;Crassulaceae;sedu rupe;Sedum rupestre;sensu Fischer et al. 2008;;Artengruppe Felsen-Mauerpfeffer; (N-E);;; (N-E); (N-E);N-T;S;;;W
 vascular plants;Crassulaceae;sedu sarm;Sedum sarmentosum;sensu Fischer et al. 2008;;Quirl-Mauerpfeffer;;;;N-U;N-U;N-U;;;;W
 vascular plants;Crassulaceae;sedu sexa;Sedum sexangulare;sensu Fischer et al. 2008;;Milder Mauerpfeffer;;;;;;;;;;
+vascular plants;Crassulaceae;sedu spec ies;Sedum sp.;;;;;;;;;;;;;
 vascular plants;Crassulaceae;sedu stol;Sedum stoloniferum;Geml.;;;;;;;;;;;;
 vascular plants;Crassulaceae;sedu thar;Sedum thartii;sensu Fischer et al. 2008;;Östlicher Felsen-Mauerpfeffer;;;;N-U;;N-U;;;;W
 vascular plants;Crassulaceae;sedu vill;Sedum villosum;sensu Fischer et al. 2008;;Drüsen-Mauerpfeffer;0;2;;0;0;0;0;;;
@@ -4193,6 +4198,7 @@ bryophytes;Anastrophyllaceae;barb barb;Barbilophozia barbata;(Schmidel ex Schreb
 bryophytes;Anastrophyllaceae;barb hatc;Barbilophozia hatcheri;(A.Evans) Loeske;;;;;;;;;;;;
 bryophytes;Anastrophyllaceae;barb kunz;Barbilophozia kunzeana;(Huebener) Müll.Frib.;;;;;;;;;;;;
 bryophytes;Anastrophyllaceae;barb lyco;Barbilophozia lycopodioides;(Wallr.) Loeske;;;;;;;;;;;;
+bryophytes;Pottiaceae;barb croc;Barbula crocea;(Brid.) F.Weber & D.Mohr;;;;;;;;;;;;
 bryophytes;Pottiaceae;barb refl;Barbula reflexa;;;;;;;;;;;;;
 bryophytes;Pottiaceae;barb rigi;Barbula rigidula;;;;;;;;;;;;;
 bryophytes;Bartramiaceae;bart ithy;Bartramia ithyphylla;Brid.;;;;;;;;;;;;
@@ -4229,6 +4235,7 @@ bryophytes;Bryaceae;call giga;Calliergon giganteum ;(Schimp.) Kindb. ;;;;;;;;;;;
 bryophytes;Amblystegiaceae;call cusp;Calliergonella cuspidata;;;;;;;;;;;;;
 bryophytes;Calypogeiaceae;caly spha;Calypogeia sphagnicola;(Arnell & J.Perss.) Warnst. & Loeske;;;;;;;;;;;;
 bryophytes;Amblystegiaceae;camp chry;Campylium chrysophyllum;(Brid.) Lange;;;;;;;;;;;;
+bryophytes;Amblystegiaceae;camp hall;Campylium halleri ;(Sw. ex Hedw.) Lindb.;;;;;;;;;;;;
 bryophytes;Amblystegiaceae;camp stel;Campylium stellatum;(Schreb. ex Hedw.) Lange & C.E.O.Jensen;;;;;;;;;;;;
 bryophytes;Dicranaceae;camp flex;Campylopus flexuosus;(Hedw.) Brid.;;;;;;;;;;;;
 bryophytes;Dicranaceae;camp grac;Campylopus gracilis;(Mitt.) A.Jaeger;;;;;;;;;;;;
@@ -4246,12 +4253,14 @@ bryophytes;Lophocoleaceae;chil pall;Chiloscyphus pallescens;(Ehrh. ex Hoffm.) Du
 bryophytes;Lophocoleaceae;chil poly;Chiloscyphus polyanthos;(L.) Corda;;;;;;;;;;;;
 bryophytes;Brachytheciaceae;cirr cras;Cirriphyllum crassinervium;(Taylor) Loeske & M.Fleisch.;;;;;;;;;;;;
 bryophytes;Brachytheciaceae;cirr pili;Cirriphyllum piliferum;(Schreb. ex Hedw.) Grout;;;;;;;;;;;;
+bryophytes;Brachytheciaceae;cirr spec ies;Cirriphyllum sp.;;;;;;;;;;;;;
 bryophytes;Climaciaceae;clim dend;Climacium dendroides;(Hedw.) F.Weber & D.Mohr;;;;;;;;;;;;
 bryophytes;Conocephalaceae;cono coni;Conocephalum conicum;(L.) Dumort.;;;;;;;;;;;;
 bryophytes;Amblystegiaceae;crat fili;Cratoneuron filicinum;(L. ex Hedw.) Spruce;;;;;;;;;;;;
 bryophytes;Hypnaceae;cten moll slat;Ctenidium molluscum s.lat.;;;;;;;;;;;;;
 bryophytes;Hypnaceae;cten moll moll;Ctenidium molluscum var. molluscum;(Hedw.) Mitt.;;;;;;;;;;;;
 bryophytes;Dicranaceae;cyno poly;Cynodontium polycarpon;(Hedw.) Schimp.;;;;;;;;;;;;
+bryophytes;Pottiaceae;desm cern;Desmatodon cernuus;(Huebener) Bruch & Schimp.;;;;;;;;;;;;
 bryophytes;Pottiaceae;desm lati lati;Desmatodon latifolius var. latifolius;(Hedw.) Brid.;;;;;;;;;;;;
 bryophytes;Dicranaceae;dich palu;Dichodontium palustre;(Dicks.) M.Stech;Dicranella palustris (Dicks.) Crundw. ex E.F.Warb.;;;;;;;;;;;
 bryophytes;Dicranaceae;dich pell aggr;Dichodontium pellucidum agg.;;;;;;;;;;;;;
@@ -4320,10 +4329,12 @@ bryophytes;Brachytheciaceae;homa lute;Homalothecium lutescens;;;;;;;;;;;;;
 bryophytes;Brachytheciaceae;homa phil;Homalothecium philippeanum;(Spruce) Schimp.;;;;;;;;;;;;
 bryophytes;Brachytheciaceae;homa seri;Homalothecium sericeum;;;;;;;;;;;;;
 bryophytes;Hookeriaceae;hook luce;Hookeria lucens;(Hedw.) Sm. ;;;;;;;;;;;;
+bryophytes;Amblystegiaceae;hygr luri;Hygrohypnum luridum;(Hedw.) Jenn. ;;;;;;;;;;;;
 bryophytes;Hylocomiaceae;hylo pyre;Hylocomium pyrenaicum;(Spruce) Lindb.;;;;;;;;;;;;
 bryophytes;Hylocomiaceae;hylo sple;Hylocomium splendens;(Hedw.) Schimp.;;;;;;;;;;;;
 bryophytes;Pottiaceae;hyme recu recu;Hymenostylium recurvirostrum var. recurvirostrum;(Hedw.) Dixon;;;;;;;;;;;;
 bryophytes;Hypnaceae;hypn bamb;Hypnum bambergeri;Schimp.;;;;;;;;;;;;
+bryophytes;Hypnaceae;hypn call;Hypnum callichroum;Brid.;;;;;;;;;;;;
 bryophytes;Hypnaceae;hypn cupr;Hypnum cupressiforme;;;;;;;;;;;;;
 bryophytes;Hypnaceae;hypn cupr slat;Hypnum cupressiforme s.lat.;;;;;;;;;;;;;
 bryophytes;Hypnaceae;hypn cupr cupr;Hypnum cupressiforme var. cupressiforme;Hedw.;;;;;;;;;;;;
@@ -4343,6 +4354,7 @@ bryophytes;Brachytheciaceae;isot alop;Isothecium alopecuroides;;;;;;;;;;;;;
 bryophytes;Brachytheciaceae;isot myos;Isothecium myosuroides;;;;;;;;;;;;;
 bryophytes;Jungermanniaceae;jung atro;Jungermannia atrovirens;Dumort.;;;;;;;;;;;;
 bryophytes;Jungermanniaceae;jung conf;Jungermannia confertissima;Nees;;;;;;;;;;;;
+bryophytes;Jungermanniaceae;jung leia;Jungermannia leiantha;Grolle;;;;;;;;;;;;
 bryophytes;Jungermanniaceae;jung grac;Jungermannia gracillima;Sm.;;;;;;;;;;;;
 bryophytes;Dicranaceae;kiae blyt;Kiaeria blyttii;(Bruch & Schimp.) Broth.;;;;;;;;;;;;
 bryophytes;Dicranaceae;kiae star;Kiaeria starkei;(F.Weber & D.Mohr) I.Hagen;;;;;;;;;;;;
@@ -4370,6 +4382,7 @@ bryophytes;Marchantiaceae;marc poly poly;Marchantia polymorpha ssp. polymorpha;L
 bryophytes;Gymnomitriaceae;mars func;Marsupella funckii;(F.Weber & D.Mohr) Dumort.;;;;;;;;;;;;
 bryophytes;Gymnomitriaceae;mars spec ies;Marsupella sp.;;;;;;;;;;;;;
 bryophytes;Meesiaceae;mees ulig;Meesia uliginosa;Hedw.;;;;;;;;;;;;
+bryophytes;Metzgeriaceae;metz conj;Metzgeria conjugata;Lindb.;;;;;;;;;;;;
 bryophytes;Metzgeriaceae;metz furc;Metzgeria furcata;;;;;;;;;;;;;
 bryophytes;Mniaceae;mniu horn;Mnium hornum;Hedw.;;;;;;;;;;;;
 bryophytes;Mniaceae;mniu lyco;Mnium lycopodioides;Schwägr.;;;;;;;;;;;;
@@ -4420,12 +4433,14 @@ bryophytes;Plagiochilaceae;plag pore;Plagiochila porelloides;(Torr. ex Nees) Lin
 bryophytes;Mniaceae;plag affi;Plagiomnium affine;(Blandow ex Funck) T.J.Kop.;;;;;;;;;;;;
 bryophytes;Mniaceae;plag cusp;Plagiomnium cuspidatum;(Hedw.) T.J.Kop.;;;;;;;;;;;;
 bryophytes;Mniaceae;plag elli;Plagiomnium ellipticum;(Brid.) T.J.Kop.;;;;;;;;;;;;
+bryophytes;Mniaceae;plag medi;Plagiomnium medium;(Bruch & Schimp.) T.J.Kop.;;;;;;;;;;;;
 bryophytes;Mniaceae;plag rost;Plagiomnium rostratum;(Schrad.) T.J.Kop.;;;;;;;;;;;;
 bryophytes;Mniaceae;plag nium spec ies;Plagiomnium sp.;;;;;;;;;;;;;
-bryophytes;Mniaceae;plag undu;Plagiomnium undulatum;;;;;;;;;;;;;
+bryophytes;Mniaceae;plag nium undu;Plagiomnium undulatum;;;;;;;;;;;;;
 bryophytes;Plagiotheciaceae;plag cavi;Plagiothecium cavifolium;(Brid.) Z.Iwats. ;;;;;;;;;;;;
 bryophytes;Plagiotheciaceae;plag dent;Plagiothecium denticulatum;(L. ex Hedw.) Schimp.;;;;;;;;;;;;
 bryophytes;Plagiotheciaceae;plag laet secu;Plagiothecium laetum var. secundum;(Lindb.) Frisvoll et al.;Plagiothecium curvifolium;;;;;;;;;;;
+bryophytes;Plagiotheciaceae;plag cium undu;Plagiothecium undulatum;(L. ex Hedw.) Schimp.;;;;;;;;;;;;
 bryophytes;Plagiotheciaceae;plag cium spec ies;Plagiothecium sp.;;;;;;;;;;;;;
 bryophytes;Amblystegiaceae;plat jung;Platydictya jungermannioides;(Brid.) H.A.Crum;;;;;;;;;;;;
 bryophytes;Hypnaceae;plat repe;Platygyrium repens;;;;;;;;;;;;;
@@ -4450,7 +4465,9 @@ bryophytes;Polytrichaceae;poly stri;Polytrichum strictum;Menzies ex Brid. ;;;;;
 bryophytes;Porellaceae;pore cord;Porella cordaeana;(Huebener) Moore;;;;;;;;;;;;
 bryophytes;Porellaceae;pore plat;Porella platyphylla;;;;;;;;;;;;;
 bryophytes;Marchantiaceae;prei quad;Preissia quadrata;(Scop.) Nees;;;;;;;;;;;;
+bryophytes;Marchantiaceae;prei spec ies;Preissia sp.;;;;;;;;;;;;;
 bryophytes;Leskeaceae;pseu incu;Pseudoleskea incurvata;(Hedw.) Loeske;;;;;;;;;;;;
+bryophytes;Leskeaceae;pseu nerv;Pseudoleskeella nervosa;(Brid.) Nyholm;;;;;;;;;;;;
 bryophytes;Leskeaceae;pseu radi;Pseudoleskea radicosa;(Mitt.) Macoun & Kindb.;;;;;;;;;;;;
 bryophytes;Leskeaceae;pseu cate;Pseudoleskeella catenulata;(Brid. ex Schrad.) Kindb.;;;;;;;;;;;;
 bryophytes;Pterigynandraceae;pter fili;Pterigynandrum filiforme;;;;;;;;;;;;;
@@ -4471,6 +4488,7 @@ bryophytes;Aneuraceae;ricc lati;Riccardia latifrons;(Lindb.) Lindb.;;;;;;;;;;;;
 bryophytes;Mniaceae;rhiz punc;Rhizomnium punctatum;(Hedw.) T.J.Kop.;;;;;;;;;;;;
 bryophytes;Mniaceae;rhiz pseu;Rhizomnium pseudopunctatum;(Bruch & Schimp.) T.J.Kop.;;;;;;;;;;;;
 bryophytes;Bryaceae;rhod rose um;Rhodobryum roseum;(Hedw.) Limpr.;;;;;;;;;;;;
+bryophytes;Brachytheciaceae;rhyn mura;Rhynchostegium murale;(Neck. ex Hedw.) Schimp.;;;;;;;;;;;;
 bryophytes;Hylocomiaceae;rhyt lore;Rhytidiadelphus loreus;(Hedw.) Warnst.;;;;;;;;;;;;
 bryophytes;Hylocomiaceae;rhyt spec ies;Rhytidiadelphus sp.;;;;;;;;;;;;;
 bryophytes;Hylocomiaceae;rhyt squa;Rhytidiadelphus squarrosus;;;;;;;;;;;;;
@@ -4484,6 +4502,7 @@ bryophytes;Scapaniaceae;scap curt aggr;Scapania curta agg.;(Mart.) Dumort.;;;;;;
 bryophytes;Scapaniaceae;scap irri slat;Scapania irrigua s.lat.;;;;;;;;;;;;;
 bryophytes;Scapaniaceae;scap irri irri;Scapania irrigua subsp. irrigua;(Nees) Nees ;;;;;;;;;;;;
 bryophytes;Scapaniaceae;scap irri rufe;Scapania irrigua subsp. rufescens;(Loeske) R.M.Schust.;;;;;;;;;;;;
+bryophytes;Scapaniaceae;scap nemo;Scapania nemorea;(L.) Grolle;;;;;;;;;;;;
 bryophytes;Scapaniaceae;scap palu;Scapania paludicola;Loeske & Müll.Frib.;;;;;;;;;;;;
 bryophytes;Scapaniaceae;scap spec ies;Scapania sp.;;;;;;;;;;;;;
 bryophytes;Scapaniaceae;scap undu;Scapania undulata;(L.) Dumort.;;;;;;;;;;;;
@@ -4550,6 +4569,7 @@ bryophytes;Hypnaceae;taxi wiss;Taxiphyllum wissgrillii;(Garov.) Wijk & Margad. ;
 bryophytes;Splachnaceae;tayl serr;Tayloria serrata;(Hedw.) Bruch & Schimp.;;;;;;;;;;;;
 bryophytes;Splachnaceae;tayl ling;Tayloria linguata;(Dicks.) Lindb. ;;;;;;;;;;;;
 bryophytes;Thuidiaceae;thui assi;Thuidium assimile;(Mitt.) A.Jaeger;;;;;;;;;;;;
+bryophytes;Thuidiaceae;thui deli;Thuidium delicatulum;(Hedw.) Schimp.;;;;;;;;;;;;
 bryophytes;Thuidiaceae;thui phil;Thuidium philiberti;;;;;;;;;;;;;
 bryophytes;Thuidiaceae;thui tama;Thuidium tamariscinum;;;;;;;;;;;;;
 bryophytes;Timmiaceae;timm norv;Timmia norvegica;J.E.Zetterst.;;;;;;;;;;;;
