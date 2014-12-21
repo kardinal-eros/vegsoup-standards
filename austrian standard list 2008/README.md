@@ -4,6 +4,9 @@ About this reference list
 This is a work in progress list of vascular plants, bryophytes and lichens for Austria (and neighboring countries).
 It is aimed to be extended/modified as needed. The taxonomic concept is up to date (see below) and is based on the perspective of Austrian's taxonomic authorities.
 
+
+![](README.png)
+
 Species concepts
 ----------------
 
@@ -18,7 +21,6 @@ Note, Fischer et al. 2008 is not overly consistent in using *s.str.* (sensu stri
 We use the full subspecific epithethon with the nominate subspecies instead of using s.str..
 Species aggregates are intrepreted as defined in the »Ehrendorfer list« (Guttermann & Niklfeld, 1973).
 
-![](README.png)
 
 Red list status
 ---------------
