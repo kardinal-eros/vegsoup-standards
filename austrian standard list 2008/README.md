@@ -12,7 +12,7 @@ Species concepts
 
 Concerning vascular plants we stick to the species concept of Fischer et al. (2008).
 Currently the list contains all vascular plant taxa known to occur in Upper Austria based on the checklist of Hohla et al. (2009), plus several species from the remaining states of Austria (mainly Salzburg, Tyrol, and Lower Austria).
-The taxonomy of lichens follow of Türk & Hafellner (2010).
+The taxonomy of lichens follows Türk & Hafellner (2010).
 Byrophytes are treated according to the [Checklist of Austrian Bryophytes](http://131.130.59.133/projekte/moose/) (Köckinger et. al.).
 The species concept for taxa of any group that do not occur in Austria follows the [ThePlantList](http://www.theplantlist.org).
 If present, we use the subspecific rank of a species regardless if this taxon is monospecific for Austria (cp. Jansen and Dengler, 2010).
@@ -30,21 +30,21 @@ As a legacy of Hohla et al. (2009) the list contains the red list status from th
 Meaning of columns
 ------------------
 
-- **level**: one of vascular plants, bryophytes, or lichens
-- **family**: Treatment of families are based on the [ThePlantList](http://www.theplantlist.org) queried by genus.
-- **abbr**: This is the primary key (see below).
+- **level**: One of vascular plants, bryophytes, or lichens
+- **family**: Treatment of families is based on the [ThePlantList](http://www.theplantlist.org) queried by genus.
+- **abbr**: This is the primary key (see below)
 - **taxon**: Scientific taxon names (excluding scientific author names)
-- **authority**: Species concept.
+- **authority**: Species concept
 - **synonyms**: Some common synonyms (very scrappy)
 - **vernacular.name**: German names according to Fischer et al. (2008)
-- **rl.aut**: Red List status for Austria
-- **rl.sbg**: Red List status for state of Salzburg (Austria)
-- **law.sbg**: legal protection for the state of Salzburg (Austria) according to LGBl Nr. 18/2001
+- **rl.aut**: Red List status for Austria (incomplete)
+- **rl.sbg**: Red List status for the state of Salzburg (Austria)
+- **law.sbg**: Legal protection for the state of Salzburg (Austria) according to LGBl Nr. 18/2001
 - **rl.oö**: Red List status for the state of Upper Austria (Austria)
-- **rl.oö.bm**: regional red list status for the bohemian massif region (Upper Austria)
-- **rl.oö.av**: regional red list status for the pre alpine lowlands (Upper Austria)
-- **rl.oö.97**: former red list status (1997) (depreciated)
-- **law.oö**: legal protection for the state of Upper Austria (Austria) according to LGBl. Nr. 73/2003
+- **rl.oö.bm**: Regional red list status for the Bohemian Massif region (Upper Austria)
+- **rl.oö.av**: Regional red list status for the pre alpine lowlands (Upper Austria)
+- **rl.oö.97**: Former red list status (1997) (depreciated)
+- **law.oö**: Legal protection for the state of Upper Austria (Austria) according to LGBl. Nr. 73/2003
 - **endemic.aut**: Endemic of Austria (E: strict endemic, S: subendemic)
 - **alien**: Alien species
 
@@ -53,7 +53,13 @@ Further details about specific columns
 
 **abbr** (abbreviation) is the primary key to query against this list (see the [vegsoup-data](https://github.com/kardinal-eros/vegsoup-data) repository).  
 
-There is a long tradition in biodiversity data sets to use a lettercode instead of nondescript numbers (eg. CEP-names of Cornell Ecology Programs). The general algorithm applied here to construct unique character strings for each taxon is as follows: Take the first 4 letters of the genus and species (*Bellis perennis* equals `bell pere`). If there is a subspecific taxon, pad the 4 + 4 code with the first 4 letters of the subspecific epitheton, resulting in a 4 + 4 + 4 code (*Dactylis glomerata* ssp. *glomerata* equals `dact glom glom`). Note, we don't code the type of subspecific rank here (in the previous example a subspecies). In order to prevent overlaps for some taxa (eg. Galeopsis speciosa and Galeopsis sp.) to used `spec ies` instead of `spec` for taxa that stand for genera. In some rare cases the genus has to be extended by another 4 letters (in this case the last 4 letters of the genus) to make it unique. Consider the following two species as an example. *Euphorbia* sp. `euph rbia spec ies` versus *Euphrasia* sp. `euph asia spec ies`.
+There is a long tradition in biodiversity data sets to use a lettercode instead of nondescript numbers (eg. CEP-names of Cornell Ecology Programs).
+The general algorithm applied here to construct unique character strings for each taxon is as follows: Take the first 4 letters of the genus and species (*Bellis perennis* equals `bell pere`).
+If there is a subspecific taxon, pad the 4 + 4 code with the first 4 letters of the subspecific epitheton, resulting in a 4 + 4 + 4 code (*Dactylis glomerata* ssp. *glomerata* equals `dact glom glom`).
+Note, we don't code the type of subspecific rank here (in the previous example a subspecies).
+In order to prevent overlaps for some taxa (eg. Galeopsis speciosa and Galeopsis sp.) we use `spec ies` instead of `spec` for taxa that are determined only at the level of genus.
+In some rare cases the genus has to be extended by another 4 letters (in this case the last 4 letters of the genus) to make it unique.
+Consider the following two species as an example. *Euphorbia* sp. `euph rbia spec ies` versus *Euphrasia* sp. `euph asia spec ies`.
 
 <!---
 The codes used in column `law.sbg` (protection by law of the state of Salzburg) are as follows.
@@ -70,7 +76,7 @@ References
 
 MA Fischer, K Oswald, and W Adler. Exkursionsflora für Österreich, Liechtenstein und Südtirol, volume 3. Biologiezentrum der Oberösterreichischen Landdesmuseen, 2008.
 
-M Hohla, o Stöhr, G Brandstätter, J Danner, W Diewald, F Essl, H Fiereder, F Grims, F Höglinger, G Kleesadl, A. Kraml, F Lenglachner, A Lugmair, K Nadler, H Niklfeld, A Schmalzer, L Schratt-Ehrendorfer, C Schröck, M Strauch, and H Wittmann,  (2009). *Katalog und Rote Liste der Gefäßpflanzen Oberösterreichs*. In Stapfia, volume 91, pages 324. Biologiezentrum der Oberösterreichischen Landesmuseen.
+M Hohla, O Stöhr, G Brandstätter, J Danner, W Diewald, F Essl, H Fiereder, F Grims, F Höglinger, G Kleesadl, A. Kraml, F Lenglachner, A Lugmair, K Nadler, H Niklfeld, A Schmalzer, L Schratt-Ehrendorfer, C Schröck, M Strauch, and H Wittmann,  (2009). *Katalog und Rote Liste der Gefäßpflanzen Oberösterreichs*. In Stapfia, volume 91, pages 324. Biologiezentrum der Oberösterreichischen Landesmuseen.
 
 W Guttermann and H Niklfeld (1973). *Liste der Gefäßpflanzen Mitteleuropas*, volume 2 (Ehrendorfer, F editor). Gustav Fischer Verlag, Stuttgart.
 
