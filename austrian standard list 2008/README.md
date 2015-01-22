@@ -16,7 +16,7 @@ The taxonomy of lichens follows Türk & Hafellner (2010).
 Byrophytes are treated according to the [Checklist of Austrian Bryophytes](http://131.130.59.133/projekte/moose/) (Köckinger et. al.).
 The species concept for taxa of any group that do not occur in Austria follows the [ThePlantList](http://www.theplantlist.org).
 If present, we use the subspecific rank of a species regardless if this taxon is monospecific for Austria (cp. Jansen and Dengler, 2010).
-As an example we treat *Allium ursinum* as *Allium ursinum* ssp. *ursinum* as to differentiate it against *Allium ursinum* subsp. *ucrainicum*.
+As an example we treat *Silene latifolia* as *Silene latifolia* ssp. *alba* as to differentiate it against other infraspecific taxa (e.g. *Silene latifolia* ssp. *divaricata*).
 Note, Fischer et al. 2008 is not overly consistent in using *s.str.* (sensu stricto).
 We use the full subspecific epithethon with the nominate subspecies instead of using s.str..
 Species aggregates are intrepreted as defined in the »Ehrendorfer list« (Guttermann & Niklfeld, 1973).
@@ -25,7 +25,7 @@ Species aggregates are intrepreted as defined in the »Ehrendorfer list« (Gutte
 Red list status
 ---------------
 
-As a legacy of Hohla et al. (2009) the list contains the red list status from the original source (supplied by M. Hohla, Reichsberg). There is also a red list status for Salzburg according to Wittmann et al. (1991), although this treatment can be considered outdated.
+As a legacy of Hohla et al. (2009) the list contains the red list status from the original source (supplied by M. Hohla, Reichersberg). There is also a red list status for Salzburg according to Wittmann et al. (1991), although this treatment can be considered outdated.
 
 Meaning of columns
 ------------------
@@ -57,7 +57,7 @@ There is a long tradition in biodiversity data sets to use a lettercode instead 
 The general algorithm applied here to construct unique character strings for each taxon is as follows: Take the first 4 letters of the genus and species (*Bellis perennis* equals `bell pere`).
 If there is a subspecific taxon, pad the 4 + 4 code with the first 4 letters of the subspecific epitheton, resulting in a 4 + 4 + 4 code (*Dactylis glomerata* ssp. *glomerata* equals `dact glom glom`).
 Note, we don't code the type of subspecific rank here (in the previous example a subspecies).
-In order to prevent overlaps for some taxa (eg. Galeopsis speciosa and Galeopsis sp.) we use `spec ies` instead of `spec` for taxa that are determined only at the level of genus.
+In order to prevent overlaps for some taxa (eg. *Galeopsis speciosa* and *Galeopsis* sp.) we use `spec ies` instead of `spec` for taxa that are determined only at the level of genus.
 In some rare cases the genus has to be extended by another 4 letters (in this case the last 4 letters of the genus) to make it unique.
 Consider the following two species as an example. *Euphorbia* sp. `euph rbia spec ies` versus *Euphrasia* sp. `euph asia spec ies`.
 
