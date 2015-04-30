@@ -3860,9 +3860,11 @@ vascular plants;Violaceae;viol tric saxa;Viola tricolor ssp. saxatilis;sensu Fis
 vascular plants;Violaceae;viol tric slat;Viola tricolor s.lat.;sensu Fischer et al. 2008;;Wild-Stiefmütterchen;;;;;G;G;;;;
 vascular plants;Violaceae;viol tric tric;Viola tricolor ssp. tricolor;sensu Fischer et al. 2008;;Wiesen-Stiefmütterchen;;;;;G;G;;;;
 vascular plants;Violaceae;viol ulig;Viola uliginosa;sensu Fischer et al. 2008;;Moor-Veilchen;;;;;;;;;;
-vascular plants;Violaceae;viol ×bav;Viola × bavarica;Schrank;Viola × dubia Wiesb.;;;;;;;;;;;
+;Violaceae;viol ×adu;Viola × adulterina (=V. alba x hirta);Godron;;;;;;;;;;;;
+vascular plants;Violaceae;viol ×bav;Viola × bavarica (=V. reichenbachiana × riviniana);Schrank;;;;;;;;;;;;
 vascular plants;Violaceae;viol ×wit;Viola × wittrockiana;Gams;;Garten-Stiefmütterchen;N-U;;;N-U;N-U;N-U;;;;W
-vascular plants;Violaceae;viol ×sca;Viola × scabra;F.Braun;V. hirta x odorata;;;;;;;;;;;
+vascular plants;Violaceae;viol ×sca;Viola × scabra (=V. hirta × odorata);F. Braun;;;;;;;;;;;;
+;Violaceae;viol ×umbr;Viola × umbrosa (=V. collina × hirta);Hoppe;;;;;;;;;;;;
 vascular plants;Santalaceae;visc albu;Viscum album s.str.;sensu Fischer et al. 2008;;Laubholz-Mistel;;;;;;;;;;
 vascular plants;Santalaceae;visc laxu abie;Viscum laxum ssp. abietis;sensu Fischer et al. 2008;;Tannen-Mistel;;;;;;;;;;
 vascular plants;Santalaceae;visc laxu laxu;Viscum laxum ssp. laxum;sensu Fischer et al. 2008;;Föhren-Mistel;;;;;R;R;?;;;
