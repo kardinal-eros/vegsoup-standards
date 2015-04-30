@@ -677,9 +677,9 @@ vascular plants;Cyperaceae;care hele;Carex heleonastes;sensu Fischer et al. 2008
 vascular plants;Cyperaceae;care hirt;Carex hirta;sensu Fischer et al. 2008;;Rauhaarige Segge;;;;;;;;;;
 vascular plants;Cyperaceae;care hord;Carex hordeistichos;sensu Fischer et al. 2008;;Gersten-Segge;;;;;;;;;;
 vascular plants;Cyperaceae;care host;Carex hostiana;sensu Fischer et al. 2008;;Saum-Segge;3;;;3;0;2;3r!/T;;;
-vascular plants;Cyperaceae;care ×xan;Carex × xanthocarpa (= C. hostiana × flava);sensu Więcław & Koopman 2013;;;;;;;;;;;;
-vascular plants;Cyperaceae;care ×leu;Carex × leutzii (= C. hostiana × lepidocarpa);sensu Więcław & Koopman 2013;;;;;;;;;;;;
-vascular plants;Cyperaceae;care ×ful;Carex × fulva (= C. demissa × hostiana);sensu Więcław & Koopman 2013;;;;;;;;;;;;
+vascular plants;Cyperaceae;care ×xan;Carex × xanthocarpa (=C. hostiana × flava);sensu Więcław & Koopman 2013;;;;;;;;;;;;
+vascular plants;Cyperaceae;care ×leu;Carex × leutzii (=C. hostiana × lepidocarpa);sensu Więcław & Koopman 2013;;;;;;;;;;;;
+vascular plants;Cyperaceae;care ×ful;Carex × fulva (=C. demissa × hostiana);sensu Więcław & Koopman 2013;;;;;;;;;;;;
 vascular plants;Cyperaceae;care humi;Carex humilis;sensu Fischer et al. 2008;;Erd-Segge;;;;;1;1;-r/V;;;
 vascular plants;Cyperaceae;care lach;Carex lachenalii;sensu Fischer et al. 2008;;;;4;;;;;;;;
 vascular plants;Cyperaceae;care lasi lasi;Carex lasiocarpa ssp. lasiocarpa;sensu Fischer et al. 2008;;Faden-Segge;2;2;;2;;2;3r!/H;;;
@@ -3143,7 +3143,7 @@ vascular plants;Salicaceae;sali hast hast;Salix hastata ssp. hastata;sensu Fisch
 vascular plants;Salicaceae;sali herb;Salix herbacea;sensu Fischer et al. 2008;;Kraut-Weide;;;D;;;;;;;
 vascular plants;Salicaceae;sali miel;Salix mielichhoferi;sensu Fischer et al. 2008;;Tauern-Weide;R;;D;R;;;4;;S;
 vascular plants;Salicaceae;sali myrs;Salix myrsinifolia ssp. myrsinifolia;sensu Fischer et al. 2008;;Schwarz-Weide;;;D;;2;V;-r/BV;;;
-vascular plants;Salicaceae;sali ×vau;Salix × vaudensis (= S. cinerea × myrsinifolia);Schl.;;;;;;;;;;;;
+vascular plants;Salicaceae;sali ×vau;Salix × vaudensis (=S. cinerea × myrsinifolia);Schl.;;;;;;;;;;;;
 vascular plants;Salicaceae;sali myrt;Salix myrtilloides;sensu Fischer et al. 2008;;Heidelbeer-Weide;;1;D;;;;;;;
 vascular plants;Salicaceae;sali pent;Salix pentandra;sensu Fischer et al. 2008;;Lorbeer-Weide;;2;D;0;0;;2;;;
 vascular plants;Salicaceae;sali purp;Salix purpurea;sensu Fischer et al. 2008;;Purpur-Weide;;;D;;;;;;;
@@ -3510,7 +3510,7 @@ vascular plants;Boraginaceae;symp offi bohe;Symphytum officinale ssp. bohemicum;
 vascular plants;Boraginaceae;symp offi offi;Symphytum officinale ssp. officinale;sensu Fischer et al. 2008;;Eigentlicher Echter Beinwell;;;;;;;;;;
 vascular plants;Compositae;symp sali;Symphyotrichum × salignum;sensu Fischer et al. 2008;;Weidenblättrige Herbstaster;;;; (N-E); (N-E); (N-E);;;;B
 vascular plants;Boraginaceae;symp tube slat;Symphytum tuberosum s.lat.;sensu Fischer et al. 2008;;Knollen-Beinwell;;5;;;;;;;;
-vascular plants;Boraginaceae;symp ×upl;Symphytum × uplandicum (= S. asperum × officinale);Nym.;;Futter-Beinwell;;;;N-U;N-U;;;;;W
+vascular plants;Boraginaceae;symp ×upl;Symphytum × uplandicum (=S. asperum × officinale);Nym.;;Futter-Beinwell;;;;N-U;N-U;;;;;W
 vascular plants;Compositae;symp vers;Symphyotrichum × versicolor;sensu Fischer et al. 2008;;Bunte Herbstaster;;;;N-U;;N-U;;;;W
 vascular plants;Oleaceae;syri vulg;Syringa vulgaris;sensu Fischer et al. 2008;;Gewöhnlicher Flieder;N-T;;; (N-E); (N-E); (N-E);;;;B
 vascular plants;Compositae;tage erec;Tagetes erecta;sensu Fischer et al. 2008;;Aufrechte Samtblume;F;;;N-U;F;F;;;;W
@@ -3618,7 +3618,7 @@ vascular plants;Lamiaceae;thym serp;Thymus serpyllum;sensu Fischer et al. 2008;;
 vascular plants;Lamiaceae;thym vulg;Thymus vulgaris;sensu Fischer et al. 2008;;Gewürz-Thymian;;;;N-U;N-U;;;;;W
 vascular plants;Malvaceae;tili cord;Tilia cordata;sensu Fischer et al. 2008;;Winter-Linde;;;;;;;;;;
 vascular plants;Malvaceae;tili plat;Tilia platyphyllos;sensu Fischer et al. 2008;;Sommer-Linde;;;;;;;-r/B;;;
-vascular plants;Malvaceae;tili ×vul;Tilia × vulgaris (= T. cordata × platyphyllos);Hayne;;;;;;;;;;;;
+vascular plants;Malvaceae;tili ×vul;Tilia × vulgaris (=T. cordata × platyphyllos);Hayne;;;;;;;;;;;;
 vascular plants;Malvaceae;tili spec ies;Tilia sp.;;;;;;;;;;;;;
 vascular plants;Tofieldiaceae;tofi caly;Tofieldia calyculata;sensu Fischer et al. 2008;;Kelch-Simsenlilie, Gewöhnliche S.;;;;;0;2;-r/BV;;;
 vascular plants;Tofieldiaceae;tofi pusi;Tofieldia pusilla;sensu Fischer et al. 2008;;Zwerg-Simsenlilie;;;;;;;;;;
