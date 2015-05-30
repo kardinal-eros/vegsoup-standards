@@ -89,7 +89,7 @@ vascular plants;Lamiaceae;ajug cham;Ajuga chamaepitys;sensu Fischer et al. 2008;
 vascular plants;Lamiaceae;ajug gene;Ajuga genevensis;sensu Fischer et al. 2008;;Zottiger Günsel;2;3;;3;3;3;3;;;
 vascular plants;Lamiaceae;ajug pyra;Ajuga pyramidalis;sensu Fischer et al. 2008;;Pyramiden-Günsel;;;;;;;;;;
 vascular plants;Lamiaceae;ajug rept;Ajuga reptans;sensu Fischer et al. 2008;;Kriech-Günsel;;;;;;;;;;
-;;ajug ×hyb;Ajuga × hybrida (=A. genevensis × reptans);A. Kern.;;;;;;;;;;;;
+vascular plants;Lamiaceae;ajug ×hyb;Ajuga × hybrida (=A. genevensis × reptans);A. Kern.;;;;;;;;;;;;
 vascular plants;Malvaceae;alce rose;Alcea rosea;sensu Fischer et al. 2008;;Garten-Pappelrose;N-U;;;N-U;;N-U;;;;W
 vascular plants;Rosaceae;alch acut;Alchemilla acutiloba;sensu Fischer et al. 2008;;Spitzlappiger Frauenmantel;G;;;2;2;2;;;;
 vascular plants;Rosaceae;alch aggr;Alchemilla aggregata;sensu Fischer et al. 2008;;Kleinknäueliger Frauenmantel;R;;;R;;;;;;
@@ -239,7 +239,7 @@ vascular plants;Compositae;ante carp;Antennaria carpatica;sensu Fischer et al. 2
 vascular plants;Compositae;ante dioi;Antennaria dioica;sensu Fischer et al. 2008;;Gewöhnliches Katzenpfötchen;V;;;V;1;0;-r/BV;§;;
 vascular plants;Poaceae;anth alpi;Anthoxanthum alpinum;sensu Fischer et al. 2008;;Alpen-Ruchgras;;;;;1;;;;;
 vascular plants;Poaceae;anth aris;Anthoxanthum aristatum;sensu Fischer et al. 2008;;Grannen-Ruchgras;;;;N-U;N-U;;;;;W
-vascular plants;Compositae;anth arve arve;Anthemis arvensis;sensu Fischer et al. 2008;;Acker-Hundskamille;;;;;;;;;;
+vascular plants;Compositae;anth arve arve;Anthemis arvensis ssp. arvensis;sensu Fischer et al. 2008;;Acker-Hundskamille;;;;;;;;;;
 vascular plants;Compositae;anth aust;Anthemis austriaca;sensu Fischer et al. 2008;;Österreichische Hundskamille;;;;N-U;N-U;N-U;0;;;W
 vascular plants;Apiaceae;anth cauc;Anthriscus caucalis;sensu Fischer et al. 2008;;Hunds-Kerbel;F;;;N-U;;N-U;;;;W
 vascular plants;Apiaceae;anth cere cere;Anthriscus cerefolium var. cerefolium;sensu Fischer et al. 2008;;Garten-Kerbel;;;;R (N-E);R (N-E);R (N-E);;;;W
@@ -1372,6 +1372,7 @@ vascular plants;Compositae;euth gram;Euthamia graminifolia;sensu Fischer et al. 
 vascular plants;Polygonaceae;fago escu;Fagopyrum esculentum;sensu Fischer et al. 2008;;Echter Buchweizen;;;;N-U;N-U;N-U;;;;W
 vascular plants;Polygonaceae;fago tata;Fagopyrum tataricum;sensu Fischer et al. 2008;;Tataren-Buchweizen;;;;N-U;N-U;N-U;;;;W
 vascular plants;Fagaceae;fagu sylv;Fagus sylvatica;sensu Fischer et al. 2008;;Rot-Buche;;;;;;;;;;
+vascular plants;Fagaceae;fagu sylv atro;Fagus sylvatica fo. Atropurpurea;(Aiton) C.K. Schneid.;;;;;;;;;;;;
 vascular plants;Apiaceae;falc vulg;Falcaria vulgaris;sensu Fischer et al. 2008;;Sicheldolde;;;;2;1;2;-r/BH;;;
 vascular plants;Polygonaceae;fall bohe;Fallopia × bohemica;sensu Fischer et al. 2008;;Bastard-Flügelknöterich; (N-E);;; (N-E); (N-E); (N-E);;;;M
 vascular plants;Polygonaceae;fall conv;Fallopia convolvulus;sensu Fischer et al. 2008;;Acker-Flügelknöterich, Winden-F.;;;;;;;;;;
