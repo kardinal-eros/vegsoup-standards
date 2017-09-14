@@ -2017,6 +2017,7 @@ vascular plants;Compositae;leon hisp hisp;Leontodon hispidus ssp. hispidus;sensu
 vascular plants;Compositae;leon hisp hyos;Leontodon hispidus ssp. hyoseroides;sensu Fischer et al. 2008;;Glatter Felsschutt-Leuenzahn;;;;;;D;;;;
 vascular plants;Compositae;leon hisp pseu;Leontodon hispidus ssp. pseudocrispus;sensu Fischer et al. 2008;;Rauher Felsschutt-Leuenzahn;;;;;;;;;;
 vascular plants;Compositae;leon hisp slat;Leontodon hispidus s.lat.;sensu Fischer et al. 2008;;;;;;;;;;;;
+vascular plants;Compositae;leon spec ies;Leontodon sp.;;;;;;;;;;;;;
 vascular plants;Compositae;leon inca;Leontodon incanus;sensu Fischer et al. 2008;;Grauer Leuenzahn;;;;;;2;-r/V;;;
 vascular plants;Lamiaceae;leon marr;Leonurus marrubiastrum;sensu Fischer et al. 2008;;Auen-Löwenschwanz;;;;0;0;0;;;;
 vascular plants;Compositae;leon saxa;Leontodon saxatilis;sensu Fischer et al. 2008;;Hunds-Leuenzahn;N-U;;;N-T;;N-T;;;;W
@@ -2168,6 +2169,7 @@ vascular plants;Orchidaceae;mala mono mono;Malaxis monophyllos ssp. monophyllos;
 vascular plants;Orchidaceae;mala palu;Malaxis paludosa;sensu Fischer et al. 2008;;Sumpf-Weichständel;1;1;B;1;0;0;1;§;;
 vascular plants;Rosaceae;malu dasy;Malus dasyphylla;sensu Fischer et al. 2008;;Filz-Apfel;G (N-E);;;G (N-E);D (N-E);G (N-E);;;;W
 vascular plants;Rosaceae;malu dome;Malus domestica;sensu Fischer et al. 2008;;Kultur-Apfel;D (N-E);;;D (N-E);D (N-E);D (N-E);;;;M
+vascular plants;Rosaceae;malu spec ies;Malus sp.;;;;;;;;;;;;;
 vascular plants;Rosaceae;malu sylv;Malus sylvestris;sensu Fischer et al. 2008;;Wild-Apfel;G;1;;1;1;1;2;;;
 vascular plants;Rosaceae;malu sylv aggr;Malus sylvestris agg.;sensu Ehrendorfer 1973;;Apfel;;;;;;;;;;
 vascular plants;Malvaceae;malv alce;Malva alcea;sensu Fischer et al. 2008;;Spitzblättrige Malve;2;3;;3;2;3;3;;;
@@ -2294,6 +2296,7 @@ vascular plants;Boraginaceae;myos ramo ramo;Myosotis ramosissima ssp. ramosissim
 vascular plants;Boraginaceae;myos rehs;Myosotis rehsteineri;sensu Fischer et al. 2008;;Bodensee-Vergissmeinnicht;;;;;;;;B,F2,F4,W;S;
 vascular plants;Boraginaceae;myos scor scor;Myosotis scorpioides ssp. scorpioides;sensu Fischer et al. 2008;;Sumpf-Vergissmeinnicht ieS;G;;;G;G;G;;;;
 vascular plants;Boraginaceae;myos spar;Myosotis sparsiflora;sensu Fischer et al. 2008;;Lockerblütiges Vergissmeinnicht;;;;1;0;1;0;;;
+vascular plants;Boraginaceae;myos spec ies;Myosotis sp.;;;;;;;;;;;;;
 vascular plants;Boraginaceae;myos sten;Myosotis stenophylla;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Boraginaceae;myos stri;Myosotis stricta;sensu Fischer et al. 2008;;Sand-Vergissmeinnicht, Steifes V.;;3;;2;2;1;3;;;
 vascular plants;Boraginaceae;myos sylv aggr;Myosotis sylvatica agg.;sensu Ehrendorfer 1973;;;;;;;;;;;;
@@ -3465,6 +3468,7 @@ vascular plants;Rosaceae;sorb carp;Sorbus carpatica;sensu Fischer et al. 2008;;K
 vascular plants;Rosaceae;sorb cham;Sorbus chamaemespilus;sensu Fischer et al. 2008;;Zwergmehlbeere;;;;;;;;;;
 vascular plants;Rosaceae;sorb dome;Sorbus domestica;sensu Fischer et al. 2008;;Speierling;;;;;;;;;;
 vascular plants;Rosaceae;sorb grae;Sorbus graeca;sensu Fischer et al. 2008;;;;;;;;;;;;
+vascular plants;Rosaceae;sorb moug;Sorbus mougeotii;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Rosaceae;sorb pann;Sorbus pannonica;Kárpáti;;;;;;;;;;;;
 vascular plants;Rosaceae;sorb inte;Sorbus intermedia;sensu Fischer et al. 2008;;Schweden-Mehlbeere;;;;N-U;;N-U;;;;W
 vascular plants;Rosaceae;sorb sorb;Sorbaria sorbifolia;sensu Fischer et al. 2008;;Ebereschen-Fiederspiere;;;;N-U;;N-U;;;;W
