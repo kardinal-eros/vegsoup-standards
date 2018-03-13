@@ -160,7 +160,7 @@ vascular plants;Amaryllidaceae;alli sati;Allium sativum;sensu Fischer et al. 200
 vascular plants;Amaryllidaceae;alli scho alpi;Allium schoenoprasum var. alpinum;sensu Fischer et al. 2008;;Alpen-Schnittlauch;;;;;1;1;-r/BV;§ (A,  AV);;
 vascular plants;Amaryllidaceae;alli scho scho;Allium schoenoprasum var. schoenoprasum;sensu Fischer et al. 2008;;Garten- Schnittlauch;N-U;;;N-U;N-U;N-U;;;;W
 vascular plants;Amaryllidaceae;alli scor;Allium scorodoprasum s.str.;sensu Fischer et al. 2008;;Schlangen-Lauch;N-U;;;3;2;3;3;§;;
-vascular plants;Amaryllidaceae;alli spec ies;Allium sp.;;;;;;;;;;;;;
+vascular plants;Amaryllidaceae;alli spec ies;Allium sp.;;;Lauch-Art;;;;;;;;;;
 vascular plants;Amaryllidaceae;alli spha;Allium sphaerocephalon s.str.;sensu Fischer et al. 2008;;Kugel-Lauch;0;;;0;0;0;0;§;;
 vascular plants;Amaryllidaceae;alli stri;Allium strictum;sensu Fischer et al. 2008;;;;4;;;;;;;;
 vascular plants;Amaryllidaceae;alli subh;Allium subhirsutum;sensu Fischer et al. 2008;;Wimper-Lauch;;;;N-U;;N-U;;;;W
@@ -1373,7 +1373,7 @@ vascular plants;Euphorbiaceae;euph pros;Euphorbia prostrata;sensu Fischer et al.
 vascular plants;Euphorbiaceae;euph rbia spec ies;Euphorbia sp.;;;;;;;;;;;;;
 vascular plants;Orobanchaceae;euph sali;Euphrasia salisburgensis s.str.;sensu Fischer et al. 2008;;Salzburger Augentrost;;;;;;2;-r/V;;;
 vascular plants;Euphorbiaceae;euph sali olia;Euphorbia salicifolia;sensu Fischer et al. 2008;;Weidenblättrige Wolfsmilch;;;;;;;;;;
-vascular plants;Euphorbiaceae;euph sara;Euphorbia saratoi;Ardoino;;;;;;;;;;;;
+vascular plants;Euphorbiaceae;euph sara;Euphorbia saratoi;Ardoino;;Scheinruten-Wolfsmilch;;;;;;;;;;
 vascular plants;Euphorbiaceae;euph saxa;Euphorbia saxatilis;sensu Fischer et al. 2008;;Felsen-Wolfsmilch;;;;;;;;;E;
 vascular plants;Euphorbiaceae;euph sege;Euphorbia segetalis;sensu Fischer et al. 2008;;Saat-Wolfsmilch;;;;;;;;;;
 vascular plants;Euphorbiaceae;euph segu;Euphorbia seguieriana;sensu Fischer et al. 2008;;Steppen-Wolfsmilch;;;;0;;0;0;;;
@@ -1437,7 +1437,7 @@ vascular plants;Poaceae;fest rubr rubr;Festuca rubra ssp. rubra;sensu Fischer et
 vascular plants;Poaceae;fest rubr slat;Festuca rubra s.lat.;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Poaceae;fest rupi cola;Festuca rupicola;sensu Fischer et al. 2008;;Furchen-Schwingel;3;;;3;2;3;V;;;
 vascular plants;Poaceae;fest rupi rina;Festuca rupicaprina;sensu Fischer et al. 2008;;Gämsen-Schwingel;;;;;;;;;;
-vascular plants;Poaceae;fest spec ies;Festuca sp.;;;;;;;;;;;;;
+vascular plants;Poaceae;fest spec ies;Festuca sp.;;;Schwingel-Art;;;;;;;;;;
 vascular plants;Poaceae;fest sten;Festuca stenantha;sensu Fischer et al. 2008;;Schmalrispiger-Felsen-Schwingel;R;4;;R;;;;;;
 vascular plants;Poaceae;fest stri slat;Festuca stricta s.lat.;sensu Pils 1984;;;;;;;;;;;;
 vascular plants;Poaceae;fest stri stri;Festuca stricta ssp. stricta;sensu Pils 1984;;;;;;;;;;;;
