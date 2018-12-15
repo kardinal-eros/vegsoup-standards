@@ -611,9 +611,9 @@ vascular plants;Compositae;card cras slat;Carduus crassifolius s.lat.;sensu Fisc
 vascular plants;Compositae;card cras cras;Carduus crassifolius ssp. crassifolius;sensu Fischer et al. 2008;;Eigentliche Dickblatt-Ringdistel;;;;;;;;;;
 vascular plants;Compositae;card cras glau;Carduus crassifolius ssp. glaucus;sensu Fischer et al. 2008;;Blaugrüne Dickblatt-Ringdistel;;;;;;;;;;
 vascular plants;Compositae;card cris cris;Carduus crispus ssp. crispus;sensu Fischer et al. 2008;;Krause Ringdistel;;;;;;;;;;
-vascular plants;Compositae;card defl slat;Cardus defloratus s.lat.;sensu Fischer et al. 2008;;Berg-Ringdistel;;;;;;;;;;
-vascular plants;Compositae;card defl summ;Cardus defloratus ssp. summanus;sensu Fischer et al. 2008;;;;;;;;;;;;
-vascular plants;Compositae;card defl trid;Cardus defloratus ssp. tridentinus;sensu Fischer et al. 2008;;;;;;;;;;;;
+vascular plants;Compositae;card defl slat;Carduus defloratus s.lat.;sensu Fischer et al. 2008;;Berg-Ringdistel;;;;;;;;;;
+vascular plants;Compositae;card defl summ;Carduus defloratus ssp. summanus;sensu Fischer et al. 2008;;;;;;;;;;;;
+vascular plants;Compositae;card defl trid;Carduus defloratus ssp. tridentinus;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Compositae;card defl viri;Carduus defloratus ssp. viridis;sensu Fischer et al. 2008;;Grüne Berg-Ringdistel;;;;;;2;-r/V;;;
 vascular plants;Brassicaceae;card dent;Cardamine dentata;sensu Fischer et al. 2008;;Zahnblättriges Wiesen-Schaumkraut;;;;;;;KB;;;
 vascular plants;Brassicaceae;card enne;Cardamine enneaphyllos;sensu Fischer et al. 2008;;Neunblättrige Zahnwurz;;;;;;;-r/BH;;;
@@ -828,7 +828,7 @@ vascular plants;Caryophyllaceae;cera sylv;Cerastium sylvaticum;sensu Fischer et 
 vascular plants;Caryophyllaceae;cera teno;Cerastium tenoreanum;sensu Fischer et al. 2008;;Tenore-Hornkraut;N-T;;; (N-E);N-T; (N-E);3;;;W
 vascular plants;Caryophyllaceae;cera tome;Cerastium tomentosum;sensu Fischer et al. 2008;;Italienisches Filz-Hornkraut;N-U;;;N-T;N-U;N-T;;;;W
 vascular plants;Caryophyllaceae;cera unif;Cerastium uniflorum;sensu Fischer et al. 2008;;Einblütiges Hornkraut;R;;;R;;;;;;
-vascular plants;Boraginaceae;ceri glab;Cerinthe glabra;;;;;;;;;;;;;
+vascular plants;Boraginaceae;ceri glab;Cerinthe glabra;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Boraginaceae;ceri mino mino;Cerinthe minor ssp. minor;sensu Fischer et al. 2008;;Kleine Wachsblume;2;;;3;1;3;3;;;
 vascular plants;Apiaceae;cerv rivi;Cervaria rivini;sensu Fischer et al. 2008;;Hirschwurz;3;1;;3;2;2;2;§;;
 vascular plants;Apiaceae;chae arom;Chaerophyllum aromaticum;sensu Fischer et al. 2008;;Duft-Kälberkropf;;;;R;R;;3;;;
@@ -1097,7 +1097,7 @@ vascular plants;Caryophyllaceae;dian alpi;Dianthus alpinus;sensu Fischer et al. 
 vascular plants;Caryophyllaceae;dian aren;Dianthus arenarius;sensu Fischer et al. 2008;;Sand-Nelke;;;;;;;;F2,F4;;
 vascular plants;Caryophyllaceae;dian arme arme;Dianthus armeria ssp. armeria;sensu Fischer et al. 2008;;Büschel-Nelke;D;;;3;1;3;1;§;;
 vascular plants;Caryophyllaceae;dian barb;Dianthus barbatus;sensu Fischer et al. 2008;;Bart-Nelke;N-U;;;N-T;N-U;N-T;;;;W
-vascular plants;Caryophyllaceae;dian cart capi;Dianthus carthusianorum ssp. capillifrons;;;;;;;;;;;;;
+vascular plants;Caryophyllaceae;dian cart capi;Dianthus carthusianorum ssp. capillifrons;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Caryophyllaceae;dian cart cart;Dianthus carthusianorum ssp. carthusianorum;sensu Fischer et al. 2008;;Eigentliche Kartäuser-Nelke;V;5;;V;3;3;4ar!/BHM;(§);;
 vascular plants;Caryophyllaceae;dian cart lati;Dianthus carthusianorum ssp. latifolius;sensu Fischer et al. 2008;;Voralpen-Kartäuser-Nelke;D;;;D;;;;(§);;
 vascular plants;Caryophyllaceae;dian cart slat;Dianthus carthusianorum s.lat.;sensu Fischer et al. 2008;;;;;;;;;;;;
@@ -1750,7 +1750,7 @@ vascular plants;Compositae;hier glau inum;Hieracium glaucinum;sensu Fischer et a
 vascular plants;Compositae;hier glom;Hieracium glomeratum;sensu Fischer et al. 2008;;Knäuel-Mausohrhabichtskraut;;;;3;3;1;;;;
 vascular plants;Compositae;hier hopp;Hieracium hoppeanum;sensu Fischer et al. 2008;;Hoppe-Mausohrhabichtskraut;;;;;;;;;;
 vascular plants;Compositae;hier humi;Hieracium humile;sensu Fischer et al. 2008;;Niedriges Habichtskraut;;;;;;;;;;
-vascular plants;Compositae;hier inty;Hieracium intybaceum;;;;;;;;;;;;;
+vascular plants;Compositae;hier inty;Hieracium intybaceum;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Compositae;hier inul;Hieracium inuloides;sensu Fischer et al. 2008;;;;4;;;;;;;;
 vascular plants;Compositae;hier jura;Hieracium juratzkae;sensu Fischer et al. 2008;;Juratzka-Habichtskraut;;;;;;;;;;
 vascular plants;Compositae;hier kalk;Hieracium kalksburgense;sensu Fischer et al. 2008;;Kalksburger Mausohrhabichtskraut;;;;1;1;F;;;;
@@ -2376,7 +2376,7 @@ vascular plants;Brassicaceae;nocc mont;Noccaea montana;sensu Fischer et al. 2008
 vascular plants;Brassicaceae;nocc rotu rotu;Noccaea rotundifolia ssp. rotundifolia;sensu Fischer et al. 2008;;Rundblättriges Täschelkraut;;;;;;;;;;
 vascular plants;Brassicaceae;nocc spec ies;Noccaea sp.;;;;;;;;;;;;;
 vascular plants;Boraginaceae;none pull pull;Nonea pulla ssp. pulla;sensu Fischer et al. 2008;;Dunkles Runzelnüsschen;;;;1;1;1;1;;;
-vascular plants;Pteridaceae;noth mara;Notholaena marantae;;;;;;;;;;;;;
+vascular plants;Pteridaceae;noth mara;Notholaena marantae;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Nymphaeaceae;nuph lute;Nuphar lutea;sensu Fischer et al. 2008;;Große Teichrose;3;3;B;3;1;2;3;§;;
 vascular plants;Nymphaeaceae;nuph pumi;Nuphar pumila;sensu Fischer et al. 2008;;Kleine Teichrose;;1;B;0;;0;KB;§;;
 vascular plants;Nymphaeaceae;nymp alba;Nymphaea alba;sensu Fischer et al. 2008;;Große Seerose;1;2;B;1;N-U;1;2;§;;
@@ -2725,7 +2725,7 @@ vascular plants;Caryophyllaceae;poly tetr;Polycarpon tetraphyllum;sensu Fischer 
 vascular plants;Asparagaceae;poly vert;Polygonatum verticillatum;sensu Fischer et al. 2008;;Quirl-Weißwurz;;;;;;;;;;
 vascular plants;Polypodiaceae;poly vule;Polypodium vulgare;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Polypodiaceae;poly vulg;Polypodium vulgare s.str.;sensu Fischer et al. 2008;;Gewöhnlicher Tüpfelfarn;;;;;;3;;;;
-vascular plants;Polypodiaceae;poly inte;Polypodium interjectum;;;;;;;;;;;;;
+vascular plants;Polypodiaceae;poly inte;Polypodium interjectum;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Polygalaceae;poly vulg slat;Polygala vulgaris s.lat.;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Polygalaceae;poly vulg oxyp;Polygala vulgaris ssp. oxyptera;sensu Fischer et al. 2008;;Spitzflüglige Wiesen-Kreuzblume;;3;;G;G;;;§;;
 vascular plants;Polygalaceae;poly vulg vulg;Polygala vulgaris ssp. vulgaris;sensu Fischer et al. 2008;;Gewöhnliche Wiesen-Kreuzblume;V;;;V;3;3;-r/BV;§;;
@@ -3478,7 +3478,7 @@ vascular plants;Solanaceae;sola dulc;Solanum dulcamara;sensu Fischer et al. 2008
 vascular plants;Solanaceae;sola lyco;Solanum lycopersicum;sensu Fischer et al. 2008;;Paradeiser;N-U;;;N-U;N-U;N-U;;;;W
 vascular plants;Solanaceae;sola nigr nigr;Solanum nigrum ssp. nigrum;sensu Fischer et al. 2008;;Gewöhnlicher Schwarzer Nachtschatten;;;;;;;;;;
 vascular plants;Solanaceae;sola nigr schu;Solanum nigrum ssp. schultesii;sensu Fischer et al. 2008;;Behaarter Schwarzer Nachtschatten;N-T;;; (N-E); (N-E); (N-E);;;;W
-vascular plants;Solanaceae;sola nigr slat;Solanum nigrum s.lat.;;;;;;;;;;;;;
+vascular plants;Solanaceae;sola nigr slat;Solanum nigrum s.lat.;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Solanaceae;sola tube;Solanum tuberosum;sensu Fischer et al. 2008;;Erdapfel;N-U;;;N-U;N-U;N-U;;;;W
 vascular plants;Solanaceae;sola vill alat;Solanum villosum ssp. alatum;sensu Fischer et al. 2008;;Geflügelter Gelbroter Nachtschatten;;;;N-U;N-U;N-U;;;;W
 vascular plants;Solanaceae;sola vill vill;Solanum villosum ssp. villosum;sensu Fischer et al. 2008;;Zottiger Gelbroter Nachtschatten;;;;1 (N-E);N-U;1 (N-E);S;;;W
