@@ -803,6 +803,7 @@ vascular plants;Caryophyllaceae;cera alpi alpi;Cerastium alpinum ssp. alpinum;se
 vascular plants;Caryophyllaceae;cera arve slat;Cerastium arvense s.lat.;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Caryophyllaceae;cera arve arve;Cerastium arvense ssp. arvense;sensu Fischer et al. 2008;;Gewöhnliches Acker-Hornkraut;3;;;3;3;3;-r/BHM;;;
 vascular plants;Caryophyllaceae;cera arve stri;Cerastium arvense ssp. strictum;sensu Fischer et al. 2008;;Steifes Acker-Hornkraut;D;;;D;D;F;;;;
+vascular plants;Caryophyllaceae;cera arve suff;Cerastium arvense ssp. suffruticosum;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Caryophyllaceae;cera brac brac;Cerastium brachypetalum ssp. brachypetalum;sensu Fischer et al. 2008;;Kleinblütiges Hornkraut;N-T;;;;;;;;;
 vascular plants;Caryophyllaceae;cera cari aust;Cerastium carinthiacum ssp. austroalpinum;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Caryophyllaceae;cera cari cari;Cerastium carinthiacum ssp. carinthiacum;sensu Fischer et al. 2008;;Kärntner Hornkraut;;;;;;I-U;;;;
@@ -2943,6 +2944,7 @@ vascular plants;Ranunculaceae;ranu trau;Ranunculus traunfellneri;sensu Fischer e
 vascular plants;Ranunculaceae;ranu tric;Ranunculus trichophyllus s.str.;sensu Fischer et al. 2008;;Haarblättriger Wasserhahnenfuß ieS;;;;;G;3;;;;
 vascular plants;Ranunculaceae;ranu trun;Ranunculus truniacus;sensu Fischer et al. 2008;;Salzkammergut-Gold-Hahnenfuß;G;;;G;;;;;E;
 vascular plants;Ranunculaceae;ranu vari;Ranunculus variabilis;sensu Fischer et al. 2008;;Wiesen-Gold-Hahnenfuß;;;;G;G;G;;;S;
+vascular plants;Ranunculaceae;ranu vill;Ranunculus villarsii;;;;;;;;;;;;;
 vascular plants;Brassicaceae;raph raph;Raphanus raphanistrum;sensu Fischer et al. 2008;;Acker-Rettich;;;;;;;;;;
 vascular plants;Brassicaceae;raph sati;Raphanus sativus;sensu Fischer et al. 2008;;Garten-Rettich;;;;N-U;N-U;N-U;;;;W
 vascular plants;Brassicaceae;rapi pere;Rapistrum perenne;sensu Fischer et al. 2008;;Stauden-Rapsdotter;;;;N-U;N-U;N-U;;;;W
@@ -3550,6 +3552,7 @@ vascular plants;Lamiaceae;stac germ;Stachys germanica;sensu Fischer et al. 2008;
 vascular plants;Lamiaceae;stac palu;Stachys palustris;sensu Fischer et al. 2008;;Sumpf-Ziest;;;;;;;;;;
 vascular plants;Lamiaceae;stac rect slat;Stachys recta s.lat.;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Lamiaceae;stac rect rect;Stachys recta ssp. recta;sensu Fischer et al. 2008;;Aufrechter Ziest;3;2;;3;2;3;3;§;;
+vascular plants;Lamiaceae;stac rect labi;Stachys recta ssp. labiosa;;;;;;;;;;;;;
 vascular plants;Lamiaceae;stac sylv;Stachys sylvatica;sensu Fischer et al. 2008;;Wald-Ziest;;;;;;;;;;
 vascular plants;Staphyleaceae;stap pinn;Staphylea pinnata;sensu Fischer et al. 2008;;Europäische Pimpernuss;;4;;;;;;;;
 vascular plants;Caryophyllaceae;stel alsi;Stellaria alsine;sensu Fischer et al. 2008;;Bach-Sternmiere;;;;;;;;;;
