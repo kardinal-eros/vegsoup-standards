@@ -1777,6 +1777,7 @@ vascular plants;Compositae;hier pall;Hieracium pallescens;sensu Fischer et al. 2
 vascular plants;Compositae;hier pant;Hieracium panteblaston;sensu Fischer et al. 2008;;Vieltriebiges Mausohrhabichtskraut;;;;1;1;;;;;
 vascular plants;Compositae;hier pilo aggr;Hieracium pilosella agg.;L.;;;;;;;;;;;;
 vascular plants;Compositae;hier pilo ella;Hieracium pilosella;sensu Fischer et al. 2008;;Kleines Mausohrhabichtskraut;;;;;;V;;;;
+vascular plants;Compositae;hier pilo ides aggr;Hieracium piloselloides agg.;sensu Ehrendorfer 1973;;;;;;;;;;;;
 vascular plants;Compositae;hier pilo ides;Hieracium piloselloides s.str.;sensu Fischer et al. 2008;;Florentiner Mausohrhabichtskraut ieS;D;;;D;;D;;;;
 vascular plants;Compositae;hier pilo inum;Hieracium pilosellinum;sensu Fischer et al. 2008;;Mausohrähnliches Mausohrhabichtskraut;;;;1;1;;;;;
 vascular plants;Compositae;hier pilo orum;Hieracium piloselliflorum;sensu Fischer et al. 2008;;Mausohrblütiges Mausohrhabichtskraut;;;;1;1;;;;;
@@ -2631,6 +2632,7 @@ vascular plants;Pinaceae;pice pung;Picea pungens;Engelm.;;Blau-fichte;;;;;;;;;;
 vascular plants;Compositae;picr hier hier;Picris hieracioides ssp. hieracioides;sensu Fischer et al. 2008;;Gewöhnliches Habichtskraut-Bitterkraut;;;;;;;;;;
 vascular plants;Compositae;picr hier slat;Picris hieracioides s.lat.;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Compositae;picr hier spin;Picris hieracioides ssp. spinulosa;sensu Fischer et al. 2008;;Stachliges Habichtskraut-Bitterkraut;;;;N-U;;N-U;;;;W
+vascular plants;Compositae;picr hier vill;Picris hieracioides ssp. villarsii;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Apiaceae;pimp alpi;Pimpinella alpina;sensu Fischer et al. 2008;;Alpen-Bibernelle;R;;;R;;;KB;;;
 vascular plants;Apiaceae;pimp anis;Pimpinella anisum;sensu Fischer et al. 2008;;Anis;F;;;N-U;F;F;;;;W
 vascular plants;Apiaceae;pimp majo majo;Pimpinella major var. major;sensu Fischer et al. 2008;;Weiße Große Bibernelle;;;;;;;;;;
@@ -4533,6 +4535,7 @@ bryophytes;Hypnaceae;hypn call;Hypnum callichroum;Brid.;;;;;;;;;;;;
 bryophytes;Hypnaceae;hypn cupr;Hypnum cupressiforme;;;;;;;;;;;;;
 bryophytes;Hypnaceae;hypn cupr slat;Hypnum cupressiforme s.lat.;;;;;;;;;;;;;
 bryophytes;Hypnaceae;hypn cupr cupr;Hypnum cupressiforme var. cupressiforme;Hedw.;;;;;;;;;;;;
+bryophytes;Hypnaceae;hypn cupr lacu;Hypnum cupressiforme var. lacunosum;Brid.;;;;;;;;;;;;
 bryophytes;Hypnaceae;hynu cupr subj;Hypnum cupressiforme var. subjulaceum;Molendo;;;;;;;;;;;;
 bryophytes;Hypnaceae;hypn lind;Hypnum lindbergii;Mitt.;;;;;;;;;;;;
 bryophytes;Hypnaceae;hypn jutl;Hypnum jutlandicum;Holmen & E.Warncke;;;;;;;;;;;;
