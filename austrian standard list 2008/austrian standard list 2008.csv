@@ -96,6 +96,8 @@ vascular plants;Lamiaceae;ajug ×hyb;Ajuga × hybrida (=A. genevensis × reptans
 vascular plants;Malvaceae;alce rose;Alcea rosea;sensu Fischer et al. 2008;;Garten-Pappelrose;N-U;;;N-U;;N-U;;;;W
 vascular plants;Rosaceae;alch acut;Alchemilla acutiloba;sensu Fischer et al. 2008;;Spitzlappiger Frauenmantel;G;;;2;2;2;;;;
 vascular plants;Rosaceae;alch aggr;Alchemilla aggregata;sensu Fischer et al. 2008;;Kleinknäueliger Frauenmantel;R;;;R;;;;;;
+vascular plants;Rosaceae;alch alpi na;Alchemilla alpina;;;;;;;;;;;;;
+vascular plants;Rosaceae;alch alpi gena;Alchemilla alpigena;;;;;;;;;;;;;
 vascular plants;Rosaceae;alch anis;Alchemilla anisiaca;sensu Fischer et al. 2008;;Ennstaler Silbermantel;;5;;;;I-U;;;E;
 vascular plants;Rosaceae;alch conn;Alchemilla connivens;sensu Fischer et al. 2008;;Zusammenneigender Frauenmantel;R;;;R;;;;;;
 vascular plants;Rosaceae;alch cori;Alchemilla coriacea;sensu Fischer et al. 2008;;Lederblättriger Frauenmantel;R;;;R;;;;;;
@@ -179,7 +181,9 @@ vascular plants;Malvaceae;alth cann;Althaea cannabina;sensu Fischer et al. 2008;
 vascular plants;Malvaceae;alth offi;Althaea officinalis;sensu Fischer et al. 2008;;Echter Eibisch;N-U;;; (N-E);N-U; (N-E);;;;W
 vascular plants;Brassicaceae;alys alys;Alyssum alyssoides;sensu Fischer et al. 2008;;Kelch-Steinkraut;;;;2;N-U;2;3;;;
 vascular plants;Brassicaceae;alys dese;Alyssum desertorum;sensu Fischer et al. 2008;;Steppen-Steinkraut;;;;;;;;;;
-vascular plants;Brassicaceae;alys mont;Alyssum montanum;sensu Fischer et al. 2008;;Berg-Steinkraut;;;;N-U;;N-U;S;;;W
+vascular plants;Brassicaceae;alys mont slat;Alyssum montanum s.lat.;sensu Fischer et al. 2008;;Berg-Steinkraut;;;;N-U;;N-U;S;;;W
+vascular plants;Brassicaceae;alys mont mont;Alyssum montanum ssp. montanum;sensu Fischer et al. 2008;;;;;;;;;;;;
+vascular plants;Brassicaceae;alys mont gmel;Alyssum montanum ssp. gmelinii;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Brassicaceae;alys mura;Alyssum murale;sensu Fischer et al. 2008;;Mauer-Steinkraut;;;;N-T;N-T;;;;;W
 vascular plants;Brassicaceae;alys repe tran;Alyssum repens ssp. transsilvanicum;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Amaranthaceae;amar albu;Amaranthus albus;sensu Fischer et al. 2008;;Weißer Amarant;;;; (N-E);; (N-E);;;;W
@@ -1267,6 +1271,7 @@ vascular plants;Orchidaceae;epip atro;Epipactis atrorubens;sensu Fischer et al. 
 vascular plants;Orchidaceae;epip buga;Epipactis bugacensis;sensu Fischer et al. 2008;;Flussufer-Ständelwurz;;;;;;;;§;;
 vascular plants;Orchidaceae;epip hell atro;Epipactis helleborine × atrorubens (E. × schmalhausenii);sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Orchidaceae;epip hell hell;Epipactis helleborine ssp. helleborine;sensu Fischer et al. 2008;;Gewöhnliche Grüne Ständelwurz;;5;B;;;V;-r/BV;§;;
+vascular plants;Orchidaceae;epip hell orbi;Epipactis helleborine ssp. orbicularis;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Orchidaceae;epip hell slat;Epipactis helleborine s.lat.;sensu Fischer et al. 2008;;Grüne Ständelwurz;;5;B;;;;;;;
 vascular plants;Orchidaceae;epip lept;Epipactis leptochila ssp. leptochila;sensu Fischer et al. 2008;;Schmallippige Ständelwurz;R;;;R;;;;§;;
 vascular plants;Orchidaceae;epip micr;Epipactis microphylla;sensu Fischer et al. 2008;;Kleinblättrige Ständelwurz;1;;;1;;1;0;§;;
@@ -2017,11 +2022,13 @@ vascular plants;Leguminosae;lath lini;Lathyrus linifolius;sensu Fischer et al. 2
 vascular plants;Leguminosae;lath nige;Lathyrus niger;sensu Fischer et al. 2008;;Schwarze Platterbse;;4;;3;3;1;-r/V;;;
 vascular plants;Leguminosae;lath palu;Lathyrus palustris;sensu Fischer et al. 2008;;Sumpf-Platterbse;;1;;1;;1;1;;;
 vascular plants;Leguminosae;lath pann;Lathyrus pannonicus;sensu Fischer et al. 2008;;Pannonische Platterbse;;;;;;;;;;
+vascular plants;Leguminosae;lath prat slat;Lathyrus pratensis s.lat.;;;;;;;;;;;;;
+vascular plants;Leguminosae;lath prat luss;Lathyrus pratensis ssp. lusseri;;;;;;;;;;;;;
 vascular plants;Leguminosae;lath prat prat;Lathyrus pratensis ssp. pratensis;sensu Fischer et al. 2008;;Wiesen-Platterbse;;;;;;;;;;
 vascular plants;Leguminosae;lath sati;Lathyrus sativus;sensu Fischer et al. 2008;;Saat-Platterbse;N-U;;;N-U;;N-U;;;;W
 vascular plants;Orobanchaceae;lath squa squa;Lathraea squamaria ssp. squamaria;sensu Fischer et al. 2008;;Gewöhnliche Schuppenwurz;;;;;;;;;;
 vascular plants;Orobanchaceae;lath squa tatr;Lathraea squamaria ssp. tatrica;sensu Fischer et al. 2008;;Fichten-Schuppenwurz;;;;;;;;;;
-;Orobanchaceae;lath squa slat;Lathraea squamaria s.lat.;;;;;;;;;;;;;
+vascular plants;Orobanchaceae;lath squa slat;Lathraea squamaria s.lat.;;;;;;;;;;;;;
 vascular plants;Leguminosae;lath sylv;Lathyrus sylvestris;sensu Fischer et al. 2008;;Wilde Platterbse;;;;;;;-r/B;;;
 vascular plants;Leguminosae;lath tube;Lathyrus tuberosus;sensu Fischer et al. 2008;;Knollen-Platterbse;N-U;2;;;1;;;;;
 vascular plants;Leguminosae;lath vern;Lathyrus vernus;sensu Fischer et al. 2008;;Frühlings-Platterbse;;;;;;;;;;
