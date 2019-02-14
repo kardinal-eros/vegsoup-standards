@@ -1430,6 +1430,7 @@ vascular plants;Poaceae;fest hall;Festuca halleri;sensu Fischer et al. 2008;;Eig
 vascular plants;Poaceae;fest hall aggr;Festuca halleri agg.;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Poaceae;fest hete alla;Festuca heteromalla;sensu Fischer et al. 2008;;Vielblütiger Rot-Schwingel;N-U;;;N-U;N-U;N-U;;;;W
 vascular plants;Poaceae;fest hete ylla;Festuca heterophylla;sensu Fischer et al. 2008;;Verschiedenblättriger Schwingel;3;3;;3;3;3;-r/HM;;;
+vascular plants;Poaceae;fest laxa;Festuca laxa;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Poaceae;fest nigr cans;Festuca nigricans;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Poaceae;fest nigr cens;Festuca nigrescens;sensu Fischer et al. 2008;;Horst-Rot-Schwingel;;;;;3;3;;;;
 vascular plants;Poaceae;fest nori;Festuca norica;sensu Fischer et al. 2008;;Norischer Schwingel;;;;;;;;;;
@@ -2011,6 +2012,7 @@ vascular plants;Apiaceae;lase prut;Laserpitium prutenicum;sensu Fischer et al. 2
 vascular plants;Apiaceae;lase sile sile;Laserpitium siler ssp. siler;sensu Fischer et al. 2008;;Berg-Laserkraut;;;;;;I-U;;;;
 vascular plants;Apiaceae;lase tril;Laser trilobum;sensu Fischer et al. 2008;;Rosskümmel;;;;;;;;;;
 vascular plants;Leguminosae;lath apha;Lathyrus aphaca;sensu Fischer et al. 2008;;Ranken-Platterbse;N-U;;;N-U;;N-U;;;;W
+vascular plants;Leguminosae;lath hete;Lathyrus heterophyllus;;;;;;;;;;;;;
 vascular plants;Leguminosae;lath hirs;Lathyrus hirsutus;sensu Fischer et al. 2008;;Haarfrüchtige Platterbse;;;;N-U;;N-U;1;;;W
 vascular plants;Leguminosae;lath laev laev;Lathyrus laevigatus ssp. laevigatus;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Leguminosae;lath laev occi;Lathyrus laevigatus ssp. occidentalis;sensu Fischer et al. 2008;;Westliche Gelbe Platterbse;;;;;;;;;;
@@ -3422,6 +3424,7 @@ vascular plants;Apiaceae;sese annu;Seseli annuum s.str.;sensu Fischer et al. 200
 vascular plants;Apiaceae;sese aust;Seseli austriacum;sensu Fischer et al. 2008;;Österreichischer Sesel, -Bergfenchel;;;;;;;;;S;
 vascular plants;Apiaceae;sese hipp;Seseli hippomarathrum;sensu Fischer et al. 2008;;Pferde-Sesel, -Bergfenchel;0;;;0;;0;0;;;
 vascular plants;Apiaceae;sese liba liba;Seseli libanotis ssp. libanotis;sensu Fischer et al. 2008;;Berg-Heilwurz;;5;;;1;2;-r/V;;;
+vascular plants;Apiaceae;sese liba inte;Seseli libanotis ssp. intermedium;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Apiaceae;sese osse;Seseli osseum;sensu Fischer et al. 2008;;Meergrüner Sesel, -Bergfenchel;;;;R;R;;4;;;
 vascular plants;Poaceae;sesl caer;Sesleria caerulea s.str.;sensu Fischer et al. 2008;Sesleria ablicans;Kalk-Blaugras;;;;;1;;;;;
 vascular plants;Poaceae;sesl ovat;Sesleria ovata;sensu Fischer et al. 2008;;Eiköpfiges Blaugras;R;;;R;;;4;;;
@@ -3968,6 +3971,7 @@ vascular plants;Violaceae;viol tric tric;Viola tricolor ssp. tricolor;sensu Fisc
 vascular plants;Violaceae;viol ulig;Viola uliginosa;sensu Fischer et al. 2008;;Moor-Veilchen;;;;;;;;;;
 vascular plants;Violaceae;viol ×adu;Viola × adulterina (=V. alba × hirta);Godron;;;;;;;;;;;;
 vascular plants;Violaceae;viol ×bav;Viola × bavarica (=V. reichenbachiana × riviniana);Schrank;;;;;;;;;;;;
+vascular plants;Violaceae;viol ×bur;Viola × burnatii (=V. rupestris × riviniana);Gremli;;;;;;;;;;;;
 vascular plants;Violaceae;viol ×wit;Viola × wittrockiana;Gams;;Garten-Stiefmütterchen;N-U;;;N-U;N-U;N-U;;;;W
 vascular plants;Violaceae;viol ×sca;Viola × scabra (=V. hirta × odorata);F. Braun;;;;;;;;;;;;
 vascular plants;Violaceae;viol ×umbr;Viola × umbrosa (=V. collina × hirta);Hoppe;;;;;;;;;;;;
