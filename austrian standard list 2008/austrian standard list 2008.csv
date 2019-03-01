@@ -580,6 +580,7 @@ vascular plants;Campanulaceae;camp patu patu;Campanula patula ssp. patula;sensu 
 vascular plants;Campanulaceae;camp pers;Campanula persicifolia;sensu Fischer et al. 2008;;Wald-Glockenblume, Pfirsichblättrige G.;;5;;;;;;;;
 vascular plants;Campanulaceae;camp port;Campanula portenschlagiana;sensu Fischer et al. 2008;;Dalmatiner Glockenblume;;;;N-U;;N-U;;;;W
 vascular plants;Campanulaceae;camp posc;Campanula poscharskyana;sensu Fischer et al. 2008;;Poscharsky-Glockenblume;N-U;;;N-U;;N-U;;;;W
+vascular plants;Campanulaceae;camp prae;Campanula praesignis;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Campanulaceae;camp pull;Campanula pulla;sensu Fischer et al. 2008;;Österreichische Glockenblume, Dunkle G.;;;;;;;;;E;
 vascular plants;Campanulaceae;camp pyra;Campanula pyramidalis;sensu Fischer et al. 2008;;Pyramiden-Glockenblume;F;;;N-U;F;F;;;;W
 vascular plants;Campanulaceae;camp rapu;Campanula rapunculus;sensu Fischer et al. 2008;;Rapunzel-Glockenblume;N-U;;;N-U;;N-U;;;;W
@@ -1521,6 +1522,7 @@ vascular plants;Lamiaceae;gale arge;Galeobdolon argentatum;sensu Fischer et al. 
 vascular plants;Lamiaceae;gale bifi;Galeopsis bifida;sensu Fischer et al. 2008;;Zweizipfliger Hohlzahn;;3;;;;;;;;
 vascular plants;Lamiaceae;gale flav;Galeobdolon flavidum;sensu Fischer et al. 2008;;Hellgelbe Goldnessel;;;;;;;;;;
 vascular plants;Lamiaceae;gale lada;Galeopsis ladanum s.str.;sensu Fischer et al. 2008;;Breitblättriger Hohlzahn;;;;1;1;1;3;;;
+vascular plants;Lamiaceae;gale lute aggr;Galeobdolon luteum agg.;sensu Ehrendorfer 1973;;;;;;;;;;;;
 vascular plants;Lamiaceae;gale lute;Galeobdolon luteum s.str.;sensu Fischer et al. 2008;;Echte Goldnessel;;;;;;;;;;
 vascular plants;Lamiaceae;gale mont;Galeobdolon montanum;sensu Fischer et al. 2008;;Berg-Goldnessel;;5;;;;;;;;
 vascular plants;Lamiaceae;gale olon spec ies;Galeobdolon sp.;;;;;;;;;;;;;
@@ -3295,7 +3297,8 @@ vascular plants;Saxifragaceae;saxi oppo slat;Saxifraga oppositifolia s.lat.;sens
 vascular plants;Saxifragaceae;saxi oppo oppo;Saxifraga oppositifolia ssp. oppositifolia;sensu Fischer et al. 2008;;Gegenblättriger Steinbrech;;;D;;;;;§;;
 vascular plants;Saxifragaceae;saxi pani;Saxifraga paniculata;sensu Fischer et al. 2008;;Rispen-Steinbrech;;;D;;;1;-r/V;§;;
 vascular plants;Saxifragaceae;saxi retu;Saxifraga retusa;sensu Fischer et al. 2008;;Wulfen-Steinbrech;;4;D;;;;;§;;
-vascular plants;Saxifragaceae;saxi rosa spon;Saxifraga rosacea subsp. sponhemica;(C. C. Gmel.) D. A. Webb;;;;;;;;;;;;
+vascular plants;Saxifragaceae;saxi rosa spon;Saxifraga rosacea ssp. sponhemica;(C. C. Gmel.) D. A. Webb;;;;;;;;;;;;
+vascular plants;Saxifragaceae;saxi rosa rosa;Saxifraga rosacea ssp. rosacea;Moench;;;;;;;;;;;;
 vascular plants;Saxifragaceae;saxi rotu;Saxifraga rotundifolia ssp. rotundifolia;sensu Fischer et al. 2008;;Rundblättriger Steinbrech;;;;;0;R;;§;;
 vascular plants;Saxifragaceae;saxi rudo;Saxifraga rudolphiana;sensu Fischer et al. 2008;;;;;D;;;;;;;
 vascular plants;Saxifragaceae;saxi sedo;Saxifraga sedoides;sensu Fischer et al. 2008;;Mauerpfeffer-Steinbrech;;;D;;;;4;§;;
@@ -3696,7 +3699,6 @@ vascular plants;Santalaceae;thes spec ies;Thesium sp.;;;;;;;;;;;;;
 vascular plants;Brassicaceae;thla alli;Thlaspi alliaceum;sensu Fischer et al. 2008;;Lauch-Hellerkraut; (N-E);;; (N-E);; (N-E);0;;;W
 vascular plants;Brassicaceae;thla alpe;Thlaspi alpestre;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Brassicaceae;thla arve;Thlaspi arvense;sensu Fischer et al. 2008;;Acker-Hellerkraut;;;;;;;;;;
-vascular plants;Brassicaceae;thla coer slat;Thlaspi coerulescens s.lat.;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Cupressaceae;thuj occi;Thuja occidentalis;sensu Fischer et al. 2008;;Amerikanischer Lebensbaum;;;;N-U;;N-U;;;;W
 vascular plants;Cupressaceae;thuj orie;Thuja orientalis;sensu Fischer et al. 2008;;Orientalischer Lebensbaum;N-U;;;N-U;N-U;N-U;;;;W
 vascular plants;Cupressaceae;thuj plic;Thuja plicata;sensu Fischer et al. 2008;;Riesen-Lebensbaum;;;;N-U;;N-U;;;;W
