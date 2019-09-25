@@ -1238,7 +1238,7 @@ vascular plants;Poaceae;elym hisp slat;Elymus hispidus s.lat.;(Opiz) Melderis;;;
 vascular plants;Poaceae;elym hisp barb;Elymus hispidus subsp. barbulatus;(Schur) Melderis;;;;;;;;;;;;
 vascular plants;Poaceae;elym hisp hisp;Elymus hispidus subsp. hispidus;(Opiz) Melderis;;;;;;;;;;;;
 vascular plants;Poaceae;elym spec ies;Elymus sp.;;;;;;;;;;;;;
-vascular plants;Poaceae;elyt aena;Elytrigia aenaean;Hohla & H. Scholz;;Inn-Quecke;;;;G;1;G;;;;
+vascular plants;Poaceae;elyt aena;Elytrigia aenaena;Hohla & H. Scholz;;Inn-Quecke;;;;G;1;G;;;;
 vascular plants;Poaceae;elyt athe;Elytrigia atherica;sensu Fischer et al. 2008;;Strand-Quecke;;;;G;G;;;;;
 vascular plants;Poaceae;elyt inte;Elytrigia intermedia;sensu Fischer et al. 2008;;Blau-Quecke;;;;1;1;1;1;;;
 vascular plants;Poaceae;elyt laxu;Elytrigia laxula;Hohla & H. Scholz;;Langgliedrige Quecke;;;;1;;1;;;;
@@ -1435,6 +1435,7 @@ vascular plants;Poaceae;fest hall;Festuca halleri;sensu Fischer et al. 2008;;Eig
 vascular plants;Poaceae;fest hall aggr;Festuca halleri agg.;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Poaceae;fest hete alla;Festuca heteromalla;sensu Fischer et al. 2008;;Vielblütiger Rot-Schwingel;N-U;;;N-U;N-U;N-U;;;;W
 vascular plants;Poaceae;fest hete ylla;Festuca heterophylla;sensu Fischer et al. 2008;;Verschiedenblättriger Schwingel;3;3;;3;3;3;-r/HM;;;
+vascular plants;Poaceae;fest inte;Festuca intercedens;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Poaceae;fest laxa;Festuca laxa;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Poaceae;fest nigr cans;Festuca nigricans;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Poaceae;fest nigr cens;Festuca nigrescens;sensu Fischer et al. 2008;;Horst-Rot-Schwingel;;;;;3;3;;;;
@@ -1671,6 +1672,7 @@ vascular plants;Woodsiaceae;gymn dryo;Gymnocarpium dryopteris;sensu Fischer et a
 vascular plants;Orchidaceae;gymn odor;Gymnadenia odoratissima;sensu Fischer et al. 2008;;Duft-Händelwurz;;5;B;;0;0;4a;§;;
 vascular plants;Woodsiaceae;gymn robe;Gymnocarpium robertianum;sensu Fischer et al. 2008;;Ruprechtsfarn;;;;;3;3;-r/V;;;
 vascular plants;Caryophyllaceae;gyps acut;Gypsophila acutifolia;sensu Fischer et al. 2008;;Spitzblättriges Gipskraut;;;;N-U;;N-U;;;;W
+vascular plants;Caryophyllaceae;gyps eleg;Gypsophila elegans;M.Bieb.;;;;;;;;;;;;
 vascular plants;Caryophyllaceae;gyps mura;Gypsophila muralis;sensu Fischer et al. 2008;;Mauer-Gipskraut;N-U;0;;1;1;1;3;;;
 vascular plants;Caryophyllaceae;gyps repe;Gypsophila repens;sensu Fischer et al. 2008;;Kriech-Gipskraut;;;;;;I-U;;;;
 vascular plants;Boraginaceae;hack defl;Hackelia deflexa;sensu Fischer et al. 2008;;Klettenkraut;R;4;;R;;F;4;;;
@@ -2595,6 +2597,7 @@ vascular plants;Apiaceae;peuc ostr;Peucedanum ostruthium;sensu Fischer et al. 20
 vascular plants;Apiaceae;peuc palu;Peucedanum palustre;sensu Fischer et al. 2008;;Sumpf-Haarstrang;2;3;;3;2;3;3;§;;
 vascular plants;Apiaceae;peuc vert;Peucedanum verticillare;sensu Fischer et al. 2008;;Quirl-Haarstrang;;;;;;;KB;§;;
 vascular plants;Boraginaceae;phac tana;Phacelia tanacetifolia;sensu Fischer et al. 2008;;Rainfarn-Büschelschön;;;;N-U;N-U;N-U;;;;W
+vascular plants;Boraginaceae;phac visc;Phacelia viscida;(Benth.) Torr.;;;;;;;;;;;;
 vascular plants;Poaceae;phal arun;Phalaris arundinacea;sensu Fischer et al. 2008;;Rohr-Glanzgras;;;;;;;;;;
 vascular plants;Poaceae;phal arun pict;Phalaris arundinacea var. picta;sensu Fischer et al. 2008;;Bandgras;N-U;;;N-U;N-U;N-U;;;;W
 vascular plants;Poaceae;phal cana;Phalaris canariensis;sensu Fischer et al. 2008;;Echtes Glanzgras, Kanariengras;N-U;;;N-U;N-U;N-U;;;;W
@@ -3684,7 +3687,7 @@ vascular plants;Ranunculaceae;thal flav;Thalictrum flavum;sensu Fischer et al. 2
 vascular plants;Ranunculaceae;thal foet;Thalictrum foetidum;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Ranunculaceae;thal luci;Thalictrum lucidum;sensu Fischer et al. 2008;;Glanz-Wiesenraute;3;3;;V;3;V;-r/H;;;
 vascular plants;Ranunculaceae;thal minu prat;Thalictrum minus ssp. pratense;sensu Fischer et al. 2008;;Frühe Berg-Wiesenraute;;5;;1;1;1;-r/BV;;;
-vascular plants;Ranunculaceae;thal minu maja;Thalictrum minus ssp. majus;sensu Fischer et al. 2008;;;;;;;;;;;;
+vascular plants;Ranunculaceae;thal minu maju;Thalictrum minus ssp. majus;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Ranunculaceae;thal minu minu;Thalictrum minus ssp. minus;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Ranunculaceae;thal minu saxa;Thalictrum minus ssp. saxatile;sensu Fischer et al. 2008;;Felsen-Berg-Wiesenraute;;5;;;;;-r/BV;;;
 vascular plants;Ranunculaceae;thal minu slat;Thalictrum minus s.lat.;sensu Fischer et al. 2008;;;;5;;;;;;;;
