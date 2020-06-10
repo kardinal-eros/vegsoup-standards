@@ -47,6 +47,14 @@ Meaning of columns
 - **law.oö**: Legal protection for the state of Upper Austria (Austria) according to LGBl. Nr. 73/2003
 - **endemic.aut**: Endemic of Austria (E: strict endemic, S: subendemic)
 - **alien**: Alien species
+- **eiv.l**: light
+- **eiv.t**: temperature
+- **eiv.k**: continentality
+- **eiv.f**: moisture
+- **eiv.r**: soil reacation
+- **eiv.n**: nutrients
+- **eiv.source**: source of values
+
 
 Further details about specific columns
 --------------------------------------
