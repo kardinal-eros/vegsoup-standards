@@ -30,4 +30,4 @@ n[n == ""] <- "-"
 r <- data.frame(id, taxon, l, t, k, f, r, n)
 
 #	save as csv file
-write.csv(r, "~/Documents/vegsoup-standards/ellenberg indicator values/ellenberg indicator values.csv", quote = FALSE, row.names = FALSE)
+write.csv(r, "~/Documents/vegsoup-standards/ellenberg indicator values/ellenberg indicator values.csv", quote = TRUE, row.names = FALSE)
