@@ -92,7 +92,7 @@ F Jansen and F Dengler (2010). *Plant names in vegetation databases - a neglecte
 
 R Türk and J Hafellner (2010). *Nachtrag zur Bibliographie der Flechten in Österreich*. In Ehrendorfer, F (editor), Biosystematics and Ecology Series, volume 27. Austrian Academy of Sciences Press.
 
-H Köckinger, C Schröck, R Krisai and HG Zechmeister (2012). [*Checklist of Austrian Bryophytes*](http://131.130.59.133/projekte/moose/)
+H Köckinger, C Schröck, R Krisai and HG Zechmeister (2012). [*Checklist of Austrian Bryophytes*](http://cvl.univie.ac.at/projekte/moose/)
 
 Wittmann, H, Pilsl P, and G Nowotny (1991). *Rote Liste gefährdeter Farn- und Blütenpflanzen des Bundeslandes Salzburg*. In Naturschutzbeiträge, volume 8/96, Amt der Salzburger Landesregierung, Naturschutzreferat, Salzburg.
 
