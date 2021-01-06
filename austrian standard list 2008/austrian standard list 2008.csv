@@ -454,6 +454,7 @@ vascular plants;Lamiaceae;beto offi offi;Betonica officinalis;7;6;5;x;x;3;;;sens
 vascular plants;Betulaceae;betu humi;Betula humilis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Strauch-Birke;;0;;1;;1;1;§;;
 vascular plants;Betulaceae;betu nana;Betula nana;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Zwerg-Birke;F;2;B;0;0;0;0;§;;
 vascular plants;Betulaceae;betu pend;Betula pendula;7;x;x;x;x;x;;;sensu Fischer et al. 2008;;Hänge-Birke;;;;;;;;;;
+vascular plants;Betulaceae;betu pend plus pube;Betula pendula/pubescens;-;-;-;-;-;-;;;not applicable;;;;;;;;;;;;
 vascular plants;Betulaceae;betu pube slat;Betula pubescens s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;3;;;;;;;;
 vascular plants;Betulaceae;betu pube carp;Betula pubescens subsp. carpatica s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Gebirgs-Birke;3;;;3;3;3;;;;
 vascular plants;Betulaceae;betu pube pube;Betula pubescens ssp. pubescens;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Eigentliche Moor-Birke, Flaum-B.;1;3;;1;1;1;3;;;
@@ -2699,7 +2700,7 @@ vascular plants;Lentibulariaceae;ping lept;Pinguicula leptoceras;-;-;-;-;-;-;;;s
 vascular plants;Lentibulariaceae;ping vulg;Pinguicula vulgaris;8;x;3;8;7;2;Karrer;;sensu Fischer et al. 2008;;Gewöhnliches Fettkraut;3;5;C;3;1;1;-r/BV;§;;
 vascular plants;Pinaceae;pinu cemb;Pinus cembra;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Zirbe;;;;;;;;(§);;
 vascular plants;Pinaceae;pinu mugo;Pinus mugo s.str.;8;3;3;x;x;3;Karrer;;sensu Fischer et al. 2008;;Leg-Föhre, Latsche;;;;;1;1;-r/BV;§,(§);;
-vascular plants;Pinaceae;pinu mugo slat;Pinus mugo s.lat.;-;-;-;-;-;-;;;;incl. P. uncinata;;;;;;;;;;;
+vascular plants;Pinaceae;pinu mugo slat;Pinus mugo s.lat.;-;-;-;-;-;-;;;not applicable;incl. P. uncinata;;;;;;;;;;;
 vascular plants;Pinaceae;pinu nigr nigr;Pinus nigra ssp. nigra;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;;;;;;;;;
 vascular plants;Pinaceae;pinu rotu;Pinus × rotundata;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Moor-Spirke und andere Zwischenformen der Leg-Föhre;1;3;;2;2;1;3;§,(§);;
 vascular plants;Pinaceae;pinu stro;Pinus strobus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;;;;;;;;;
@@ -3255,13 +3256,14 @@ vascular plants;Salicaceae;sali alba;Salix alba;-;-;-;-;-;-;;;sensu Fischer et a
 vascular plants;Salicaceae;sali alpi;Salix alpina;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Ostalpen-Weide;;;D;;;;;;;
 vascular plants;Salicaceae;sali appe;Salix appendiculata s.str.;7;3;4;6;8;6;Karrer;;sensu Fischer et al. 2008;;Großblättrige Weide;;;D;;F;;-r/V;;;
 vascular plants;Salicaceae;sali appe ×wal;Salix appendiculata × waldsteiniana;-;-;-;-;-;-;;;sensu Hörandl 1992;;;;;;;;;;;;
-vascular plants;Salicaceae;sali appe plus wald;Salix appendiculata/waldsteiniana;-;-;-;-;-;-;;;;;;;;;;;;;;;
+vascular plants;Salicaceae;sali appe plus wald;Salix appendiculata/waldsteiniana;-;-;-;-;-;-;;;not applicable;;;;;;;;;;;;
 vascular plants;Salicaceae;sali auri;Salix aurita;7;x;3;8;4;3;Karrer;;sensu Fischer et al. 2008;;Ohr-Weide;V;3;D;;;V;-r/V;;;
 vascular plants;Salicaceae;sali baby hybr;Salix babylonica-Hybriden;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Trauer-Weide;F;;;N-U;F;F;;;;W
 vascular plants;Salicaceae;sali bico;Salix bicolor;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;;D;;;;;;;
 vascular plants;Salicaceae;sali brev;Salix breviserrata;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kurzzähnige Weide;;;D;;;;;;;
 vascular plants;Salicaceae;sali capr;Salix caprea;7;x;3;6;7;7;;;sensu Fischer et al. 2008;;Sal-Weide;;;D;;;;;;;
 vascular plants;Salicaceae;sali cine;Salix cinerea s.str.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Asch-Weide;;;D;;;;;;;
+vascular plants;Salicaceae;sali cine plus auri;Salix cineria/aurita;-;-;-;-;-;-;;;not applicable;;;;;;;;;;;;
 vascular plants;Salicaceae;sali daph daph;Salix daphnoides ssp. daphnoides;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Reif-Weide;3;;D;3;2;3;-r/V;;;
 vascular plants;Salicaceae;sali dasy;Salix × dasyclados;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Filzästige Weide;;;D;N-U;;N-U;;;;W
 vascular plants;Salicaceae;sali elea elea;Salix eleagnos ssp. eleagnos;7;5;2;7;8;4;;;sensu Fischer et al. 2008;;Lavendel-Weide;;;D;;2;V;;;;
@@ -4062,7 +4064,7 @@ vascular plants;Potamogetonaceae;zann palu slat;Zannichellia palustris s.lat.;-;
 vascular plants;Poaceae;zea mays;Zea mays;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Mais;N-U;;;N-U;N-U;N-U;;;;W
 vascular plants;Compositae;zinn eleg;Zinnia elegans;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Zinnie;;;;N-U;;N-U;;;;W
 vascular plants;Compositae;zinn viol;Zinnia violacea;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;;;;;;;;;
-vascular plants;;unde vasc;undertermined vascular plant(s);-;-;-;-;-;-;;;;;;;;;;;;;;;
+vascular plants;;unde vasc;undertermined vascular plant(s);-;-;-;-;-;-;;;not applicable;;;;;;;;;;;;
 lichens;;leca cytr;Lecania cyrtella;-;-;-;-;-;-;;;(Ach.) Th. Fr.;;;;;;;;;;;;
 lichens;;leca naeg;Lecania naegelii;-;-;-;-;-;-;;;(Hepp) v. d. Boom;;;;;;;;;;;;
 lichen;;acro gemm;Acrocordia gemmata;-;-;-;-;-;-;;;(Ach.) Massal.;;;;;;;;;;;;
@@ -4466,6 +4468,7 @@ bryophytes;Amblystegiaceae;camp hall;Campylium halleri;-;-;-;-;-;-;;;(Sw. ex Hed
 bryophytes;Amblystegiaceae;camp stel;Campylium stellatum;-;-;-;-;-;-;;;(Schreb. ex Hedw.) Lange & C.E.O.Jensen;;;;;;;;;;;;
 bryophytes;Dicranaceae;camp flex;Campylopus flexuosus;-;-;-;-;-;-;;;(Hedw.) Brid.;;;;;;;;;;;;
 bryophytes;Dicranaceae;camp grac;Campylopus gracilis;-;-;-;-;-;-;;;(Mitt.) A.Jaeger;;;;;;;;;;;;
+bryophytes;Dicranaceae;camp intr;Campylopus introflexus;-;-;-;-;-;-;;;(Hedw.) Brid.;;;;;;;;;;;;
 bryophytes;Dicranaceae;camp pyri;Campylopus pyriformis;-;-;-;-;-;-;;;(Schultz) Brid.;;;;;;;;;;;;
 bryophytes;Dicranaceae;camp subu schi;Campylopus subulatus var. schimperi;-;-;-;-;-;-;;;(Milde) Husn.;;;;;;;;;;;;
 bryophytes;Catoscopiaceae;cata nigr;Catoscopium nigritum;-;-;-;-;-;-;;;(Hedw.) Brid.;;;;;;;;;;;;
@@ -4674,6 +4677,7 @@ bryophytes;Pelliaceae;pell endi;Pellia endiviifolia;-;-;-;-;-;-;;;(Dicks.) Dumor
 bryophytes;Pelliaceae;pell epip;Pellia epiphylla;-;-;-;-;-;-;;;(L.) Corda;;;;;;;;;;;;
 bryophytes;Pelliaceae;pell spec ies;Pellia sp.;-;-;-;-;-;-;;;Dicks.;;;;;;;;;;;;
 bryophytes;Bartramiaceae;phil calc;Philonotis calcarea;-;-;-;-;-;-;;;(Bruch & Schimp.) Schimp.;;;;;;;;;;;;
+bryophytes;Bartramiaceae;phil caes;Philonotis caespitosa;-;-;-;-;-;-;;;Jur.;;;;;;;;;;;;
 bryophytes;Bartramiaceae;phil font;Philonotis fontana;-;-;-;-;-;-;;;(L. ex Hedw.) Brid.;;;;;;;;;;;;
 bryophytes;Bartramiaceae;phil seri;Philonotis seriata;-;-;-;-;-;-;;;Mitt.;;;;;;;;;;;;
 bryophytes;Bartramiaceae;phil spec ies;Philonotis sp.;-;-;-;-;-;-;;;;;;;;;;;;;;;
@@ -4760,6 +4764,7 @@ bryophytes;Hylocomiaceae;rhyt squa;Rhytidiadelphus squarrosus;-;-;-;-;-;-;;;(L. 
 bryophytes;Hylocomiaceae;rhyt triq;Rhytidiadelphus triquetrus;-;-;-;-;-;-;;;(L. ex Hedw.) Warnst.;;;;;;;;;;;;
 bryophytes;Hylocomiaceae;rhyt rugo;Rhytidium rugosum;-;-;-;-;-;-;;;(Ehrh. ex Hedw.) Kindb.;;;;;;;;;;;;
 bryophytes;Ricciaceae;ricc cili;Riccia ciliifera;-;-;-;-;-;-;;;Link ex Lindenb.;;;;;;;;;;;;
+bryophytes;Ricciaceae;ricc flui;Riccia fluitans;-;-;-;-;-;-;;;L.;;;;;;;;;;;;
 bryophytes;Amblystegiaceae;sani unci;Sanionia uncinata;-;-;-;-;-;-;;;(Hedw.) Loeske;Drepanocladus uncinatus (Hedw.) Warnst.;;;;;;;;;;;
 bryophytes;Scapaniaceae;scap aequ;Scapania aequiloba;-;-;-;-;-;-;;;(Schwägr.) Dumort.;;;;;;;;;;;;
 bryophytes;Scapaniaceae;scap aspe;Scapania aspera;-;-;-;-;-;-;;;Bernet & M.Bernet;;;;;;;;;;;;
