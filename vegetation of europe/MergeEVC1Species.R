@@ -31,7 +31,7 @@ x <- read.csv("~/Documents/vegsoup-standards/vegetation of europe/evc1 species.c
 test <- any(x$taxon[ duplicated(x$taxon) ])
 if (test) {	message("duplicated taxa found") }
 
-#	test  whether a callas codes is in increasing order
+#	test  whether a class codes is in increasing order
 i <- sapply(x$evc.class.code, function (x) strsplit(x, "+", fixed = TRUE))
 test <- sapply(i, order)
 test <- test[ sapply(test, length) > 1 ]
@@ -41,14 +41,21 @@ if (test) {	message("some class codes appear unsorted") }
 #	table to join taxa from x to y	
 y <- read.csv("~/Documents/vegsoup-standards/vegetation of europe/taxon2standard.csv",
 	colClasses = "character")
+y$evc.taxon[ y$evc.taxon != "" ][ duplicated(y$evc.taxon[ y$evc.taxon != "" ]) ]
 
 #	standard list to incorparate evc class assignments
 z <- read.csv2("~/Documents/vegsoup-standards/austrian standard list 2008/austrian standard list 2008.csv",
 	colClasses = "character")
+z <- z[ , -grep("evc.taxon", names(z)) ]
+z <- z[ , -grep("evc.class.code", names(z)) ]
 	
 #	perform table join
 #	merge source with link table
-xy <- merge(x = x, y = y, by.x = "taxon", by.y = "taxon", all.x = FALSE, all.y = TRUE, sort = FALSE)
+xy <- merge(x = x, y = y, by.x = "taxon", by.y = "evc.taxon", all.x = FALSE, all.y = TRUE, sort = FALSE)
+names(xy)[ names(xy) == "taxon.y" ] <- "evc.taxon"
+
+x[ grep("Anthyllis vulneraria", x$taxon), ]
+xy[ grep("Anthyllis vulneraria", xy$taxon), ]
 
 dim(xy)
 head(xy)
@@ -63,9 +70,10 @@ head(zxy)
 
 #	feed values into standard
 i <- match(zxy$taxon, z$taxon)
+any(is.na(i))
 
-z$"evc.taxon" <- NA
-z$"evc.class.code" <- NA
+z$evc.taxon <- NA
+z$evc.class.code <- NA
 
 z$evc.taxon[ i ] <- zxy$evc.taxon
 z$evc.class.code[ i ] <- zxy$evc.class.code

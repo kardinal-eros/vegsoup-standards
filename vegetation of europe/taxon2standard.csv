@@ -21,7 +21,7 @@ Achillea distans s.str.,Achillea distans subsp. distans
 Achillea filipendulina,Achillea filipendulina
 Achillea lanulosa,
 Achillea macrophylla,Achillea macrophylla
-Achillea millefolium agg.,
+Achillea millefolium agg.,Achillea millefolium subsp. millefolium
 Achillea millefolium s.str.,Achillea millefolium subsp. millefolium
 Achillea millefolium ssp. sudetica,Achillea millefolium subsp. sudetica
 Achillea moschata,Achillea erba-rotta subsp. moschata 
@@ -1461,8 +1461,7 @@ Fallopia sachalinensis,Fallopia sachalinensis
 Festuca alpina,Festuca alpina subsp. alpina
 Festuca altissima,Drymochloa sylvatica
 Festuca amethystina ssp. amethystina,Festuca amethystina
-Festuca apennina,Schedonorus pratensis
-Festuca appenina,
+Festuca apennina,Schedonorus pratensis subsp. apenninus
 Festuca arundinacea s.lat.,
 Festuca arundinacea ssp. arundinacea,Schedonorus arundinaceus subsp. arundinaceus
 Festuca arundinacea ssp. uechtritziana,
@@ -1488,7 +1487,7 @@ Festuca pallens,Festuca pallens
 Festuca paniculata,Patzkea paniculata subsp. paniculata
 Festuca picturata,Festuca picturata
 Festuca pratensis agg.,
-Festuca pratensis s.str.,Schedonorus pratensis
+Festuca pratensis s.str.,Schedonorus pratensis subsp. pratensis
 Festuca pseudodura,Festuca pseudodura
 Festuca pseudovina,
 Festuca pulchella s.lat.,
@@ -1810,7 +1809,7 @@ Hieracium juratzkae,
 Hieracium kalksburgense,
 Hieracium koernickeanum,
 Hieracium lachenalii,Hieracium lachenalii
-Hieracium lactucella,
+Hieracium lactucella,Pilosella lactucella subsp. lactucella
 Hieracium laevigatum,Hieracium laevigatum
 Hieracium leptophyton,
 Hieracium levicaule,
@@ -1827,12 +1826,12 @@ Hieracium oligodon,
 Hieracium oxyodon,
 Hieracium pallescens,
 Hieracium panteblaston,
-Hieracium pilosella,
+Hieracium pilosella,Pilosella officinarum subsp. officinarum
 Hieracium pilosella agg.,
 Hieracium piloselliflorum,
 Hieracium pilosellinum,
 Hieracium piloselloides agg.,
-Hieracium piloselloides s.str.,
+Hieracium piloselloides s.str.,Pilosella piloselloides
 Hieracium pilosum,Hieracium pilosum
 Hieracium polymastix,
 Hieracium porrectum,
