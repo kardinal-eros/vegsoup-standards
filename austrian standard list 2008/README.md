@@ -1,7 +1,7 @@
 About this reference list
 =========================
 
-This is a work in progress list of vascular plants, bryophytes and lichens for Austria (and neighboring countries).
+This is a work in progress list of vascular plants, bryophytes and lichens for Austria (and neighboring countries in the Eastern Alps).
 It is aimed to be extended/modified as needed. The taxonomic concept is up to date (see below) and is based on the perspective of Austrian's taxonomic authorities.
 
 
@@ -11,7 +11,7 @@ Species concepts
 ----------------
 
 Concerning vascular plants we stick to the species concept of Fischer et al. (2008).
-Currently the list contains all vascular plant taxa known to occur in Upper Austria based on the checklist of Hohla et al. (2009), plus several species from the remaining states of Austria (mainly Salzburg, Tyrol, and Lower Austria).
+Currently the list contains all vascular plant taxa known to occur in Upper Austria based on the checklist of Hohla et al. (2009), plus several species from the remaining states of Austria (mainly Salzburg, Carinthia, Tyrol, and Lower Austria).
 The taxonomy of lichens follows Türk & Hafellner (2010).
 Byrophytes are treated according to the [Checklist of Austrian Bryophytes](http://131.130.59.133/projekte/moose/) (Köckinger et. al.).
 The species concept for taxa of any group that do not occur in Austria follows the [ThePlantList](http://www.theplantlist.org).
@@ -54,6 +54,8 @@ Meaning of columns
 - **eiv.r**: soil reacation
 - **eiv.n**: nutrients
 - **eiv.source**: source of values
+- **evc.taxon**: matched taxon see [EuroVegChecklist](https://github.com/kardinal-eros/vegsoup-standards/tree/master/vegetation%20of%20europe)
+- **evc.class.code**: assigned class(es) see [EuroVegChecklist](https://github.com/kardinal-eros/vegsoup-standards/tree/master/vegetation%20of%20europe)
 
 
 Further details about specific columns

@@ -1,7 +1,7 @@
 Scheduled changes
 -----------------
 
-2020-01-30
+2020-02-02
 
 + Senecio carniolicus, Senecio incanus ssp. carniolicus
 
@@ -16,4 +16,6 @@ Scheduled changes
 + Bupleurum ranunculoides
 
 + Scrophularia canina
+
++ Astrantia major, Astrantia major s.lat.
 

@@ -1,10 +1,10 @@
-Vegetation of Europe and EuroVeg Checklist
-==========================================
+Vegetation of Europe and EuroVegChecklist
+=========================================
 
-EuroVeg Checklist
------------------
+EuroVegChecklist
+----------------
 
-Link the *EuroVeg Checklist* with class assignments (Mucina et al. 2016, Electronic Appendix S1) to the *Austrian Standard List* ([for further details see here)](https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008) applied in the [vegsoup-data repository](https://github.com/kardinal-eros/vegsoup-data).
+Link the *EuroVeg Checklist* with class assignments (Mucina et al. 2016, Electronic Appendix S1) to the *Austrian Standard List* ([for further details see here)](https://github.com/kardinal-eros/vegsoup-standards/tree/master/austrian%20standard%20list%202008) applied in the [vegsoup-data](https://github.com/kardinal-eros/vegsoup-data) repository.
 
 + `evc1 species.csv` EuroSpeciesList 1. List of diagnostic species of classes of the plant communities dominated by vascular plants (EVC1). Nomenclature Euro+Med PlantBase (http://ww2.bgbm.org/EuroPlusMed/). Reorganised data structure from long format into pseudo-wide format.
 [evc1 species original.csv](https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Favsc.12257&file=avsc12257-sup-0007-AppendixS6-ESL1.csv).
