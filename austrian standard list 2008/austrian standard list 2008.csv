@@ -1150,6 +1150,7 @@ vascular plants;Poaceae;digi isch;Digitaria ischaemum;-;-;-;-;-;-;;;sensu Fische
 vascular plants;Plantaginaceae;digi lute;Digitalis lutea;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kleiner Fingerhut;Digitalis lutea;PUB;F;;; (N-E); (N-E);;;;;W
 vascular plants;Plantaginaceae;digi purp;Digitalis purpurea;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Purpur-Fingerhut;;; (N-E);;; (N-E); (N-E); (N-E);;;;W
 vascular plants;Plantaginaceae;digi spec ies;Digitalis sp.;-;-;-;-;-;-;;;L.;;;;;;;;;;;;;;
+vascular plants;Poaceae;digi sang slat;Digitaria sanguinalis s.lat.;-;-;-;-;-;-;;;sensu Ehrendorfer 1973;;Blut-Fingerhirse;;;;;;;;;;;;
 vascular plants;Poaceae;digi sang pect;Digitaria sanguinalis ssp. pectiniformis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Bewimperte Blut-Fingerhirse;Digitaria sanguinalis subsp. pectiniformis;DIG;F;;;N-U;N-U;N-U;;;;W
 vascular plants;Poaceae;digi sang sang;Digitaria sanguinalis ssp. sanguinalis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Gewöhnliche Blut-Fingerhirse;Digitaria sanguinalis subsp. sanguinalis;DIG;;;;;;;;;;
 vascular plants;Lycopodiaceae;diph alpi;Diphasiastrum alpinum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Alpen-Flachbärlapp;Diphasiastrum alpinum;LOI+TRI;;;;;1;0;-r/B;§,F5;;
@@ -3844,9 +3845,11 @@ vascular plants;Poaceae;tris dist;Trisetum distichophyllum s.str.;-;-;-;-;-;-;;;
 vascular plants;Poaceae;tris flav flav;Trisetum flavescens ssp. flavescens;7;x;5;x;x;5;;;sensu Fischer et al. 2008;;Wiesen-Goldhafer;Trisetum flavescens subsp. flavescens;MOL;;;;;;;;;;
 vascular plants;Poaceae;tris spic ovat;Trisetum spicatum ssp. ovatipanicuatum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Trisetum spicatum;ARC+THL;;;;;;;;;;
 vascular plants;Poaceae;trit aest slat;Triticum aestivum s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Weich-Weizen;;;N-U;;;N-U;N-U;N-U;;;;W
+vascular plants;Poaceae;trit aest aest;Triticum aestivum ssp. aestivum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;;;;;;;;;;;
 vascular plants;Poaceae;trit dico;Triticum dicoccon;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Emmer;;;;;;N-U;;N-U;;;;W
 vascular plants;Poaceae;trit mono;Triticum monococcum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Einkorn;Triticum monococcum;CHE;;;;N-U;;N-U;;;;W
-vascular plants;Poaceae;trit rimp;Triticosecale rimpaui;-;-;-;-;-;-;;;C. Yen & J.L. Yang;× Triticosecale rimpaui;Triticale;;;;;;N-U;;N-U;;;;W
+vascular plants;Poaceae;trit rimp;Triticosecale rimpaui;-;-;-;-;-;-;;;C. Yen & J.L. Yang;× Triticosecale rimpaui, ×Triticosecale;Triticale;;;;;;N-U;;N-U;;;;W
+vascular plants;Poaceae;trit cale;×Triticosecale;-;-;-;-;-;-;;;;;Triticale;;;;;;;;;;;;
 vascular plants;Poaceae;trit spel;Triticum spelta;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Dinkel;;;;;;N-U;;N-U;;;;W
 vascular plants;Poaceae;trit turg;Triticum turgidum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kamut;;;;;;N-U;;N-U;;;;W
 vascular plants;Ranunculaceae;trol euro;Trollius europaeus;6;5;4;8;4;4;Karrer;;sensu Fischer et al. 2008;;Europäische Trollblume;Trollius europaeus;BRA+MOL;V;;C;V;0;2;4ar!/V;§;;
