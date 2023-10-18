@@ -375,7 +375,7 @@ vascular plants;Aspleniaceae;aspl tric tric;Asplenium trichomanes ssp. trichoman
 vascular plants;Aspleniaceae;aspl viri;Asplenium viride;5;4;3;6;8;x;Karrer;;sensu Fischer et al. 2008;;Grüner Streifenfarn;Asplenium viride;ASP
 vascular plants;Aspleniaceae;aspl ×alt;Asplenium × alternifolium nsubsp. alternifolium (= A. septentrionale ssp. septentrionale × A. trichomanes ssp. trichomanes);-;-;-;-;-;-;;;Wulfen;;;;
 vascular plants;Aspleniaceae;aspl ×heu;Asplenium × alternifolium nsubsp. heufleri (= A. septentrionale ssp. septentrionale × A. trichomanes ssp. quadrivalens);-;-;-;-;-;-;;;Reichard;;;;
-vascular plants;Aspleniaceae;aspl ×adu;Asplenium × adulteriniforme (=A. trichomanes ssp. inexpectans × A. viride) ;-;-;-;-;-;-;;;Lovis; Melzer & Reichst.;;;
+vascular plants;Aspleniaceae;aspl ×adu;Asplenium × adulteriniforme (=A. trichomanes ssp. inexpectans × A. viride) ;-;-;-;-;-;-;;;Lovis,  Melzer & Reichst.;;;;
 vascular plants;Aspleniaceae;aspl ×pro;Asplenium × protoadulterinum (=A. trichomanes ssp. trichomanes × A. viride);-;-;-;-;-;-;;;Lovis & Reichst.;;;;
 vascular plants;Aspleniaceae;aspl ×bav;Asplenium × bavaricum (=A. trichomanes ssp. quadrivalens × A. viride);-;-;-;-;-;-;;;D.E. Meyer;;;;
 vascular plants;Aspleniaceae;aspl ×pos;Asplenium × poscharskyanum (=A. adulterinum × A. viride);5;4;4;5;6;1;Karrer;as Asplenium adiantum-nigrum;(Hofm.) Preissmann;;;;
@@ -2744,7 +2744,7 @@ vascular plants;Poaceae;poa bige;Poa bigelovii;-;-;-;-;-;-;;;sensu Fischer et al
 vascular plants;Poaceae;poa bulb;Poa bulbosa s.str.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Zwiebel-Rispe;Poa bulbosa subsp. bulbosa;BUL+PIL+SED
 vascular plants;Poaceae;poa carp;Poa carpatica s.lat.;-;-;-;-;-;-;;;(V. Jirásek) Chopyk;;;;
 vascular plants;Poaceae;poa carp carp;Poa carpatica ssp. carpatica;-;-;-;-;-;-;;;(V. Jirásek) Chopyk;;;;
-vascular plants;Poaceae;poa carp spra;Poa carpatica ssp. supramontana;-;-;-;-;-;-;;;Bernátová; Májovský; Kliment et Topercer;;
+vascular plants;Poaceae;poa carp spra;Poa carpatica ssp. supramontana;-;-;-;-;-;-;;;Bernátová,  Májovský;; Kliment et Topercer;;
 vascular plants;Poaceae;poa ceni;Poa cenisia;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kriech-Rispe;Poa cenisia;THL
 vascular plants;Poaceae;poa chai;Poa chaixii;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Berg-Rispe;Poa chaixii;MUL+QUE
 vascular plants;Poaceae;poa comp;Poa compressa;9;x;4;3;9;3;;;sensu Fischer et al. 2008;;Platthalm-Rispe;Poa compressa;ART
