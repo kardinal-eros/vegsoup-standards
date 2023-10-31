@@ -50,7 +50,7 @@ vascular plants;Ranunculaceae;acon vari slat;Aconitum variegatum s.lat.;5;4;4;7;
 vascular plants;Ranunculaceae;acon vari nasu;Aconitum variegatum ssp. nasutum;5;4;4;7;8;7;Karrer;as Aconitum variegatum;sensu Fischer et al. 2008;;Geschnäbelter Bunter Eisenhut;Aconitum variegatum subsp. nasutum;MUL
 vascular plants;Ranunculaceae;acon vari vari;Aconitum variegatum ssp. variegatum;5;4;4;7;8;7;Karrer;as Aconitum variegatum;sensu Fischer et al. 2008;;Eigentlicher Bunter Eisenhut;Aconitum variegatum subsp. variegatum;MUL
 vascular plants;Acoraceae;acor cala;Acorus calamus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Arznei-Kalmus;Acorus calamus;PHR
-vascular plants;Ranunculaceae;acta spic;Actaea spicata;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Echtes Christophskraut;Actaea spicata;FAG
+vascular plants;Ranunculaceae;acta spic;Actaea spicata;3;5;4;5;6;7;Karrer;;sensu Fischer et al. 2008;;Echtes Christophskraut;Actaea spicata;FAG
 vascular plants;Actinidiaceae;acti deli;Actinidia deliciosa;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kiwi;;
 vascular plants;Compositae;aden alli;Adenostyles alliariae;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Grauer Alpendost;Adenostyles alliariae;MUL+PIC
 vascular plants;Compositae;aden alpi;Adenostyles alpina;6;3;4;6;8;4;;;sensu Fischer et al. 2008;;Kalk-Alpendost;Adenostyles alpina subsp. alpina;PIC+THL
@@ -646,7 +646,7 @@ vascular plants;Compositae;card nuta slat;Carduus nutans s.lat.;-;-;-;-;-;-;;;se
 vascular plants;Compositae;card nuta nuta;Carduus nutans ssp. nutans;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Eigentliche Nickende Ringdistel;Carduus nutans subsp. nutans;ART
 vascular plants;Compositae;card nuta plat;Carduus nutans ssp. platylepis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Breitschuppige Nickende Ringdistel;Carduus nutans subsp. platylepis;ART
 vascular plants;Brassicaceae;card parv;Cardamine parviflora;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kleinblütiges Schaumkraut;Cardamine parviflora;ISO+MOL
-vascular plants;Compositae;card pers pers;Carduus personata ssp. personata;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kletten-Ringdistel;Carduus personata subsp. personata;MUL
+vascular plants;Compositae;card pers pers;Carduus personata ssp. personata;7;4;2;8;8;8;Karrer;;sensu Fischer et al. 2008;;Kletten-Ringdistel;Carduus personata subsp. personata;MUL
 vascular plants;Brassicaceae;card prat;Cardamine pratensis s.str.;4;x;x;6;x;x;Karrer;;sensu Fischer et al. 2008;;Gewöhnliches Wiesen-Schaumkraut;Cardamine pratensis subsp. pratensis;MOL
 vascular plants;Brassicaceae;card prat aggr;Cardamine pratensis agg.;4;x;x;6;x;x;Karrer;as Cardamine pratensis;sensu Fischer et al. 2008;;;;
 vascular plants;Brassicaceae;card rese;Cardamine resedifolia;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Resedablättriges Schaumkraut;Cardamine resedifolia;ASP+THL
@@ -745,7 +745,7 @@ vascular plants;Cyperaceae;care pedi;Carex pediformis;-;-;-;-;-;-;;;sensu Fische
 vascular plants;Cyperaceae;care pend;Carex pendula;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Hänge-Segge;Carex pendula;POP
 vascular plants;Cyperaceae;care pilo;Carex pilosa;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Wimper-Segge;Carex pilosa;FAG
 vascular plants;Cyperaceae;care pilu pilu;Carex pilulifera ssp. pilulifera;5;x;2;5;3;3;;;sensu Fischer et al. 2008;;Pillen-Segge;Carex pilulifera subsp. pilulifera;NAR
-vascular plants;Cyperaceae;care poly;Carex polyphylla;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Vielblättrige Stachel-Segge;Carex divulsa subsp. leersii;GER+MOL
+vascular plants;Cyperaceae;care poly;Carex polyphylla;5;6;3;4;6;6;Karrer;as Carex pairae;sensu Fischer et al. 2008;;Vielblättrige Stachel-Segge;Carex divulsa subsp. leersii;GER+MOL
 vascular plants;Cyperaceae;care prae;Carex praecox;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Früh-Segge;Carex praecox;COR+FES
 vascular plants;Cyperaceae;care pseu;Carex pseudocyperus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Große Zypergras-Segge;Carex pseudocyperus;PHR
 vascular plants;Cyperaceae;care puli;Carex pulicaris;8;4;2;9;4;2;Karrer;;sensu Fischer et al. 2008;;Floh-Segge;Carex pulicaris;SCH
@@ -1006,7 +1006,7 @@ vascular plants;Rosaceae;crat laev aggr;Crataegus laevigata agg.;-;-;-;-;-;-;;;s
 vascular plants;Rosaceae;crat laev laev;Crataegus laevigata ssp. laevigata;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Zweikern-Weißdorn;Crataegus laevigata;FAG+POP+RHA
 vascular plants;Rosaceae;crat macr;Crataegus × macrocarpa;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Großfrüchtiger Weißdorn;;
 vascular plants;Rosaceae;crat medi;Crataegus × media;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Mittlerer Weißdorn;;
-vascular plants;Rosaceae;crat mono;Crataegus monogyna;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Einkern-Weißdorn;Crataegus monogyna;PUB+RHA
+vascular plants;Rosaceae;crat mono;Crataegus monogyna;7;5;3;4;8;4;Karrer;as Crataegus monogyna agg.;sensu Fischer et al. 2008;;Einkern-Weißdorn;Crataegus monogyna;PUB+RHA
 vascular plants;Rosaceae;crat rhip lind;Crataegus rhipidophylla ssp. lindmanii;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Langkelch-Weißdorn;Crataegus rhipidophylla;FAG+RHA
 vascular plants;Rosaceae;crat rhip rhip;Crataegus rhipidophylla ssp. rhipidophylla;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Krummkelch-Weißdorn ieS;Crataegus rhipidophylla;FAG+RHA
 vascular plants;Rosaceae;crat spec ies;Crataegus sp.;-;-;-;-;-;-;;;L.;;;;
@@ -1041,7 +1041,7 @@ vascular plants;Iridaceae;croc purp;Crocus purpureus;-;-;-;-;-;-;;;sensu Fischer
 vascular plants;Iridaceae;croc tomm;Crocus tommasinianus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Elfen-Krokus;Crocus tommasinianus;FAG
 vascular plants;Iridaceae;croc vern;Crocus vernus s.str.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Frühlings-Krokus ieS;Crocus vernus subsp. vernus;FAG
 vascular plants;Rubiaceae;cruc glab;Cruciata glabra;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kahles Kreuzlabkraut;Cruciata glabra;FES+GER
-vascular plants;Rubiaceae;cruc laev;Cruciata laevipes;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Wiesen-Kreuzlabkraut;Cruciata laevipes;EPI
+vascular plants;Rubiaceae;cruc laev;Cruciata laevipes;7;5;5;6;6;7;Karrer;;sensu Fischer et al. 2008;;Wiesen-Kreuzlabkraut;Cruciata laevipes;EPI
 vascular plants;Rubiaceae;cruc pede;Cruciata pedemontana;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Piemonteser Kreuzlabkraut;Cruciata pedemontana;FES+SED
 vascular plants;Poaceae;cryp acul;Crypsis aculeata;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Dorngras;;
 vascular plants;Poaceae;cryp alop;Crypsis alopecuroides;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Fuchsschwanz-Sumpfgras;;
@@ -1209,7 +1209,7 @@ vascular plants;Rosaceae;drya octo;Dryas octopetala;9;2;7;4;8;4;Karrer;;sensu Fi
 vascular plants;Rosaceae;drym rupe;Drymocallis rupestris;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Gewöhnliches Steinfingerkraut;Drymocallis rupestris;COR+GER
 vascular plants;Dryopteridaceae;dryo affi aggr;Dryopteris affinis agg.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;
 vascular plants;Dryopteridaceae;dryo affi;Dryopteris affinis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Dryopteris affinis subsp. affinis var. affinis;FAG
-vascular plants;Dryopteridaceae;dryo borr;Dryopteris borreri;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kräftiger Dichtschuppiger Wurmfarn;Dryopteris borreri;FAG
+vascular plants;Dryopteridaceae;dryo borr;Dryopteris borreri;3;x;3;6;5;6;Karrer;as Dryopteris pseudomas;sensu Fischer et al. 2008;;Kräftiger Dichtschuppiger Wurmfarn;Dryopteris borreri;FAG
 vascular plants;Dryopteridaceae;dryo camb;Dryopteris cambrensis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Insubrischer Dichtschuppiger Wurmfarn;Dryopteris cambrensis;THL
 vascular plants;Dryopteridaceae;dryo cart;Dryopteris carthusiana s.str.;5;x;3;x;4;3;;;sensu Fischer et al. 2008;;Kleiner Dornfarn;Dryopteris carthusiana;ALN+FAG
 vascular plants;Dryopteridaceae;dryo cart aggr;Dryopteris carthusiana agg.;-;-;-;-;-;-;;;sensu Ehrendorfer 1973;;;;
@@ -1274,8 +1274,8 @@ vascular plants;Ericaceae;empe nigr;Empetrum nigrum s.str.;-;-;-;-;-;-;;;sensu F
 vascular plants;Onagraceae;epil alpe;Epilobium alpestre;7;3;4;6;7;8;Karrer;;sensu Fischer et al. 2008;;Quirl-Weidenröschen;Epilobium alpestre;MUL
 vascular plants;Onagraceae;epil alsi;Epilobium alsinifolium;8;2;2;9;6;5;Karrer;;sensu Fischer et al. 2008;;Mieren-Weidenröschen;Epilobium alsinifolium;MON
 vascular plants;Onagraceae;epil anag;Epilobium anagallidifolium;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Alpen-Weidenröschen;Epilobium anagallidifolium;HER
-vascular plants;Onagraceae;epil angu;Epilobium angustifolium;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Schlag-Weidenröschen;Epilobium angustifolium;ARC+EPI+ROB
-vascular plants;Onagraceae;epil cili cili;Epilobium ciliatum ssp. ciliatum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Amerikanisches Weidenröschen;Epilobium ciliatum subsp. ciliatum;EPI
+vascular plants;Onagraceae;epil angu;Epilobium angustifolium;8;x;5;5;5;8;Karrer;;sensu Fischer et al. 2008;;Schlag-Weidenröschen;Epilobium angustifolium;ARC+EPI+ROB
+vascular plants;Onagraceae;epil cili cili;Epilobium ciliatum ssp. ciliatum;7;6;n.a.;5;7;8;Karrer;as Epilobium adenocaulon;sensu Fischer et al. 2008;;Amerikanisches Weidenröschen;Epilobium ciliatum subsp. ciliatum;EPI
 vascular plants;Onagraceae;epil coll;Epilobium collinum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Hügel-Weidenröschen;Epilobium collinum;ASP+THL
 vascular plants;Onagraceae;epil dodo;Epilobium dodonaei;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Rosmarin-Weidenröschen;Epilobium dodonaei;THL
 vascular plants;Onagraceae;epil flei;Epilobium fleischeri;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Epilobium fleischeri;THL
@@ -1287,7 +1287,7 @@ vascular plants;Onagraceae;epil nuta;Epilobium nutans;9;3;4;9;3;3;Karrer;;sensu 
 vascular plants;Onagraceae;epil obsc;Epilobium obscurum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Dunkles Weidenröschen;Epilobium obscurum;MON
 vascular plants;Onagraceae;epil palu;Epilobium palustre;7;5;x;9;3;2;Karrer;;sensu Fischer et al. 2008;;Sumpf-Weidenröschen;Epilobium palustre;ALN+SCH
 vascular plants;Onagraceae;epil parv;Epilobium parviflorum;7;5;3;9;8;6;Karrer;;sensu Fischer et al. 2008;;Flaum-Weidenröschen;Epilobium parviflorum;EPI+MOL
-vascular plants;Onagraceae;epil rose;Epilobium roseum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Blasses Weidenröschen;Epilobium roseum;PHR
+vascular plants;Onagraceae;epil rose;Epilobium roseum;7;6;4;9;8;8;Karrer;;sensu Fischer et al. 2008;;Blasses Weidenröschen;Epilobium roseum;PHR
 vascular plants;Onagraceae;epil spec ies;Epilobium sp.;-;-;-;-;-;-;;;L.;;;;
 vascular plants;Onagraceae;epil tetr slat;Epilobium tetragonum s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;
 vascular plants;Onagraceae;epil tetr lamy;Epilobium tetragonum ssp. lamyi;7;6;2;5;7;6;Karrer;;sensu Fischer et al. 2008;;Graugrünes (Vierkant-)Weidenröschen;Epilobium tetragonum subsp. lamyi;EPI
@@ -1297,9 +1297,9 @@ vascular plants;Orchidaceae;epip aphy;Epipogium aphyllum;-;-;-;-;-;-;;;sensu Fis
 vascular plants;Orchidaceae;epip atro;Epipactis atrorubens;6;x;3;3;8;2;Karrer;;sensu Fischer et al. 2008;;Rote Ständelwurz;Epipactis atrorubens;ERI+PIC
 vascular plants;Orchidaceae;epip buga;Epipactis bugacensis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Flussufer-Ständelwurz;;
 vascular plants;Orchidaceae;epip hell atro;Epipactis helleborine × atrorubens (E. × schmalhausenii);-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;
-vascular plants;Orchidaceae;epip hell hell;Epipactis helleborine ssp. helleborine;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Gewöhnliche Grüne Ständelwurz;Epipactis helleborine subsp. helleborine;FAG
+vascular plants;Orchidaceae;epip hell hell;Epipactis helleborine ssp. helleborine;3;5;3;7;5;5;Karrer;;sensu Fischer et al. 2008;;Gewöhnliche Grüne Ständelwurz;Epipactis helleborine subsp. helleborine;FAG
 vascular plants;Orchidaceae;epip hell orbi;Epipactis helleborine ssp. orbicularis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Epipactis helleborine subsp. orbicularis;ERI
-vascular plants;Orchidaceae;epip hell slat;Epipactis helleborine s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Grüne Ständelwurz;;
+vascular plants;Orchidaceae;epip hell slat;Epipactis helleborine s.lat.;3;5;3;7;5;5;Karrer;;sensu Fischer et al. 2008;;Grüne Ständelwurz;;
 vascular plants;Orchidaceae;epip lept;Epipactis leptochila ssp. leptochila;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Schmallippige Ständelwurz;Epipactis leptochila subsp. leptochila;PUB
 vascular plants;Orchidaceae;epip micr;Epipactis microphylla;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kleinblättrige Ständelwurz;Epipactis microphylla;FAG+PUB
 vascular plants;Orchidaceae;epip muel;Epipactis muelleri;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Müller-Ständelwurz;Epipactis muelleri;ERI+FAG+GER
@@ -1875,7 +1875,7 @@ vascular plants;Eleagnaceae;hipp rham slat;Hippophaë rhamnoides s.lat.;-;-;-;-;
 vascular plants;Plantaginaceae;hipp vulg;Hippuris vulgaris;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Tannenwedel;Hippuris vulgaris;PHR
 vascular plants;Brassicaceae;hirs inca;Hirschfeldia incana;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Graue Rempe;;
 vascular plants;Poaceae;holc lana;Holcus lanatus;7;6;3;6;x;5;;;sensu Fischer et al. 2008;;Samt-Honiggras;Holcus lanatus;ALN+MOL
-vascular plants;Poaceae;holc moll;Holcus mollis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Weiches Honiggras;Holcus mollis subsp. mollis;GER+LON+QUE
+vascular plants;Poaceae;holc moll;Holcus mollis;5;5;2;5;2;3;Karrer;;sensu Fischer et al. 2008;;Weiches Honiggras;Holcus mollis subsp. mollis;GER+LON+QUE
 vascular plants;Caryophyllaceae;holo umbe;Holosteum umbellatum ssp. umbellatum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Dolden-Spurre;Holosteum umbellatum subsp. umbellatum;ONO+SED
 vascular plants;Poaceae;homa pube laev;Homalotrichon pubescens ssp. laevigatum;5;x;3;3;x;4;Karrer;as Avenochloa pubescens;sensu Fischer et al. 2008;Avenula pubescens ssp. laevigata;Kleiner-Flaumhafer;Avenula pubescens subsp. laevigata;MOL
 vascular plants;Poaceae;homa pube pube;Homalotrichon pubescens ssp. pubescens;5;x;3;3;x;4;Karrer;as Avenochloa pubescens;sensu Fischer et al. 2008;Avenula pubescens ssp. pubescens;Gewöhnlicher-Flaumhafer;Avenula pubescens subsp. pubescens;FES+MOL
@@ -1938,8 +1938,8 @@ vascular plants;Caryophyllaceae;ille vert;Illecebrum verticillatum;-;-;-;-;-;-;;
 vascular plants;Balsaminaceae;impa bals;Impatiens balsamina;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Balsamine;;
 vascular plants;Balsaminaceae;impa cris;Impatiens cristata;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kamm-Springkraut;;
 vascular plants;Balsaminaceae;impa glan;Impatiens glandulifera;5;7;2;8;7;7;Karrer;;sensu Fischer et al. 2008;;Drüsen-Springkraut;Impatiens glandulifera;EPI+POP
-vascular plants;Balsaminaceae;impa noli;Impatiens noli-tangere;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Großes Springkraut;Impatiens noli-tangere;EPI+POP
-vascular plants;Balsaminaceae;impa parv;Impatiens parviflora;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kleines Springkraut;Impatiens parviflora;EPI+POP
+vascular plants;Balsaminaceae;impa noli;Impatiens noli-tangere;4;5;5;7;7;6;Karrer;;sensu Fischer et al. 2008;;Großes Springkraut;Impatiens noli-tangere;EPI+POP
+vascular plants;Balsaminaceae;impa parv;Impatiens parviflora;4;6;5;5;x;6;Karrer;;sensu Fischer et al. 2008;;Kleines Springkraut;Impatiens parviflora;EPI+POP
 vascular plants;Compositae;inul brit;Inula britannica;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Wiesen-Alant;Inula britannica;FES+MOL
 vascular plants;Compositae;inul cony;Inula conyzae;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Dürrwurz;Inula conyzae;GER
 vascular plants;Compositae;inul ensi;Inula ensifolia;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Schwert-Alant;Inula ensifolia;FES+GER
@@ -2197,7 +2197,7 @@ vascular plants;Leguminosae;lotu pedu;Lotus pedunculatus;7;5;2;8;6;4;Karrer;as L
 vascular plants;Leguminosae;lotu tenu;Lotus tenuis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Salz-Hornklee;Lotus tenuis;FEP+MOL+SAG
 vascular plants;Onagraceae;ludw palu;Ludwigia palustris;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Sumpf-Heusenkraut;Ludwigia palustris;ISO
 vascular plants;Brassicaceae;luna annu;Lunaria annua;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Garten-Mondviole;Lunaria annua subsp. annua;EPI
-vascular plants;Brassicaceae;luna redi;Lunaria rediviva;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Wilde Mondviole;Lunaria rediviva;FAG
+vascular plants;Brassicaceae;luna redi;Lunaria rediviva;4;5;4;6;7;8;Karrer;;sensu Fischer et al. 2008;;Wilde Mondviole;Lunaria rediviva;FAG
 vascular plants;Leguminosae;lupi albu;Lupinus albus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Weiße Lupine;;
 vascular plants;Leguminosae;lupi angu;Lupinus angustifolius;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Blaue Lupine;Lupinus angustifolius;TRA
 vascular plants;Leguminosae;lupi poly;Lupinus polyphyllus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Stauden-Lupine;Lupinus polyphyllus;EPI
@@ -2268,7 +2268,7 @@ vascular plants;Marsileaceae;mars quad;Marsilea quadrifolia;-;-;-;-;-;-;;;sensu 
 vascular plants;Compositae;matr cham;Matricaria chamomilla;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Echte Kamille;add-hoc;PAR
 vascular plants;Compositae;matr disc;Matricaria discoidea;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Knopf-Kamille;Matricaria discoidea;POL
 vascular plants;Compositae;matr spec ies;Matricaria sp.;-;-;-;-;-;-;;;L.;;;;
-vascular plants;Woodsiaceae;matt stru;Matteuccia struthiopteris;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Straußenfarn;Matteuccia struthiopteris;POP
+vascular plants;Woodsiaceae;matt stru;Matteuccia struthiopteris;5;6;4;8;7;7;Karrer;;sensu Fischer et al. 2008;;Straußenfarn;Matteuccia struthiopteris;POP
 vascular plants;Compositae;maur palu;Mauranthemum paludosum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Zwergwucherblume;Mauranthemum paludosum subsp. paludosum;CHE
 vascular plants;Papaveraceae;meco camb;Meconopsis cambrica;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Walisischer Scheinmohn;Meconopsis cambrica;MUL
 vascular plants;Leguminosae;medi falc;Medicago falcata;8;6;7;3;9;3;Karrer;;sensu Fischer et al. 2008;;Sichel-Luzerne;Medicago falcata subsp. falcata;FES
@@ -2366,7 +2366,7 @@ vascular plants;Asparagaceae;musc tenu;Muscari tenuiflorum;-;-;-;-;-;-;;;sensu F
 vascular plants;Apiaceae;mute adon;Mutellina adonidifolia;7;2;4;6;5;4;Karrer;;sensu Fischer et al. 2008;;Alpen-Mutterwurz;Ligusticum mutellina;SES
 vascular plants;Brassicaceae;myag perf;Myagrum perfoliatum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Hohldotter;Myagrum perfoliatum;PAR
 vascular plants;Boraginaceae;myos alpe;Myosotis alpestris;8;2;4;5;9;4;Karrer;;sensu Fischer et al. 2008;;Alpen-Vergissmeinnicht;Myosotis alpestris subsp. alpestris;SES
-vascular plants;Boraginaceae;myos arve arve;Myosotis arvensis ssp. arvensis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Acker-Vergissmeinnicht;Myosotis arvensis;PAR
+vascular plants;Boraginaceae;myos arve arve;Myosotis arvensis ssp. arvensis;6;6;5;5;x;6;Karrer;;sensu Fischer et al. 2008;;Acker-Vergissmeinnicht;Myosotis arvensis;PAR
 vascular plants;Boraginaceae;myos decu decu;Myosotis decumbens ssp. decumbens;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Eigentliches Kälte-Vergissmeinnicht;Myosotis decumbens subsp. decumbens;MUL
 vascular plants;Boraginaceae;myos decu kern;Myosotis decumbens ssp. kerneri;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kerners Kälte-Vergissmeinnicht;Myosotis decumbens subsp. kerneri;MUL
 vascular plants;Boraginaceae;myos decu slat;Myosotis decumbens s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kälte-Vergissmeinnicht;;
@@ -2936,7 +2936,7 @@ vascular plants;Boraginaceae;pulm moll alpi;Pulmonaria mollis ssp. alpigena;-;-;
 vascular plants;Boraginaceae;pulm moll moll;Pulmonaria mollis ssp. mollis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Eigentliches Weiches Lungenkraut;Pulmonaria mollis subsp. mollis;BRA+FAG+PUB
 vascular plants;Boraginaceae;pulm obsc;Pulmonaria obscura;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Dunkles Lungenkraut;Pulmonaria obscura;FAG
 vascular plants;Boraginaceae;pulm offi aggr;Pulmonaria officinalis agg.;-;-;-;-;-;-;;;sensu Ehrendorfer 1973;;;;
-vascular plants;Boraginaceae;pulm offi;Pulmonaria officinalis s.str.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Echtes Lungenkraut;Pulmonaria officinalis;FAG
+vascular plants;Boraginaceae;pulm offi;Pulmonaria officinalis s.str.;5;6;5;5;8;6;Karrer;;sensu Fischer et al. 2008;;Echtes Lungenkraut;Pulmonaria officinalis;FAG
 vascular plants;Boraginaceae;pulm sacc;Pulmonaria saccharata;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Großfleckiges Lungenkraut;Pulmonaria saccharata;FAG
 vascular plants;Boraginaceae;pulm stir;Pulmonaria stiriaca;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Pulmonaria stiriaca;FAG
 vascular plants;Ranunculaceae;puls alpi alba;Pulsatilla alpina ssp. alba;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Pulsatilla alpina subsp. alba;TRI
@@ -3556,7 +3556,7 @@ vascular plants;Brassicaceae;sisy orie;Sisymbrium orientale;-;-;-;-;-;-;;;sensu 
 vascular plants;Brassicaceae;sisy stri;Sisymbrium strictissimum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Steife Rauke;Sisymbrium strictissimum;EPI
 vascular plants;Apiaceae;sium lati;Sium latifolium;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Breitblättriger Merk;Sium latifolium;PHR
 vascular plants;Apiaceae;smyr perf;Smyrnium perfoliatum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Durchwachsene Gelbdolde;Smyrnium perfoliatum subsp. perfoliatum;EPI
-vascular plants;Solanaceae;sola dulc;Solanum dulcamara;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Bittersüßer Nachtschatten;Solanum dulcamara;PHR+POP
+vascular plants;Solanaceae;sola dulc;Solanum dulcamara;7;5;x;8;x;8;Karrer;;sensu Fischer et al. 2008;;Bittersüßer Nachtschatten;Solanum dulcamara;PHR+POP
 vascular plants;Solanaceae;sola lyco;Solanum lycopersicum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Paradeiser;Solanum lycopersicum;BID
 vascular plants;Solanaceae;sola nigr nigr;Solanum nigrum ssp. nigrum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Gewöhnlicher Schwarzer Nachtschatten;Solanum nigrum;PAR+SIS
 vascular plants;Solanaceae;sola nigr schu;Solanum nigrum ssp. schultesii;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Behaarter Schwarzer Nachtschatten;Solanum nigrum;PAR+SIS
@@ -4024,7 +4024,7 @@ vascular plants;Violaceae;viol bifl;Viola biflora;4;3;4;6;7;6;;;sensu Fischer et
 vascular plants;Violaceae;viol cani cani;Viola canina ssp. canina;7;x;3;5;2;2;Karrer;;sensu Fischer et al. 2008;;Eigentliches Hunds-Veilchen;Viola canina;BRA+NAR
 vascular plants;Violaceae;viol cani rupp;Viola canina ssp. ruppii;7;x;3;6;3;3;Karrer;;sensu Fischer et al. 2008;;Berg-Hunds-Veilchen;Viola canina;BRA+NAR
 vascular plants;Violaceae;viol cani schu;Viola canina ssp. schultzii;7;6;5;6;5;1;Karrer;;sensu Fischer et al. 2008;;Schultz-Hunds-Veilchen;Viola canina;BRA+NAR
-vascular plants;Violaceae;viol cani slat;Viola canina s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Hunds-Veilchen;Viola canina;BRA+NAR
+vascular plants;Violaceae;viol cani slat;Viola canina s.lat.;7;x;3;5;3;2;Karrer;;sensu Fischer et al. 2008;;Hunds-Veilchen;Viola canina;BRA+NAR
 vascular plants;Violaceae;viol coll;Viola collina;6;5;7;3;8;2;Karrer;;sensu Fischer et al. 2008;;Hügel-Veilchen;Viola collina;BRA+FES+GER
 vascular plants;Violaceae;viol elat;Viola elatior;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Hohes Veilchen;Viola elatior;MOL
 vascular plants;Violaceae;viol hirt;Viola hirta;6;5;5;3;8;3;Karrer;;sensu Fischer et al. 2008;;Wiesen-Veilchen;Viola hirta;FES+GER+PUB
@@ -4040,9 +4040,9 @@ vascular plants;Violaceae;viol rupe;Viola rupestris;6;5;7;3;8;2;Karrer;;sensu Fi
 vascular plants;Violaceae;viol spec ies;Viola sp.;-;-;-;-;-;-;;;L.;;;;
 vascular plants;Violaceae;viol stag;Viola stagnina;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Graben-Veilchen;Viola persicifolia;MOL
 vascular plants;Violaceae;viol suav;Viola suavis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Hecken-Veilchen;Viola suavis;FAG+PUB
-vascular plants;Violaceae;viol tric saxa;Viola tricolor ssp. saxatilis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Felsen-Stiefmütterchen;Viola tricolor subsp. alpestris;MOL+SED
-vascular plants;Violaceae;viol tric slat;Viola tricolor s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Wild-Stiefmütterchen;;
-vascular plants;Violaceae;viol tric tric;Viola tricolor ssp. tricolor;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Wiesen-Stiefmütterchen;Viola tricolor subsp. tricolor;COR+MOL
+vascular plants;Violaceae;viol tric saxa;Viola tricolor ssp. saxatilis;8;4;x;3;6;3;Karrer;as Viola tricolor ssp. subalpina;sensu Fischer et al. 2008;;Felsen-Stiefmütterchen;Viola tricolor subsp. alpestris;MOL+SED
+vascular plants;Violaceae;viol tric slat;Viola tricolor s.lat.;7;x;x;4;x;x;Karrer;as Viola tricolor ssp. tricolor;sensu Fischer et al. 2008;;Wild-Stiefmütterchen;;
+vascular plants;Violaceae;viol tric tric;Viola tricolor ssp. tricolor;7;x;x;4;x;x;Karrer;;sensu Fischer et al. 2008;;Wiesen-Stiefmütterchen;Viola tricolor subsp. tricolor;COR+MOL
 vascular plants;Violaceae;viol ulig;Viola uliginosa;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Moor-Veilchen;;
 vascular plants;Violaceae;viol ×adu;Viola × adulterina (=V. alba × hirta);-;-;-;-;-;-;;;Godron;;;;
 vascular plants;Violaceae;viol ×bav;Viola × bavarica (=V. reichenbachiana × riviniana);4;x;4;5;7;6;;;Schrank;;;;
