@@ -1251,7 +1251,7 @@ vascular plants;Cyperaceae;eleo ovat;Eleocharis ovata;-;-;-;-;-;-;;;sensu Fische
 vascular plants;Cyperaceae;eleo palu slat;Eleocharis palustris s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;
 vascular plants;Cyperaceae;eleo palu palu;Eleocharis palustris ssp. palustris;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kurzspelzige Gewöhnliche Sumpfbinse;Eleocharis palustris subsp. palustris;PHR
 vascular plants;Cyperaceae;eleo palu vulg;Eleocharis palustris ssp. vulgaris;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Langspelzige Gewöhnliche Sumpfbinse;Eleocharis palustris subsp. waltersii;PHR
-vascular plants;Cyperaceae;eleo quin;Eleocharis quinqueflora;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Wenigblütige Sumpfbinse;Eleocharis quinqueflora;SCH
+vascular plants;Cyperaceae;eleo quin;Eleocharis quinqueflora;8;x;3;9;7;2;;;sensu Fischer et al. 2008;;Wenigblütige Sumpfbinse;Eleocharis quinqueflora;SCH
 vascular plants;Cyperaceae;eleo unig;Eleocharis uniglumis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Einspelzige Sumpfbinse;Eleocharis uniglumis;JUN+PHR
 vascular plants;Hydrocharitaceae;elod cana;Elodea canadensis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kanadische Wasserpest;Elodea canadensis;POT
 vascular plants;Hydrocharitaceae;elod nutt;Elodea nuttallii;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Nuttall-Wasserpest;Elodea nuttalii;POT
@@ -3838,7 +3838,7 @@ vascular plants;Leguminosae;trif spec ies;Trifolium sp.;-;-;-;-;-;-;;;L.;;;;
 vascular plants;Leguminosae;trif spad;Trifolium spadiceum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Moor-Klee;Trifolium spadiceum;FAG+MOL
 vascular plants;Leguminosae;trif suav;Trifolium suaveolens;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Hohlstängliger Klee;Trifolium resupinatum;MOL
 vascular plants;Leguminosae;trig caer;Trigonella caerulea;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Echter Schabzigerklee;Trigonella caerulea;CHE
-vascular plants;Juncaginaceae;trig palu;Triglochin palustre;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Sumpf-Dreizack;Triglochin palustris;SCH
+vascular plants;Juncaginaceae;trig palu;Triglochin palustre;8;x;x;9;x;1;;;sensu Fischer et al. 2008;;Sumpf-Dreizack;Triglochin palustris;SCH
 vascular plants;Leguminosae;trig proc;Trigonella procumbens;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Wilder Schabzigerklee;;
 vascular plants;Apiaceae;trin glau;Trinia glauca;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kleiner Faserschirm;Trinia glauca subsp. glauca;FES
 vascular plants;Compositae;trip inod;Tripleurospermum inodorum;9;6;3;6;7;8;Karrer;;sensu Fischer et al. 2008;;Geruchlose Ruderalkamille;Tripleurospermum inodorum;PAR+SIS
