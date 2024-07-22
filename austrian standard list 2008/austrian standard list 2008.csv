@@ -622,8 +622,8 @@ vascular plants;Solanaceae;caps annu;Capsicum annuum;-;-;-;-;-;-;;;sensu Fischer
 vascular plants;Brassicaceae;caps burs;Capsella bursa-pastoris s.str.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Gewöhnliches Hirtentäschel;Capsella bursa-pastoris;PAR+SIS
 vascular plants;Compositae;card acan;Carduus acanthoides;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Weg-Ringdistel;Carduus acanthoides;ART
 vascular plants;Brassicaceae;card alpi;Cardamine alpina;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Alpen-Schaumkraut;Cardamine alpina;HER
-vascular plants;Brassicaceae;card amar slat;Cardamine amara s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;
-vascular plants;Brassicaceae;card amar amar;Cardamine amara ssp. amara;7;x;4;9;6;4;;;sensu Fischer et al. 2008;;;Cardamine amara subsp. amara;MON
+vascular plants;Brassicaceae;card amar slat;Cardamine amara s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Bitter-Schaumkraut;;
+vascular plants;Brassicaceae;card amar amar;Cardamine amara ssp. amara;7;x;4;9;6;4;;;sensu Fischer et al. 2008;;Tieflands Bitter-Schaumkraut;Cardamine amara subsp. amara;MON
 vascular plants;Brassicaceae;card amar aust;Cardamine amara ssp. austriaca;7;x;4;9;6;4;;;sensu Fischer et al. 2008;;Österreichisches Bitter-Schaumkraut;Cardamine amara subsp. austriaca;MON
 vascular plants;Brassicaceae;card amar opiz;Cardamine amara ssp. opicii;-;-;-;-;-;-;;;(J. Presl & C. Presl) Čelak.;;;Cardamine amara subsp. opicii;MON
 vascular plants;Brassicaceae;card bulb;Cardamine bulbifera;3;5;4;5;7;6;;;sensu Fischer et al. 2008;;Zwiebel-Zahnwurz;Cardamine bulbifera;FAG
@@ -631,7 +631,7 @@ vascular plants;Brassicaceae;card kita;Cardamine kitaibelii;-;-;-;-;-;-;;;Bech.;
 vascular plants;Compositae;card cris cris;Carduus crispus ssp. crispus;7;6;x;6;7;9;Karrer;as Carduus crispus;sensu Fischer et al. 2008;;Krause Ringdistel;Carduus crispus subsp. crispus;EPI
 vascular plants;Compositae;card defl slat;Carduus defloratus s.lat.;7;x;4;4;8;4;Karrer;;sensu Fischer et al. 2008;;Berg-Ringdistel;;
 vascular plants;Compositae;card defl glau;Carduus defloratus ssp. glaucus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;Carduus crassifolius ssp. glaucus;;Carduus defloratus subsp. glaucus;GER
-vascular plants;Compositae;card defl summ;Carduus defloratus ssp. summanus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;Carduus crassifolius ssp. crassifolius; C. defloratus ssp. defloratus;Carduus defloratus subsp. summanus;SES
+vascular plants;Compositae;card defl summ;Carduus defloratus ssp. summanus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;Carduus crassifolius ssp. crassifolius;;Carduus defloratus subsp. summanus;SES
 vascular plants;Compositae;card defl trid;Carduus defloratus ssp. tridentinus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Carduus defloratus subsp. rhaeticus;TRI
 vascular plants;Compositae;card defl viri;Carduus defloratus ssp. viridis;7;x;4;4;8;4;Karrer;;sensu Fischer et al. 2008;;Grüne Berg-Ringdistel;Carduus defloratus subsp. defloratus;SES
 vascular plants;Brassicaceae;card dent;Cardamine dentata;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Zahnblättriges Wiesen-Schaumkraut;Cardamine dentata;PHR
