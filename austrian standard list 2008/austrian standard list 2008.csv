@@ -698,8 +698,8 @@ vascular plants;Cyperaceae;care eric;Carex ericetorum;5;5;7;4;x;2;Karrer;;sensu 
 vascular plants;Cyperaceae;care ferr;Carex ferruginea s.str.;8;2;4;5;8;4;;;sensu Fischer et al. 2008;;Rost-Segge;Carex ferruginea;SES
 vascular plants;Cyperaceae;care firm;Carex firma;9;2;4;4;9;2;Karrer;;sensu Fischer et al. 2008;;Polster-Segge;Carex firma;SES
 vascular plants;Cyperaceae;care flac;Carex flacca ssp. flacca;7;x;3;6;8;4;;;sensu Fischer et al. 2008;;Blau-Segge;Carex flacca subsp. flacca;FES
-vascular plants;Cyperaceae;care flav aggr;Carex flava agg.;8;x;2;9;8;2;;;sensu Fischer et al. 2008;;;;
-vascular plants;Cyperaceae;care flav slat;Carex flava s.lat.;8;x;2;9;8;2;;;sensu Fischer et al. 2008;;;;
+vascular plants;Cyperaceae;care flav aggr;Carex flava agg.;8;x;2;9;8;2;;;sensu Fischer et al. 2008;;Gelb-Segge Artengruppe;;
+vascular plants;Cyperaceae;care flav slat;Carex flava s.lat.;8;x;2;9;8;2;;;sensu Fischer et al. 2008;;Gelb-Segge i.w.S.;;
 vascular plants;Cyperaceae;care flav alpi;Carex flava var. alpina;-;-;-;-;-;-;;;sensu Fischer et al. 2008;Carex flavella Krecz.;Hochgebirgsrasse der Großen Gelb-Segge;;
 vascular plants;Cyperaceae;care flav flav;Carex flava var. flava;8;x;2;9;8;2;;;sensu Fischer et al. 2008;;Gewöhnliche Große Gelb-Segge;Carex flava subsp. flava;SCH
 vascular plants;Cyperaceae;care frig;Carex frigida;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kälte-Segge;Carex frigida;SCH
@@ -3459,7 +3459,7 @@ vascular plants;Compositae;sene abro abro;Senecio abrotanifolius var. abrotanifo
 vascular plants;Compositae;sene abro slat;Senecio abrotanifolius s.lat;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;
 vascular plants;Compositae;sene abro tiro;Senecio abrotanifolius var. tiroliensis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Jacobaea abrotanifolia subsp. tiroliensis;LOI
 vascular plants;Compositae;sene aqua;Senecio aquaticus s.str.;7;6;2;8;4;5;Karrer;;sensu Fischer et al. 2008;;Wasser-Greiskraut;Jacobaea aquatica;MOL
-vascular plants;Compositae;sene caca;Senecio cacaliaster;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Senecio cacaliaster;MUL
+vascular plants;Compositae;sene caca;Senecio cacaliaster;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Pestwurz-Greiskraut;Senecio cacaliaster;MUL
 vascular plants;Compositae;sene carn;Senecio carniolicus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Krainer Greiskraut;;
 vascular plants;Compositae;sene cord;Senecio cordatus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Alpen-Greiskraut;Jacobaea alpina;MUL
 vascular plants;Compositae;sene dori;Senecio doria;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Gold-Greiskraut;Senecio doria subsp. doria;FEP+MOL
@@ -3584,8 +3584,8 @@ vascular plants;Compositae;sonc spec ies;Sonchus sp.;n.a.;n.a.;n.a.;n.a.;n.a.;n.
 vascular plants;Rosaceae;sorb aria;Sorbus aria s.str.;6;5;2;4;7;3;;;sensu Fischer et al. 2008;;Echte Mehlbeere;Sorbus aria;FAG+PUB
 vascular plants;Rosaceae;sorb aria aggr;Sorbus aria agg.;6;5;2;4;7;3;;;sensu Fischer et al. 2008;;Mehlbeere Sammelart;;
 vascular plants;Rosaceae;sorb aucu aucu;Sorbus aucuparia ssp. aucuparia;6;x;x;x;4;x;;;sensu Fischer et al. 2008;;Eberesche;Sorbus aucuparia subsp. aucuparia;BRA+LON+RHA
-vascular plants;Rosaceae;sorb aucu glab;Sorbus aucuparia ssp. glabrata;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Sorbus aucuparia subsp. glabrata;ASA+MUG+PIC+RHA
-vascular plants;Rosaceae;sorb aucu slat;Sorbus aucuparia s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;
+vascular plants;Rosaceae;sorb aucu glab;Sorbus aucuparia ssp. glabrata;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Gebirgs-Eberesche;Sorbus aucuparia subsp. glabrata;ASA+MUG+PIC+RHA
+vascular plants;Rosaceae;sorb aucu slat;Sorbus aucuparia s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Eberesche i.w.S.;;
 vascular plants;Rosaceae;sorb aust;Sorbus austriaca;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Österreichische Mehlbeere;Sorbus austriaca subsp. austriaca;FAG
 vascular plants;Rosaceae;sorb carp;Sorbus carpatica;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Karpaten-Mehlbeere;;
 vascular plants;Rosaceae;sorb cham;Sorbus chamaemespilus;7;3;4;4;8;3;Karrer;;sensu Fischer et al. 2008;;Zwergmehlbeere;Sorbus chamaemespilus;ERI+MUG+MUL+PIC
