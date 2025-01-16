@@ -206,7 +206,7 @@ vascular plants;Compositae;ambr arte;Ambrosia artemisiifolia;-;-;-;-;-;-;;;sensu
 vascular plants;Compositae;ambr psil;Ambrosia psilostachya;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Nacktähriges Traubenkraut;Ambrosia psilostachya;ART;
 vascular plants;Compositae;ambr trif;Ambrosia trifida;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Dreilappiges Traubenkraut;Ambrosia trifida;SIS;
 vascular plants;Rosaceae;amel lama;Amelanchier lamarckii;-;-;-;-;-;-;;;F.G.Schroed.;;;Amelanchier lamarckii;RHA;
-vascular plants;Rosaceae;amel oval;Amelanchier ovalis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Echte Felsenbirne;Amelanchier ovalis subsp. ovalis;ERI+PUB+RHA;
+vascular plants;Rosaceae;amel oval;Amelanchier ovalis;7;x;4;2;7;3;Karrer2024;;sensu Fischer et al. 2008;;Echte Felsenbirne;Amelanchier ovalis subsp. ovalis;ERI+PUB+RHA;
 vascular plants;Rosaceae;amel spec ies;Amelanchier sp.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;;;L.;;;;;
 vascular plants;Apiaceae;ammi maju;Ammi majus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Große Knorpelmöhre;Ammi majus;PAR;
 vascular plants;Poaceae;ammo aren;Ammophila arenaria;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Gewöhnlicher Strandhafer;Ammophila arenaria subsp. arenaria;AMM;
@@ -262,7 +262,7 @@ vascular plants;Leguminosae;anth mont faba;Anthyllis montana;-;-;-;-;-;-;;;sensu
 vascular plants;Apiaceae;anth niti;Anthriscus nitidus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Glanz-Kerbel;Anthriscus nitidus;EPI+FAG;
 vascular plants;Poaceae;anth odor;Anthoxanthum odoratum s.str.;x;x;x;x;5;x;;;sensu Fischer et al. 2008;;Wiesen-Ruchgras;Anthoxanthum odoratum;BUL+COR+PIL;
 vascular plants;Poaceae;anth odor aggr;Anthoxanthum odoratum agg.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;;
-vascular plants;Asparagaceae;anth ramo;Anthericum ramosum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Rispen-Graslilie;Anthericum ramosum;FES+GER;
+vascular plants;Asparagaceae;anth ramo;Anthericum ramosum;6;5;3;3;x;3;Karrer2024;;sensu Fischer et al. 2008;;Rispen-Graslilie;Anthericum ramosum;FES+GER;
 vascular plants;Compositae;anth ruth;Anthemis ruthenica;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Ruthenische-Hundskamille;Anthemis ruthenica;COR+PAR;
 vascular plants;Apiaceae;anth sylv;Anthriscus sylvestris s.str.;7;x;5;5;x;8;;;sensu Fischer et al. 2008;;Wiesen-Kerbel;Anthriscus sylvestris subsp. sylvestris;MOL;
 vascular plants;Compositae;anth tinc;Anthemis tinctoria;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Färber-Hundskamille;Cota tinctoria subsp. tinctoria;ART;
@@ -2101,7 +2101,7 @@ vascular plants;Compositae;leon hisp hisp;Leontodon hispidus ssp. hispidus;7;5;x
 vascular plants;Compositae;leon hisp hyos;Leontodon hispidus ssp. hyoseroides;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;;;sensu Fischer et al. 2008;;Glatter Felsschutt-Leuenzahn;;;
 vascular plants;Compositae;leon hisp slat;Leontodon hispidus s.lat.;8;x;3;5;7;6;;;sensu Fischer et al. 2008;;;;;
 vascular plants;Compositae;leon spec ies;Leontodon sp.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;;;L.;;;;;
-vascular plants;Compositae;leon inca;Leontodon incanus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Grauer Leuenzahn;Leontodon incanus;FES;
+vascular plants;Compositae;leon inca;Leontodon incanus;7;5;5;2;8;2;Karrer2024;;sensu Fischer et al. 2008;;Grauer Leuenzahn;Leontodon incanus;FES;
 vascular plants;Lamiaceae;leon marr;Leonurus marrubiastrum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Auen-Löwenschwanz;Leonurus marrubiastrum;ART;
 vascular plants;Compositae;leon saxa;Leontodon saxatilis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Hunds-Leuenzahn;Leontodon saxatilis subsp. saxatilis;AMM;
 vascular plants;Brassicaceae;lepi camp;Lepidium campestre;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kandelaber-Kresse;Lepidium campestre;SIS;
@@ -2873,8 +2873,8 @@ vascular plants;Rosaceae;pote ster;Potentilla sterilis;5;5;2;5;6;6;;;sensu Fisch
 vascular plants;Rosaceae;pote supi supi;Potentilla supina;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Niedriges Fingerkraut;Potentilla supina;BID+ISO+MOL;
 vascular plants;Rosaceae;pote vern aggr;Potentilla verna agg.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;;
 vascular plants;Compositae;pren purp;Prenanthes purpurea;4;4;4;5;5;5;;;sensu Fischer et al. 2008;;Purpur-Hasenlattich;Prenanthes purpurea;FAG+MUL;
-vascular plants;Primulaceae;prim auri auri;Primula auricula ssp. auricula;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Duft-Aurikel;Primula auricula subsp. auricula;ASP;
-vascular plants;Primulaceae;prim auri balb;Primula auricula ssp. balbisii;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Wimper-Aurikel;Primula auricula subsp. balbisii;ASP;
+vascular plants;Primulaceae;prim auri auri;Primula auricula ssp. auricula;8;x;5;5;8;2;Karrer2024;;sensu Fischer et al. 2008;;Duft-Aurikel;Primula auricula subsp. auricula;ASP;
+vascular plants;Primulaceae;prim auri balb;Primula auricula ssp. balbisii;7;4;6;3;9;1;Karrer2024;;sensu Fischer et al. 2008;;Wimper-Aurikel;Primula auricula subsp. balbisii;ASP;
 vascular plants;Primulaceae;prim auri hung;Primula auricula ssp. hungarica;-;-;-;-;-;-;;;(Borb.) Soó;;;Primula auricula subsp. hungarica;FES;
 vascular plants;Primulaceae;prim auri slat;Primula auricula s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Aurikel;;;
 vascular plants;Primulaceae;prim clus;Primula clusiana;8;3;4;6;9;2;Karrer;;sensu Fischer et al. 2008;;Clusius-Primel;Primula clusiana;ASP+SES;
@@ -3458,7 +3458,7 @@ vascular plants;Crassulaceae;semp mont;Sempervivum montanum;-;-;-;-;-;-;;;sensu 
 vascular plants;Crassulaceae;semp stir;Sempervivum stiriacum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Steirische Berg-Hauswurz;Sempervivum montanum subsp. stiriacum;SED;
 vascular plants;Crassulaceae;semp tect;Sempervivum tectorum s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Dach-Hauswurz;Sempervivum tectorum;FES+SED;
 vascular plants;Crassulaceae;semp wulf;Sempervivum wulfenii;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Sempervivum wulfenii;LOI+TRI;
-vascular plants;Compositae;sene abro abro;Senecio abrotanifolius var. abrotanifolius;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Eberrauten-Greiskraut;Jacobaea abrotanifolia subsp. abrotanifolia;SES;
+vascular plants;Compositae;sene abro abro;Senecio abrotanifolius var. abrotanifolius;7;3;5;4;7;3;Karrer2024;;sensu Fischer et al. 2008;;Eberrauten-Greiskraut;Jacobaea abrotanifolia subsp. abrotanifolia;SES;
 vascular plants;Compositae;sene abro slat;Senecio abrotanifolius s.lat;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;;
 vascular plants;Compositae;sene abro tiro;Senecio abrotanifolius var. tiroliensis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Jacobaea abrotanifolia subsp. tiroliensis;LOI;
 vascular plants;Compositae;sene aqua;Senecio aquaticus s.str.;7;6;2;8;4;5;Karrer;;sensu Fischer et al. 2008;;Wasser-Greiskraut;Jacobaea aquatica;MOL;
