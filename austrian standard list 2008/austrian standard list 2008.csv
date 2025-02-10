@@ -1015,6 +1015,7 @@ vascular plants;Rosaceae;crat spec ies;Crataegus sp.;n.a.;n.a.;n.a.;n.a.;n.a.;n.
 vascular plants;Compositae;crep alpe;Crepis alpestris;7;4;4;4;8;2;;;sensu Fischer et al. 2008;;Voralpen-Pippau;Crepis alpestris;ERI+SES;
 vascular plants;Compositae;crep aure aure;Crepis aurea ssp. aurea;8;2;4;5;5;7;;;sensu Fischer et al. 2008;;Gold-Pippau;Crepis aurea;MOL;
 vascular plants;Compositae;crep bien;Crepis biennis;7;5;3;6;6;5;;;sensu Fischer et al. 2008;;Wiesen-Pippau;Crepis biennis;MOL;
+vascular plants;Compositae;crep blat;Crepis blattarioides;-;-;-;-;-;-;;;(L.) Vill.;;;;;
 vascular plants;Compositae;crep capi;Crepis capillaris;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Grüner Pippau;Crepis capillaris;MOL;
 vascular plants;Compositae;crep cony;Crepis conyzifolia;9;3;4;5;2;2;;;sensu Fischer et al. 2008;;Großköpfiger Pippau;Crepis conyzifolia;TRI;
 vascular plants;Compositae;crep foet foet;Crepis foetida ssp. foetida;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Eigentlicher Stink-Pippau;Crepis foetida subsp. foetida;SIS;
@@ -1095,6 +1096,7 @@ vascular plants;Orchidaceae;dact maja slat;Dactylorhiza majalis s.lat.;8;5;3;8;7
 vascular plants;Orchidaceae;dact maja alpe;Dactylorhiza majalis ssp. alpestris;8;3;3;9;3;1;;;sensu Fischer et al. 2008;;Alpine Breitblättrige Fingerwurz;;;
 vascular plants;Orchidaceae;dact maja brev;Dactylorhiza majalis ssp. brevifolia;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;;
 vascular plants;Orchidaceae;dact maja maja;Dactylorhiza majalis ssp. majalis;8;5;3;8;7;3;;;sensu Fischer et al. 2008;;Gewöhnliche Breitblättrige Fingerwurz;Dactylorhiza majalis subsp. majalis;ALN+MOL+SCH;
+vascular plants;Orchidaceae;dact maja prae;Dactylorhiza majalis ssp. praetermissa;-;-;-;-;-;-;;;(Druce) D.M.Moore & Soó;;;;;
 vascular plants;Orchidaceae;dact spec ies;Dactylorhiza sp.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;;;L.;;;;;
 vascular plants;Poaceae;dact poly;Dactylis polygama;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Wald-Knäuelgras;Dactylis glomerata subsp. lobata;FAG;
 vascular plants;Orchidaceae;dact samb;Dactylorhiza sambucina;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Holunder-Fingerwurz;Dactylorhiza sambucina;FES+MOL;
@@ -2022,6 +2024,7 @@ vascular plants;Caprifoliaceae;knau arve pann;Knautia arvensis ssp. pannonica;-;
 vascular plants;Caprifoliaceae;knau arve slat;Knautia arvensis s.lat.;7;6;3;4;x;4;;;sensu Fischer et al. 2008;;;;;
 vascular plants;Caprifoliaceae;knau arve slat fels;Knautia arvensis s.lat. »Felssippe«;-;-;-;-;-;-;;;sensu Lenglachner;;;;;
 vascular plants;Caprifoliaceae;knau drym;Knautia drymeia;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Ungarische Witwenblume;Knautia drymeia subsp. drymeia;FAG;
+vascular plants;Caprifoliaceae;knau grac;Knautia gracilis;-;-;-;-;-;-;;;Szabó;;;;;
 vascular plants;Caprifoliaceae;knau long;Knautia longifolia;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Langblättrige Witwenblume;Knautia longifolia;SES;
 vascular plants;Caprifoliaceae;knau maxi;Knautia maxima ssp. maxima;5;4;4;6;6;6;;;sensu Fischer et al. 2008;;Berg-Witwenblume;Knautia maxima;GER+MUL;
 vascular plants;Caprifoliaceae;knau ress;Knautia ressmannii;-;-;-;-;-;-;;;(Pacher) Briq.;;;Knautia ressmannii;ERI;
