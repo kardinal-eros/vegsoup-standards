@@ -1454,8 +1454,8 @@ vascular plants;Poaceae;fest alti;Festuca altissima;3;5;3;5;4;6;;;sensu Fischer 
 vascular plants;Poaceae;fest amet amet;Festuca amethystina ssp. amethystina;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Amethyst-Schwingel;Festuca amethystina;ERI;
 vascular plants;Poaceae;fest apen;Festuca apennina;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Apenninen-Schwingel;Schedonorus pratensis subsp. apenninus;MUL;
 vascular plants;Poaceae;fest arun arun;Festuca arundinacea ssp. arundinacea;8;5;x;7;7;5;Karrer;;sensu Fischer et al. 2008;;Eigentlicher Rohr-Schwingel;Schedonorus arundinaceus subsp. arundinaceus;MOL;
-vascular plants;Poaceae;fest arun slat;Festuca arundinacea s.lat.;8;5;x;7;7;5;Karrer;;sensu Fischer et al. 2008;;Rohr-Schwingel;;;
-vascular plants;Poaceae;fest arun orie;Festuca arundinacea subsp. orientalis;-;-;-;-;-;-;;; (Hack.) Tzvelev;;;;;
+vascular plants;Poaceae;fest arun slat;Festuca arundinacea s.lat.;8;5;x;7;7;5;Karrer;;sensu Fischer et al. 2008;;Rohr-Schwingel;Schedonorus arundinaceus subsp. arundinaceus;MOL;
+vascular plants;Poaceae;fest arun orie;Festuca arundinacea subsp. orientalis;-;-;-;-;-;-;;; (Hack.) Tzvelev;;Östlicher Rohr-Schwingel;;;
 vascular plants;Poaceae;fest arun uech;Festuca arundinacea ssp. uechtritziana;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Rauhalm-Rohr-Schwingel;;;
 vascular plants;Poaceae;fest brev;Festuca brevipila s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Raublättriger Schwingel;Festuca brevipila;COR+FES;
 vascular plants;Poaceae;fest calv;Festuca calva;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Festuca calva;SES;
@@ -3330,7 +3330,7 @@ vascular plants;Adoxaceae;samb nigr;Sambucus nigra;7;5;3;5;x;9;;;sensu Fischer e
 vascular plants;Adoxaceae;samb race;Sambucus racemosa;6;4;4;5;5;8;;;sensu Fischer et al. 2008;;Roter Holunder;Sambucus racemosa;ROB+VIR;
 vascular plants;Rosaceae;sang mino bale;Sanguisorba minor ssp. balearica;8;8;5;2;7;2;;;sensu Fischer et al. 2008;;Geflügelter Kleiner Wiesenknopf;Sanguisorba minor subsp. balearica;FES;
 vascular plants;Rosaceae;sang mino mino;Sanguisorba minor ssp. minor;7;6;5;3;8;2;;;sensu Fischer et al. 2008;;Gewöhnlicher Kleiner Wiesenknopf;Sanguisorba minor subsp. minor;FES;
-vascular plants;Rosaceae;sang mino slat;Sanguisorba minor s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;;
+vascular plants;Rosaceae;sang mino slat;Sanguisorba minor s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kleiner Wiesenknopf;Sanguisorba minor subsp. minor;FES;
 vascular plants;Rosaceae;sang offi;Sanguisorba officinalis;7;5;7;6;x;5;;;sensu Fischer et al. 2008;;Großer Wiesenknopf;Sanguisorba officinalis;BRA+MOL;
 vascular plants;Apiaceae;sani euro;Sanicula europaea;4;5;3;5;8;6;;;sensu Fischer et al. 2008;;Europäische Sanikel;Sanicula europaea;FAG;
 vascular plants;Compositae;sanv proc;Sanvitalia procumbens;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Husarenknopf;Sanvitalia procumbens;DIG;
