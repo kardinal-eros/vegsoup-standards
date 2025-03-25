@@ -3801,8 +3801,8 @@ vascular plants;Lamiaceae;thym serp;Thymus serpyllum;-;-;-;-;-;-;;;sensu Fischer
 vascular plants;Lamiaceae;thym vulg;Thymus vulgaris;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Gewürz-Thymian;Thymus vulgaris subsp. vulgaris;ONO+ROS;
 vascular plants;Malvaceae;tili cord;Tilia cordata;5;5;4;5;x;5;Karrer;;sensu Fischer et al. 2008;;Winter-Linde;Tilia cordata;FAG;
 vascular plants;Malvaceae;tili plat;Tilia platyphyllos;4;5;2;5;7;7;Karrer;;sensu Fischer et al. 2008;;Sommer-Linde;Tilia platyphyllos subsp. platyphyllos;FAG;
-vascular plants;Malvaceae;tili ×vul;Tilia × vulgaris (=T. cordata × platyphyllos);-;-;-;-;-;-;;;Hayne;;;;;
-vascular plants;Malvaceae;tili spec ies;Tilia sp.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;;;L.;;;;;
+vascular plants;Malvaceae;tili ×vul;Tilia × vulgaris (=T. cordata × platyphyllos);-;-;-;-;-;-;;;Hayne;;Tilia × vulgaris;;;
+vascular plants;Malvaceae;tili spec ies;Tilia sp.;n.a.;n.a.;n.a.;n.a.;n.a.;n.a.;;;L.;;Linde;;;
 vascular plants;Tofieldiaceae;tofi caly;Tofieldia calyculata;8;x;4;8;8;2;Karrer;;sensu Fischer et al. 2008;;Kelch-Simsenlilie;Tofieldia calyculata;SCH;
 vascular plants;Tofieldiaceae;tofi pusi;Tofieldia pusilla;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Zwerg-Simsenlilie;Tofieldia pusilla;SCH;
 vascular plants;Apiaceae;tord maxi;Tordylium maximum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Großer Zirmet;Tordylium maximum;SIS;
@@ -3815,7 +3815,7 @@ vascular plants;Compositae;trag orie;Tragopogon orientalis;7;x;5;5;7;6;Karrer;;s
 vascular plants;Compositae;trag porr porr;Tragopogon porrifolius ssp. porrifolius;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Haferwurz(el);Tragopogon porrifolius subsp. porrifolius;FES+MOL;
 vascular plants;Compositae;trag prat mino;Tragopogon pratensis ssp. minor;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kleiner Wiesen-Bocksbart;Tragopogon pratensis;FES+MOL;
 vascular plants;Compositae;trag prat prat;Tragopogon pratensis ssp. pratensis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Mittlerer Wiesen-Bocksbart;Tragopogon pratensis;FES+MOL;
-vascular plants;Compositae;trag prat slat;Tragopogon pratensis s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Tragopogon pratensis;FES+MOL;
+vascular plants;Compositae;trag prat slat;Tragopogon pratensis s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;; Wiesen-Bocksbart;Tragopogon pratensis;FES+MOL;
 vascular plants;Poaceae;trag race;Tragus racemosus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Trauben-Klettengras;Tragus racemosus;DIG;
 vascular plants;Lythraceae;trap nata;Trapa natans;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Wassernuss;Trapa natans;POT;
 vascular plants;Orchidaceae;trau glob;Traunsteinera globosa;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kugelständel;Traunsteinera globosa;SES;
