@@ -1,0 +1,4903 @@
+Taxon,L,T,K,F,R,N,,FZ,S
+Abies alba,i,5,5,i,i,i,,,0
+Abutilon theophrasti,8,8,6,6,7,7,,,1
+Acalypha virginica,7,8,3,3,5,5,,,0
+Acanthus mollis,6,9,3,4,7,7,,,0
+Acer campestre,5,7,6,5,7,5,,,0
+Acer monspessulanum,6,8,4,3,8,4,,,0
+Acer negundo,6,7,6,6,7,7,,=,1
+Acer platanoides,4,6,5,5,7,i,,=,0
+Acer pseudoplatanus,4,i,5,6,7,7,,,0
+Acer saccharinum,3,8,3,5,5,5,,,0
+Acer tataricum,5,7,8,5,7,4,,,1
+Aceras anthropophorum,8,7,3,3,8,3,,~,0
+Achillea ageratum,8,8,4,6,6,4,,,1
+Achillea aspleniifolia,8,6,7,7,7,4,,~,2
+Achillea atrata,9,1,5,5,8,3,,,0
+Achillea atrata agg.,9,2,4,5,8,3,,,0
+Achillea clavennae,8,2,5,3,8,3,,,0
+Achillea clusiana,9,2,4,5,9,3,,,0
+Achillea collina,8,6,6,4,6,4,,,3
+Achillea crithmifolia,8,8,6,4,5,3,,,0
+Achillea distans,7,5,6,4,7,4,,,0
+Achillea filipendulina,8,7,6,6,7,5,,,0
+Achillea macrophylla,6,3,4,6,7,8,,,0
+Achillea millefolium,8,i,5,5,i,5,,,0
+Achillea millefolium agg.,8,i,i,i,i,i,,,1
+Achillea millefolium subsp. millefolium,8,5,5,5,i,5,,,0
+Achillea millefolium subsp. sudetica,8,4,5,5,i,4,,,0
+Achillea moschata,9,1,5,5,3,2,,,0
+Achillea nobilis,8,7,7,3,8,2,,,0
+Achillea oxyloba,9,2,4,5,8,3,,,0
+Achillea pannonica,8,7,7,3,7,3,,,1
+Achillea pratensis,8,5,4,6,6,5,,,1
+Achillea ptarmica,8,5,3,8,4,3,,,0
+Achillea raxensis,7,6,6,4,7,3,,,0
+Achillea roseoalba,8,7,6,6,5,3,,~,0
+Achillea setacea,9,7,8,2,i,2,,,3
+Achillea stricta,7,5,5,4,7,3,,,0
+Achillea styriaca,7,5,5,4,6,3,,,0
+Achnatherum calamagrostis,9,5,6,3,9,2,,~,0
+Achnatherum virescens,5,7,7,4,7,4,,,0
+Achyranthes aspera,8,9,6,2,4,1,,,0
+Aconitum anthora,6,7,6,4,7,4,,,0
+Aconitum carmichaelii,7,3,i,7,7,7,,,0
+Aconitum degenii,6,3,4,6,7,7,,,0
+Aconitum lamarckii,7,3,5,6,8,7,,,0
+Aconitum lycoctonum,4,3,4,7,7,7,,,0
+Aconitum lycoctonum subsp. lupicida,4,3,4,7,7,7,,,0
+Aconitum lycoctonum subsp. lycoctonum,3,4,4,7,7,7,,,0
+Aconitum lycoctonum subsp. lycoctonum var. lycoctonum,3,4,4,7,7,7,,,0
+Aconitum lycoctonum subsp. lycoctonum var. pauciflorum,3,5,5,7,7,7,,,0
+Aconitum lycoctonum subsp. lycoctonum var. vulparia,3,4,4,7,7,7,,,0
+Aconitum lycoctonum subsp. neapolitanum,4,3,4,7,7,7,,,0
+Aconitum napellus,7,4,4,7,7,8,,,0
+Aconitum napellus agg.,7,3,5,6,7,7,,,0
+Aconitum napellus subsp. compactum,7,3,5,7,5,7,,,0
+Aconitum napellus subsp. formosum,6,3,5,7,6,6,,,0
+Aconitum napellus subsp. lusitanicum,7,4,2,7,7,8,,,0
+Aconitum plicatum,6,3,5,7,6,6,,,0
+Aconitum tauricum,8,2,4,5,i,7,,,0
+Aconitum variegatum,5,4,5,7,6,7,,=,0
+Acorus calamus,8,6,5,10,7,7,,,1
+Actaea europea,4,5,5,5,8,7,,,0
+Actaea spicata,3,5,5,5,7,7,,,0
+Adenophora liliifolia,7,7,7,5,8,3,,~,0
+Adenostyles alliariae,5,3,4,6,6,7,,,0
+Adenostyles alpina,6,3,5,5,8,4,,,0
+Adenostyles leucophylla,8,2,6,7,3,2,,,0
+Adiantum capillus-veneris,2,9,3,7,8,3,,,0
+Adonis aestivalis,8,7,7,3,7,5,,,0
+Adonis flammea,8,7,6,3,8,3,,,0
+Adonis vernalis,7,7,8,3,8,2,,,0
+Adoxa moschatellina,4,i,6,6,7,8,,~,0
+Aegonychon purpurocaeruleum,5,7,6,4,8,4,,,0
+Aegopodium podagraria,5,5,3,6,7,8,,,0
+Aesculus hippocastanum,5,6,6,6,6,7,,,0
+Aethionema saxatile,9,5,5,2,9,2,,~,0
+Aethusa cynapium,6,6,i,5,7,7,,,0
+Aethusa cynapium subsp. cynapium,7,6,i,5,7,7,,,0
+Aethusa cynapium subsp. elata,5,6,i,6,7,7,,,0
+Agrimonia eupatoria subsp. eupatoria,7,6,4,4,7,5,,,1
+Agrimonia procera,6,6,4,5,6,5,,~,0
+Agropyron pectiniforme,8,7,8,2,8,3,,,0
+Agrostemma githago,7,6,i,4,6,6,,,0
+Agrostis alpina,9,2,5,4,6,4,,,0
+Agrostis canina,9,5,5,8,3,2,,~,0
+Agrostis capillaris,7,i,4,4,i,4,,,1
+Agrostis castellana,8,7,i,3,3,3,,,0
+Agrostis gigantea,7,6,i,7,7,5,,~,1
+Agrostis rupestris,8,2,5,4,2,2,,,0
+Agrostis scabra,8,6,3,8,4,i,,~,0
+Agrostis schleicheri,8,3,3,5,7,4,,,0
+Agrostis schraderiana,8,3,6,5,3,4,,,0
+Agrostis stolonifera,8,i,5,7,6,5,,~,1
+Agrostis vinealis,8,7,6,3,2,2,,~,0
+Ailanthus altissima,7,8,5,5,7,7,,,1
+Aira caryophyllea,9,6,4,2,3,1,,,0
+Aira elegantissima,9,6,4,2,2,1,,,1
+Ajuga chamaepitys,8,8,7,4,8,4,,,0
+Ajuga genevensis,8,6,5,4,7,3,,,0
+Ajuga pyramidalis,7,3,3,5,2,2,,,0
+Ajuga reptans,5,5,i,6,6,6,,,0
+Alcea biennis,8,8,7,4,8,4,,,1
+Alcea rosea,8,8,7,4,6,5,,,0
+Alchemilla acrodon,7,3,5,5,8,5,,,0
+Alchemilla acutata,7,2,5,4,4,3,,,0
+Alchemilla acutiloba,7,4,3,6,7,6,,,0
+Alchemilla aggregata,6,2,3,8,8,5,,,0
+Alchemilla alneti,5,3,3,7,4,5,,,0
+Alchemilla alpigena,8,3,3,5,9,4,,,0
+Alchemilla alpina,9,2,3,5,4,2,,,0
+Alchemilla alpinula,8,3,3,4,9,2,,,0
+Alchemilla anisiaca,8,3,4,4,9,3,,,0
+Alchemilla antiropata,7,2,3,6,7,5,,,0
+Alchemilla bonae,7,3,5,5,9,3,,,0
+Alchemilla canifolia,7,3,5,5,8,5,,,0
+Alchemilla carinthiaca,7,3,5,5,8,6,,,0
+Alchemilla cataractarum,6,3,5,7,5,5,,,0
+Alchemilla colorata,8,3,5,4,7,3,,,0
+Alchemilla compta,7,3,5,6,7,7,,,0
+Alchemilla connivens,8,4,3,5,7,5,,,0
+Alchemilla coriacea,7,3,3,6,7,4,,,0
+Alchemilla crinita,8,5,5,4,8,6,,,0
+Alchemilla curta,7,3,5,7,8,5,,,0
+Alchemilla curtiloba,7,3,5,5,8,6,,,0
+Alchemilla cymatophylla,7,3,5,5,5,6,,,0
+Alchemilla decumbens,7,2,4,6,6,3,,,0
+Alchemilla demissa,8,2,4,8,7,5,,,0
+Alchemilla effusa,7,4,4,7,5,5,,,0
+Alchemilla eurystoma,7,3,5,4,5,5,,,0
+Alchemilla exigua,8,3,4,4,6,3,,,0
+Alchemilla fallax,8,3,4,4,8,3,,,0
+Alchemilla filicaulis,7,3,3,5,6,4,,,0
+Alchemilla fissa,8,2,4,6,5,3,,,0
+Alchemilla flabellata,9,2,4,4,i,2,,,0
+Alchemilla glabra,7,3,3,7,6,5,,,0
+Alchemilla glacialis,9,2,4,5,8,3,,,0
+Alchemilla glaucescens,8,4,5,4,i,3,,~,0
+Alchemilla glomerulans,7,2,3,5,6,4,,,0
+Alchemilla grossidens,8,2,4,4,7,3,,,0
+Alchemilla hirtipes,7,4,5,6,5,4,,,0
+Alchemilla hoppeana,8,2,3,5,9,3,,,0
+Alchemilla impexa,8,3,3,6,8,7,,,0
+Alchemilla incisa,8,3,4,6,i,3,,,0
+Alchemilla kerneri,8,2,5,5,3,3,,,0
+Alchemilla leutei,8,2,3,7,5,5,,,0
+Alchemilla lineata,7,4,3,5,7,6,,,0
+Alchemilla longana,9,2,4,7,6,3,,,0
+Alchemilla longituba,7,3,3,7,7,5,,,0
+Alchemilla lunaria,7,3,5,5,7,7,,,0
+Alchemilla matreiensis,7,3,5,5,5,3,,,0
+Alchemilla maureri,8,3,5,5,7,7,,,0
+Alchemilla micans,7,4,4,6,6,4,,,0
+Alchemilla mollis,5,6,5,4,6,7,,,0
+Alchemilla monticola,7,i,6,4,i,7,,,0
+Alchemilla nitida,8,3,5,5,7,4,,,0
+Alchemilla norica,7,3,3,7,5,5,,,0
+Alchemilla obtusa,7,3,4,6,8,4,,,0
+Alchemilla othmarii,8,3,4,6,7,3,,,0
+Alchemilla pallens,7,3,3,5,8,3,,,0
+Alchemilla pentaphyllea,8,2,2,7,3,3,,,0
+Alchemilla philonotis,8,3,3,8,5,5,,,0
+Alchemilla platygyra,5,3,3,5,8,5,,,0
+Alchemilla plicata,7,4,5,4,7,5,,,0
+Alchemilla racemulosa,5,3,3,5,7,6,,,0
+Alchemilla reniformis,8,3,4,i,i,5,,,0
+Alchemilla rubristipula,8,4,4,6,6,4,,,0
+Alchemilla saliceti,5,3,3,6,7,6,,,0
+Alchemilla saxatilis,8,3,4,4,2,3,,,0
+Alchemilla semisecta,7,2,4,7,5,5,,,0
+Alchemilla sericata,8,6,5,4,i,4,,,0
+Alchemilla sericoneura,7,3,3,4,9,3,,,0
+Alchemilla speciosa,5,6,3,4,i,7,,,0
+Alchemilla splendens,9,3,5,4,9,3,,,0
+Alchemilla stiriaca,5,3,5,4,5,i,,,0
+Alchemilla straminea,7,4,4,8,i,4,,,0
+Alchemilla strigosula,8,4,4,4,8,4,,,0
+Alchemilla subcrenata,8,4,6,6,i,7,,,0
+Alchemilla subglobosa,8,4,5,4,8,6,,,0
+Alchemilla subsericea,8,3,4,5,3,5,,,0
+Alchemilla tenuis,6,4,4,5,8,4,,,0
+Alchemilla tirolensis,8,3,5,4,7,5,,,0
+Alchemilla undulata,8,3,3,6,8,7,,,0
+Alchemilla venosula,5,2,3,5,8,5,,,0
+Alchemilla versipila,7,2,4,6,7,7,,,0
+Alchemilla xanthochlora,6,4,4,6,7,7,,,0
+Aldrovanda vesiculosa,6,8,7,12,7,4,,,0
+Alisma gramineum,7,7,7,11,7,4,,~,0
+Alisma lanceolatum,7,7,7,10,7,6,,~,1
+Alisma plantago-aquatica,7,5,i,10,7,8,,~,1
+Alisma plantago-aquatica agg.,7,5,i,10,7,i,,~,1
+Alliaria petiolata,5,6,i,5,7,8,,,0
+Allium ampeloprasum subsp. porrum,7,9,i,5,5,7,,,0
+Allium angulosum,8,7,7,8,8,3,,~,2
+Allium atropurpureum,7,8,5,4,7,6,,,0
+Allium atroviolaceum,7,9,6,4,6,6,,,0
+Allium carinatum,8,6,6,4,7,3,,~,0
+Allium carinatum subsp. carinatum,8,5,6,4,7,3,,~,0
+Allium carinatum subsp. pulchellum,8,7,7,3,8,2,,,0
+Allium cepa,7,9,5,4,7,7,,,0
+Allium cepa var. aggregatum,7,9,5,4,7,7,,,0
+Allium cepa var. ascalonicum,7,9,5,5,7,7,,,0
+Allium ericetorum,8,5,5,3,9,3,,,0
+Allium fistulosum,7,7,7,4,7,3,,,0
+Allium flavum,7,7,7,2,8,2,,,0
+Allium kermesinum,8,3,5,3,9,1,,,0
+Allium moly,9,8,4,5,7,4,,,0
+Allium nigrum,7,9,4,3,6,6,,,0
+Allium oleraceum,6,6,4,4,7,5,,,0
+Allium paradoxum,5,6,7,5,7,7,,,0
+Allium rotundum,7,7,7,4,8,4,,,0
+Allium schoenoprasum,8,i,i,8,7,4,,~,0
+Allium schoenoprasum var. alpinum,8,i,6,8,7,4,,~,0
+Allium schoenoprasum var. schoenoprasum,8,3,i,8,7,4,,~,0
+Allium scorodoprasum,6,6,6,6,7,7,,,1
+Allium senescens subsp. montanum,7,5,5,2,i,2,,,0
+Allium sphaerocephalon,9,8,5,2,8,2,,,1
+Allium strictum,9,6,8,2,6,2,,,0
+Allium suaveolens,9,6,5,8,9,2,,~,0
+Allium subhirsutum,8,9,4,2,4,2,,,0
+Allium ursinum,3,6,4,i,7,6,,~,0
+Allium victorialis,6,3,4,5,7,5,,~,0
+Allium vineale,7,7,4,4,7,6,,~,1
+Alnus alnobetula,7,3,5,6,5,6,,,0
+Alnus cordata,5,6,4,8,6,7,,,0
+Alnus glutinosa,5,5,i,9,6,7,,=,1
+Alnus incana,6,4,6,7,8,6,,=,0
+Alopecurus aequalis,9,5,6,9,6,8,,=,2
+Alopecurus geniculatus,9,6,5,8,7,7,,=,1
+Alopecurus myosuroides,7,6,3,5,7,7,,,1
+Alopecurus pratensis,8,5,5,6,6,7,,~,1
+Alopecurus rendlei,8,7,5,6,8,4,,~,2
+Althaea cannabina,8,7,6,5,6,4,,,0
+Althaea officinalis,7,7,8,7,8,6,,=,4
+Althaea taurinensis,7,7,8,7,8,6,,=,1
+Alyssum alyssoides,9,6,5,3,8,2,,,0
+Alyssum hirsutum,8,6,7,4,7,2,,,0
+Alyssum montanum subsp. gmelinii,9,7,7,2,8,1,,,0
+Alyssum neglectum,9,2,4,3,9,1,,,0
+Alyssum repens subsp. repens,7,6,6,2,7,3,,,0
+Alyssum strigosum,9,6,5,3,8,2,,,0
+Alyssum turkestanicum,9,8,5,3,8,1,,,0
+Alyssum wulfenianum,9,3,4,3,8,1,,,0
+Alyssum wulfenianum subsp. ovirense,9,2,4,4,9,1,,,0
+Alyssum wulfenianum subsp. wulfenianum,9,4,4,3,7,1,,,0
+Amaranthus albus,9,8,6,4,7,7,,,1
+Amaranthus blitoides,8,8,6,3,7,8,,,1
+Amaranthus blitum,8,8,i,4,7,8,,,1
+Amaranthus bouchonii,8,8,3,4,7,8,,,1
+Amaranthus caudatus,8,9,2,4,7,9,,,1
+Amaranthus crispus,9,8,7,4,6,8,,,1
+Amaranthus cruentus,8,8,3,4,7,7,,,0
+Amaranthus deflexus,8,9,5,4,7,8,,,1
+Amaranthus emarginatus,8,8,i,5,7,8,,,1
+Amaranthus graecizans,9,9,i,3,7,8,,,1
+Amaranthus graecizans subsp. graecizans,9,9,i,3,7,8,,,1
+Amaranthus graecizans subsp. sylvestris,9,9,i,3,8,8,,,1
+Amaranthus hybridus,9,9,7,4,7,8,,,1
+Amaranthus hypochondriacus,8,8,7,4,7,8,,,1
+Amaranthus muricatus,8,9,5,4,6,8,,,0
+Amaranthus palmeri,8,9,7,3,5,8,,,0
+Amaranthus powellii,8,8,5,4,7,8,,,1
+Amaranthus retroflexus,8,7,6,4,7,8,,,1
+Amaranthus standleyanus,8,9,3,3,5,8,,,0
+Amaranthus viridis,8,9,3,4,7,8,,,1
+Ambrosia artemisiifolia,8,7,7,4,7,7,,,1
+Ambrosia psilostachya,9,8,3,3,7,4,,,2
+Ambrosia trifida,8,8,4,6,7,8,,,1
+Amelanchier lamarckii,7,6,5,5,3,3,,,0
+Amelanchier ovalis,7,i,4,2,7,3,,,0
+Amelanchier ovalis subsp. embergeri,7,6,4,3,7,3,,,0
+Amelanchier ovalis subsp. ovalis,7,i,7,1,9,3,,,0
+Amelanchier spicata,5,4,5,5,6,3,,,0
+Ammi majus,8,8,i,4,7,7,,~,1
+Ammi visnaga,9,9,5,6,5,2,,,0
+Amorpha fruticosa,7,7,6,5,6,6,,~,1
+Anacamptis coriophora,8,7,6,4,7,2,,~,1
+Anacamptis morio subsp. morio,8,5,4,4,7,3,,~,1
+Anacamptis palustris,8,7,5,9,8,3,,~,1
+Anacamptis pyramidalis,8,5,4,3,9,2,,~,0
+Anacyclus radiatus,8,9,4,4,5,2,,,0
+Anagallis arvensis subsp. arvensis,7,6,i,5,6,6,,,1
+Anagallis foemina,7,7,i,4,8,5,,,1
+Anagallis minima,8,6,4,7,4,3,,~,0
+Anagallis tenella,8,6,2,9,5,4,,,0
+Anaphalis margaritacea,7,5,3,5,5,4,,,0
+Anchusa ochroleuca,9,9,7,2,9,5,,,0
+Anchusa officinalis,8,7,6,3,7,5,,,0
+Andromeda polifolia,9,4,5,9,1,1,,,0
+Androsace alpina,9,1,6,6,2,2,,,0
+Androsace chamaejasme,9,2,7,5,8,2,,,0
+Androsace elongata,9,7,8,2,6,2,,,0
+Androsace hausmannii,9,1,5,3,8,1,,,0
+Androsace helvetica,9,2,5,2,8,1,,,0
+Androsace lactea,8,3,4,4,9,3,,,0
+Androsace maxima,8,8,7,4,7,3,,,1
+Androsace obtusifolia,8,2,6,5,2,1,,,0
+Androsace septentrionalis,8,5,7,2,5,2,,,0
+Androsace villosa,9,2,5,4,8,3,,,0
+Androsace vitaliana subsp. sesleri,9,2,4,5,5,2,,,0
+Androsace wulfeniana,8,2,5,4,2,2,,,0
+Andryala integrifolia,8,9,3,2,2,3,,,1
+Anemonastrum narcissiflorum,8,3,6,5,7,4,,~,0
+Anemone apennina,5,5,6,4,5,5,,,0
+Anemone baldensis,8,1,4,4,7,3,,,0
+Anemone blanda,5,7,3,5,5,5,,,0
+Anemone nemorosa,4,5,i,5,5,4,,,0
+Anemone ranunculoides,3,6,6,6,8,7,,,0
+Anemone sylvestris,7,7,7,3,7,3,,,0
+Anemone trifolia,3,5,6,5,6,5,,,0
+Anethum graveolens,7,7,3,5,5,5,,,0
+Angelica archangelica,7,6,7,9,6,9,,=,1
+Angelica archangelica subsp. archangelica,7,6,7,9,6,9,,=,1
+Angelica archangelica subsp. litoralis,8,4,4,8,7,7,,,1
+Angelica palustris,7,6,7,8,6,7,,,0
+Angelica sylvestris,6,5,i,7,6,6,,,0
+Antennaria carpatica,9,2,7,4,5,2,,,0
+Antennaria dioica,7,i,i,4,3,2,,,0
+Anthemis altissima,8,8,6,3,5,6,,,0
+Anthemis arvensis,7,6,4,4,4,6,,,0
+Anthemis carpatica,8,2,7,4,4,4,,,0
+Anthemis cotula,7,6,i,4,7,7,,,2
+Anthemis ruthenica,8,7,8,3,5,6,,,0
+Anthemis segetalis,7,8,6,3,4,4,,,0
+Anthericum liliago,7,6,4,3,5,3,,,0
+Anthericum ramosum,6,5,5,3,i,3,,~,0
+Anthoxanthum aristatum,7,7,2,2,2,3,,,0
+Anthoxanthum australe,5,7,6,4,6,3,,,0
+Anthoxanthum nipponicum,8,3,6,5,3,3,,,0
+Anthoxanthum nitens,8,6,7,7,6,4,,~,0
+Anthoxanthum odoratum,7,5,i,5,5,4,,,1
+Anthoxanthum repens,6,7,7,5,7,4,,=,1
+Anthriscus caucalis,7,7,3,5,6,8,,,1
+Anthriscus cerefolium,6,7,7,4,7,8,,,0
+Anthriscus nitidus,4,4,4,6,8,8,,,0
+Anthriscus sylvestris,7,6,i,5,7,8,,,0
+Anthyllis montana subsp. jacquinii,7,6,6,1,9,2,,,0
+Anthyllis vulneraria,8,i,i,4,7,3,,,0
+Anthyllis vulneraria subsp. alpicola,8,2,3,4,8,2,,,0
+Anthyllis vulneraria subsp. carpatica,7,6,4,3,7,3,,,0
+Anthyllis vulneraria subsp. polyphylla,8,7,6,3,7,2,,,0
+Anthyllis vulneraria subsp. pseudovulneraria,8,5,5,4,7,3,,,0
+Antirrhinum majus,8,8,2,3,7,6,,,1
+Apera interrupta,9,7,7,3,4,3,,,1
+Apera spica-venti,7,6,4,5,5,6,,,0
+Aphanes arvensis,7,6,4,5,4,5,,,0
+Aphanes australis,7,7,3,4,4,4,,,0
+Apios americana,7,9,3,6,5,5,,,0
+Apium graveolens,9,6,2,8,7,8,,,4
+Aposeris foetida,4,4,4,5,7,5,,,0
+Aquilegia alpina,8,3,4,5,7,5,,,0
+Aquilegia einseleana,7,3,5,4,9,4,,,0
+Aquilegia vulgaris,6,5,5,4,8,3,,~,0
+Aquilegia vulgaris subsp. atrata,6,4,6,4,8,3,,~,0
+Aquilegia vulgaris subsp. nigricans,6,4,5,4,8,3,,,0
+Aquilegia vulgaris subsp. vulgaris,6,6,5,4,7,4,,,0
+Arabidopsis arenosa,7,6,5,3,6,2,,,0
+Arabidopsis arenosa subsp. arenosa,7,6,6,3,6,2,,,0
+Arabidopsis arenosa subsp. borbasii,7,6,5,3,6,2,,,0
+Arabidopsis halleri,7,4,4,6,5,5,,,0
+Arabidopsis lyrata subsp. petraea,7,5,6,3,8,2,,,0
+Arabidopsis thaliana,7,6,i,4,4,4,,,0
+Arabis alpina,7,i,5,6,9,3,,,0
+Arabis alpina subsp. alpina,7,3,5,6,9,3,,,0
+Arabis alpina subsp. caucasica,7,5,5,6,9,3,,,0
+Arabis arabiformis,8,2,5,5,9,2,,,0
+Arabis bellidifolia,8,2,6,5,8,3,,~,0
+Arabis caerulea,9,1,6,7,8,4,,,0
+Arabis ciliata,9,5,5,5,8,3,,,0
+Arabis hirsuta,7,5,4,3,8,4,,~,0
+Arabis hirsuta agg.,7,i,4,i,7,4,,~,0
+Arabis nemorensis,8,6,5,7,8,4,,~,0
+Arabis nova,6,5,5,4,7,4,,,0
+Arabis procurrens,5,8,7,3,7,3,,,0
+Arabis rosea,7,9,5,1,5,3,,,0
+Arabis sagittata,7,7,5,3,8,3,,,0
+Arabis soyeri subsp. subcoriacea,8,2,6,9,9,2,,=,0
+Arabis stellulata,8,2,4,3,9,2,,,0
+Arabis sudetica,7,3,4,6,7,6,,,0
+Arabis verna,6,8,4,3,5,3,,,0
+Arctium lappa,8,6,i,5,7,8,,,1
+Arctium minus,8,5,i,5,7,8,,,0
+Arctium nemorosum,5,6,4,7,7,8,,,0
+Arctium pubens,5,6,4,6,7,8,,,0
+Arctium tomentosum,8,5,6,5,8,9,,,1
+Arctostaphylos alpinus,7,2,6,5,7,2,,,0
+Arctostaphylos uva-ursi,6,3,6,3,3,2,,,0
+Aremonia agrimonoides,4,7,5,5,8,5,,,0
+Arenaria biflora,8,1,6,7,4,2,,,0
+Arenaria ciliata,8,1,6,5,7,3,,,0
+Arenaria grandiflora,9,3,6,2,9,2,,,0
+Arenaria leptoclados,9,7,6,3,7,3,,,0
+Arenaria marschlinsii,9,3,5,5,6,4,,,0
+Arenaria multicaulis,9,2,4,4,8,2,,,0
+Arenaria serpyllifolia,8,5,5,4,7,5,,,1
+Arenaria serpyllifolia agg.,8,i,i,4,7,i,,,1
+Argentina anserina,7,i,i,6,6,7,,~,3
+Aristolochia clematitis,6,7,4,5,8,7,,=,0
+Armeria alpina,9,2,5,4,i,2,,,0
+Armeria arenaria subsp. arenaria,8,8,2,3,4,2,,,0
+Armeria vulgaris subsp. elongata,7,6,5,3,6,2,,,0
+Armoracia rusticana,8,6,5,5,7,9,,,1
+Arnica chamissonis,8,3,5,6,3,7,,,0
+Arnica montana,8,4,5,5,3,2,,,0
+Arnoseris minima,8,6,3,4,3,3,,,0
+Arrhenatherum elatius,7,5,4,4,7,6,,,0
+Artemisia abrotanum,8,9,7,4,7,5,,,1
+Artemisia absinthium,8,6,i,4,7,7,,,1
+Artemisia alba,9,9,7,2,8,2,,,0
+Artemisia annua,9,7,7,4,7,6,,,1
+Artemisia austriaca,8,8,8,2,7,3,,,1
+Artemisia biennis,7,8,7,3,5,7,,,0
+Artemisia borealis,8,3,8,4,6,2,,,0
+Artemisia campestris,9,i,5,2,6,2,,,0
+Artemisia dracunculus,7,8,9,3,6,6,,,0
+Artemisia genipi,9,1,7,3,7,2,,,0
+Artemisia laciniata,9,8,8,4,7,3,,,7
+Artemisia mutellina,9,1,6,3,7,2,,,0
+Artemisia nitida,9,3,4,3,9,3,,,0
+Artemisia pancicii,9,8,8,2,8,3,,,0
+Artemisia pontica,9,7,8,3,8,4,,,3
+Artemisia repens,8,8,8,2,7,3,,,1
+Artemisia santonicum subsp. pannonica,9,7,8,5,8,7,,=,8
+Artemisia scoparia,9,6,8,4,7,3,,,1
+Artemisia tournefortiana,9,7,i,4,6,7,,,1
+Artemisia umbrosa,8,7,8,5,7,8,,,1
+Artemisia verlotiorum,8,6,5,5,7,8,,=,1
+Artemisia vulgaris,7,6,i,5,6,8,,~,1
+Arum cylindraceum,3,6,6,5,8,7,,,0
+Arum italicum,4,7,4,5,7,6,,,0
+Arum maculatum,3,6,3,6,7,8,,,0
+Aruncus dioicus,4,5,5,6,7,8,,,0
+Arundo donax,8,9,5,7,5,7,,,2
+Asarina procumbens,7,8,7,1,3,5,,,0
+Asarum europaeum,3,5,5,5,7,6,,,0
+Asarum europaeum subsp. caucasicum,3,5,6,5,8,6,,,0
+Asarum europaeum subsp. europaeum,2,5,5,5,7,6,,,0
+Asclepias syriaca,8,8,6,5,6,7,,,1
+Asparagus officinalis,7,8,6,4,7,5,,~,1
+Asparagus tenuifolius,6,8,5,3,8,4,,,0
+Asperugo procumbens,7,6,6,4,8,8,,,1
+Asperula aristata subsp. oreophila,9,8,8,1,9,2,,,0
+Asperula arvensis,8,7,5,4,9,4,,~,0
+Asperula cynanchica,7,6,5,2,7,3,,,0
+Asperula neilreichii,8,4,5,2,9,2,,,0
+Asperula purpurea,9,7,6,1,9,2,,,0
+Asperula taurina subsp. taurina,4,7,3,5,8,5,,,0
+Asperula tinctoria,6,6,6,4,8,3,,~,0
+Asphodelus fistulosus,9,8,5,3,5,2,,,0
+Asplenium adiantum-nigrum,6,6,5,4,i,3,,,0
+Asplenium adiantum-nigrum subsp. adiantum-nigrum,6,7,4,4,2,3,,,0
+Asplenium adiantum-nigrum subsp. cuneifolium,6,5,5,3,6,2,,,0
+Asplenium adulterinum,6,4,6,4,6,2,,,0
+Asplenium ceterach,7,7,3,2,8,2,,,0
+Asplenium fissum,8,4,5,3,9,2,,,0
+Asplenium fontanum,5,6,2,5,9,2,,,0
+Asplenium lepidum,8,6,4,1,9,1,,,0
+Asplenium ruta-muraria,7,i,i,2,8,2,,,0
+Asplenium ruta-muraria subsp. dolomiticum,7,6,5,2,9,1,,,0
+Asplenium ruta-muraria subsp. ruta-muraria,7,5,6,2,8,2,,,0
+Asplenium scolopendrium,3,5,3,6,8,5,,,0
+Asplenium seelosii,8,4,4,1,9,1,,,0
+Asplenium septentrionale,8,i,5,2,2,2,,,0
+Asplenium trichomanes,i,i,i,4,i,3,,,0
+Asplenium trichomanes subsp. hastatum,5,6,4,3,9,2,,,0
+Asplenium trichomanes subsp. inexpectans,5,6,4,3,9,2,,,0
+Asplenium trichomanes subsp. pachyrachis,5,6,4,3,9,2,,,0
+Asplenium trichomanes subsp. quadrivalens,i,i,4,4,7,3,,,0
+Asplenium trichomanes subsp. trichomanes,5,5,3,4,2,2,,,0
+Asplenium viride,4,4,4,5,8,3,,,0
+Asplenium x alternifolium,7,4,4,3,3,2,,,0
+Aster alpinus,9,2,7,4,7,3,,,0
+Aster amellus,8,6,7,3,8,3,,,0
+Astilbe japonica,6,8,3,5,5,6,,,0
+Astragalus alpinus,9,2,6,4,7,3,,,0
+Astragalus asper,9,8,8,3,8,2,,,1
+Astragalus australis,9,2,6,5,7,2,,,0
+Astragalus austriacus,8,8,7,3,8,2,,,0
+Astragalus cicer,7,6,5,4,7,4,,~,0
+Astragalus danicus,8,7,8,3,8,3,,~,1
+Astragalus depressus,8,3,7,2,7,3,,,0
+Astragalus exscapus,9,7,8,2,8,2,,,0
+Astragalus frigidus subsp. frigidus,8,2,7,4,8,2,,,0
+Astragalus glycyphyllos,6,6,5,4,7,4,,,0
+Astragalus hypoglottis subsp. gremlii,8,4,8,2,8,3,,,0
+Astragalus leontinus,6,3,8,2,7,2,,,0
+Astragalus norvegicus,7,2,7,5,7,3,,,0
+Astragalus onobrychis,8,7,7,2,9,2,,,0
+Astragalus penduliflorus,7,3,7,4,7,2,,,0
+Astragalus sulcatus,8,7,7,3,7,2,,,1
+Astragalus vesicarius subsp. vesicarius,9,8,8,1,9,1,,,0
+Astrantia bavarica,7,3,5,4,8,3,,,0
+Astrantia carniolica,6,4,5,5,7,5,,,0
+Astrantia major,6,4,5,6,8,5,,,0
+Athamanta cretensis,9,3,4,3,9,2,,,0
+Athyrium distentifolium,6,3,5,6,4,4,,~,0
+Athyrium filix-femina,3,i,4,7,i,5,,,0
+Atocion armeria,7,7,5,4,5,2,,,0
+Atocion rupestre,8,3,4,3,3,2,,,0
+Atriplex hortensis,7,6,6,5,7,8,,,1
+Atriplex intracontinentalis,9,6,8,5,7,9,,=,6
+Atriplex micrantha,9,7,7,5,7,7,,,1
+Atriplex oblongifolia,9,7,7,4,7,6,,,1
+Atriplex patula,6,6,i,5,7,6,,,1
+Atriplex prostrata,8,7,i,6,7,8,,,3
+Atriplex rosea,9,8,7,4,7,7,,,2
+Atriplex sagittata,8,7,8,5,7,7,,,1
+Atriplex tatarica,9,8,8,3,7,7,,,2
+Atropa bella-donna,6,5,5,5,8,8,,,0
+Aubrieta columnae,7,6,4,2,7,2,,,0
+Aubrieta deltoidea,7,7,5,3,7,3,,,0
+Aucuba japonica,5,9,3,5,6,7,,,0
+Aurinia petraea,9,6,5,2,9,3,,,0
+Aurinia saxatilis,9,7,7,2,6,1,,,0
+Avena barbata,8,8,6,3,5,5,,,2
+Avena fatua,8,6,8,5,7,i,,,0
+Avena nuda,7,7,5,5,5,5,,,0
+Avena sativa,8,6,i,5,6,7,,,0
+Avena sterilis,8,9,7,2,4,5,,,0
+Avena sterilis subsp. ludoviciana,8,9,7,2,5,5,,,0
+Avena sterilis subsp. sterilis,8,9,7,2,3,5,,,0
+Avena strigosa,7,6,i,5,5,5,,,0
+Avenella flexuosa,4,i,4,i,2,3,,,0
+Avenula pubescens,7,5,i,4,i,5,,,1
+Avenula pubescens var. alpina,7,3,5,4,i,4,,,0
+Avenula pubescens var. pubescens,7,5,i,4,i,5,,,1
+Azolla filiculoides,7,8,i,11,6,8,,,0
+Azolla mexicana,7,9,4,11,7,5,,,0
+Ballota nigra,7,6,i,5,7,8,,,1
+Ballota nigra subsp. meridionalis,7,6,5,5,7,8,,,1
+Ballota nigra subsp. nigra,7,6,6,5,7,8,,,1
+Barbarea intermedia,8,6,3,6,7,7,,,0
+Barbarea stricta,8,6,6,7,7,8,,=,0
+Barbarea verna,8,7,2,5,6,6,,,0
+Barbarea vulgaris,8,5,i,6,6,6,,,0
+Barbarea vulgaris subsp. arcuata,8,6,i,6,6,6,,,0
+Barbarea vulgaris subsp. vulgaris,8,5,i,6,6,6,,,0
+Bartsia alpina,8,3,5,6,7,3,,~,0
+Bartsia trixago,8,8,6,2,6,3,,,1
+Bassia hysopifolia,9,7,9,2,6,8,,,3
+Bassia laniflora,9,8,7,2,7,2,,,0
+Bassia prostrata,9,8,9,2,8,2,,,0
+Bassia scoparia,8,7,8,4,6,5,,,1
+Beckmannia syzigachne,7,7,4,9,7,3,,,0
+Bellardiochloa variegata,8,3,5,4,5,3,,,0
+Bellidiastrum michelii,7,3,5,6,8,4,,,0
+Bellis perennis,8,5,4,5,5,6,,,1
+Berberis aquifolium,4,6,3,4,6,5,,,0
+Berberis julianae,5,7,3,5,5,5,,,0
+Berberis thunbergii,5,7,3,5,5,5,,,0
+Berberis vulgaris,7,6,5,4,8,3,,,0
+Bergenia crassifolia,5,6,3,5,5,5,,,0
+Berteroa incana,9,6,7,3,7,4,,,0
+Berteroa mutabilis,8,8,4,3,4,5,,,0
+Berula erecta,7,6,i,10,8,6,,,1
+Beta trigyna,9,9,6,4,5,4,,,0
+Beta vulgaris,9,7,4,6,7,8,,,5
+Betonica alopecuros,7,3,5,4,8,3,,,0
+Betonica hirsuta,7,3,8,3,8,3,,,0
+Betonica officinalis,7,6,5,4,6,3,,~,1
+Betula humilis,7,5,7,9,4,2,,,0
+Betula nana,8,3,7,9,1,1,,,0
+Betula pendula,8,i,i,i,i,i,,,1
+Betula pubescens,8,i,i,i,3,3,,,0
+Betula pubescens subsp. carpatica,8,4,6,6,4,3,,,0
+Betula pubescens subsp. pubescens,8,i,i,8,3,3,,,0
+Bidens bipinnata,7,7,5,8,6,8,,=,0
+Bidens cernua,8,6,5,9,7,8,,=,1
+Bidens connata,8,7,5,9,7,8,,=,1
+Bidens ferulifolia,7,9,3,6,5,5,,,0
+Bidens frondosa,7,6,6,8,7,8,,=,1
+Bidens pilosa,8,8,5,8,6,8,,,1
+Bidens radiata,8,6,6,9,5,8,,=,1
+Bidens tripartita subsp. tripartita,8,6,7,8,6,8,,=,1
+Bifora radians,7,7,4,4,8,6,,,0
+Biscutella laevigata,8,i,i,2,7,2,,,0
+Biscutella laevigata subsp. austriaca,8,5,5,2,8,2,,,0
+Biscutella laevigata subsp. kerneri,8,6,6,2,7,2,,,0
+Biscutella laevigata subsp. laevigata,8,3,5,3,8,3,,,0
+Bistorta amplexicaulis,6,7,3,6,6,7,,,0
+Bistorta officinalis,7,4,7,7,5,5,,,0
+Bistorta vivipara,7,2,i,5,4,3,,~,0
+Blackstonia perfoliata,8,8,i,6,i,3,,~,1
+Blackstonia perfoliata subsp. perfoliata,8,7,4,6,9,4,,~,1
+Blackstonia perfoliata subsp. serotina,8,9,6,7,6,3,,~,2
+Blitum bonus-henricus,8,5,4,5,7,9,,,1
+Blitum capitatum,7,5,5,5,5,8,,,0
+Blitum virgatum,8,5,7,4,7,8,,,1
+Blysmus compressus,8,5,5,8,7,3,,,2
+Bolboschoenus laticarpus,8,6,7,10,8,6,,~,1
+Bolboschoenus maritimus,8,6,7,10,8,7,,~,5
+Bolboschoenus maritimus agg.,8,6,7,10,8,6,,~,3
+Bolboschoenus planiculmis,8,6,6,10,7,6,,,2
+Bolboschoenus yagara,8,6,6,10,7,6,,~,2
+Bombycilaena erecta,9,9,i,2,9,1,,,0
+Borago officinalis,8,6,5,4,5,7,,,0
+Botriochloa ischoemum,9,7,6,3,8,3,,,1
+Botrychium lanceolatum,8,3,5,4,3,3,,,0
+Botrychium lunaria,7,i,i,i,i,2,,,0
+Botrychium matricariifolium,6,4,4,5,3,2,,,0
+Botrychium multifidum,6,4,6,6,4,2,,,0
+Botrychium simplex,9,3,5,6,2,2,,,0
+Botrychium virginianum,6,4,5,6,8,5,,,0
+Brachypodium distachyon,9,9,3,1,4,3,,,0
+Brachypodium pinnatum,7,5,6,4,6,4,,~,0
+Brachypodium rupestre,6,5,5,4,7,3,,~,0
+Brachypodium rupestre subsp. caespitosum,6,5,5,3,7,3,,~,0
+Brachypodium rupestre subsp. rupestre,6,6,5,4,7,3,,~,0
+Brachypodium sylvaticum subsp. sylvaticum,4,5,4,5,6,6,,,0
+Brassica elongata,9,7,7,4,8,5,,,1
+Brassica juncea,8,7,6,4,6,6,,~,0
+Brassica napus,7,6,4,5,6,7,,,1
+Brassica nigra,8,7,5,5,8,7,,,1
+Brassica oleracea,8,7,2,5,i,8,,,3
+Brassica rapa,8,6,3,5,5,7,,,1
+Braya alpina,9,1,4,4,7,1,,,0
+Briza maxima,8,9,5,2,4,2,,,0
+Briza media,8,i,4,i,i,3,,,0
+Briza minor,8,9,5,3,4,3,,,0
+Bromus arvensis,7,6,i,4,8,6,,,0
+Bromus arvensis subsp. arvensis,7,6,i,4,8,6,,,0
+Bromus arvensis subsp. segetalis,6,6,i,4,8,6,,,0
+Bromus benekenii,5,5,5,5,8,5,,,0
+Bromus carinatus,7,7,i,5,5,7,,,0
+Bromus catharticus,7,8,3,3,7,7,,,0
+Bromus commutatus,7,6,4,5,7,5,,~,1
+Bromus condensatus,8,8,6,2,7,3,,,0
+Bromus diandrus,8,9,5,3,5,5,,,1
+Bromus erectus,8,5,4,3,7,3,,~,0
+Bromus erectus agg.,7,i,5,i,7,3,,~,0
+Bromus hordeaceus,8,i,i,i,i,6,,~,1
+Bromus hordeaceus subsp. hordeaceus,8,6,i,5,i,6,,~,1
+Bromus hordeaceus subsp. lepidus,8,7,3,2,7,5,,,0
+Bromus hordeaceus subsp. pseudothominei,7,7,3,3,5,7,,,0
+Bromus hordeaceus subsp. thominei,8,7,4,4,7,4,,~,1
+Bromus inermis,8,6,7,5,7,5,,~,1
+Bromus inermis subsp. inermis,8,6,7,4,7,5,,~,1
+Bromus inermis subsp. pumpellianus,7,6,8,6,7,6,,,0
+Bromus japonicus,8,7,7,4,7,5,,,0
+Bromus japonicus subsp. japonicus,8,7,7,4,7,5,,,0
+Bromus japonicus subsp. subsquarrosus,8,7,7,4,7,5,,,1
+Bromus lanceolatus,7,9,7,3,5,5,,,0
+Bromus madritensis,8,8,6,2,i,3,,,2
+Bromus pannonicus,8,7,6,3,8,3,,,0
+Bromus racemosus,7,6,4,6,7,5,,~,1
+Bromus racemosus agg.,7,6,4,i,7,5,,~,1
+Bromus ramosus,5,6,3,5,7,6,,,0
+Bromus rigidus,8,8,6,2,8,5,,,2
+Bromus riparius,7,5,9,3,5,5,,,0
+Bromus secalinus,7,6,i,5,5,5,,~,0
+Bromus secalinus subsp. decipiens,7,6,7,5,5,5,,~,1
+Bromus secalinus subsp. secalinus,8,6,7,4,5,5,,,0
+Bromus secalinus subsp. velutinus,8,8,6,3,7,5,,,0
+Bromus secalinus subsp. velutinus,8,8,6,4,5,5,,~,0
+Bromus sitchensis,7,7,3,3,7,7,,,0
+Bromus squarrosus,9,8,7,3,7,4,,,0
+Bromus sterilis,6,6,5,4,6,7,,,0
+Bromus tectorum,8,6,7,3,8,6,,,1
+Broussonetia papyrifera,7,9,5,5,5,5,,,0
+Brunnera macrophylla,3,7,3,5,5,5,,,0
+Bryonia alba,7,7,7,4,7,7,,,0
+Bryonia dioica,7,7,5,5,7,7,,,0
+Buddleja davidii,8,7,i,4,7,4,,,0
+Buglossoides arvensis,7,6,5,4,7,5,,,0
+Buglossoides incrassata subsp. splitgerberi,7,6,5,3,7,5,,,0
+Bunias erucago,8,8,5,4,8,5,,,0
+Bunias orientalis,7,6,6,5,7,6,,,1
+Bunium bulbocastanum,7,8,2,4,9,4,,,0
+Buphthalmum salicifolium,8,i,4,4,8,3,,,0
+Bupleurum affine,8,7,7,2,8,3,,,0
+Bupleurum baldense,9,8,5,2,7,2,,,0
+Bupleurum falcatum subsp. falcatum,6,6,6,3,7,3,,,0
+Bupleurum fontanesii,9,9,4,3,7,3,,,0
+Bupleurum gerardii,7,7,5,2,7,3,,,0
+Bupleurum lancifolium,7,5,6,4,9,5,,,0
+Bupleurum longifolium,6,i,6,4,8,5,,,0
+Bupleurum longifolium subsp. longifolium,6,5,6,4,8,5,,,0
+Bupleurum longifolium subsp. vapincense,7,4,4,4,9,5,,,0
+Bupleurum pachnospermum,7,7,7,3,8,4,,,0
+Bupleurum petraeum,9,4,5,3,9,2,,,0
+Bupleurum praealtum,7,8,7,4,8,3,,,0
+Bupleurum ranunculoides subsp. ranunculoides,9,2,3,5,9,3,,,0
+Bupleurum rotundifolium,8,7,5,4,9,4,,,0
+Bupleurum stellatum,8,3,6,3,3,3,,,0
+Bupleurum tenuissimum,9,8,6,6,8,4,,~,6
+Butomus umbellatus,7,6,5,10,7,7,,,1
+Buxus sempervirens,4,8,2,4,8,4,,,0
+Cabomba caroliniana,7,9,5,12,5,6,,,0
+Calamagrostis arundinacea,6,5,4,5,4,5,,,0
+Calamagrostis canescens,6,6,5,9,6,5,,=,0
+Calamagrostis epigejos,7,5,7,5,i,6,,~,1
+Calamagrostis pseudophragmites,8,5,7,7,8,3,,=,0
+Calamagrostis purpurea,7,4,5,8,5,3,,=,0
+Calamagrostis stricta,8,5,7,9,6,2,,~,0
+Calamagrostis varia,7,4,5,5,8,3,,~,0
+Calamagrostis villosa,6,3,5,6,2,2,,~,0
+Caldesia parnassiifolia,7,7,6,10,8,7,,,1
+Calendula arvensis,8,8,i,4,8,6,,,1
+Calendula officinalis,8,7,5,5,6,6,,,0
+Calepina irregularis,8,8,6,3,8,5,,,1
+Calla palustris,6,6,7,10,6,4,,~,0
+Callianthemum anemonoides,5,4,5,5,9,3,,,0
+Callianthemum coriandrifolium,8,2,4,5,7,4,,,0
+Callistephus chinensis,7,8,2,5,5,5,,,0
+Callitriche cophocarpa,8,5,6,10,5,5,,~,0
+Callitriche hamulata,8,4,4,10,3,5,,~,1
+Callitriche obtusangula,8,6,2,11,7,6,,,2
+Callitriche palustris,6,5,i,10,5,5,,~,0
+Callitriche palustris agg.,i,i,i,10,i,i,,~,1
+Callitriche platycarpa,7,6,3,10,5,6,,~,0
+Callitriche stagnalis,6,5,4,10,4,4,,~,1
+Calluna vulgaris,8,i,i,i,2,1,,~,0
+Caltha palustris,6,i,4,9,6,6,,=,0
+Calystegia pulchra,7,6,3,5,7,7,,,0
+Calystegia sepium,7,6,5,7,7,8,,,0
+Calystegia silvatica,7,8,5,7,7,7,,,0
+Calystegia soldanella,9,7,3,4,6,4,,,0
+Camelina alyssum,7,6,7,5,6,4,,,0
+Camelina alyssum subsp. alyssum,7,7,7,5,6,4,,,0
+Camelina alyssum subsp. integerrima,7,6,7,5,6,4,,,0
+Camelina microcarpa,7,6,7,4,8,4,,,0
+Camelina microcarpa subsp. microcarpa,7,6,7,3,8,5,,,0
+Camelina microcarpa subsp. sylvestris,7,6,7,4,7,5,,,0
+Camelina rumelica,7,6,8,4,8,4,,,0
+Camelina sativa,7,7,7,4,7,5,,,0
+Camelina sativa var. sativa,7,7,7,4,7,5,,,0
+Camelina sativa var. zingeri,7,7,6,4,7,5,,,0
+Campanula alliariifolia,7,8,3,4,7,5,,,0
+Campanula alpina,7,2,4,4,i,2,,,0
+Campanula barbata,7,2,6,5,2,2,,,0
+Campanula barbata var. barbata,7,2,6,5,2,2,,,0
+Campanula barbata var. strictopedunculata,7,2,7,5,2,2,,,0
+Campanula beckiana,6,6,5,4,7,4,,,0
+Campanula bononiensis,7,7,8,3,8,3,,,0
+Campanula carnica subsp. carnica,6,4,4,4,9,2,,,0
+Campanula carpatica,7,7,7,2,7,3,,,0
+Campanula cenisia,8,1,6,5,8,3,,,0
+Campanula cervicaria,7,6,6,5,7,4,,~,0
+Campanula cespitosa,8,4,5,3,9,3,,~,0
+Campanula cochleariifolia,7,3,4,4,7,3,,~,0
+Campanula garganica,7,8,5,2,7,2,,,0
+Campanula gentilis,8,6,5,1,9,1,,,0
+Campanula glomerata,7,6,7,4,7,3,,~,0
+Campanula latifolia,4,5,5,6,8,7,,,0
+Campanula medium,7,7,5,5,6,4,,,0
+Campanula moravica,7,6,6,3,7,3,,,0
+Campanula patula,7,6,i,5,6,5,,,0
+Campanula patula subsp. costae,7,7,7,4,6,5,,,0
+Campanula patula subsp. jahorinae,7,6,7,4,6,5,,,0
+Campanula patula subsp. patula,7,6,5,6,6,5,,,0
+Campanula persicifolia,5,6,5,4,i,3,,,0
+Campanula portenschlagiana,7,7,5,3,7,3,,,0
+Campanula poscharskyana,7,7,7,3,7,3,,,0
+Campanula praesignis,7,4,6,2,9,2,,,0
+Campanula pulla,8,2,5,6,7,3,,,0
+Campanula pyramidalis,7,8,7,3,7,5,,,0
+Campanula rapunculoides,6,6,5,4,7,5,,,0
+Campanula rapunculus,8,7,7,3,6,4,,,0
+Campanula rhomboidalis,6,3,4,5,5,7,,,0
+Campanula rotundifolia,7,5,i,3,i,2,,,0
+Campanula scheuchzeri,8,2,5,5,i,3,,,0
+Campanula sibirica,9,7,7,2,8,2,,,0
+Campanula spicata,7,6,8,2,6,3,,,0
+Campanula thyrsoides,8,4,4,4,7,3,,,0
+Campanula thyrsoides subsp. carniolica,8,4,4,4,7,2,,,0
+Campanula thyrsoides subsp. thyrsoides,8,3,4,4,7,3,,,0
+Campanula trachelium,4,5,4,6,7,6,,,0
+Campanula witasekiana,7,3,5,4,i,3,,,0
+Campanula zoysii,7,2,5,3,9,2,,,0
+Camphorosma annua,9,7,8,2,8,1,,~,9
+Cannabis sativa,8,7,8,6,6,7,,,1
+Capsella bursa-pastoris,7,5,i,5,6,i,,,0
+Capsella rubella,8,9,5,3,6,4,,,0
+Capsicum annuum,7,8,3,4,5,7,,,0
+Caragana arborescens,7,5,7,4,5,5,,,0
+Cardamine alpina,9,1,4,7,4,4,,,0
+Cardamine amara,6,i,5,9,6,4,,=,0
+Cardamine amara subsp. amara,5,6,5,9,6,5,,=,0
+Cardamine amara subsp. austriaca,5,4,5,9,6,5,,=,0
+Cardamine bulbifera,4,5,5,5,7,6,,,0
+Cardamine dentata,6,6,6,9,7,4,,=,0
+Cardamine enneaphyllos,4,4,5,6,7,7,,~,0
+Cardamine flexuosa,5,5,4,7,5,6,,,0
+Cardamine glanduligera,4,4,6,6,6,7,,,0
+Cardamine hirsuta,7,6,4,5,5,6,,,0
+Cardamine impatiens,5,i,5,6,7,7,,,0
+Cardamine kitaibelii,3,5,5,6,7,7,,,0
+Cardamine majovskii,7,6,6,8,6,5,,~,0
+Cardamine matthioli,7,6,5,8,6,5,,~,0
+Cardamine occulta,6,6,4,6,6,7,,,1
+Cardamine parviflora,8,7,6,7,7,6,,=,1
+Cardamine pentaphyllos,3,5,4,5,7,6,,,0
+Cardamine pratensis,7,i,i,6,6,6,,,1
+Cardamine pratensis agg.,7,i,i,7,7,6,,=,1
+Cardamine resedifolia,8,2,4,6,3,3,,,0
+Cardamine rivularis,8,3,5,9,5,1,,~,0
+Cardamine trifolia,3,4,5,6,7,6,,,0
+Cardamine udicola,7,6,5,8,6,5,,~,0
+Cardamine waldsteinii,4,6,5,6,6,6,,,0
+Carduus acanthoides,9,6,6,3,7,7,,,0
+Carduus carduelis,6,4,4,5,7,5,,,0
+Carduus crispus,6,6,i,6,7,8,,,1
+Carduus defloratus,7,4,5,3,8,4,,,0
+Carduus defloratus subsp. glaucus,6,5,6,3,9,4,,,0
+Carduus defloratus subsp. summanus,7,3,5,3,9,4,,,0
+Carduus defloratus subsp. tridentinus,7,4,6,3,5,4,,,0
+Carduus defloratus subsp. viridis,7,4,5,4,7,4,,~,0
+Carduus hamulosus,9,8,7,3,8,2,,,0
+Carduus nutans,8,7,i,3,7,7,,,0
+Carduus nutans subsp. macrolepis,7,8,i,2,6,7,,,0
+Carduus nutans subsp. nutans,8,7,i,3,7,7,,,0
+Carduus nutans subsp. platylepis,7,7,6,3,7,7,,,0
+Carduus personata subsp. personata,7,4,4,7,8,7,,,0
+Carex acuta,7,5,i,9,6,6,,=,1
+Carex acutiformis,7,5,i,9,7,6,,~,1
+Carex alba,5,5,6,4,8,3,,~,0
+Carex appropinquata,8,5,5,9,7,4,,=,0
+Carex atrata,9,2,6,6,7,3,,~,0
+Carex atrata subsp. aterrima,9,2,6,6,7,4,,~,0
+Carex atrata subsp. atrata,9,2,6,6,7,2,,~,0
+Carex atrofusca,9,2,5,8,8,2,,,0
+Carex baldensis,8,3,5,4,8,3,,,0
+Carex bebbii,7,6,4,7,4,4,,,0
+Carex bicolor,9,2,7,9,7,1,,=,0
+Carex bigelowii subsp. rigida,9,2,i,6,2,2,,~,0
+Carex bohemica,8,5,6,8,5,5,,=,0
+Carex brachystachys,5,3,4,7,9,2,,,0
+Carex brizoides,5,5,5,6,4,3,,~,0
+Carex brunnescens,7,2,6,8,3,2,,~,0
+Carex brunnescens var. brunnescens,8,2,6,8,3,2,,~,0
+Carex brunnescens var. laetior,6,3,6,7,3,3,,~,0
+Carex buekii,8,6,8,9,7,6,,=,0
+Carex buxbaumii,7,6,7,8,7,3,,~,1
+Carex canescens,7,4,i,9,3,2,,,0
+Carex capillaris,8,1,6,7,8,2,,~,0
+Carex capitata,9,4,7,8,7,1,,~,0
+Carex caryophyllea,8,i,i,4,i,3,,,0
+Carex cespitosa,6,6,7,9,6,4,,~,0
+Carex chordorrhiza,9,5,6,9,3,2,,=,0
+Carex cristatella,7,7,3,8,5,4,,=,0
+Carex curvata,6,7,7,5,5,4,,~,1
+Carex curvula,9,1,5,4,i,2,,,0
+Carex curvula subsp. curvula,9,1,5,4,3,2,,,0
+Carex curvula subsp. rosae,9,1,5,4,7,2,,,0
+Carex davalliana,9,i,5,9,8,2,,,0
+Carex demissa,8,5,4,9,4,2,,,0
+Carex depressa subsp. transsilvanica,7,6,7,5,5,3,,,0
+Carex diandra,8,6,6,9,5,3,,~,0
+Carex digitata,3,5,5,5,6,4,,,0
+Carex dioica,9,4,i,9,5,2,,,0
+Carex distans,9,7,i,7,7,4,,~,5
+Carex disticha subsp. disticha,8,6,i,9,7,5,,~,2
+Carex divisa,8,7,6,8,7,3,,,2
+Carex divulsa,6,7,3,5,6,6,,,0
+Carex echinata,7,5,i,8,3,2,,~,0
+Carex elata,7,6,4,10,6,5,,~,1
+Carex elongata,4,6,5,9,6,6,,~,0
+Carex ericetorum,8,i,6,4,5,2,,,0
+Carex ferruginea,8,3,5,6,8,5,,~,0
+Carex firma,9,2,5,i,9,1,,~,0
+Carex flacca subsp. flacca,7,i,i,i,7,3,,~,1
+Carex flava,8,5,i,9,7,3,,,0
+Carex flava var. alpina,8,3,i,9,7,2,,,0
+Carex flava var. flava,8,5,i,9,7,3,,,0
+Carex foetida,9,2,6,6,4,5,,,0
+Carex frigida,8,2,3,8,7,3,,,0
+Carex fritschii,6,7,6,4,4,4,,~,0
+Carex fuliginosa,9,2,5,7,3,2,,,0
+Carex grayi,7,8,5,8,6,5,,=,0
+Carex halleriana,6,8,5,2,9,3,,,0
+Carex hartmaniorum,7,6,7,8,i,3,,~,0
+Carex heleonastes,7,5,7,9,4,2,,=,0
+Carex hirta,7,6,i,6,i,5,,~,1
+Carex hordeistichos,8,7,8,7,7,5,,~,3
+Carex hostiana,8,5,4,9,7,2,,~,0
+Carex humilis,i,i,6,2,b,2,,,0
+Carex lachenalii,9,2,4,7,3,2,,,0
+Carex lasiocarpa,9,4,6,9,4,2,,=,0
+Carex lepidocarpa,8,5,i,9,8,2,,,0
+Carex leporina,7,5,i,7,3,4,,~,0
+Carex limosa,9,4,i,10,2,2,,~,0
+Carex liparocarpos,8,8,7,2,8,2,,,0
+Carex maritima,9,1,7,9,7,2,,=,0
+Carex melanostachya,7,7,7,8,7,5,,~,2
+Carex michelii,6,6,6,3,7,4,,,0
+Carex microglochin,9,3,7,9,6,1,,,0
+Carex montana,5,i,5,4,7,4,,~,0
+Carex mucronata,9,3,6,3,9,1,,,0
+Carex muricata,5,6,6,5,6,5,,,0
+Carex muskingumensis,7,7,4,8,5,5,,=,0
+Carex myosuroides,9,1,7,3,6,1,,,0
+Carex nigra,8,5,i,8,3,3,,~,1
+Carex norvegica,9,2,5,8,4,2,,~,0
+Carex oederi,8,5,3,9,7,2,,~,3
+Carex ornithopoda,7,i,5,3,9,3,,,0
+Carex ornithopodoides,9,1,5,4,8,3,,,0
+Carex otomana,5,6,5,5,6,6,,,0
+Carex otrubae,8,6,i,8,7,6,,=,3
+Carex pairei,5,5,3,5,5,5,,,0
+Carex pallescens,7,5,i,6,4,4,,~,1
+Carex panicea,8,i,i,8,i,3,,~,1
+Carex paniculata,7,5,4,9,7,5,,,1
+Carex parviflora,9,1,5,7,7,3,,,0
+Carex pauciflora,9,3,5,9,1,1,,,0
+Carex paupercula,8,3,6,9,3,2,,=,0
+Carex pendula,5,5,i,8,6,6,,~,0
+Carex pendula subsp. agastachys,5,5,4,8,6,6,,~,0
+Carex pendula subsp. pendula,5,5,3,8,6,6,,~,0
+Carex pilosa,3,6,6,5,5,5,,~,0
+Carex pilulifera,6,i,4,5,3,3,,~,0
+Carex polyphylla,6,7,4,5,6,6,,,0
+Carex praecox,8,7,6,4,i,3,,~,1
+Carex pseudocyperus,7,6,i,9,6,6,,=,1
+Carex pulicaris,8,4,3,8,i,2,,,0
+Carex punctata,8,6,4,8,6,3,,~,1
+Carex randalpina,7,6,5,9,7,5,,=,1
+Carex remota,4,5,i,8,6,6,,~,0
+Carex repens,8,6,6,4,6,4,,,1
+Carex rhizina,5,6,7,5,6,4,,,0
+Carex riparia,7,6,i,9,7,7,,=,1
+Carex rostrata,8,i,i,10,4,3,,,0
+Carex rupestris,9,2,7,4,7,1,,,0
+Carex scandinavica,7,6,3,7,7,5,,~,1
+Carex scoparia,7,6,5,8,4,6,,=,0
+Carex secalina,8,7,8,7,7,6,,=,4
+Carex sempervirens,7,2,4,4,7,3,,,0
+Carex simpliciuscula,9,2,8,8,7,2,,=,0
+Carex spicata,7,5,i,5,5,6,,~,0
+Carex stenophylla,9,7,6,2,6,2,,,1
+Carex strigosa,3,6,2,7,6,6,,=,0
+Carex supina,9,7,8,2,7,2,,,0
+Carex sylvatica,3,5,i,6,6,5,,~,0
+Carex tomentosa,7,6,6,6,8,4,,~,1
+Carex umbrosa,6,5,5,6,5,4,,~,0
+Carex vaginata,8,3,7,7,4,2,,,0
+Carex vesicaria,7,i,i,9,6,5,,=,1
+Carex vulpina,8,6,6,8,5,5,,=,1
+Carex vulpinoidea,7,7,3,7,3,5,,,0
+Carlina acaulis,8,i,5,4,i,2,,,0
+Carlina acaulis subsp. acaulis,8,i,6,4,i,2,,,0
+Carlina acaulis subsp. caulescens,8,i,4,4,i,2,,,0
+Carlina biebersteinii,7,5,7,4,7,3,,,0
+Carlina biebersteinii subsp. biebersteinii,7,4,6,4,7,4,,,0
+Carlina biebersteinii subsp. brevibracteata,8,6,7,4,7,3,,,0
+Carlina vulgaris,8,5,4,4,7,3,,,0
+Carpesium cernuum,5,7,i,6,7,7,,,0
+Carpinus betulus,4,6,5,i,i,i,,,0
+Carpobrotus edulis,9,9,4,1,6,2,,,6
+Carthamus tinctorius,9,9,5,3,5,5,,,0
+Carum carvi,8,4,5,5,6,6,,,1
+Castanea sativa,5,7,5,5,4,4,,,0
+Catabrosa aquatica,8,5,i,9,7,7,,=,1
+Catalpa bignonioides,8,8,4,4,5,4,,,0
+Catapodium rigidum subsp. rigidum,9,7,3,2,7,4,,,2
+Caucalis platycarpos,8,7,5,3,8,5,,,0
+Celtis australis,7,9,3,3,6,4,,,0
+Celtis occidentalis,7,9,5,5,6,4,,,0
+Cenchrus purpurascens,7,9,3,2,i,3,,,0
+Cenchrus spinifex,9,8,6,1,8,2,,,0
+Centaurea apiculata subsp. spinulosa,8,7,3,2,8,3,,,0
+Centaurea calcitrapa,9,8,i,3,6,6,,,0
+Centaurea cyanus,8,6,i,5,i,6,,,0
+Centaurea dichroantha,9,6,5,4,6,5,,,0
+Centaurea diffusa,9,8,8,2,7,3,,,0
+Centaurea diluta,9,7,2,3,7,7,,,0
+Centaurea jacea,7,i,6,5,6,5,,~,1
+Centaurea jacea subsp. angustifolia,8,7,6,4,6,4,,~,1
+Centaurea jacea subsp. gaudinii,7,5,7,4,7,3,,,0
+Centaurea jacea subsp. jacea,7,5,4,5,6,4,,~,0
+Centaurea jacea subsp. macroptilon,7,5,5,4,6,5,,,0
+Centaurea jacea subsp. subjacea,7,5,6,5,6,5,,,0
+Centaurea jacea subsp. weldeniana,7,6,7,4,7,3,,,0
+Centaurea montana,6,4,4,4,7,5,,,0
+Centaurea nervosa,7,3,5,5,5,5,,,0
+Centaurea nigra,8,5,3,5,5,4,,,0
+Centaurea nigrescens,7,5,5,5,6,4,,~,0
+Centaurea nigrescens subsp. nigrescens,8,6,5,5,6,4,,~,0
+Centaurea nigrescens subsp. transalpina,7,5,5,4,6,4,,~,0
+Centaurea nigrescens subsp. vochinensis,7,5,6,6,6,5,,~,0
+Centaurea pseudophrygia,8,4,5,5,5,5,,,0
+Centaurea rupestris,8,7,5,3,9,2,,,0
+Centaurea scabiosa,7,i,i,4,8,4,,,0
+Centaurea scabiosa subsp. alpestris,8,3,5,4,8,3,,,0
+Centaurea scabiosa subsp. badensis,7,7,6,2,9,2,,,0
+Centaurea scabiosa subsp. fritschii,7,6,5,3,8,3,,,0
+Centaurea scabiosa subsp. sadleriana,8,8,6,2,8,2,,,0
+Centaurea scabiosa subsp. scabiosa,7,6,i,3,8,4,,,0
+Centaurea solstitialis,8,8,i,3,7,6,,,1
+Centaurea stenolepis,7,6,6,4,7,4,,,0
+Centaurea stoebe,8,7,i,2,7,3,,,0
+Centaurea stoebe subsp. australis,8,7,7,2,7,2,,,0
+Centaurea stoebe subsp. stoebe,8,7,6,2,7,4,,,0
+Centaurea triumfettii,7,7,6,3,7,3,,,0
+Centaurea triumfettii subsp. adscendens,7,7,5,3,7,3,,,0
+Centaurea triumfettii subsp. axillaris,7,7,6,3,7,3,,,0
+Centaurium erythraea,8,6,5,6,6,4,,~,0
+Centaurium littorale subsp. compressum,8,7,i,7,8,3,,=,5
+Centaurium pulchellum,8,6,7,6,8,3,,~,2
+Centranthus ruber,7,8,5,3,8,4,,,1
+Cephalanthera damasonium,3,6,5,4,7,4,,,0
+Cephalanthera longifolia,5,5,5,4,7,4,,,0
+Cephalanthera rubra,4,5,5,3,8,4,,,0
+Cephalaria alpina,7,4,6,5,7,5,,,0
+Cephalaria gigantea,7,6,5,4,8,6,,,0
+Cephalaria syriaca,8,8,6,4,6,3,,,0
+Cephalaria transsylvanica,8,8,6,4,6,3,,~,0
+Cerastium alpinum,9,1,6,4,4,2,,,0
+Cerastium alpinum agg.,9,1,6,4,i,2,,,0
+Cerastium arvense,8,i,6,3,i,3,,,0
+Cerastium arvense subsp. arvense,8,6,6,4,7,4,,,0
+Cerastium arvense subsp. molle,8,5,6,4,7,3,,,0
+Cerastium arvense subsp. strictum,9,3,6,3,6,2,,,0
+Cerastium arvense subsp. suffruticosum,8,4,6,3,5,3,,,0
+Cerastium brachypetalum,9,7,4,3,7,2,,,0
+Cerastium brachypetalum subsp. brachypetalum,9,7,4,3,7,2,,,0
+Cerastium brachypetalum subsp. tenoreanum,9,7,5,3,7,2,,,0
+Cerastium carinthiacum,8,2,5,4,8,3,,,0
+Cerastium carinthiacum var. austroalpinum,8,2,5,3,8,3,,,0
+Cerastium carinthiacum var. carinthiacum,8,2,5,4,9,3,,,0
+Cerastium dichotomum,8,7,4,3,8,6,,,0
+Cerastium eriophorum,9,1,5,4,7,2,,,0
+Cerastium fontanum,7,3,6,5,5,5,,,0
+Cerastium glomeratum,7,6,4,6,5,6,,,0
+Cerastium holosteoides,7,i,i,5,6,7,,,1
+Cerastium julicum,9,2,5,5,9,3,,,0
+Cerastium latifolium,9,1,6,5,9,3,,,0
+Cerastium lucorum,5,5,5,6,6,7,,,0
+Cerastium pedunculatum,9,1,6,4,2,2,,,0
+Cerastium pumilum,8,7,5,3,8,2,,,1
+Cerastium pumilum subsp. glutinosum,9,7,4,2,7,3,,,2
+Cerastium pumilum subsp. pumilum,8,7,4,2,8,2,,,1
+Cerastium pumilum subsp. subtetrandrum,9,7,5,4,7,3,,~,3
+Cerastium semidecandrum,9,7,i,3,6,2,,,1
+Cerastium sylvaticum,3,6,3,7,6,5,,,0
+Cerastium tomentosum,7,7,6,4,7,5,,,0
+Cerastium uniflorum,9,1,6,5,4,3,,,0
+Ceratocapnos claviculata,5,6,1,5,2,6,,,0
+Ceratocephala falcata,9,9,8,2,8,4,,,0
+Ceratocephala orthoceras,9,9,8,2,8,3,,,0
+Ceratophyllum demersum,6,7,i,12,8,8,,~,1
+Ceratophyllum submersum,5,8,6,12,8,7,,,2
+Ceratostigma plumbaginoides,9,8,3,4,5,5,,,0
+Cercis siliquastrum,7,9,3,4,7,3,,,0
+Cerinthe alpina subsp. alpina,7,3,5,6,8,7,,,0
+Cerinthe minor subsp. minor,8,6,7,4,8,4,,,0
+Cervaria rivini,7,6,5,3,7,3,,~,0
+Chaenomeles japonica,5,8,3,5,5,5,,,0
+Chaenorhinum origanifolium,8,7,6,3,8,2,,,0
+Chaerophyllum aromaticum,6,5,6,6,6,8,,,0
+Chaerophyllum aureum,6,5,4,5,7,8,,,0
+Chaerophyllum bulbosum,7,6,6,5,8,8,,~,0
+Chaerophyllum hirsutum,6,4,5,8,6,7,,,0
+Chaerophyllum temulum,5,6,i,5,6,8,,,0
+Chaerophyllum villarsii,7,3,4,5,5,5,,,0
+Chaiturus marrubiastrum,7,8,8,6,8,7,,,1
+Chamaecyparis lawsoniana,7,8,5,4,5,3,,,0
+Chamaemelum nobile,7,5,5,5,5,5,,,0
+Chamorchis alpina,9,2,3,4,9,2,,,0
+Chelidonium majus,6,6,i,5,7,8,,~,0
+Chenopodiastrum hybridum,8,6,7,5,7,8,,,1
+Chenopodiastrum murale,8,8,i,4,8,8,,,2
+Chenopodium album,8,5,i,5,6,7,,,1
+Chenopodium album subsp. album,8,5,i,5,6,7,,,1
+Chenopodium album subsp. borbasii,8,7,i,5,6,7,,,1
+Chenopodium album subsp. pedunculare,7,6,i,4,6,7,,,0
+Chenopodium berlandieri subsp. zschackei,8,9,6,5,5,7,,,1
+Chenopodium betaceum,9,7,7,4,6,7,,,1
+Chenopodium ficifolium,7,7,7,6,6,8,,,1
+Chenopodium giganteum,8,6,9,5,7,8,,,1
+Chenopodium hircinum,8,9,3,2,5,8,,,1
+Chenopodium opulifolium,8,7,6,5,7,7,,,1
+Chenopodium pratericola,9,8,5,3,5,7,,,0
+Chenopodium probstii,9,7,5,3,5,7,,,0
+Chenopodium striatiforme,9,7,6,4,7,7,,,1
+Chenopodium suecicum,8,6,6,6,6,7,,,0
+Chenopodium vulvaria,8,7,6,4,7,9,,,2
+Cherleria biflora,9,1,4,4,6,2,,,0
+Cherleria langii,9,3,7,3,9,2,,,0
+Cherleria laricifolia,8,3,6,3,4,2,,,0
+Cherleria sedoides,9,1,5,4,i,1,,,0
+Chimaphila umbellata,4,6,7,4,4,3,,,0
+Chlorocrepis staticifolia,9,4,6,3,8,2,,~,0
+Chondrilla chondrilloides,9,4,5,5,9,2,,=,0
+Chondrilla juncea,8,7,6,2,7,4,,,1
+Chorispora tenella,8,7,8,4,7,7,,,1
+Chrysopogon gryllus,9,8,7,3,7,2,,,0
+Chrysosplenium alternifolium,3,4,6,8,7,5,,=,0
+Chrysosplenium oppositifolium,5,5,2,9,5,5,,=,0
+Cichorium endivia,7,8,i,5,6,7,,,0
+Cichorium intybus,8,6,i,4,7,5,,,1
+Cicuta virosa,6,6,7,9,6,6,,=,0
+Circaea alpina,3,4,6,7,5,5,,,0
+Circaea canadensis subsp. quadrisulcata,4,5,5,6,7,7,,~,0
+Circaea lutetiana,4,5,i,6,7,7,,~,0
+Circaea x intermedia,4,5,5,7,7,6,,,0
+Cirsium acaule,8,5,5,3,7,3,,,0
+Cirsium arvense,8,i,i,i,6,7,,,1
+Cirsium brachycephalum,8,7,7,8,7,6,,=,4
+Cirsium canum,8,7,7,7,7,6,,~,1
+Cirsium carniolicum,6,4,5,6,8,7,,,0
+Cirsium eriophorum subsp. eriophorum,8,i,5,4,8,5,,,0
+Cirsium erisithales,6,4,6,6,8,5,,~,0
+Cirsium greimleri,6,4,4,7,6,5,,,0
+Cirsium heterophyllum,7,4,6,7,5,6,,,0
+Cirsium oleraceum,6,5,5,8,7,7,,,0
+Cirsium palustre,7,i,i,8,5,5,,~,0
+Cirsium pannonicum,7,6,6,4,7,3,,~,0
+Cirsium rivulare,8,5,5,8,7,5,,~,0
+Cirsium spinosissimum,7,2,5,6,7,7,,,0
+Cirsium tuberosum,7,6,4,6,8,3,,~,0
+Cirsium vulgare,8,5,i,5,6,7,,,1
+Cirsium waldsteinii,6,4,5,7,6,6,,,0
+Cistus monspeliensis,9,9,5,2,5,3,,,0
+Citrullus lanatus,7,9,3,4,5,7,,,0
+Cladanthus mixtus,9,9,3,2,3,1,,,0
+Cladium mariscus,9,6,i,9,9,4,,=,2
+Claytonia perfoliata,6,6,i,5,7,7,,,0
+Cleistogenes serotina,9,8,6,2,8,2,,,0
+Clematis alpina,4,3,7,5,6,3,,,0
+Clematis flammula,7,9,5,4,7,4,,,0
+Clematis integrifolia,8,7,6,7,7,5,,=,1
+Clematis recta,6,7,5,3,8,3,,~,0
+Clematis tangutica,7,7,9,4,5,5,,,0
+Clematis vitalba,7,6,4,5,7,6,,,0
+Clematis viticella,8,8,5,6,7,6,,,0
+Clinopodium foliosum,6,6,3,3,7,3,,,0
+Clinopodium grandiflorum,6,6,6,5,6,5,,,0
+Clinopodium menthifolium,7,7,5,4,6,4,,,0
+Clinopodium nepeta,7,7,i,3,7,4,,,0
+Clinopodium vulgare subsp. vulgare,7,i,i,4,7,4,,,0
+Cnicus benedictus,8,8,4,4,6,6,,,0
+Cochlearia danica,9,6,4,7,7,6,,=,4
+Cochlearia excelsa,9,2,6,8,5,4,,,0
+Cochlearia macrorrhiza,9,7,6,9,8,3,,=,0
+Cochlearia officinalis,8,6,i,7,6,5,,=,2
+Cochlearia pyrenaica,8,4,4,9,8,3,,=,0
+Coeloglossum viride,8,4,i,5,5,2,,,0
+Coincya monensis subsp. cheiranthos,9,8,2,4,4,4,,,0
+Colchicum autumnale,6,5,4,6,7,5,,~,0
+Colchicum bulbocodium,7,4,7,3,7,3,,,0
+Coleanthus subtilis,9,6,5,9,4,4,,=,0
+Coleostephus myconis,8,9,5,2,4,5,,,1
+Colutea arborescens subsp. arborescens,6,8,6,3,8,3,,,1
+Comarum palustre,8,4,i,9,3,2,,=,0
+Comastoma nanum,9,1,7,5,7,3,,,0
+Comastoma tenellum,9,1,7,5,7,4,,,0
+Commelina communis,7,7,3,7,6,5,,,0
+Conioselinum tataricum,7,4,7,6,8,7,,,0
+Conium maculatum,8,6,i,5,6,8,,~,1
+Conringia austriaca,8,8,7,4,8,3,,,0
+Conringia orientalis,8,7,7,3,9,4,,,0
+Convallaria majalis,4,i,i,4,b,4,,,0
+Convolvulus arvensis,7,6,i,4,7,6,,,1
+Convolvulus cantabrica,8,9,6,1,9,2,,,0
+Corallorhiza trifida,2,4,6,5,4,3,,,0
+Coreopsis lanceolata,7,8,5,4,5,5,,,0
+Coreopsis tinctoria,7,9,5,5,5,5,,,0
+Coriandrum sativum,8,8,6,4,5,4,,,0
+Corispermum nitidum,9,8,8,1,8,1,,,0
+Corispermum pallasii,9,7,6,2,7,4,,,1
+Cormus domestica,6,7,4,3,7,3,,,0
+Cornus alba,5,6,6,6,5,5,,,0
+Cornus mas,6,7,6,4,8,4,,,0
+Cornus sanguinea,6,5,i,5,7,5,,,0
+Cornus sanguinea subsp. australis,6,5,i,5,7,5,,,0
+Cornus sanguinea subsp. hungarica,6,6,7,6,7,5,,,0
+Cornus sanguinea subsp. sanguinea,6,5,i,5,7,5,,,0
+Cornus sericea,6,6,i,7,7,5,,,0
+Coronilla coronata,6,6,4,3,9,2,,,0
+Coronilla scorpioides,8,9,5,2,7,3,,,0
+Coronilla vaginalis,7,5,4,3,9,2,,,0
+Corydalis capnoides,6,5,5,4,7,6,,,0
+Corydalis cava,4,6,5,6,7,7,,~,0
+Corydalis intermedia,4,4,5,5,7,7,,,0
+Corydalis pumila,4,7,7,4,7,7,,~,0
+Corydalis solida,4,4,6,5,7,7,,,0
+Corylus avellana,6,6,i,5,7,5,,,0
+Corylus colurna,6,7,4,5,7,6,,,0
+Corynephorus canescens,8,6,4,2,3,2,,,0
+Cota austriaca,8,7,8,3,8,6,,,0
+Cota tinctoria,8,6,6,3,6,4,,,0
+Cotinus coggygria,6,8,4,3,8,3,, ,0
+Cotoneaster bullatus,5,8,5,4,7,3,,,0
+Cotoneaster dammeri,7,8,7,3,7,5,,,0
+Cotoneaster dielsianus,5,8,5,4,7,4,,,0
+Cotoneaster divaricatus,5,7,5,4,7,4,,,0
+Cotoneaster franchetii,5,5,5,6,5,5,,,0
+Cotoneaster horizontalis,7,6,5,4,6,4,,,0
+Cotoneaster integerrimus,8,i,6,2,7,3,,,0
+Cotoneaster laxiflorus,8,6,6,3,8,2,,,0
+Cotoneaster microphyllus,7,8,7,3,5,5,,,0
+Cotoneaster salicifolius,7,8,7,3,7,3,,,0
+Cotoneaster tomentosus,7,5,5,3,9,2,,,0
+Cotula coronopifolia,9,6,2,7,7,7,,,5
+Crambe hispanica,9,9,4,2,7,3,,,0
+Crambe maritima,9,6,8,6,7,8,,,4
+Crambe tataria,9,8,9,2,8,2,,,0
+Crassula aquatica,8,6,5,8,4,2,,~,0
+Crassula helmsii,8,6,3,10,6,7,,~,2
+Crataegus laevigata,5,6,5,5,7,5,,,0
+Crataegus monogyna,6,6,i,4,7,4,,~,0
+Crataegus rhipidophylla,6,7,6,4,7,4,,~,0
+Crataegus rhipidophylla subsp. lindmanii,5,7,5,5,6,4,,,0
+Crataegus rhipidophylla subsp. rhipidophylla,7,7,6,4,7,3,,~,0
+Crataegus x macrocarpa,6,5,5,5,6,4,,,0
+Crepis alpestris,7,3,5,4,8,2,,,0
+Crepis aurea,8,2,5,5,5,6,,,0
+Crepis biennis,8,5,4,6,6,7,,~,1
+Crepis blattarioides,7,3,4,6,7,6,,,0
+Crepis capillaris,8,6,4,4,6,4,,,0
+Crepis conyzifolia,8,3,5,5,4,4,,~,0
+Crepis foetida,9,7,i,3,7,4,,,0
+Crepis foetida subsp. foetida,9,7,3,3,7,3,,,0
+Crepis foetida subsp. rhoeadifolia,9,7,4,3,7,4,,,0
+Crepis froelichiana subsp. dinarica,8,6,7,3,9,2,,,0
+Crepis jacquinii,9,2,4,5,9,3,,,0
+Crepis jacquinii subsp. jacquinii,9,2,5,5,9,3,,,0
+Crepis jacquinii subsp. kerneri,9,2,4,5,9,3,,,0
+Crepis mollis,8,4,5,6,5,5,,~,0
+Crepis nicaeensis,8,6,4,4,7,5,,,1
+Crepis paludosa,6,5,5,8,6,6,,~,0
+Crepis pannonica,8,7,6,3,8,4,,,0
+Crepis pontana,8,2,4,5,7,5,,,0
+Crepis praemorsa,7,7,6,4,8,3,,~,0
+Crepis pulchra,7,7,4,4,8,6,,,0
+Crepis pygmaea,9,3,5,3,8,1,,,0
+Crepis rhaetica,9,1,6,4,8,3,,,0
+Crepis setosa,9,7,5,4,7,5,,,1
+Crepis tectorum,8,6,7,4,5,6,,,0
+Crepis terglouensis,9,1,6,5,9,2,,,0
+Crepis vesicaria subsp. taraxacifolia,8,6,4,4,8,5,,,0
+Crepis zacintha,9,9,5,3,5,4,,,0
+Crocus banaticus,7,6,6,5,6,4,,,0
+Crocus chrysanthus,7,8,5,3,7,5,,,0
+Crocus exiguus,5,5,6,5,6,4,,,0
+Crocus ligusticus,7,7,5,3,5,3,,,0
+Crocus neapolitanus,4,7,5,3,6,5,,,0
+Crocus tommasinianus,7,6,4,6,6,4,,,0
+Crocus vernus,7,3,4,5,6,4,,,0
+Cruciata glabra,7,6,5,5,5,5,,,0
+Cruciata laevipes,7,5,4,6,6,7,,,0
+Cruciata pedemontana,8,8,6,3,7,2,,,0
+Crupina vulgaris,9,8,7,2,8,2,,,0
+Cryptogramma crispa,8,3,i,5,2,2,,,0
+Cucumis melo,8,9,2,6,5,7,,,0
+Cucumis sativus,8,9,2,6,6,8,,,1
+Cucurbita maxima,8,7,2,6,5,7,,,0
+Cucurbita pepo,8,7,3,6,6,7,,,1
+Cuscuta campestris,8,7,4,4,i,i,,,1
+Cuscuta epilinum,8,7,i,4,i,i,,,0
+Cuscuta epithymum subsp. epithymum,8,6,i,4,i,i,,,1
+Cuscuta europaea,7,6,6,7,i,i,,,0
+Cuscuta gronovii,8,7,i,7,i,i,,,0
+Cuscuta lupuliformis,8,6,7,8,i,i,,,0
+Cuscuta scandens subsp. cesatiana,8,7,5,6,i,i,,,0
+Cuscuta suaveolens,8,6,5,4,i,i,,,0
+Cyclamen coum,3,8,7,4,5,3,,,0
+Cyclamen hederifolium,4,8,4,5,6,5,,,0
+Cyclamen purpurascens,3,5,4,4,7,5,,,0
+Cydonia oblonga,7,7,7,4,7,4,,,0
+Cymbalaria muralis,7,6,5,3,7,5,,,0
+Cymbalaria pallida,7,8,4,2,7,2,,,0
+Cynara cardunculus,9,9,4,4,6,7,,,1
+Cynodon dactylon,8,7,i,3,6,5,,,2
+Cynoglossum germanicum,6,6,4,5,7,7,,,0
+Cynoglossum hungaricum,8,8,6,2,7,5,,,0
+Cynoglossum officinale,8,6,i,4,7,7,,~,1
+Cynoglottis barrelieri,9,8,5,3,9,4,,,0
+Cynosurus cristatus,8,5,4,5,5,4,,~,0
+Cynosurus echinatus,9,8,4,3,5,4,,,0
+Cyperus badius,8,7,i,9,6,6,,=,0
+Cyperus congestus,8,8,5,9,6,6,,=,0
+Cyperus difformis,8,8,5,9,6,6,,=,0
+Cyperus eragrostis,7,8,4,8,6,6,,=,0
+Cyperus esculentus,8,9,3,8,6,6,,=,1
+Cyperus flavescens,9,6,6,8,6,4,,=,1
+Cyperus fuscus,9,6,i,8,6,6,,=,2
+Cyperus glomeratus,8,9,5,9,5,5,,=,0
+Cyperus longus,8,8,i,9,6,5,,=,0
+Cyperus michelianus,9,7,7,8,7,6,,=,0
+Cyperus pannonicus,9,8,8,8,8,2,,=,5
+Cyperus rotundus,8,9,5,7,5,6,,=,1
+Cyperus serotinus,8,7,5,11,5,5,,,0
+Cyperus strigosus,8,8,5,10,6,6,,,0
+Cypripedium calceolus,5,5,6,4,8,4,,~,0
+Cystopteris alpina,7,3,4,6,8,3,,,0
+Cystopteris dickieana,7,2,7,6,7,1,,,0
+Cystopteris fragilis,i,i,i,6,7,4,,~,0
+Cystopteris montana,4,3,6,7,8,4,,~,0
+Cystopteris sudetica,5,4,7,5,7,3,,,0
+Cytisus austriacus,8,8,8,3,8,2,,,0
+Cytisus hirsutus,7,6,7,3,i,3,,~,0
+Cytisus hirsutus subsp. ciliatus,8,7,7,3,4,3,,~,0
+Cytisus hirsutus subsp. hirsutus,7,6,7,3,7,3,,,0
+Cytisus hirsutus subsp. supinus,7,6,5,3,7,3,,,0
+Cytisus nigricans subsp. nigricans,6,6,6,4,6,3,,,0
+Cytisus procumbens,8,8,7,2,7,2,,,0
+Cytisus purpureus,7,7,7,3,8,2,,,0
+Cytisus ratisbonensis,7,7,8,2,7,2,,,0
+Cytisus scoparius subsp. scoparius,7,5,2,4,3,3,,,0
+Dactylis glomerata,7,5,i,5,6,6,,,1
+Dactylis glomerata subsp. glomerata,7,5,i,5,6,7,,,1
+Dactylis glomerata subsp. reichenbachii,7,6,7,3,7,3,,,0
+Dactylis polygama,5,6,5,5,6,5,,,0
+Dactylorhiza cruenta,8,4,7,9,7,2,,,0
+Dactylorhiza fuchsii,6,4,i,6,i,4,,,0
+Dactylorhiza incarnata,8,6,i,8,7,3,,~,0
+Dactylorhiza incarnata subsp. incarnata,8,6,i,8,7,3,,~,0
+Dactylorhiza incarnata subsp. serotina,8,7,4,8,7,3,,~,0
+Dactylorhiza lapponica,8,3,5,9,7,2,,,0
+Dactylorhiza majalis,7,5,6,8,7,3,,~,0
+Dactylorhiza majalis var. alpestris,8,3,4,9,3,2,,,0
+Dactylorhiza majalis var. majalis,8,5,6,8,7,2,,~,0
+Dactylorhiza ochroleuca,8,4,6,8,7,2,,~,0
+Dactylorhiza sambucina,7,5,5,4,5,3,,,0
+Dactylorhiza traunsteineri,8,4,i,9,4,3,,=,0
+Dahlia pinnata,7,9,2,5,5,7,,,0
+Danthonia alpina,9,6,4,3,6,2,,,0
+Danthonia decumbens,8,i,4,i,i,2,,~,0
+Danthonia decumbens subsp. decipiens,8,i,4,5,7,2,,,0
+Danthonia decumbens subsp. decumbens,8,i,4,i,3,2,,~,0
+Daphne alpina,8,5,5,2,9,1,,,0
+Daphne cneorum,6,5,5,3,8,2,,,0
+Daphne laureola,4,7,4,4,8,4,,,0
+Daphne mezereum,4,5,i,5,7,5,,,0
+Daphne striata,7,3,5,4,8,2,,,0
+Dasiphora fruticosa,8,4,5,8,7,2,,,0
+Dasypyrum villosum,8,9,5,2,6,4,,,0
+Datura ferox,7,9,5,3,5,7,,,0
+Datura innoxia,7,9,5,3,5,7,,,0
+Datura stramonium,8,7,i,4,7,8,,,1
+Daucus carota,8,6,i,4,6,4,,,1
+Delphinium ajacis,9,7,6,4,7,5,,,0
+Delphinium apolanum,5,3,7,7,3,7,,,0
+Delphinium consolida,7,7,6,4,8,5,,,0
+Delphinium consolida subsp. consolida,7,7,6,4,8,5,,,0
+Delphinium consolida subsp. paniculatum,7,7,6,3,8,5,,,0
+Delphinium elatum,6,3,7,7,7,7,,,0
+Delphinium elatum subsp. austriacum,5,3,7,6,7,7,,,0
+Delphinium elatum subsp. elatum,7,3,7,7,7,7,,,0
+Delphinium elatum subsp. elatum var. apolanum,7,3,7,7,7,7,,,0
+Delphinium elatum subsp. elatum var. elatum,7,3,7,7,7,7,,,0
+Delphinium elatum subsp. elatum var. helveticum,5,3,7,7,7,7,,,0
+Delphinium elatum subsp. elatum var. macropetalum,5,3,7,7,7,7,,,0
+Delphinium elatum subsp. elatum var. polatschekii,5,3,7,7,7,7,,,0
+Delphinium elatum subsp. elatum var. tiroliense,5,3,7,7,7,7,,,0
+Delphinium hispanicum,8,7,8,4,8,4,,,0
+Deschampsia cespitosa,6,5,i,7,5,5,,~,1
+Deschampsia littoralis,8,3,4,9,7,3,,=,0
+Descurainia sophia,8,6,7,4,7,6,,,1
+Deutzia scabra,7,8,3,4,7,5,,,0
+Dianthus alpinus,9,2,6,3,8,2,,,0
+Dianthus armeria,7,6,4,5,5,3,,~,0
+Dianthus barbatus,8,i,6,6,6,4,,,0
+Dianthus carthusianorum,8,6,5,3,7,3,,,0
+Dianthus carthusianorum subsp. capillifrons,8,6,5,3,7,3,,,0
+Dianthus carthusianorum subsp. carthusianorum,8,5,6,3,6,2,,,0
+Dianthus carthusianorum subsp. latifolius,8,5,4,3,7,3,,,0
+Dianthus collinus subsp. collinus,7,7,7,4,7,3,,~,0
+Dianthus deltoides,8,5,4,4,4,3,,,0
+Dianthus giganteus subsp. croaticus,7,8,7,3,7,3,,,0
+Dianthus glacialis,9,1,5,3,5,1,,,0
+Dianthus gratianopolitanus,9,7,5,2,7,2,,,0
+Dianthus moravicus,9,7,6,2,8,2,,,0
+Dianthus plumarius,8,i,6,2,9,1,,,0
+Dianthus plumarius subsp. blandus,7,4,6,2,9,1,,,0
+Dianthus plumarius subsp. hoppei,7,6,6,2,9,1,,,0
+Dianthus plumarius subsp. neilreichii,7,7,7,1,9,1,,,0
+Dianthus plumarius subsp. plumarius,9,7,7,2,9,1,,,0
+Dianthus pontederae,8,7,7,2,7,2,,,0
+Dianthus serotinus,9,7,7,2,8,1,,,0
+Dianthus sternbergii subsp. sternbergii,7,4,7,2,9,2,,,0
+Dianthus superbus,8,i,5,6,i,3,,~,0
+Dianthus superbus subsp. alpestris,8,3,5,6,5,3,,~,0
+Dianthus superbus subsp. superbus,7,6,6,7,7,4,,~,0
+Dianthus virgineus,7,6,4,4,i,2,,~,0
+Dianthus virgineus subsp. inodorus,8,6,4,4,7,2,,~,0
+Dianthus virgineus subsp. sylvestris,7,6,5,2,6,2,,,0
+Dichanthelium acuminatum,8,7,3,7,5,4,,~,0
+Dichodon cerastioides,8,1,5,8,4,7,,,0
+Dichodon viscidum,8,8,7,7,7,5,,=,3
+Dichoropetalum carvifolia,7,6,6,5,7,4,,~,0
+Dictamnus albus,7,8,7,3,8,2,,,0
+Digitalis ferruginea,7,8,7,3,7,3,,,0
+Digitalis grandiflora,6,5,6,5,6,5,,,0
+Digitalis lanata,8,8,7,3,8,3,,,0
+Digitalis lutea,7,5,3,5,6,5,,,0
+Digitalis purpurea,7,5,2,5,3,6,,,0
+Digitaria ciliaris,7,7,5,3,7,3,,,0
+Digitaria ischaemum,7,6,6,5,4,5,,,1
+Digitaria sanguinalis,8,7,i,5,5,5,,~,1
+Digitaria sanguinalis var. pectiniformis,8,7,4,5,5,5,,~,1
+Digitaria sanguinalis var. sanguinalis,8,7,i,5,6,5,,~,1
+Dinacrusa hirsuta,9,8,6,4,8,3,,,1
+Dioscorea communis,5,7,3,5,7,5,,,0
+Diphasiastrum alpinum,8,3,i,5,2,2,,,0
+Diphasiastrum complanatum,6,5,6,5,1,2,,,0
+Diphasiastrum complanatum agg.,6,5,6,5,1,2,,~,0
+Diphasiastrum tristachyum,7,5,5,4,1,2,,~,0
+Diphasiastrum x issleri (alp x com),7,4,4,5,1,2,,,0
+Diphasiastrum x oellgaardii (alp x tri),8,4,4,5,1,2,,,0
+Diphasiastrum x zeilleri (com x tri),7,4,6,4,1,2,,,0
+Diplotaxis erucoides,8,9,4,3,5,6,,,0
+Diplotaxis muralis,8,8,4,4,8,5,,,1
+Diplotaxis tenuifolia,8,7,4,4,7,6,,,1
+Dipsacus fullonum,8,6,4,6,7,7,,~,1
+Dipsacus laciniatus,8,7,7,6,7,6,,,1
+Dipsacus pilosus,6,7,5,6,7,7,,~,0
+Dipsacus sativum,8,6,4,5,7,7,,,0
+Dipsacus strigosus,7,7,i,6,7,7,,,0
+Dittrichia graveolens,9,8,i,4,7,5,,,2
+Dittrichia viscosa,9,8,5,3,7,7,,,1
+Doronicum austriacum,5,3,4,7,7,7,,,0
+Doronicum cataractarum,7,3,4,9,4,2,,=,0
+Doronicum clusii,8,2,4,6,4,3,,,0
+Doronicum columnae,7,3,5,6,9,5,,,0
+Doronicum glaciale,8,2,5,6,i,2,,,0
+Doronicum glaciale subsp. calcareum,8,2,5,6,9,1,,,0
+Doronicum glaciale subsp. glaciale,8,1,6,6,6,3,,,0
+Doronicum grandiflorum,8,2,3,5,9,3,,,0
+Doronicum orientale,6,8,8,5,8,5,,,0
+Doronicum pardalianches,4,6,5,5,6,6,,,0
+Doronicum stiriacum,8,2,6,7,4,3,,,0
+Draba aizoides,8,4,5,3,8,1,,,0
+Draba aizoides subsp. aizoides,8,3,5,3,8,1,,,0
+Draba aizoides subsp. beckeri,8,5,6,2,9,1,,,0
+Draba aspera,8,3,5,3,8,1,,,0
+Draba dolomitica,9,2,4,4,9,1,,,0
+Draba dubia,9,1,6,2,7,1,,,0
+Draba fladnizensis,8,2,7,3,5,2,,,0
+Draba hoppeana,9,1,6,5,7,2,,,0
+Draba incana,9,2,3,3,7,3,,,0
+Draba lasiocarpa,8,8,7,1,9,1,,,0
+Draba muralis,7,6,4,4,8,4,,,0
+Draba nemorosa,9,6,8,4,7,4,,,0
+Draba norvegica,8,2,7,4,9,3,,,0
+Draba pacheri,6,2,7,4,8,2,,,0
+Draba sauteri,9,2,5,3,9,1,,,0
+Draba siliquosa,8,2,6,4,6,2,,,0
+Draba stellata,8,2,5,3,9,1,,,0
+Draba stylaris,8,3,7,2,7,6,,,0
+Draba tomentosa,9,1,5,2,9,2,,,0
+Draba verna s. lat.,9,6,i,4,6,3,,,0
+Dracocephalum austriacum,8,7,8,2,9,1,,,0
+Dracocephalum ruyschiana,7,4,8,4,7,2,,,0
+Dracocephalum thymiflorum,8,5,6,7,3,3,,,1
+Drosera anglica,8,4,i,9,3,2,,=,0
+Drosera intermedia,9,5,3,9,2,2,,=,0
+Drosera rotundifolia,8,4,i,9,1,1,,,0
+Drosera x obovata,8,4,i,9,2,2,,,0
+Dryas octopetala,9,2,6,4,8,2,,~,0
+Drymocallis rupestris,7,6,6,3,6,3,,,0
+Drymochloa drymeia,3,6,5,5,5,5,,,0
+Drymochloa sylvatica,3,5,i,6,5,6,,,0
+Dryopteris affinis,3,5,5,6,5,5,,,0
+Dryopteris borreri,3,5,5,6,5,5,,,0
+Dryopteris cambrensis subsp. insubrica,3,4,3,6,4,5,,,0
+Dryopteris carthusiana,5,5,3,i,3,3,,,0
+Dryopteris cristata,5,6,5,9,4,4,,,0
+Dryopteris dilatata,4,i,4,6,4,5,,,0
+Dryopteris expansa,4,4,6,6,4,4,,,0
+Dryopteris filix-mas,4,i,i,5,5,5,,,0
+Dryopteris lacunosa,3,4,3,6,5,5,,,0
+Dryopteris pseudodisjuncta,3,5,2,6,7,5,,,0
+Dryopteris remota,3,4,3,6,4,5,,,0
+Dryopteris villarii,8,2,3,5,9,3,,,0
+Dryopteris x complexa,3,5,4,6,5,5,,,0
+Drypis spinosa subsp. jacquiniana,9,7,7,2,9,1,,,0
+Dysphania ambrosioides,9,9,4,4,7,7,,,1
+Dysphania botrys,9,8,7,3,7,6,,,0
+Dysphania pumilio,9,8,5,4,7,8,,,1
+Dysphania schraderiana,8,9,6,4,6,7,,,0
+Ecballium elaterium,8,9,i,4,8,7,,,1
+Echinacea purpurea,7,8,4,5,5,5,,,0
+Echinochloa colona,8,8,6,6,6,8,,,0
+Echinochloa crus-galli,7,7,i,5,6,8,,,1
+Echinochloa esculenta,7,9,3,4,5,7,,,0
+Echinochloa muricata,7,9,3,4,6,7,,,0
+Echinocystis lobata,6,8,6,8,7,8,,=,0
+Echinops bannaticus,7,8,7,4,7,5,,,0
+Echinops exaltatus,7,7,7,4,8,7,,,0
+Echinops ritro subsp. ruthenicus,8,8,8,2,8,3,,,0
+Echinops sphaerocephalus,8,7,6,4,7,6,,,1
+Echium italicum,9,9,6,3,7,4,,,0
+Echium plantagineum,9,9,5,2,7,6,,,0
+Echium vulgare,9,6,i,4,7,4,,,1
+Eclipta prostrata,7,9,5,4,5,3,,,0
+Egeria densa,6,8,3,12,6,6,,,0
+Elaeagnus angustifolia,8,7,9,5,7,5,,~,2
+Elatine alsinastrum,8,7,6,9,5,6,,=,1
+Elatine ambigua,7,7,3,9,5,6,,=,0
+Elatine hexandra,8,6,3,9,4,4,,=,0
+Elatine hydropiper,8,6,5,9,4,5,,=,1
+Elatine triandra,8,6,5,9,4,5,,=,0
+Eleocharis acicularis,8,6,i,10,5,3,,~,0
+Eleocharis carniolica,8,8,5,9,6,3,,,0
+Eleocharis mamillata,8,5,i,10,5,5,,~,1
+Eleocharis mamillata subsp. austriaca,8,5,5,10,5,4,,~,1
+Eleocharis mamillata subsp. mamillata,8,5,i,10,5,5,,~,1
+Eleocharis ovata,9,6,4,9,6,5,,=,1
+Eleocharis palustris,8,5,i,10,6,6,,~,1
+Eleocharis palustris subsp. palustris,8,5,i,10,6,6,,~,1
+Eleocharis palustris subsp. waltersii,8,6,i,10,6,6,,~,1
+Eleocharis quinqueflora,8,4,i,9,8,2,,,1
+Eleocharis uniglumis,8,6,7,10,7,5,,~,4
+Eleocharis uniglumis subsp. sterneri,8,7,7,10,7,5,,~,5
+Eleocharis uniglumis subsp. uniglumis,8,6,7,10,7,5,,~,4
+Eleusine indica,8,9,5,4,6,6,,,2
+Eleusine tristachya,9,8,4,3,6,4,,,0
+Elodea callitrichoides,7,8,3,12,6,7,,,0
+Elodea canadensis,7,6,6,12,7,7,,,1
+Elodea nuttallii,7,6,6,12,7,7,,,1
+Elymus acutus,9,7,4,5,7,6,,~,4
+Elymus aenaeanus,7,6,4,6,7,7,,,0
+Elymus arenarius,8,6,i,4,7,4,,=,2
+Elymus caninus,5,6,i,6,7,7,,,0
+Elymus hispidus,7,7,7,3,7,4,,~,0
+Elymus obtusiflorus,8,8,7,4,5,7,,,5
+Elymus repens,7,5,i,5,6,7,,~,1
+Empetrum hermaphroditum,8,3,6,6,2,2,,,0
+Empetrum nigrum,7,4,i,6,2,2,,,0
+Epilobium alpestre,7,3,4,6,7,7,,,0
+Epilobium alsinifolium,8,2,3,9,6,4,,,0
+Epilobium anagallidifolium,8,2,i,7,5,3,,,0
+Epilobium angustifolium,8,4,i,5,5,6,,,0
+Epilobium brachycarpum,7,8,3,3,4,4,,,0
+Epilobium ciliatum,7,5,6,6,6,7,,~,1
+Epilobium ciliatum subsp. adenocaulon,7,5,6,7,6,7,,~,1
+Epilobium ciliatum subsp. ciliatum,7,5,6,5,6,7,,~,1
+Epilobium collinum,7,4,6,5,4,4,,,0
+Epilobium dodonaei,9,6,5,4,8,2,,=,0
+Epilobium fleischeri,9,3,5,5,5,2,,=,0
+Epilobium hirsutum,7,6,i,8,7,8,,=,1
+Epilobium lanceolatum,7,7,4,4,3,4,,,0
+Epilobium montanum,5,5,i,5,6,6,,,0
+Epilobium nutans,9,3,4,9,3,3,,,0
+Epilobium obscurum,7,5,3,8,4,5,,,1
+Epilobium palustre,7,4,i,9,4,3,,,0
+Epilobium parviflorum,7,5,i,8,8,6,,=,1
+Epilobium roseum,7,6,i,8,7,8,,~,0
+Epilobium tetragonum,7,6,i,8,6,6,,~,1
+Epilobium tetragonum subsp. lamyi,7,7,4,7,6,6,,,0
+Epilobium tetragonum subsp. tetragonum,7,6,i,8,6,6,,~,1
+Epimedium alpinum,4,7,5,5,7,5,,,0
+Epipactis albensis,4,6,6,6,6,6,,,0
+Epipactis atrorubens,6,5,6,3,8,2,,,0
+Epipactis bugacensis,4,8,5,6,7,5,,,0
+Epipactis greuteri,2,6,7,7,7,6,,,0
+Epipactis helleborine,4,i,i,5,7,4,,,0
+Epipactis helleborine subsp. distans,5,5,7,4,8,3,,,0
+Epipactis helleborine subsp. helleborine,4,5,i,5,7,5,,,0
+Epipactis helleborine subsp. leutei,3,7,5,5,7,5,,,0
+Epipactis leptochila,3,5,4,4,8,4,,,0
+Epipactis microphylla,2,6,6,5,7,4,,,0
+Epipactis muelleri,6,5,4,3,7,3,,,0
+Epipactis neglecta,3,6,7,5,7,6,,,0
+Epipactis nordeniorum,3,7,6,6,5,7,,,0
+Epipactis palustris,8,5,i,8,8,2,,~,1
+Epipactis pontica,3,6,5,4,7,5,,,0
+Epipactis purpurata,2,6,5,5,7,6,,,0
+Epipactis voethii,3,6,6,5,6,5,,,0
+Epipogium aphyllum,2,4,6,5,6,4,,,0
+Equisetum arvense,i,i,i,6,i,i,,~,1
+Equisetum arvense subsp. alpestre,8,2,7,7,5,3,,=,0
+Equisetum arvense subsp. arvense,i,5,i,6,i,i,,~,1
+Equisetum fluviatile,8,4,i,10,4,5,,~,0
+Equisetum hyemale,5,5,5,7,7,6,,~,0
+Equisetum palustre,7,i,i,8,i,3,,~,1
+Equisetum pratense,5,4,7,6,5,3,,~,0
+Equisetum ramosissimum,8,7,7,4,7,3,,~,1
+Equisetum sylvaticum,4,4,6,7,4,3,,~,0
+Equisetum telmateia,6,6,3,8,7,5,,~,0
+Equisetum variegatum,8,3,6,9,7,2,,=,0
+Equisetum x moorei,7,7,6,7,7,4,,~,0
+Equisetum x trachyodon,7,5,4,7,5,2,,~,0
+Eragrostis albensis,8,6,6,5,7,6,,,1
+Eragrostis cilianensis,7,9,i,3,8,4,,,0
+Eragrostis curvula,7,9,3,3,i,4,,,0
+Eragrostis frankii,7,9,5,2,5,4,,,0
+Eragrostis mexicana,7,9,5,3,5,4,,,0
+Eragrostis minor,8,7,6,3,7,6,,,1
+Eragrostis multicaulis,8,7,i,3,5,5,,,1
+Eragrostis pectinacea,8,8,4,4,5,4,,,0
+Eragrostis pilosa,9,7,i,3,6,5,,,1
+Eragrostis virescens,8,9,7,4,5,5,,,0
+Eranthis hyemalis,5,7,6,5,8,5,,,0
+Erechtites hieraciifolius,7,7,i,5,6,6,,,0
+Eremogone procera subsp. glabra,8,8,8,3,8,2,,,0
+Erica carnea,7,i,5,3,b,2,,,0
+Erica spiculifolia,8,6,8,5,2,2,,,0
+Erica tetralix,8,5,3,8,1,2,,,0
+Erigeron acris,9,5,i,4,8,3,,,1
+Erigeron acris subsp. acris,9,5,i,4,8,3,,,1
+Erigeron acris subsp. angulosus,9,4,6,4,8,3,,=,0
+Erigeron acris subsp. macrophyllus,8,5,7,4,5,3,,,0
+Erigeron acris subsp. podolicus,8,7,7,3,8,3,,,1
+Erigeron acris subsp. serotinus,8,6,5,4,6,3,,,0
+Erigeron alpinus,9,3,5,4,5,3,,,0
+Erigeron annuus,7,5,i,5,6,5,,,0
+Erigeron annuus subsp. annuus,7,5,i,5,6,5,,,0
+Erigeron annuus subsp. septentrionalis,7,5,i,5,6,7,,,0
+Erigeron annuus subsp. strigosus,7,5,5,5,6,7,,,0
+Erigeron atticus,8,3,5,5,6,3,,,0
+Erigeron bonariensis,8,9,4,4,7,6,,,1
+Erigeron canadensis,8,6,i,4,6,5,,,1
+Erigeron glabratus,8,2,4,3,9,3,,,0
+Erigeron glabratus var. candidus,8,2,4,3,9,2,,,0
+Erigeron glabratus var. glabratus,9,2,4,4,9,3,,,0
+Erigeron karvinskianus,7,8,4,3,5,3,,,0
+Erigeron neglectus,9,2,6,4,8,3,,,0
+Erigeron schleicheri,7,3,6,4,4,2,,,0
+Erigeron sumatrensis,8,9,4,5,7,7,,,1
+Erigeron uniflorus,9,1,4,5,5,2,,,0
+Erinus alpinus,9,4,5,2,8,3,,,0
+Eriobotrya japonica,7,9,3,5,5,5,,,0
+Eriophorum angustifolium,8,i,i,9,4,2,,~,0
+Eriophorum gracile,8,4,7,9,4,2,,=,0
+Eriophorum latifolium,8,i,i,9,8,2,,~,1
+Eriophorum scheuchzeri,9,1,i,10,4,2,,~,0
+Eriophorum vaginatum,7,4,i,9,2,1,,~,0
+Eritrichium nanum,9,1,6,4,2,2,,,0
+Erodium ciconium,9,8,i,3,7,5,,,0
+Erodium cicutarium,8,6,i,4,6,5,,,1
+Erodium malacoides,9,9,5,3,6,6,,,1
+Erodium manescavi,8,3,3,5,6,5,,,0
+Erodium moschatum,8,7,i,3,6,4,,,0
+Eruca sativa,8,8,i,4,7,6,,,0
+Erucastrum gallicum,8,6,4,4,8,6,,,0
+Eryngium alpinum,8,3,3,5,7,6,,,0
+Eryngium campestre,9,7,i,3,7,3,,,0
+Eryngium giganteum,7,3,7,2,7,7,,,0
+Eryngium planum,8,7,8,6,7,4,,~,1
+Erysimum andrzejowskianum,9,7,7,3,8,2,,,0
+Erysimum aurantiacum,9,6,5,2,7,3,,,0
+Erysimum aureum,5,7,8,5,5,7,,,0
+Erysimum canum,9,8,8,1,8,1,,,0
+Erysimum cheiranthoides,7,5,6,5,7,7,,,0
+Erysimum cheiri,8,8,7,4,7,6,,,0
+Erysimum cuspidatum,7,8,7,5,7,3,,,5
+Erysimum diffusum,9,7,7,2,6,3,,,0
+Erysimum hieraciifolium,7,6,7,4,7,6,,,0
+Erysimum hieraciifolium subsp. hieraciifolium,7,6,7,4,7,6,,,0
+Erysimum hieraciifolium subsp. virgatum,7,6,6,3,6,6,,,0
+Erysimum hungaricum,7,3,7,4,i,2,,,0
+Erysimum marschallianum,9,7,7,3,7,4,,,0
+Erysimum odoratum,8,7,5,2,8,3,,,0
+Erysimum repandum,8,7,7,4,8,5,,,2
+Erysimum rhaeticum,9,4,5,2,6,2,,,0
+Erysimum sylvestre,9,4,6,2,8,2,,,0
+Erythronium dens-canis,3,7,4,5,7,4,,,0
+Eschscholzia californica,9,7,5,4,5,4,,,0
+Euclidium syriacum,9,8,8,4,7,5,,,0
+Euonymus europaea,6,5,i,5,7,5,,,0
+Euonymus japonicus,5,7,3,6,6,5,,,0
+Euonymus latifolia,5,4,5,5,8,5,,,0
+Euonymus verrucosa,6,7,7,4,7,4,,,0
+Eupatorium cannabinum,7,5,i,7,7,8,,,0
+Euphorbia amygdaloides,4,5,4,5,i,5,,,0
+Euphorbia angulata,6,7,4,4,8,4,,,0
+Euphorbia caesia,9,8,8,2,9,2,,,0
+Euphorbia carniolica,4,6,5,4,7,5,,,0
+Euphorbia cyparissias,8,5,i,3,i,3,,~,1
+Euphorbia dulcis,4,5,3,5,7,5,,,0
+Euphorbia epithymoides,7,7,6,3,8,4,,,0
+Euphorbia esula,8,6,6,4,7,4,,,1
+Euphorbia exigua,8,6,4,4,7,5,,,1
+Euphorbia falcata,8,7,6,4,8,5,,,0
+Euphorbia glareosa,7,8,8,3,8,3,,~,0
+Euphorbia glyptosperma,8,8,5,4,7,4,,,0
+Euphorbia helioscopia,7,6,i,5,7,7,,,0
+Euphorbia humifusa,9,7,7,4,7,5,,,1
+Euphorbia illirica,7,i,6,6,7,5,,~,0
+Euphorbia illirica subsp. austriaca,7,3,3,6,8,6,,~,0
+Euphorbia illirica subsp. illirica,7,7,6,6,5,4,,~,0
+Euphorbia lathyris,6,7,i,4,7,6,,,0
+Euphorbia lucida,7,7,7,8,7,6,,~,0
+Euphorbia maculata,9,8,i,3,7,6,,,1
+Euphorbia marginata,6,7,5,6,7,7,,,0
+Euphorbia myrsinites,8,6,7,2,7,2,,,0
+Euphorbia nutans,8,7,7,3,7,2,,,1
+Euphorbia palustris,8,7,6,8,7,6,,~,2
+Euphorbia peplus,6,6,i,4,7,7,,,0
+Euphorbia platyphyllos,7,7,i,5,7,6,,,1
+Euphorbia platyphyllos subsp. literata,7,7,i,5,6,6,,,1
+Euphorbia platyphyllos subsp. platyphyllos,7,7,i,5,7,6,,,1
+Euphorbia prostrata,9,8,4,3,5,5,,,1
+Euphorbia rigida,8,7,6,2,7,2,,,0
+Euphorbia salicifolia,7,7,8,4,8,3,,~,0
+Euphorbia saratoi,8,6,6,4,7,4,,,0
+Euphorbia saxatilis,5,5,5,1,9,1,,,0
+Euphorbia segetalis,7,9,4,3,7,6,,,0
+Euphorbia seguieriana,9,7,7,2,8,2,,,0
+Euphorbia serpens,9,9,5,2,5,5,,,0
+Euphorbia stricta,6,6,i,6,7,6,,,0
+Euphorbia taurinensis,8,7,7,4,7,5,,,0
+Euphorbia verrucosa,8,6,3,4,8,3,,~,0
+Euphorbia virgata,9,7,6,4,8,3,,~,1
+Euphrasia cuspidata,8,3,5,4,9,3,,,0
+Euphrasia hirtella,8,3,i,4,4,2,,,0
+Euphrasia inopinata,8,2,4,4,4,2,,,0
+Euphrasia kerneri,8,6,6,8,8,3,,~,0
+Euphrasia micrantha,8,5,3,4,2,1,,,0
+Euphrasia minima,8,2,3,4,2,2,,,0
+Euphrasia minima agg.,8,2,3,4,4,2,,,0
+Euphrasia nemorosa,8,5,4,5,4,2,,,0
+Euphrasia officinalis,8,i,5,i,i,4,,,0
+Euphrasia officinalis subsp. picta,8,3,5,5,6,4,,,0
+Euphrasia officinalis subsp. pratensis,8,i,5,5,i,4,,,0
+Euphrasia salisburgensis,7,i,2,3,8,3,,,0
+Euphrasia sinuata,8,3,4,4,5,2,,,0
+Euphrasia stricta,8,6,6,4,6,2,,,0
+Eurybia sibirica,7,7,9,7,6,4,,,1
+Euthamia graminifolia,7,6,3,7,7,7,,,0
+Facchinia cherlerioides,9,1,6,3,8,2,,,0
+Facchinia rupestris,8,1,6,3,8,2,,,0
+Fagopyrum esculentum,8,6,i,5,6,6,,,0
+Fagopyrum tataricum,9,7,7,5,4,5,,,0
+Fagus sylvatica,i,5,3,5,i,i,,,0
+Falcaria vulgaris,7,7,6,3,8,4,,,0
+Fallopia baldschuanica,7,7,8,5,7,7,,,0
+Fallopia convolvulus,7,6,i,5,6,6,,,0
+Fallopia dumetorum,6,6,i,5,7,7,,,0
+Ferula communis,9,8,5,3,6,5,,,0
+Ferulago galbanifera,6,9,6,2,7,2,,,0
+Festuca alpestris,9,3,7,3,8,3,,,0
+Festuca alpina,8,1,5,3,8,1,,,0
+Festuca amethystina,6,5,5,3,7,2,,~,0
+Festuca brachystachys,9,3,6,2,9,2,,,0
+Festuca brachystachys subsp. brachystachys,9,2,6,2,9,1,,,0
+Festuca brachystachys subsp. pallidula,8,4,6,2,9,2,,,0
+Festuca bromoides,9,8,4,3,4,1,,,0
+Festuca calva,8,6,5,2,9,2,,,0
+Festuca danthonii,9,8,5,2,4,4,,,1
+Festuca eggleri,7,5,7,2,7,1,,,0
+Festuca filiformis,7,6,4,4,3,2,,,0
+Festuca guestfalica,6,5,4,4,3,2,,,0
+Festuca halleri,9,1,7,4,2,1,,,0
+Festuca heterophylla,4,6,5,4,5,4,,,0
+Festuca intercedens,9,2,5,3,6,2,,,0
+Festuca laevigata,8,7,5,2,8,1,,,0
+Festuca laxa,9,4,4,3,9,2,,,0
+Festuca myuros,8,7,i,2,5,2,,,1
+Festuca nigrescens,7,4,4,i,3,2,,,0
+Festuca nigricans,8,2,5,5,6,5,,,0
+Festuca nitida,8,3,4,4,8,2,,,0
+Festuca norica,8,2,5,4,8,3,,,0
+Festuca ovina,7,5,i,5,3,2,,~,0
+Festuca pallens,9,7,6,1,8,1,,,0
+Festuca picturata,9,2,6,5,5,3,,,0
+Festuca pseudodalmatica,8,7,6,2,7,2,,,0
+Festuca pseudodura,9,2,6,3,5,2,,,0
+Festuca pumila,9,2,5,4,7,4,,~,0
+Festuca rubra,i,i,i,i,i,i,,,1
+Festuca rubra subsp. juncea,8,6,5,4,6,5,,~,1
+Festuca rubra subsp. litoralis,8,6,3,6,7,5,,~,7
+Festuca rubra subsp. megastachys,7,4,4,6,5,4,,,0
+Festuca rubra subsp. rubra,i,i,i,i,i,i,,,1
+Festuca rupicaprina,9,2,5,4,8,2,,,0
+Festuca rupicola,8,6,8,3,7,3,,~,0
+Festuca stenantha,8,4,7,1,9,1,,,0
+Festuca stricta,8,7,6,1,9,1,,,0
+Festuca supina,8,2,5,3,2,1,,,0
+Festuca trachyphylla,8,6,6,3,i,2,,,0
+Festuca trichophylla,8,7,5,8,8,2,,,0
+Festuca vaginata,9,8,7,1,8,1,,,0
+"Festuca vaginata ""subsp. dominii""",8,8,7,2,4,1,,,0
+Festuca valesiaca,8,7,8,2,7,2,,~,1
+Festuca valesiaca subsp. parviflora,9,8,8,3,8,3,,~,4
+Festuca valesiaca subsp. valesiaca,8,7,8,1,7,2,,,0
+Festuca varia,9,2,5,3,3,2,,,0
+Festuca varia subsp. varia,9,2,6,3,3,2,,,0
+Festuca varia subsp. winnebachensis,9,2,5,3,3,2,,,0
+Festuca vivipara,9,1,6,4,4,2,,,0
+Ficaria calthifolia,6,7,4,5,7,7,,,0
+Ficaria verna,i,5,3,6,7,7,,,0
+Ficus carica,6,9,4,3,7,5,,,1
+Filago arvensis,8,7,7,2,4,3,,~,0
+Filago germanica,9,7,4,3,5,3,,,0
+Filago lutescens,9,7,3,3,4,2,,,0
+Filago minima,9,6,4,2,4,1,,,0
+Filipendula ulmaria,6,5,i,8,6,6,,=,1
+Filipendula ulmaria subsp. picbaueri,7,7,7,8,6,5,,=,1
+Filipendula ulmaria subsp. ulmaria,6,5,i,8,6,6,,=,1
+Filipendula vulgaris,7,6,6,4,8,3,,~,0
+Fimbristylis annua,7,9,3,8,3,3,,,0
+Foeniculum vulgare,7,8,5,4,8,7,,,1
+Forsythia x intermedia,7,8,5,4,6,6,,,0
+Fourraea alpina,5,6,4,3,8,3,,,0
+Fragaria moschata,6,5,6,5,7,6,,,0
+Fragaria vesca,7,i,i,5,i,5,,,0
+Fragaria viridis,8,6,6,4,7,4,,,1
+Frangula alnus,6,6,i,b,i,4,,~,0
+Fraxinus angustifolia subsp. danubialis,6,7,7,7,7,6,,=,0
+Fraxinus excelsior,6,5,3,i,7,i,,,0
+Fraxinus ornus subsp. ornus,6,8,6,3,8,3,,,0
+Fraxinus pennsylvanica,6,8,i,6,8,5,,=,1
+Fritillaria imperialis,8,6,5,3,6,3,,,0
+Fritillaria meleagris,8,7,5,8,7,5,,~,0
+Fumana procumbens,9,8,5,1,9,1,,,0
+Fumaria capreolata,6,8,i,4,5,7,,,0
+Fumaria officinalis,7,6,i,5,7,7,,,0
+Fumaria officinalis subsp. officinalis,7,6,i,5,7,7,,,0
+Fumaria officinalis subsp. wirtgenii,7,7,i,5,7,7,,,0
+Fumaria parviflora,7,8,5,3,7,6,,,0
+Fumaria rostellata,7,7,7,4,8,6,,,0
+Fumaria schleicheri,8,7,6,3,8,6,,,0
+Fumaria vaillantii,8,6,7,3,8,7,,,0
+Gagea bohemica,9,7,6,1,3,2,,,0
+Gagea liotardii,8,3,5,6,6,6,,,0
+Gagea lutea,5,5,i,6,7,7,,~,0
+Gagea minima,6,5,5,5,7,7,,~,0
+Gagea pratensis,7,6,4,4,7,6,,,0
+Gagea pratensis subsp. pratensis,7,6,4,4,7,6,,,0
+Gagea pratensis subsp. transversalis,8,7,4,4,7,6,,,0
+Gagea pusilla,8,7,7,3,7,4,,,0
+Gagea serotina,9,1,7,5,5,1,,~,0
+Gagea spathacea,4,6,4,6,6,6,,~,0
+Gagea villosa,7,7,5,4,7,6,,~,0
+Gaillardia x grandiflora,7,8,7,3,5,7,,,0
+Galanthus elwesii,5,7,7,4,7,5,,,0
+Galanthus nivalis,5,6,5,6,7,7,,~,0
+Galanthus woronowii,5,7,6,5,7,5,,,0
+Galatella cana,8,8,9,4,7,3,,~,4
+Galatella linosyris,8,7,6,2,8,2,,,1
+Galega officinalis,7,6,7,6,7,7,,~,2
+Galeobdolon argentatum,3,6,5,6,6,7,,,0
+Galeobdolon flavidum,4,4,5,5,6,5,,~,0
+Galeobdolon montanum,3,5,3,6,6,6,,,0
+Galeopsis angustifolia,8,6,3,2,8,3,,,0
+Galeopsis bifida,7,5,i,5,6,7,,,0
+Galeopsis ladanum,8,5,i,4,5,3,,,0
+Galeopsis pernhofferi,7,6,6,6,6,7,,,0
+Galeopsis pubescens,7,5,6,5,6,7,,,0
+Galeopsis speciosa,7,4,5,6,6,7,,,0
+Galeopsis tetrahit,7,5,4,5,6,7,,,0
+Galinsoga parviflora,8,6,5,5,6,8,,,0
+Galinsoga quadriradiata,7,6,4,5,6,7,,,0
+Galium anisophyllon,7,2,4,4,6,3,,,0
+Galium aparine,7,6,i,5,6,8,,,1
+Galium aristatum,5,4,5,5,6,4,,,0
+Galium austriacum,6,5,5,3,8,2,,,0
+Galium boreale,7,6,6,6,7,3,,~,0
+Galium elongatum,6,6,4,9,5,6,,=,1
+Galium eruptivum,7,7,7,2,8,3,,,0
+Galium glaucum,7,7,5,2,b,2,,,0
+Galium intermedium,5,6,6,4,6,4,,,0
+Galium laevigatum,5,6,5,5,6,4,,,0
+Galium lucidum,7,6,4,3,8,2,,,0
+Galium lucidum subsp. lucidum,7,6,5,2,8,2,,,0
+Galium lucidum subsp. meliodorum,8,4,5,3,9,2,,,0
+Galium megalospermum,8,2,6,5,9,3,,,0
+Galium mollugo,7,6,i,5,6,5,,~,1
+Galium mollugo subsp. erectum,7,6,i,5,6,6,,,1
+Galium mollugo subsp. mollugo,8,6,4,6,7,6,,~,1
+Galium mollugo subsp. pycnotrichum,7,6,6,4,7,4,,,0
+Galium noricum,9,2,5,4,7,3,,,0
+Galium odoratum,3,5,i,5,6,5,,,0
+Galium palustre,7,5,i,9,5,5,,~,1
+Galium palustre subsp. palustre,7,5,i,9,5,5,,~,1
+Galium palustre subsp. tetraploideum,7,6,2,9,5,5,,~,0
+Galium parisiense,8,7,i,3,4,3,,,0
+Galium pumilum,7,5,4,3,i,2,,~,0
+Galium rivale,6,7,4,8,6,6,,,0
+Galium rotundifolium,3,5,4,5,5,4,,,0
+Galium rubioides,7,7,7,6,7,5,,~,0
+Galium rubrum,7,6,5,4,4,3,,,0
+Galium saxatile,7,5,2,5,2,3,,,0
+Galium spurium,8,6,i,5,7,7,,~,0
+Galium sylvaticum,5,5,4,4,i,5,,,0
+Galium tricornutum,8,7,i,4,8,5,,,1
+Galium trifidum,7,3,5,9,5,3,,,0
+Galium truniacum,8,3,5,3,9,2,,,0
+Galium uliginosum,7,5,i,8,6,4,,~,0
+Galium valdepilosum,6,6,5,4,6,3,,,0
+Galium verrucosum,8,8,5,3,6,5,,,1
+Galium verum,7,6,i,5,7,3,,~,0
+Galium verum subsp. verum,7,6,i,4,7,3,,~,1
+Galium verum subsp. wirtgenii,8,7,4,5,7,3,,~,2
+Galium x centroniae,7,5,6,3,6,3,,,0
+Galium x pomeranicum,8,6,i,4,7,5,,~,0
+Gastridium ventricosum,8,9,5,2,7,3,,,0
+Gaudinia fragilis,8,7,i,5,6,7,,~,0
+Gazania rigens,9,9,1,5,5,7,,,2
+Genista germanica,7,6,5,4,3,2,,,0
+Genista pilosa,7,5,4,3,b,1,,,0
+Genista radiata,8,5,6,3,7,2,,,0
+Genista sagittalis,7,5,7,4,3,2,,~,0
+Genista tinctoria,7,6,5,4,6,2,,~,0
+Gentiana acaulis,8,3,5,5,3,2,,,0
+Gentiana asclepiadea,6,4,5,6,7,5,,~,0
+Gentiana bavarica,8,2,5,7,7,3,,~,0
+Gentiana bavarica var. subacaulis,9,1,4,5,7,2,,,0
+Gentiana brachyphylla,9,1,5,5,4,1,,,0
+Gentiana brentae,9,2,7,5,9,2,,,0
+Gentiana clusii subsp. clusii,8,3,4,4,9,3,,~,0
+Gentiana cruciata subsp. cruciata,7,5,6,3,8,3,,,0
+Gentiana frigida,8,1,6,4,5,2,,,0
+Gentiana froelichii subsp. froelichii,9,1,3,3,9,1,,,0
+Gentiana lutea,7,3,3,5,6,2,,~,0
+Gentiana lutea subsp. lutea,7,3,3,5,6,2,,~,0
+Gentiana lutea subsp. vardjanii,7,3,3,4,7,3,,~,0
+Gentiana nivalis,9,2,4,5,7,3,,~,0
+Gentiana orbicularis,9,1,6,4,8,1,,,0
+Gentiana pannonica,7,3,5,5,4,3,,~,0
+Gentiana pneumonanthe,8,5,i,8,6,2,,~,0
+Gentiana prostrata,9,1,8,4,7,3,,,0
+Gentiana pumila,9,2,4,4,9,2,,,0
+Gentiana punctata,7,3,6,5,2,3,,~,0
+Gentiana purpurea,7,3,3,5,3,2,,~,0
+Gentiana terglouensis,9,1,4,3,8,2,,,0
+Gentiana utriculosa,8,4,5,7,8,2,,~,0
+Gentiana verna,8,i,3,i,7,3,,,0
+Gentianella amarella,8,4,7,5,7,3,,,0
+Gentianella anisodonta,9,2,4,4,7,3,,,0
+Gentianella austriaca,8,i,5,3,8,2,,~,0
+Gentianella campestris,8,3,3,5,4,2,,,0
+Gentianella obtusifolia,9,3,5,4,9,2,,,0
+Gentianella pilosa,7,4,4,4,9,3,,,0
+Gentianella praecox,9,5,5,4,6,3,,,0
+Gentianella rhaetica,8,4,4,4,6,3,,~,0
+Gentianopsis ciliata,7,5,4,3,8,2,,~,0
+Geranium aequale,7,8,1,4,5,5,,,0
+Geranium argenteum,9,3,4,4,7,3,,,0
+Geranium bohemicum,6,5,6,3,5,5,,,0
+Geranium columbinum,7,6,4,4,7,6,,,0
+Geranium dissectum,7,6,i,4,6,6,,,0
+Geranium divaricatum,6,6,7,4,6,6,,,0
+Geranium endressii,5,5,3,6,7,6,,,0
+Geranium lucidum,5,7,i,5,8,6,,,0
+Geranium macrorrhizum,5,7,7,3,8,3,,,0
+Geranium molle,7,7,4,4,6,5,,,0
+Geranium palustre,7,5,5,7,6,7,,~,0
+Geranium phaeum,6,5,6,6,6,7,,,0
+Geranium phaeum subsp. lividum,7,4,4,6,6,7,,,0
+Geranium phaeum subsp. phaeum,6,5,6,6,5,7,,,0
+Geranium pratense,8,6,7,5,7,7,,,1
+Geranium purpureum,8,8,4,2,6,4,,,0
+Geranium pusillum,7,6,i,4,6,6,,,0
+Geranium pyrenaicum,7,6,4,4,7,6,,,0
+Geranium robertianum,i,5,i,5,7,7,,~,0
+Geranium rotundifolium,7,7,i,4,7,5,,,0
+Geranium sanguineum,7,6,i,3,7,3,,,0
+Geranium sibiricum,7,6,6,5,7,8,,,0
+Geranium sylvaticum,7,4,6,6,6,7,,,0
+Geranium versicolor,4,4,4,6,6,6,,,0
+Geum coccineum,5,6,7,7,5,7,,,0
+Geum montanum,7,2,3,5,2,2,,,0
+Geum reptans,9,1,6,4,3,2,,,0
+Geum rivale,6,4,i,8,6,6,,~,0
+Geum urbanum,4,5,i,5,6,7,,,0
+Gladiolus communis,8,7,5,6,7,3,,,0
+Gladiolus illyricus,8,7,5,5,7,3,,~,0
+Gladiolus imbricatus,8,5,7,7,7,3,,~,0
+Gladiolus palustris,8,6,6,7,8,3,,~,0
+Glaucium corniculatum,9,8,8,3,9,4,,,1
+Glaucium flavum,9,7,i,4,8,7,,,3
+Glaux maritima,8,6,8,7,7,5,,=,8
+Glebionis coronaria,8,8,3,4,7,6,,,1
+Glebionis segetum,8,6,3,5,5,5,,,1
+Glechoma hederacea,6,i,i,i,7,6,,~,1
+Glechoma hederacea subsp. hederacea,6,5,i,6,6,7,,,1
+Glechoma hederacea subsp. hirsuta,5,7,6,4,7,6,,,0
+Gleditsia triacanthos,8,8,4,4,5,5,,,0
+Globularia bisnagarica,8,6,5,2,9,2,,,0
+Globularia cordifolia,9,3,5,3,9,1,,,0
+Globularia nudicaulis,7,3,3,4,8,3,,,0
+Glyceria declinata,7,5,3,9,5,6,,~,0
+Glyceria fluitans,7,6,i,9,6,7,,=,0
+Glyceria grandis,6,5,7,10,6,7,,,0
+Glyceria maxima subsp. maxima,8,5,i,10,7,8,,,1
+Glyceria notata,7,5,6,9,7,7,,~,2
+Glyceria striata,7,5,7,8,7,6,,~,0
+Glyceria striata subsp. difformis ,6,4,6,8,7,6,,~,0
+Glyceria striata subsp. striata,7,5,7,8,7,6,,~,0
+Glyceria x pedicellata,8,5,4,9,6,6,,~,0
+Glycine max,8,7,4,4,7,7,,,0
+Glycyrrhiza glabra,7,8,5,6,7,6,,,1
+Gnaphalium uliginosum,8,6,i,7,5,5,,~,1
+Gomphocarpus fruticosus,8,8,4,4,6,5,,,0
+Goodyera repens,4,5,6,4,5,2,,,0
+Gratiola officinalis,7,7,6,8,7,4,,~,2
+Grindelia squarrosa,8,7,7,5,6,3,,,5
+Groenlandia densa,8,6,i,12,8,5,,,1
+Guizotia abyssinica,8,8,i,4,5,7,,,0
+Gymnadenia conopsea,7,6,4,5,8,3,,~,0
+Gymnadenia conopsea agg.,7,i,2,6,8,3,,~,0
+Gymnadenia densiflora,7,5,4,6,8,3,,~,0
+Gymnadenia odoratissima,6,4,5,4,9,2,,~,0
+Gymnocarpium dryopteris,3,5,i,5,4,5,,,0
+Gymnocarpium robertianum,5,4,4,4,8,4,,,0
+Gypsophila acutifolia,9,7,5,4,6,1,,,2
+Gypsophila elegans,7,7,7,3,5,5,,,0
+Gypsophila fastigiata subsp. arenaria,9,8,7,2,7,1,,,0
+Gypsophila paniculata,9,8,7,2,8,3,,,0
+Gypsophila pilosa,9,8,4,3,6,6,,,0
+Gypsophila repens,9,3,5,5,8,2,,=,0
+Gypsophila scorzonerifolia,8,7,9,8,8,1,,=,7
+Gypsophila vaccaria,8,7,7,4,8,4,,,0
+Hackelia deflexa,8,4,7,4,7,8,,,0
+Hammarbya paludosa,9,5,5,9,2,2,,=,0
+Hedera helix,4,5,4,4,7,5,,,0
+Hedysarum hedysaroides subsp. hedysaroides,8,2,7,5,8,4,,,0
+Helenium autumnale,5,8,5,6,5,7,,,0
+Helianthemum alpestre,9,2,6,3,9,2,,,0
+Helianthemum canum,9,7,6,2,9,1,,,0
+Helianthemum nummularium,8,i,i,4,8,2,,~,0
+Helianthemum nummularium subsp. glabrum,8,3,3,4,8,3,,,0
+Helianthemum nummularium subsp. grandiflorum,8,3,3,4,7,3,,,0
+Helianthemum nummularium subsp. nummularium,9,6,5,2,8,1,,,0
+Helianthemum nummularium subsp. ovatum,8,6,5,3,7,2,,,0
+Helianthus annuus,8,7,i,5,6,7,,,0
+Helianthus decapetalus,5,8,5,6,5,7,,,0
+Helianthus pauciforus,8,6,5,6,6,7,,,0
+Helianthus tuberosus,8,7,5,6,7,7,,,0
+Helichrysum arenarium,9,7,8,2,5,1,,,0
+Helictochloa adsurgens,7,6,7,3,5,3,,,0
+Helictochloa adsurgens subsp. adsurgens,7,6,7,3,4,3,,,0
+Helictochloa adsurgens subsp. ausserdorferi,7,5,7,3,5,3,,,0
+Helictochloa pratensis,8,i,5,3,i,2,,~,0
+Helictochloa pratensis subsp. hirtifolia,8,6,6,3,i,2,,~,0
+Helictochloa pratensis subsp. pratensis,8,6,5,3,i,2,,~,0
+Helictochloa pratensis subsp. pseudoviolacea,8,4,5,4,4,2,,,0
+Helictochloa versicolor,9,2,3,5,3,2,,,0
+Helictotrichon desertorum subsp. basalticum,9,8,8,1,7,2,,,0
+Helictotrichon parlatorei,9,3,4,4,9,3,,,0
+Helictotrichon petzense,9,3,7,3,9,3,,,0
+Heliopsis helianthoides,7,6,i,6,5,7,,,0
+Heliosperma alpestre,8,3,5,6,9,2,,,0
+Heliosperma pusillum,7,4,6,7,i,3,,~,0
+Heliosperma pusillum subsp. pudibundum,7,3,6,8,6,3,,~,0
+Heliosperma pusillum subsp. pusillum,7,4,6,6,9,2,,~,0
+Heliosperma veselskyi,6,5,6,4,8,2,,,0
+Heliotropium europaeum,9,8,6,3,8,6,,,1
+Helleborus dumetorum subsp. dumetorum,3,7,6,5,7,4,,~,0
+Helleborus foetidus,5,7,3,4,8,3,,,0
+Helleborus niger subsp. niger,4,5,4,4,9,3,,,0
+Helleborus orientalis,3,7,3,4,7,4,,,0
+Helleborus viridis subsp. viridis,3,6,2,5,8,5,,,0
+Helminthotheca echioides,8,7,4,4,8,6,,,1
+Helosciadium repens,7,7,3,7,7,6,,=,1
+Hemerocallis fulva,6,6,5,6,6,6,,~,0
+Hemerocallis lilioasphodelus,6,7,6,6,6,6,,~,0
+Hepatica nobilis,4,6,4,4,7,5,,,0
+Heracleum austriacum,7,4,5,5,8,4,,,0
+Heracleum austriacum subsp. austriacum,7,4,5,5,8,4,,,0
+Heracleum austriacum subsp. siifolium,7,4,5,4,8,4,,,0
+Heracleum mantegazzianum,8,6,5,6,6,8,,,0
+Heracleum sphondylium,7,5,i,5,6,7,,,1
+Heracleum sphondylium subsp. chloranthum,7,6,7,4,5,7,,,0
+Heracleum sphondylium subsp. elegans,7,4,7,6,7,7,,,0
+Heracleum sphondylium subsp. glabrum,7,6,7,5,6,8,,,1
+Heracleum sphondylium subsp. pollinianum,8,3,5,4,7,6,,,0
+Heracleum sphondylium subsp. sphondylium,7,5,i,5,6,8,,,0
+Herminium monorchis,7,5,6,5,8,3,,~,0
+Herniaria alpina,9,2,5,5,8,2,,,0
+Herniaria glabra,9,6,7,3,4,4,,=,0
+Herniaria hirsuta,9,7,6,3,4,3,,,1
+Herniaria incana,9,8,7,2,7,2,,,0
+Hesperis matronalis,6,5,6,6,7,7,,,0
+Hesperis matronalis subsp. matronalis,6,5,6,6,7,7,,,0
+Hesperis matronalis subsp. nivaea,5,4,6,6,8,7,,,0
+Hesperis sylvestris,5,7,6,5,7,5,,,0
+Hesperis tristis,8,8,7,3,8,3,,,0
+Hibiscus syriacus,7,8,4,4,6,5,,,0
+Hibiscus trionum,8,7,4,5,7,7,,,2
+Hieracium adenodermum,7,2,i,5,2,3,,,0
+Hieracium adenophytum,7,2,i,5,2,3,,,0
+Hieracium alpinum,8,2,i,5,2,2,,~,0
+Hieracium amplexicaule,8,4,3,3,5,2,,,0
+Hieracium antholzense,7,3,i,5,7,3,,,0
+Hieracium aphyllum,8,2,i,5,3,3,,~,0
+Hieracium apricorum,8,7,5,4,8,2,,,0
+Hieracium arlbergense,7,3,4,5,7,3,,,0
+Hieracium armerioides,8,3,i,5,7,2,,~,0
+Hieracium arolae,8,3,i,5,5,3,,,0
+Hieracium atratum,7,3,i,5,3,3,,,0
+Hieracium atrocalyx,8,4,i,4,8,2,,,0
+Hieracium balbisianum,9,4,4,4,8,2,,,0
+Hieracium beckianum,8,3,i,5,9,3,,,0
+Hieracium benzianum,8,4,i,5,7,3,,,0
+Hieracium bifidum,7,5,i,3,8,3,,,0
+Hieracium bocconei,8,3,5,6,3,3,,,0
+Hieracium brevifolium,6,6,5,4,4,3,,,0
+Hieracium bupleuroides,9,4,5,2,9,1,,,0
+Hieracium caesium,7,5,4,4,7,3,,,0
+Hieracium calcareum,9,6,5,3,9,2,,,0
+Hieracium canescens,9,5,5,4,8,2,,,0
+Hieracium carinthiostiriacum,8,3,i,5,3,3,,,0
+Hieracium cavillieria,7,3,i,5,7,3,,,0
+Hieracium chlorifolium,8,3,4,5,8,2,,,0
+Hieracium chlorocephalum,7,4,6,5,3,3,,,0
+Hieracium chlorophyton,7,5,i,5,5,3,,,0
+Hieracium chondrillifolium,8,4,4,4,7,2,,,0
+Hieracium cirritum,8,3,4,5,5,2,,,0
+Hieracium clusii,9,7,6,2,9,1,,,0
+Hieracium cottetii,8,4,4,2,8,2,,,0
+Hieracium crocatum,7,4,i,5,4,3,,,0
+Hieracium cryptadenum,8,4,4,3,8,2,,,0
+Hieracium ctenodon,8,3,i,5,8,2,,,0
+Hieracium cydoniifolium,7,3,4,5,8,2,,,0
+Hieracium dasytrichum,8,3,4,5,7,2,,,0
+Hieracium dentatum,8,3,i,5,8,2,,,0
+Hieracium dermophyllum,7,3,4,5,8,3,,,0
+Hieracium diaphanoides,7,i,i,i,5,3,,,0
+Hieracium djiimilense,7,3,6,5,3,3,,,0
+Hieracium dolichaetum,8,3,i,5,2,3,,,0
+Hieracium dollineri,8,3,5,4,8,2,,,0
+Hieracium doronicifolium,7,3,4,5,5,3,,,0
+Hieracium entleutneri,7,3,4,5,3,3,,,0
+Hieracium erucophyllum,8,4,i,4,8,2,,,0
+Hieracium eversianum,7,3,i,5,5,2,,,0
+Hieracium excellens,9,4,i,3,9,1,,,0
+Hieracium falcatum,8,3,4,4,8,2,,,0
+Hieracium fastuosum,7,3,i,5,3,3,,,0
+Hieracium flagelliferum,6,5,4,4,5,3,,,0
+Hieracium froelichianum,7,3,i,5,3,3,,,0
+Hieracium glabratum,9,2,4,4,8,3,,,0
+Hieracium glanduliferum,9,1,4,4,3,1,,~,0
+Hieracium glaucinum,6,7,4,4,5,3,,,0
+Hieracium glaucum,8,4,4,3,8,1,,,0
+Hieracium gombense,7,3,i,5,3,3,,,0
+Hieracium gorfenianum,7,3,i,5,2,2,,,0
+Hieracium grossicephalum,8,3,i,5,8,2,,,0
+Hieracium hayekii,8,4,i,3,9,1,,,0
+Hieracium hermanni-zahnii,7,3,i,5,7,3,,,0
+Hieracium humile,7,4,4,3,8,1,,,0
+Hieracium hypochoeroides,7,i,4,4,7,2,,,0
+Hieracium inuloides,7,3,4,5,5,3,,,0
+Hieracium isatidifolium,7,3,4,5,8,2,,,0
+Hieracium jurassicum,5,3,4,6,5,4,,,0
+Hieracium juratzkae,6,5,6,4,8,2,,,0
+Hieracium kalsianum,7,3,i,5,7,3,,,0
+Hieracium khekianum,8,2,i,5,1,3,,,0
+Hieracium kopsicum,5,3,4,5,4,4,,,0
+Hieracium kuekenthalianum,5,3,i,5,5,3,,,0
+Hieracium lachenalii,5,5,i,5,4,3,,,0
+Hieracium laevigatum,7,5,i,4,3,2,,,0
+Hieracium levicaule,9,4,4,3,8,2,,,0
+Hieracium liptoviense,7,3,6,5,5,3,,,0
+Hieracium macrocephalum,7,3,i,5,4,3,,,0
+Hieracium maculatum,6,7,4,4,5,3,,,0
+Hieracium melanops,7,3,i,5,3,3,,,0
+Hieracium murorum,5,i,i,5,4,4,,,0
+Hieracium neoplatyphyllum,7,6,4,4,5,3,,,0
+Hieracium neostenophyllum,7,6,6,4,6,2,,,0
+Hieracium nigrescens,7,3,i,6,2,3,,,0
+Hieracium nigritum,7,3,i,5,3,3,,,0
+Hieracium norvegicum,8,4,i,5,3,2,,,0
+Hieracium oligodon,8,4,6,3,8,2,,,0
+Hieracium onosmoides,7,4,i,4,3,2,,,0
+Hieracium oxyodon,8,3,4,3,8,2,,,0
+Hieracium pallescens,8,3,i,5,8,2,,,0
+Hieracium picroides,7,3,4,4,4,3,,,0
+Hieracium pietroszense,8,3,6,5,4,3,,,0
+Hieracium pilosum,8,2,4,5,9,2,,,0
+Hieracium polatschekii,5,4,i,6,5,3,,,0
+Hieracium porrectum,7,3,i,5,8,2,,,0
+Hieracium porrifolium,9,4,5,2,8,1,,,0
+Hieracium prediliense,9,4,5,3,9,2,,,0
+Hieracium prenanthoides,5,3,6,5,6,5,,,0
+Hieracium pseudalpinum,8,1,i,6,2,2,,~,0
+Hieracium pseudinuloides,7,4,i,5,5,3,,,0
+Hieracium pseudobifidum,8,6,6,3,7,2,,,0
+Hieracium pseudobupleuroides,8,5,i,3,9,1,,,0
+Hieracium pseudodolichaetum,7,3,i,5,2,3,,,0
+Hieracium pseudofritzei,7,3,6,5,3,3,,,0
+Hieracium pseudostenoplectum,7,3,i,5,3,3,,,0
+Hieracium racemosum,5,6,5,4,3,3,,,0
+Hieracium ramosum,8,4,6,4,6,1,,,0
+Hieracium rapunculoides,7,4,4,5,4,3,,,0
+Hieracium richenii,7,3,i,5,4,2,,,0
+Hieracium rohacsense,8,3,5,5,4,2,,,0
+Hieracium rostanii,8,3,4,5,4,2,,,0
+Hieracium rotundatum,5,5,6,4,5,3,,,0
+Hieracium sabaudum,5,6,4,4,5,4,,,0
+Hieracium saxatile,8,6,6,3,8,1,,,0
+Hieracium saxifragum,8,4,i,4,3,2,,,0
+Hieracium schmidtii,8,6,i,3,3,1,,,0
+Hieracium scorzonerifolium,8,4,4,4,9,2,,,0
+Hieracium sparsiramum,8,3,i,5,8,1,,,0
+Hieracium sparsum,7,3,5,5,5,5,,,0
+Hieracium sterzingense,7,3,i,5,4,3,,,0
+Hieracium stranigense,7,3,i,5,3,3,,,0
+Hieracium subcaesiiforme,7,3,4,5,7,2,,,0
+Hieracium subeversianum,7,3,4,5,5,2,,,0
+Hieracium subglaberrimum,8,3,i,5,8,1,,,0
+Hieracium symphytaceum,4,4,4,5,5,3,,,0
+Hieracium tenuiflorum,6,6,7,4,5,3,,,0
+Hieracium tephrodermum,7,3,i,5,3,2,,,0
+Hieracium tephropogon,9,4,i,3,8,1,,,0
+Hieracium tephrosoma,7,3,i,6,5,3,,,0
+Hieracium transylvanicum,2,6,5,5,4,4,,,0
+Hieracium trichopsis,7,3,4,5,5,3,,,0
+Hieracium umbellatum,7,6,i,3,i,3,,,0
+Hieracium umbrosum,6,4,4,5,6,3,,,0
+Hieracium valdepilosum,8,3,4,5,7,4,,,0
+Hieracium valoddae,7,3,i,5,6,3,,,0
+Hieracium vasconicum,6,6,3,4,5,4,,,0
+Hieracium vetteri,7,3,4,5,3,3,,,0
+Hieracium villosum,9,2,4,4,9,3,,,0
+Hieracium vindobonense,8,7,6,3,9,1,,,0
+Hieracium vollmannii,6,3,i,5,3,3,,,0
+Hieracium wilczekianum,7,4,i,5,7,2,,,0
+Hieracium xanthoprasinophyes,6,3,i,5,3,3,,,0
+Himantoglossum adriaticum,7,7,5,3,8,3,,,0
+Hippocrepis comosa,7,5,3,3,8,2,,,0
+Hippocrepis emerus subsp. emerus,5,6,5,3,9,3,,,0
+Hippophae rhamnoides,9,6,5,4,7,3,,~,1
+Hippophae rhamnoides subsp. carpatica,9,7,5,3,7,4,,~,1
+Hippophae rhamnoides subsp. fluviatilis,9,6,5,4,7,2,,~,1
+Hippophae rhamnoides subsp. rhamnoides,9,6,6,4,7,3,,~,1
+Hippuris vulgaris,7,5,i,11,8,5,,~,1
+Hirschfeldia incana,9,7,i,3,7,5,,,0
+Holcus lanatus,8,6,4,5,6,5,,~,1
+Holcus mollis,6,5,3,5,3,3,,~,0
+Holosteum umbellatum,9,6,6,3,7,3,,,0
+Homogyne alpina,6,3,5,5,3,2,,,0
+Homogyne discolor,9,2,5,6,8,4,,,0
+Homogyne sylvestris,4,4,4,4,7,3,,,0
+Honorius boucheanum,7,7,7,3,6,7,,,0
+Honorius nutans,6,7,6,4,7,7,,,0
+Hordelymus europaeus,4,5,5,5,7,5,,,0
+Hordeum distichon,7,7,i,4,7,5,,,0
+Hordeum geniculatum,9,9,3,2,6,5,,,5
+Hordeum jubatum,9,6,i,5,7,6,,,2
+Hordeum marinum,9,7,i,4,6,5,,,5
+Hordeum murinum,8,7,4,4,7,6,,,1
+Hordeum murinum subsp. leporinum,9,8,4,4,7,5,,,1
+Hordeum murinum subsp. murinum,8,7,4,4,7,6,,,1
+Hordeum secalinum,8,7,3,5,6,5,,,4
+Hordeum vulgare,7,7,i,4,7,5,,,0
+Horminum pyrenaicum,8,2,4,5,9,2,,,0
+Hornungia alpina,9,2,4,5,8,2,,,0
+Hornungia alpina subsp. alpina,8,2,3,5,9,2,,,0
+Hornungia alpina subsp. austroalpina,9,2,4,4,9,2,,,0
+Hornungia alpina subsp. brevicaulis,9,1,4,6,7,2,,,0
+Hornungia pauciflora,7,4,8,3,7,8,,,1
+Hornungia petraea,9,7,5,1,9,1,,,0
+Hottonia palustris,7,6,5,11,5,5,,,0
+Houttuynia cordata,7,8,i,7,6,6,,,0
+Humulus lupulus,7,6,i,7,6,8,,=,0
+Humulus scandens,7,8,4,6,6,6,,,0
+Huperzia selago,i,3,5,6,3,3,,,0
+Hyacinthoides hispanica,7,8,1,4,5,5,,,0
+Hyacinthoides italica,8,8,1,3,5,4,,,0
+Hyacinthoides non-scripta,6,6,1,5,6,6,,,0
+Hyacinthus orientalis,7,7,6,3,7,5,,,0
+Hydrilla verticillata,6,6,3,12,9,3,,,0
+Hydrocharis morsus-ranae,7,6,i,11,7,6,,,0
+Hydrocotyle vulgaris,6,6,4,9,3,3,,~,1
+Hygrophila polysperma,7,8,i,7,6,6,,,0
+Hylotelephium jullianum,7,5,6,4,5,4,,,0
+Hylotelephium maximum,7,6,6,4,6,3,,,0
+Hylotelephium telephium,8,6,6,4,5,4,,,0
+Hyoscyamus albus,9,8,5,2,8,8,,,1
+Hyoscyamus niger,9,6,i,4,7,8,,,1
+Hypericum androsaemum,6,6,3,6,5,5,,,0
+Hypericum barbatum,7,7,6,4,7,5,,,0
+Hypericum calycinum,5,8,3,6,5,5,,,0
+Hypericum dubium,7,6,3,6,7,5,,~,0
+Hypericum elegans,8,7,7,3,8,2,,~,0
+Hypericum elodes,8,6,1,9,2,1,,=,0
+Hypericum hirsutum,6,6,5,5,7,6,,,0
+Hypericum humifusum,7,6,3,7,4,3,,~,0
+Hypericum maculatum,7,4,i,6,4,4,,~,0
+Hypericum montanum,6,6,4,4,7,4,,,0
+Hypericum perforatum subsp. perforatum,7,6,i,4,i,4,,~,1
+Hypericum pulchrum,6,6,2,5,2,2,,,0
+Hypericum tetrapterum,7,6,4,8,6,5,,~,2
+Hypericum x desetangsii,7,6,3,6,5,4,,~,0
+Hypochaeris glabra,9,7,4,3,3,2,,,0
+Hypochaeris maculata,8,6,6,4,7,3,,~,0
+Hypochaeris radicata,8,5,4,5,4,3,,,1
+Hypochaeris uniflora,8,2,5,4,3,2,,~,0
+Hypopitys hypophegea,1,5,3,5,6,4,,,0
+Hypopitys monotropa,1,5,i,5,4,3,,,0
+Hypopitys monotropa agg.,1,5,i,5,5,3,,,0
+Hyssopus officinalis,8,7,7,2,7,3,,,0
+Iberis amara,7,7,2,4,8,4,,,0
+Iberis pinnata,9,8,6,2,9,2,,,0
+Iberis sempervirens,8,6,7,3,7,3,,,0
+Iberis umbellata,9,8,7,2,7,2,,,0
+Ilex aquifolium,3,5,2,5,5,5,,,0
+Illecebrum verticillatum,8,6,3,7,3,3,,=,0
+Impatiens balfourii,5,9,3,6,7,7,,,0
+Impatiens balsamina,5,7,3,4,5,7,,,0
+Impatiens glandulifera,6,6,3,6,6,7,,=,0
+Impatiens noli-tangere,4,5,6,7,7,7,,,0
+Impatiens parviflora,4,6,6,5,6,6,,,0
+Inula helenium,7,6,8,6,6,6,,~,0
+Ipomoea lacunosa,7,8,7,7,5,5,,,0
+Ipomoea purpurea,8,8,4,3,7,5,,,0
+Iris germanica,8,8,6,3,7,3,,,0
+Iris graminea,6,7,6,4,7,4,,~,0
+Iris humilis subsp. arenaria,8,8,7,2,i,2,,,0
+Iris pallida,8,9,3,3,7,4,,,0
+Iris pseudacorus,7,6,i,9,6,7,,=,1
+Iris pumila,9,7,7,2,9,2,,,0
+Iris sanguinea,8,8,7,9,7,5,,=,1
+Iris sibirica,8,6,6,8,7,3,,~,0
+Iris spuria,9,8,6,7,8,3,,~,3
+Iris variegata,7,7,6,2,8,3,,,0
+Iris x sambucina,8,7,8,2,7,4,,,0
+Isatis tinctoria,9,7,6,3,8,3,,,0
+Isolepis setacea,7,5,i,9,5,3,,~,0
+Isopyrum thalictroides,4,6,5,6,7,5,,,0
+Iva xanthiifolia,9,8,8,4,7,6,,,0
+Jasione montana,8,6,4,3,3,2,,,0
+Jasminum nudiflorum,7,8,3,3,5,3,,,0
+Jovibarba globifera,9,i,6,1,i,1,,,0
+Jovibarba globifera subsp. arenaria,9,6,6,1,8,2,,,0
+Jovibarba globifera subsp. glabrescens,9,7,6,1,9,1,,,0
+Jovibarba globifera subsp. globifera,9,6,6,1,6,1,,,0
+Jovibarba globifera subsp. hirta,9,6,6,1,7,1,,,0
+Jovibarba globifera subsp. pseudohirta,8,3,6,1,7,1,,,0
+Juglans nigra,6,8,2,6,6,7,,,0
+Juglans regia,6,6,5,5,7,7,,=,0
+Juncus acutiflorus,9,6,i,8,4,3,,,0
+Juncus alpinoarticulatus,8,3,6,9,6,2,,,0
+Juncus arcticus,9,2,6,8,5,2,,=,0
+Juncus articulatus,8,i,i,9,i,4,,~,1
+Juncus atratus,8,7,8,9,7,3,,~,1
+Juncus biglumis,9,1,3,9,7,2,,,1
+Juncus bufonius s. lat. (inkl. J. minutulus),8,5,i,8,5,5,,~,1
+Juncus capitatus,8,7,4,7,4,3,,,0
+Juncus castaneus,9,2,6,8,5,3,,,0
+Juncus compressus,8,5,i,7,6,5,,~,3
+Juncus conglomeratus,8,5,i,8,4,4,,~,1
+Juncus dichotomus,6,6,4,8,5,5,,~,0
+Juncus dudleyi,6,6,3,6,5,6,,~,1
+Juncus effusus,8,i,i,8,5,4,,~,1
+Juncus ensifolius,7,5,7,8,3,5,,,0
+Juncus filiformis,7,4,6,8,3,3,,~,0
+Juncus gerardii,8,7,8,7,8,4,,=,8
+Juncus inflexus,8,5,i,8,8,5,,~,2
+Juncus jacquinii,9,2,6,5,5,4,,~,0
+Juncus maritimus,9,7,i,7,8,6,,=,6
+Juncus minutulus,7,5,5,7,5,5,,~,0
+Juncus ranarius,9,7,7,8,7,5,,,6
+Juncus sphaerocarpus,8,8,7,8,7,3,,~,1
+Juncus squarrosus,8,5,3,7,1,2,,~,0
+Juncus subnodulosus,8,6,3,8,9,4,,,2
+Juncus tenageia,8,6,i,8,4,3,,,0
+Juncus tenuis s. lat. (inkl. J. dudlei und J. dichotomus),6,6,6,6,5,5,,~,0
+Juncus tenuis s. str.,6,5,6,6,5,5,,~,0
+Juncus triglumis,8,2,6,9,6,2,,=,0
+Juniperus communis,8,i,i,4,i,2,,,0
+Juniperus communis subsp. alpina,8,3,7,4,i,2,,,0
+Juniperus communis subsp. communis,8,6,i,4,i,2,,,0
+Juniperus sabina,7,4,7,3,4,2,,,0
+Jurinea mollis,8,7,6,2,9,2,,,0
+Kalmia angustifolia,8,5,5,8,1,1,,,0
+Kalmia procumbens,9,2,6,i,i,1,,,0
+Kernera saxatilis,9,3,5,3,9,1,,~,0
+Kerria japonica,3,8,3,5,6,5,,,0
+Kickxia elatine subsp. elatine,7,7,4,4,7,5,,~,1
+Kickxia spuria,7,7,4,4,7,5,,~,0
+Klasea lycopifolia,7,8,7,3,8,3,,,0
+Klasea quinquefolia,7,7,7,4,7,3,,,0
+Knautia arvensis,7,6,i,4,6,4,,,0
+Knautia arvensis subsp. arvensis,7,6,i,4,6,4,,,0
+Knautia arvensis subsp. kitaibelii,8,7,6,3,8,2,,,0
+Knautia arvensis subsp. pannonica,7,7,6,4,7,3,,,0
+Knautia carinthiaca,7,6,6,3,7,2,,,0
+Knautia drymeia,5,5,5,4,6,5,,,0
+Knautia drymeia subsp. drymeia,5,6,5,4,6,5,,,0
+Knautia drymeia subsp. intermedia,6,4,5,5,6,5,,,0
+Knautia longifolia,7,3,5,5,7,4,,,0
+Knautia maxima,6,4,4,6,7,5,,,0
+Knautia x norica,7,6,6,3,7,2,,,0
+Koeleria aristata subsp. ovatipaniculata,9,1,5,5,6,2,,,0
+Koeleria eriostachya,7,3,6,2,8,2,,,0
+Koeleria glauca,9,7,7,1,8,1,,,0
+Koeleria hirsuta,9,3,6,3,3,2,,,0
+Koeleria lobata,9,7,6,3,8,2,,,0
+Koeleria macrantha,8,7,7,3,7,2,,,0
+Koeleria pyramidata,8,6,6,4,7,3,,,0
+Koeleria pyramidata var. pubiculmis,7,6,6,3,8,2,,,0
+Koeleria pyramidata var. pyramidata,8,6,6,4,7,3,,,0
+Koelreuteria paniculata,7,8,3,5,7,3,,,0
+Koenigia alpina,7,4,7,4,4,6,,,0
+Koenigia polystachya,7,8,5,6,5,7,,,0
+Kolkwitzia amabilis,7,9,5,5,5,5,,,0
+Krascheninnikovia ceratoides,9,8,9,2,8,4,,,0
+Laburnum alpinum,6,5,5,5,6,4,,,0
+Laburnum anagyroides,6,7,4,3,8,3,,,0
+Lactuca alpina,6,3,5,6,6,7,,,0
+Lactuca muralis,4,5,4,5,6,6,,,0
+Lactuca perennis,9,7,5,2,8,2,,,0
+Lactuca quercina,6,7,8,4,7,6,,,0
+Lactuca saligna,9,8,i,3,8,6,,,1
+Lactuca sativa,8,8,5,5,6,7,,,0
+Lactuca serriola,9,7,i,3,6,4,,,1
+Lactuca tatarica,9,6,8,5,7,5,,,3
+Lactuca viminea,8,7,i,3,7,3,,,0
+Lactuca virosa,8,8,2,3,6,7,,,0
+Lagarosiphon major,6,9,3,12,7,5,,,0
+Lagurus ovatus,8,9,5,2,6,5,,,1
+Lamium album,7,5,i,5,6,8,,,0
+Lamium amplexicaule,8,7,i,4,7,7,,,0
+Lamium maculatum,5,i,5,6,7,8,,,0
+Lamium orvala,3,6,i,6,7,6,,,0
+Lamium purpureum,7,5,3,5,7,7,,,0
+Lantana camara,9,9,1,5,7,1,,,0
+Laphangium luteoalbum,8,6,4,6,5,3,,~,0
+Lappula patula,9,7,7,4,7,2,,,5
+Lappula squarrosa,8,6,7,3,7,6,,,0
+Lapsana communis,5,6,i,5,6,7,,,0
+Lapsana communis subsp. communis,5,6,i,5,6,7,,,0
+Lapsana communis subsp. intermedia,5,7,i,4,7,7,,,0
+Larix decidua,8,4,6,4,i,3,,,0
+Larix kaempferi,8,5,5,5,7,7,,,0
+Laser archangelica,7,5,6,8,7,7,,=,0
+Laser trilobum,6,6,5,3,9,3,,,0
+Laserpitium halleri,7,3,6,4,3,2,,,0
+Laserpitium krapfii subsp. gaudinii,6,5,6,3,6,3,,,0
+Laserpitium latifolium,6,5,5,4,8,4,,,0
+Laserpitium latifolium subsp. asperum,6,7,6,4,8,4,,,0
+Laserpitium latifolium subsp. latifolium,5,4,5,4,8,4,,,0
+Laserpitium peucedanoides,8,3,4,3,8,3,,,0
+Lathraea clandestina,2,8,3,3,7,3,,,0
+Lathraea squamaria,2,5,4,6,7,6,,,0
+Lathraea squamaria subsp. squamaria,2,7,4,7,7,6,,,0
+Lathraea squamaria subsp. tatrica,2,5,4,5,5,6,,,0
+Lathyrus annuus,7,8,5,5,7,6,,,0
+Lathyrus aphaca,8,7,i,3,8,4,,,0
+Lathyrus cicera,8,8,5,3,6,5,,,0
+Lathyrus heterophyllus,7,6,4,4,8,3,,,0
+Lathyrus hirsutus,7,6,i,4,7,5,,,1
+Lathyrus laevigatus,6,3,4,5,8,4,,~,0
+Lathyrus laevigatus subsp. laevigatus,6,5,6,5,7,4,,~,0
+Lathyrus laevigatus subsp. occidentalis,7,3,3,6,8,4,,,0
+Lathyrus laevigatus subsp. scopolii,7,3,4,6,8,4,,,0
+Lathyrus latifolius,7,7,4,4,8,3,,~,0
+Lathyrus linifolius,6,6,4,5,3,3,,,0
+Lathyrus niger,5,6,5,4,6,3,,~,0
+Lathyrus nissolia,8,7,i,4,6,5,,~,1
+Lathyrus odoratus,8,8,4,3,7,4,,,0
+Lathyrus oleraceus,9,8,4,4,7,5,,,0
+Lathyrus palustris,7,6,6,8,7,4,,=,1
+Lathyrus pannonicus,8,7,7,5,8,3,,~,0
+Lathyrus pannonicus subsp. collinus,8,7,7,4,8,3,,~,0
+Lathyrus pannonicus subsp. pannonicus,8,7,7,6,8,3,,~,0
+Lathyrus pratensis,7,5,i,6,6,6,,~,1
+Lathyrus pratensis subsp. lusseri,7,3,3,7,5,7,,,0
+Lathyrus pratensis subsp. pratensis,7,5,i,6,6,6,,~,1
+Lathyrus sativus,8,8,5,4,6,6,,,0
+Lathyrus sphaericus,9,9,7,2,8,2,,,0
+Lathyrus sylvestris,7,6,5,4,6,4,,,0
+Lathyrus tuberosus,7,6,7,4,8,5,,~,1
+Lathyrus venetus,4,6,6,5,8,5,,,0
+Lathyrus vernus,4,5,6,5,7,5,,,0
+Laurus nobilis,3,9,3,4,5,3,,,0
+Lavandula angustifolia,8,9,7,2,7,2,,,0
+Leersia oryzoides,8,6,i,10,7,7,,,1
+Legousia hybrida,7,7,3,4,7,4,,,0
+Legousia speculum-veneris,8,7,5,4,8,4,,,0
+Lemna aequinoctialis,7,8,i,11,5,5,,,0
+Lemna gibba,8,6,i,11,8,8,,,1
+Lemna minor,7,5,i,11,7,6,,,1
+Lemna minuta,7,6,i,11,6,6,,,1
+Lemna trisulca,7,6,i,12,7,5,,,1
+Lemna turionifera,7,6,i,11,7,7,,,1
+Leontodon hispidus,8,i,i,5,6,i,,~,0
+Leontodon hispidus subsp. dubius,8,4,5,3,9,3,,,0
+Leontodon hispidus subsp. hispidus,8,i,i,5,6,6,,~,0
+Leontodon hispidus subsp. hyoseroides,8,4,5,4,8,3,,,0
+Leontodon incanus,7,5,5,2,8,2,,,0
+Leontodon saxatilis,8,7,3,7,7,5,,~,2
+Leontopodium alpinum,9,2,6,4,8,2,,,0
+Leonurus cardiaca,8,6,7,5,7,8,,,1
+Lepidium campestre,7,6,i,4,7,6,,,1
+Lepidium cartilagineum,9,8,8,7,8,2,,~,7
+Lepidium coronopus,8,7,i,5,7,7,,~,2
+Lepidium densiflorum,8,6,7,4,7,6,,,0
+Lepidium didymum,9,7,3,5,7,6,,,1
+Lepidium draba,8,7,8,3,7,4,,,1
+Lepidium graminifolium,8,8,5,3,6,4,,,0
+Lepidium heterophyllum,8,7,2,5,6,5,,,1
+Lepidium latifolium,9,7,8,5,7,6,,~,4
+Lepidium neglectum,9,7,7,3,8,4,,,0
+Lepidium perfoliatum,8,7,8,5,8,5,,,4
+Lepidium ruderale,9,6,6,4,7,6,,,3
+Lepidium sativum,8,7,5,5,7,6,,,0
+Lepidium virginicum,8,6,i,4,6,5,,,1
+Leucanthemella serotina,7,7,5,7,5,5,,,0
+Leucanthemopsis alpina,8,1,5,6,3,3,,,0
+Leucanthemopsis alpina var. alpina,8,1,5,6,3,3,,,0
+Leucanthemopsis alpina var. cuneifolia,9,1,5,6,4,3,,,0
+Leucanthemum adustum,8,4,4,4,7,3,,,0
+Leucanthemum atratum,8,2,4,4,9,2,,,0
+Leucanthemum gaudinii,8,4,5,4,6,4,,,0
+Leucanthemum halleri,9,2,5,5,9,2,,,0
+Leucanthemum heterophyllum,7,4,4,5,6,5,,,0
+Leucanthemum ircutianum,8,5,i,4,6,4,,~,0
+Leucanthemum lithopolitanicum,8,2,5,4,9,3,,,0
+Leucanthemum margaritae,6,5,3,4,8,4,,,0
+Leucanthemum vulgare,8,5,i,4,6,5,,,1
+Leucojum aestivum,7,8,5,8,7,7,,=,0
+Leucojum vernum,6,5,4,6,7,7,,,0
+Levisticum officinale,7,6,5,5,6,5,,,0
+Ligularia dentata,7,6,8,6,7,5,,~,0
+Ligularia sibirica,7,5,8,8,7,4,,~,0
+Ligustrum ovalifolium,5,8,3,4,7,3,,,0
+Ligustrum vulgare,6,6,3,4,7,4,,,0
+Lilium bulbiferum subsp. bulbiferum,7,5,5,5,7,4,,,0
+Lilium candidum,7,8,5,3,7,5,,,0
+Lilium carniolicum,7,4,5,4,8,4,,,0
+Lilium martagon,5,i,6,5,7,5,,,0
+Limodorum abortivum,6,7,i,4,8,3,,,0
+Limosella aquatica,8,6,i,8,7,6,,=,1
+Linaria alpina,9,3,4,4,7,2,,,0
+Linaria alpina subsp. alpina,9,2,4,5,7,2,,,0
+Linaria alpina subsp. petraea,9,4,4,4,9,2,,,0
+Linaria angustissima,9,7,i,3,8,2,,,0
+Linaria arvensis,7,7,2,5,7,5,,,0
+Linaria dalmatica,9,7,6,2,7,2,,,0
+Linaria genistifolia,8,7,6,2,7,2,,,0
+Linaria purpurea,8,8,7,4,7,5,,,0
+Linaria repens,7,6,2,4,4,5,,,0
+Linaria simplex,9,8,5,4,7,4,,,0
+Linaria supina,9,7,4,2,6,2,,,0
+Linaria vulgaris subsp. vulgaris,8,6,i,4,7,5,,,1
+Lindernia dubia,9,7,i,8,6,6,,=,1
+Lindernia procumbens,9,7,7,8,7,6,,=,0
+Linnaea borealis,4,3,6,5,2,2,,,0
+Linum alpinum,9,2,4,4,9,2,,,0
+Linum austriacum subsp. austriacum,9,7,8,2,8,2,,,0
+Linum catharticum,8,5,i,5,7,3,,~,1
+Linum flavum,8,7,7,3,8,3,,~,0
+Linum hirsutum subsp. hirsutum,9,8,7,2,8,2,,,0
+Linum maritimum,9,8,5,6,7,5,,~,4
+Linum perenne,7,6,6,3,8,2,,,0
+Linum radiola,8,6,4,7,3,2,,=,0
+Linum tenuifolium,9,8,6,2,9,2,,,0
+Linum usitatissimum,8,6,i,4,6,6,,,0
+Linum viscosum,8,6,4,4,8,3,,~,0
+Lipandra polysperma,7,6,6,6,6,8,,,0
+Liparis loeselii,8,5,5,9,9,2,,=,1
+Liparis nemoralis,5,5,4,5,9,3,,,0
+Liriodendron tulipifera,7,9,4,5,7,4,,,0
+Listera cordata,1,3,i,7,2,2,,,0
+Listera ovata,6,5,i,6,7,6,,~,0
+Lithospermum officinale,7,6,i,4,7,5,,,0
+Litorella uniflora,8,5,4,10,5,2,,,1
+Lobelia erinus,7,8,2,5,5,5,,,0
+Lobularia maritima,8,7,5,2,7,4,,,1
+Lolium apenninum,7,3,5,6,6,7,,,0
+Lolium arundinaceum,8,6,i,7,7,6,,~,3
+Lolium arundinaceum subsp. arundinaceum,8,6,4,7,7,6,,~,2
+Lolium arundinaceum subsp. uechtritziana,8,6,8,7,6,7,,~,3
+Lolium giganteum,4,5,i,7,6,6,,,0
+Lolium multiflorum,8,7,i,5,7,8,,,1
+Lolium paniculatum,9,2,5,4,6,4,,,0
+Lolium perenne,8,6,i,5,7,7,,~,1
+Lolium pratense,8,5,i,6,6,7,,~,1
+Lolium pratense agg.,8,i,i,6,6,7,,~,1
+Lolium pulchellum,8,2,4,5,8,3,,,0
+Lolium pulchellum subsp. juranum,9,2,5,4,8,2,,,0
+Lolium pulchellum subsp. pulchellum,8,2,4,6,8,3,,,0
+Lolium remotum,7,6,5,5,6,5,,,0
+Lolium rigidum,8,8,5,3,7,4,,,1
+Lolium rigidum subsp. lepturoides,8,8,4,5,6,5,,,0
+Lolium rigidum subsp. rigidum,8,8,5,3,7,4,,,1
+Lolium temulentum,7,7,i,4,7,6,,~,0
+Lolium x boucheanum,8,6,i,5,7,8,,,1
+Lomatogonium carinthiacum,9,1,8,6,7,2,,,0
+Loncomelos brevistylus,8,7,6,4,6,4,,,0
+Loncomelos pyrenaicus,7,6,i,5,7,5,,~,0
+Loncomelos pyrenaicus subsp. pyrenaicus,7,6,4,5,7,5,,,0
+Loncomelos pyrenaicus subsp. sphaerocarpus,8,7,8,4,6,4,,~,0
+Lonicera alpigena,4,4,4,6,8,6,,,0
+Lonicera caerulea,5,3,7,6,2,2,,,0
+Lonicera caprifolium,6,7,5,4,7,5,,~,0
+Lonicera etrusca,7,9,i,3,6,4,,,0
+Lonicera henryi,5,8,5,5,5,5,,,0
+Lonicera japonica,3,9,3,5,5,7,,,0
+Lonicera nigra,3,4,5,5,5,4,,,0
+Lonicera nitida,5,8,3,5,5,5,,,0
+Lonicera periclymenum,6,5,2,5,4,5,,,0
+Lonicera pileata,2,8,5,5,5,5,,,0
+Lonicera tatarica,6,8,7,4,5,5,,,0
+Lonicera xylosteum,4,6,5,5,7,5,,,0
+Loranthus europaeus,8,6,6,i,i,i,,,0
+Lotus borbasii,8,7,6,3,9,3,,,0
+Lotus corniculatus,7,i,i,4,7,4,,,1
+Lotus germanicus,7,7,6,2,9,2,,,0
+Lotus herbaceus,7,7,6,4,8,3,,~,0
+Lotus maritimus,8,7,5,6,8,3,,~,3
+Lotus ornithopodioides,9,9,5,2,6,4,,,1
+Lotus pedunculatus,7,6,4,8,5,4,,,0
+Lotus tenuis,8,7,6,6,8,5,,~,6
+Ludwigia grandiflora,7,9,3,9,5,7,,=,0
+Ludwigia palustris,8,7,4,9,4,6,,=,1
+Lunaria annua,5,7,4,5,7,7,,,0
+Lunaria rediviva,4,5,5,6,7,8,,,0
+Lupinus albus,9,9,5,3,6,6,,,0
+Lupinus angustifolius,9,8,4,3,4,4,,,0
+Lupinus luteus,9,8,2,3,2,5,,,0
+Lupinus polyphyllus,7,5,3,5,4,5,,,0
+Luronium natans,8,6,3,11,5,3,,,0
+Luzula alpina,8,2,5,5,3,3,,,0
+Luzula alpinopilosa,8,2,3,7,4,3,,~,0
+Luzula campestris,8,5,4,4,i,3,,,0
+Luzula divulgata,6,6,6,4,3,3,,,0
+Luzula exspectata,8,3,5,5,7,2,,,0
+Luzula forsteri,3,6,i,4,4,3,,,0
+Luzula glabrata,8,2,5,6,7,4,,,0
+Luzula lutea,7,3,4,4,3,3,,,0
+Luzula luzulina,3,4,4,5,5,4,,,0
+Luzula luzuloides,5,i,5,5,3,4,,,0
+Luzula luzuloides var. luzuloides,4,5,5,5,3,4,,,0
+Luzula luzuloides var. rubella,6,3,5,5,3,3,,,0
+Luzula multiflora,7,i,i,5,4,3,,~,0
+Luzula nivea,4,4,4,5,5,3,,,0
+Luzula pallidula,7,6,7,5,4,3,,~,0
+Luzula pilosa,3,i,i,5,5,4,,,0
+Luzula spicata,9,2,6,4,4,1,,,0
+Luzula spicata subsp. conglomerata,9,2,5,4,4,1,,,0
+Luzula spicata subsp. spicata,9,2,6,4,6,1,,,0
+Luzula sudetica,8,3,5,6,3,2,,~,0
+Luzula sylvatica,4,4,3,6,3,4,,,0
+Luzula sylvatica subsp. sieberi,5,3,4,5,2,3,,,0
+Luzula sylvatica subsp. sylvatica,4,4,3,6,4,4,,,0
+Lychnis coronaria,7,7,5,4,6,5,,,0
+Lychnis flos-cuculi,7,5,i,7,5,4,,~,1
+Lychnis flos-jovis,8,4,6,3,3,4,,,0
+Lycium barbarum,8,7,8,4,7,5,,,1
+Lycium chinense,8,7,4,4,7,3,,,1
+Lycopersicon esculentum,7,8,i,5,6,9,,,0
+Lycopodiella inundata,9,4,4,9,1,1,,=,0
+Lycopodium annotinum,3,4,6,6,3,3,,,0
+Lycopodium clavatum,7,i,i,4,2,2,,,0
+Lycopodium clavatum subsp. clavatum,7,i,4,4,2,2,,,0
+Lycopodium clavatum subsp. monostachyon,7,3,6,4,2,2,,,0
+Lycopsis arvensis,8,6,i,4,5,6,,,0
+Lycopsis arvensis agg.,8,6,i,4,5,6,,,0
+Lycopsis orientalis,8,7,6,5,6,6,,,0
+Lycopus europaeus,7,6,i,9,7,7,,~,1
+Lycopus europaeus subsp. europaeus,7,6,i,9,7,7,,~,1
+Lycopus europaeus subsp. mollis,7,7,5,9,7,7,,~,1
+Lycopus exaltatus,7,7,8,9,7,7,,=,2
+Lysimachia nemorum,3,5,3,7,6,6,,~,0
+Lysimachia nummularia,4,6,i,7,6,6,,~,0
+Lysimachia punctata,6,6,7,7,6,6,,,0
+Lysimachia thyrsiflora,7,5,6,9,4,4,,=,0
+Lysimachia vulgaris,7,5,i,8,6,5,,~,1
+Lythrum hyssopifolia,8,7,i,7,5,5,,~,3
+Lythrum junceum,7,8,4,7,6,5,,=,0
+Lythrum salicaria,7,5,i,9,6,6,,~,1
+Lythrum virgatum,8,7,7,8,7,5,,~,3
+Macleaya cordata,5,8,3,5,5,7,,,0
+Maianthemum bifolium,3,5,6,5,4,3,,,0
+Malaxis monophyllos,4,4,6,7,6,5,,,0
+Malcolmia africana,9,9,5,1,7,5,,,4
+Malcolmia maritima,9,9,3,2,7,5,,,4
+Malus dasyphylla,7,7,5,4,5,5,,,0
+Malus domestica,7,7,7,5,5,5,,,0
+Malus sylvestris,6,6,i,5,7,5,,~,0
+Malva alcea,8,6,5,4,7,7,,,0
+Malva moschata,8,6,4,4,7,6,,,0
+Malva neglecta,8,6,i,5,7,9,,,2
+Malva nicaeensis,7,8,4,4,7,8,,,0
+Malva pusilla,8,7,7,4,7,8,,,2
+Malva sylvestris,8,6,i,4,7,7,,,1
+Malva sylvestris subsp. mauritiana,8,7,i,5,6,8,,,1
+Malva sylvestris subsp. sylvestris,8,6,i,4,7,7,,,1
+Malva thuringiaca,7,7,8,4,7,6,,,1
+Malva trimestris,8,8,5,4,7,5,,,1
+Malva verticillata,8,7,5,4,7,8,,,1
+Mantisalca salmantica,8,9,4,3,7,3,,,0
+Marrubium peregrinum,9,8,8,3,7,6,,,1
+Marrubium vulgare,9,7,i,4,7,7,,,1
+Marsilea quadrifolia,8,8,i,10,7,6,,,0
+Matricaria chamomilla,8,6,i,5,6,6,,,3
+Matricaria discoidea,8,5,i,5,7,8,,,1
+Matteuccia struthiopteris,5,5,7,7,7,7,,~,0
+Matthiola incana,9,9,4,2,9,3,,,4
+Matthiola longipetala subsp. longipetala,9,8,3,4,7,4,,,1
+Mazus pumilio,7,9,1,6,3,3,,,0
+Medicago arabica,8,7,5,4,8,5,,,1
+Medicago carstiensis,8,7,6,3,8,3,,,1
+Medicago disciformis,9,9,4,3,7,5,,,1
+Medicago falcata,8,6,i,3,7,3,,,1
+Medicago lupulina,7,5,i,4,7,4,,,1
+Medicago minima,9,7,i,3,8,4,,,1
+Medicago monspeliaca,8,8,6,2,8,2,,,0
+Medicago polymorpha,9,8,i,2,6,5,,,1
+Medicago prostrata,9,8,6,2,9,2,,,0
+Medicago sativa,8,6,6,4,7,6,,,1
+Medicago scutellata,9,9,5,3,6,5,,,0
+Medicago x varia,8,6,8,4,7,4,,,1
+Melampodium montanum,8,7,i,6,6,7,,,0
+Melampyrum arvense,7,7,6,3,7,4,,,0
+Melampyrum barbatum subsp. barbatum,8,8,7,3,8,5,,,0
+Melampyrum cristatum,7,7,6,3,8,3,,~,0
+Melampyrum nemorosum,5,6,6,4,6,4,,~,0
+Melampyrum pratense,6,i,i,i,3,2,,,0
+Melampyrum subalpinum,6,5,6,4,9,3,,,0
+Melampyrum subalpinum var. subalpinum,6,5,6,4,9,3,,,0
+Melampyrum subalpinum var. thermale,6,6,7,3,9,3,,,0
+Melampyrum sylvaticum,i,4,i,i,2,2,,,0
+Melica altissima,6,7,7,4,8,4,,,0
+Melica ciliata,8,6,5,1,7,2,,,0
+Melica ciliata subsp. ciliata,8,6,5,1,7,2,,,0
+Melica ciliata subsp. glauca,8,6,7,1,7,2,,,0
+Melica nutans,4,i,6,5,7,4,,~,0
+Melica picta,5,7,8,4,7,4,,,0
+Melica transsilvanica,8,7,7,3,6,4,,,0
+Melica uniflora,4,6,3,5,6,4,,~,0
+Melilotus albus,9,6,i,4,7,4,,,1
+Melilotus altissimus,8,6,5,7,7,6,,~,2
+Melilotus dentatus,8,6,8,6,7,5,,~,2
+Melilotus indicus,9,6,6,3,7,6,,~,2
+Melilotus infestus,8,9,4,3,7,6,,,2
+Melilotus officinalis,8,6,8,4,7,5,,,1
+Melilotus sulcatus,8,8,5,4,6,5,,,1
+Melissa officinalis,6,7,7,4,7,6,,,0
+Melittis melissophyllum subsp. melissophyllum,5,7,4,4,7,3,,,0
+Memoremea scorpioides,4,6,7,6,7,7,,,0
+Mentha aquatica,7,5,i,9,7,6,,=,1
+Mentha arvensis,7,5,i,7,6,5,,~,1
+Mentha longifolia,7,5,i,8,7,8,,~,1
+Mentha pulegium,8,7,i,7,7,5,,=,2
+Mentha spicata,7,7,4,7,7,7,,~,1
+Mentha suaveolens,8,7,3,8,6,5,,=,1
+Mentha x carinthiaca,7,5,4,8,6,6,,,0
+Mentha x dalmatica,7,6,4,8,8,7,,,0
+Mentha x dumetorum,7,5,4,9,8,8,,,0
+Mentha x piperita,8,7,5,6,7,6,,,1
+Mentha x smithiana,7,5,i,6,7,8,,,0
+Mentha x verticillata,7,5,i,8,6,5,,~,1
+Mentha x verticillata agg.,7,5,i,8,6,5,,~,1
+Mentha x villosa,7,8,5,6,5,7,,,0
+Menyanthes trifoliata,8,4,i,10,4,3,,~,0
+Mercurialis annua,7,7,i,4,7,7,,,0
+Mercurialis ovata,5,7,6,3,8,4,,,0
+Mercurialis perennis,3,i,i,5,8,6,,,0
+Mercurialis x paxii,7,7,6,4,8,4,,,0
+Mespilus germanica,6,8,6,4,6,4,,,0
+Meum athamanticum,8,4,3,5,4,3,,~,0
+Micranthes hieraciifolia,8,2,5,6,7,2,,,0
+Micranthes stellaris,8,2,4,8,5,4,,=,0
+Micranthes stellaris subsp. prolifera,7,3,6,9,5,4,,=,0
+Micranthes stellaris subsp. robusta,8,2,4,8,5,4,,=,0
+Microrrhinum litorale,9,8,5,3,7,3,,,2
+Microrrhinum minus,9,6,4,4,7,5,,,0
+Microthlaspi erraticum,8,6,4,3,8,3,,,0
+Microthlaspi perfoliatum,8,7,5,3,8,3,,,0
+Microthlaspi perfoliatum agg.,8,6,5,3,8,3,,,0
+Milium effusum,4,5,i,6,6,5,,,0
+Milium effusum subsp. alpicola,4,3,i,6,6,6,,,0
+Milium effusum subsp. effusum,4,5,i,6,6,5,,,0
+Mimulus guttatus,7,5,4,9,6,6,,=,1
+Mimulus moschatus,7,6,3,8,5,6,,=,0
+Mimulus ringens,7,6,3,8,6,7,,=,0
+Minuartia recurva,9,1,i,3,3,1,,,0
+Minuartia rubra,9,8,6,2,8,2,,,0
+Minuartia setacea,9,7,7,1,8,1,,,0
+Minuartia setacea subsp. bannatica,9,7,7,2,7,1,,,0
+Minuartia setacea subsp. setacea,9,7,7,1,8,1,,,0
+Mirabilis jalapa,7,9,3,4,6,5,,,0
+Miscanthus sacchariflorus,7,8,5,5,5,7,,,0
+Miscanthus sinensis,8,8,6,5,5,7,,,0
+Misopates orontium,8,7,4,4,5,4,,,0
+Moehringia bavarica subsp. bavarica,7,5,5,3,9,2,,,0
+Moehringia ciliata,9,2,6,5,7,2,,,0
+Moehringia diversifolia,5,4,5,3,4,2,,,0
+Moehringia muscosa,5,4,5,5,9,2,,~,0
+Moehringia trinervia,4,5,i,5,6,6,,,0
+Moenchia mantica,8,7,3,5,6,3,,~,0
+Molinia arundinacea,6,6,5,6,i,4,,~,1
+Molinia caerulea,7,i,i,7,i,2,,~,0
+Molinia caerulea agg.,7,i,i,7,i,2,,~,1
+Moneses uniflora,4,4,6,5,4,2,,,0
+Montia fontana,8,4,i,9,4,4,,=,0
+Montia fontana subsp. amporitana,8,5,3,8,3,5,,=,0
+Montia fontana subsp. fontana,8,4,i,9,4,4,,=,0
+Morus alba,6,7,5,6,7,6,,,0
+Morus nigra,6,8,5,5,7,5,,,0
+Muhlenbergia mexicana,8,6,2,3,8,8,,,0
+Mummenhoffia alliacea,8,7,5,4,7,6,,,0
+Muscari armeniacum,7,6,5,5,7,5,,,0
+Muscari aucheri,7,6,3,5,7,5,,,0
+Muscari azureum,7,7,5,4,7,5,,,0
+Muscari botryoides,7,6,5,5,7,4,,,0
+Muscari comosum,7,7,i,3,7,5,,,0
+Muscari latifolium,5,7,3,4,5,5,,,0
+Muscari neglectum,7,7,i,3,8,3,,,0
+Muscari tenuiflorum,7,8,7,3,8,3,,,0
+Mutellina adonidifolia,7,2,5,6,5,4,,,0
+Myagrum perfoliatum,7,7,7,4,8,5,,~,1
+Myosotis alpestris,8,2,7,5,8,4,,,0
+Myosotis arvensis subsp. arvensis,7,6,i,5,6,6,,,0
+Myosotis decumbens,6,3,6,6,6,7,,,0
+Myosotis decumbens subsp. decumbens,6,3,6,6,5,7,,,0
+Myosotis decumbens subsp. kerneri,6,4,6,6,7,6,,,0
+Myosotis decumbens subsp. variabilis,6,4,6,7,5,7,,,0
+Myosotis discolor,8,6,4,4,4,3,,,0
+Myosotis laxa subsp. caespitosa,7,6,i,9,5,6,,=,1
+Myosotis nemorosa,6,5,6,8,5,6,,~,0
+Myosotis ramosissima,9,6,4,2,7,2,,,0
+Myosotis rehsteineri,9,6,5,10,8,3,,~,0
+Myosotis scorpioides,6,i,6,8,6,6,,~,1
+Myosotis sparsiflora,5,6,7,6,7,7,,,0
+Myosotis stenophylla,8,7,6,3,7,3,,,0
+Myosotis stricta,9,6,6,2,5,2,,,0
+Myosotis sylvatica,6,5,5,5,6,7,,,0
+Myosurus minimus,8,7,7,6,6,5,,~,1
+Myricaria germanica,8,4,7,8,8,3,,=,0
+Myriophyllum alterniflorum,7,5,4,12,5,3,,,0
+Myriophyllum aquaticum,7,6,5,12,6,7,,,0
+Myriophyllum heterophyllum,7,8,6,12,5,6,,,0
+Myriophyllum spicatum,6,6,i,12,8,7,,,1
+Myriophyllum verticillatum,5,6,7,12,7,6,,,0
+Myrrhis odorata,7,4,4,6,7,7,,,0
+Najas flexilis,5,7,6,12,8,4,,,2
+Najas marina,5,7,i,12,9,5,,,2
+Najas marina subsp. major,5,7,7,12,9,4,,,2
+Najas marina subsp. marina,5,7,i,12,9,6,,,2
+Najas minor,6,8,7,12,8,4,,,2
+Narcissus minor,7,3,3,5,8,5,,,0
+Narcissus poëticus,8,6,4,6,6,5,,,0
+Narcissus pseudonarcissus,8,6,2,5,4,5,,,0
+Narcissus radiiflorus,8,4,5,6,7,4,,~,0
+Narcissus x incomparabilis,8,8,4,5,6,5,,,0
+Nardus stricta,8,i,i,i,2,2,,~,0
+Nasturtium microphyllum,7,6,2,11,6,7,,,1
+Nasturtium officinale,7,6,4,11,7,7,,,1
+Nasturtium officinale agg.,7,6,4,11,7,7,,,1
+Nasturtium x sterile,8,6,3,11,7,7,,,0
+Neotinea tridentata subsp. tridentata,9,6,4,3,8,2,,,0
+Neotinea ustulata,9,i,i,4,7,3,,~,0
+Neotinea ustulata subsp. aestivalis,9,7,6,5,7,3,,~,0
+Neotinea ustulata subsp. ustulata,9,i,i,4,7,3,,,0
+Neottia nidus-avis,3,i,i,5,7,5,,,0
+Nepeta cataria,8,7,i,4,7,7,,,1
+Nepeta nuda,8,7,8,3,7,4,,,0
+Nepeta racemosa,8,7,7,2,6,3,,,0
+Nepeta x faassenii,8,7,i,2,7,4,,,0
+Neslia paniculata,7,6,6,4,8,5,,,0
+Nicandra physalodes,8,8,i,5,7,7,,,0
+Nicotiana alata,7,8,2,5,5,4,,,0
+Nicotiana rustica,7,8,7,5,5,7,,,0
+Nicotiana tabacum,7,8,2,5,5,7,,,0
+Nigella arvensis,8,7,6,3,8,4,,,0
+Nigella damascena,8,8,5,4,6,5,,,0
+Nigritella archiducis-joannis,9,2,4,4,9,2,,,0
+Nigritella bicolor,9,2,5,4,9,2,,,0
+Nigritella lithopolitanica,9,2,5,4,8,2,,,0
+Nigritella miniata,9,2,5,4,9,2,,,0
+Nigritella minor,9,2,5,4,8,2,,,0
+Nigritella nigra subsp. austriaca,8,2,4,4,6,2,,,0
+Nigritella rhellicani,8,2,5,4,7,3,,,0
+Nigritella stiriaca,9,2,5,4,9,2,,,0
+Nigritella widderi,9,2,5,4,9,2,,,0
+Noccaea caerulescens s. lat.,8,4,3,4,5,4,,,0
+Noccaea crantzii,8,2,5,6,9,2,,,0
+Noccaea goesingensis,7,6,5,3,8,2,,,0
+Noccaea minima,8,2,4,5,9,3,,,0
+Noccaea montana,6,5,4,3,9,2,,,0
+Noccaea praecox,8,6,6,3,8,2,,,0
+Noccaea rotundifolia,9,2,5,5,9,3,,,0
+Noccaea rotundifolia subsp. cepaeifolia,9,3,5,6,8,2,,,0
+Noccaea rotundifolia subsp. rotundifolia,9,2,4,5,9,3,,,0
+Nonea lutea,8,8,6,3,6,4,,,0
+Nonea pulla,8,7,7,3,8,3,,,0
+Nuphar lutea,8,6,i,11,7,7,,,0
+Nuphar pumila,8,4,7,11,4,3,,,0
+Nymphaea alba,8,6,i,11,7,6,,,0
+Nymphaea candida,8,6,7,11,5,4,,,0
+Nymphoides peltata,8,7,i,11,7,7,,,0
+Odontarrhena murale,8,8,7,3,7,3,,,0
+Odontites luteus,8,7,6,2,9,2,,,0
+Odontites vernus,7,6,3,5,6,5,,~,1
+Odontites vulgaris,7,6,i,6,6,5,,~,2
+Oenanthe aquatica,7,6,i,10,7,7,,~,1
+Oenanthe banatica,6,8,7,7,6,4,,,0
+Oenanthe fistulosa,7,7,4,9,7,5,,=,1
+Oenanthe silaifolia,8,7,i,8,7,5,,~,2
+Oenothera acutifolia,8,7,i,4,7,5,,,1
+Oenothera albipercurva,8,7,i,4,7,5,,,1
+Oenothera ammophila,9,7,4,3,8,5,,,1
+Oenothera angustissima,8,6,4,4,7,6,,,1
+Oenothera biennis,9,7,i,4,7,4,,,1
+Oenothera cambrica,8,7,i,4,7,5,,,1
+Oenothera canovirens,7,8,5,3,5,5,,,1
+Oenothera carinthiaca,8,7,i,4,7,5,,,1
+Oenothera casimiri,8,7,i,4,7,5,,,1
+Oenothera compacta,8,7,i,4,7,5,,,1
+Oenothera cruciata,8,7,i,4,7,5,,,1
+Oenothera deflexa,8,7,5,4,6,6,,,1
+Oenothera depressa,8,8,5,3,5,5,,,1
+Oenothera fallax,7,7,5,4,7,6,,,1
+Oenothera fruticosa,8,7,i,4,7,5,,,1
+Oenothera glazioviana,8,7,5,3,7,5,,,1
+Oenothera heiniana,8,7,i,4,7,5,,,1
+Oenothera hoelscheri,8,7,i,4,7,5,,,1
+Oenothera inconspecta,8,7,i,4,7,5,,,1
+Oenothera issleri,8,7,4,3,6,5,,,1
+Oenothera laciniata,8,6,6,5,6,6,,,1
+Oenothera macrocarpa,8,7,i,4,7,5,,,1
+Oenothera oakesiana,8,7,6,4,5,5,,,1
+Oenothera paradoxa,8,7,i,4,7,5,,,1
+Oenothera parviflora,8,7,3,3,6,5,,,1
+Oenothera perangusta,7,8,5,3,5,5,,,1
+Oenothera perennis,8,7,i,4,7,5,,,1
+Oenothera punctulata,8,7,i,4,7,5,,,1
+Oenothera pycnocarpa,7,7,5,4,5,6,,,1
+Oenothera rosea,9,7,4,3,5,4,,,1
+Oenothera royfraseri,8,7,i,4,7,5,,,1
+Oenothera rubricaulis,8,7,i,4,6,4,,,1
+Oenothera ser. Rugglesia,8,6,i,3,7,3,,,1
+Oenothera stricta,9,7,5,4,5,5,,,1
+Oenothera stucchii,8,8,2,6,5,7,,,1
+Oenothera suaveolens,8,7,4,5,7,5,,,1
+Oenothera subterminalis,8,7,7,4,6,6,,,1
+Oenothera victorinii,7,8,5,3,5,5,,,1
+Oenothera wienii,8,7,i,4,7,5,,,1
+Oloptum miliaceum,7,8,5,3,7,5,,,1
+Omalotheca hoppeanum,8,2,3,6,8,4,,,0
+Omalotheca norvegicum,7,3,5,5,4,4,,,0
+Omalotheca supinum,8,1,i,7,3,4,,~,0
+Omalotheca sylvaticum,7,5,i,5,4,4,,,0
+Omphalodes verna,4,6,5,5,7,6,,,0
+Onobrychis arenaria,8,7,8,2,8,3,,,0
+Onobrychis arenaria subsp. arenaria,8,7,8,2,8,3,,,0
+Onobrychis arenaria subsp. taurerica,8,4,7,3,6,3,,,0
+Onobrychis montana,9,3,6,3,9,2,,,0
+Onobrychis viciifolia,8,6,7,4,8,3,,~,0
+Ononis arvensis,8,6,7,4,7,3,,~,1
+Ononis mitissima,9,8,4,3,8,5,,,4
+Ononis natrix,8,8,i,3,8,2,,,0
+Ononis pusilla,9,8,6,2,8,1,,,0
+Ononis repens subsp. procurrens,8,5,3,4,7,3,,~,0
+Ononis rotundifolia,6,5,8,3,8,2,,,0
+Ononis spinosa,8,6,6,4,7,3,,~,1
+Ononis spinosa subsp. austriaca,8,6,6,5,7,3,,~,1
+Ononis spinosa subsp. spinosa,8,6,5,4,7,3,,~,1
+Onopordum acanthium,9,7,i,4,7,8,,,1
+Onopordum illyricum,9,8,4,2,7,9,,,0
+Onopordum tauricum,9,6,6,3,7,8,,,0
+Onosma arenaria subsp. arenaria,8,8,8,2,8,1,,,0
+Onosma helvetica subsp. austriaca,8,8,5,1,7,1,,,0
+Onosma visianii,9,8,5,2,9,1,,,0
+Ophioglossum vulgatum,6,6,3,7,7,3,,~,1
+Ophrys apifera,7,7,i,4,9,3,,,0
+Ophrys holosericea subsp. holosericea,8,8,6,4,9,2,,~,0
+Ophrys insectifera,7,5,4,4,8,3,,,0
+Ophrys sphegodes,8,8,4,4,8,3,,~,0
+Opuntia humifusa,9,9,5,1,4,2,,,0
+Opuntia phaeacantha,9,9,5,1,5,2,,,0
+Orchis anthropophora,8,7,3,3,8,3,,~,0
+Orchis mascula,6,5,i,4,7,3,,,0
+Orchis mascula subsp. mascula,6,5,i,4,7,3,,,0
+Orchis mascula subsp. speciosa,7,4,i,4,7,3,,,0
+Orchis militaris,7,6,6,4,8,3,,~,0
+Orchis pallens,4,5,5,5,8,4,,,0
+Orchis purpurea,6,7,5,4,8,3,,~,0
+Orchis simia,8,8,6,3,8,2,,,0
+Orchis spitzelii,7,4,6,4,8,2,,,0
+Oreochloa disticha,9,1,5,4,2,1,,,0
+Oreojuncus monanthos,9,2,6,2,8,2,,,0
+Oreojuncus trifidus,9,2,i,3,2,2,,,0
+Oreopteris limbosperma,4,4,3,6,3,4,,~,0
+Origanum majorana,7,8,3,5,8,6,,,0
+Origanum vulgare,7,i,i,4,7,4,,,0
+Orlaya grandiflora,8,7,5,3,9,4,,,0
+Ornithogalum divergens,7,8,6,3,7,5,,~,0
+Ornithogalum kochii s. lat.,8,8,i,i,7,3,,,0
+Ornithogalum kochii s. str.,8,8,4,2,7,3,,,0
+Ornithogalum orbelicum,6,7,5,6,5,5,,~,0
+Ornithogalum pannonicum,9,8,6,2,8,1,,,0
+Ornithogalum tenue,8,8,6,2,7,3,,,0
+Ornithogalum umbellatum,5,6,6,5,7,7,,~,0
+Ornithogalum umbellatum subagg.,6,6,4,4,7,6,,~,0
+Ornithogalum vulgare,6,6,4,5,7,6,,,0
+Ornithopus perpusillus,7,7,2,3,3,2,,,0
+Ornithopus sativus,8,7,3,2,3,3,,,0
+Orobanche alba,8,6,6,3,8,4,,,0
+Orobanche alsatica,7,6,7,4,7,3,,~,0
+Orobanche alsatica subsp. alsatica,7,7,7,4,8,3,,~,0
+Orobanche alsatica subsp. libanotidis,7,6,7,3,7,2,,,0
+Orobanche artemisiae-campestris,8,8,6,2,8,3,,,0
+Orobanche caryophyllacea,8,6,6,3,8,3,,,0
+Orobanche centaurina,8,7,5,4,8,3,,,0
+Orobanche coerulescens,9,7,8,2,8,1,,,0
+Orobanche elatior,7,7,7,4,7,3,,,0
+Orobanche flava,6,4,5,5,8,3,,,0
+Orobanche gracilis,8,6,3,3,7,4,,,0
+Orobanche hederae,4,6,3,5,8,5,,,0
+Orobanche laserpitii-sileris,6,6,4,2,8,3,,,0
+Orobanche lucorum,5,4,6,5,7,5,,,0
+Orobanche lutea,7,6,i,3,8,4,,,0
+Orobanche lycoctoni,5,4,6,5,7,5,,,0
+Orobanche minor,7,6,i,5,7,5,,,0
+Orobanche pancicii,7,6,6,5,7,3,,,0
+Orobanche picridis,8,7,4,4,7,4,,,0
+Orobanche reticulata,7,5,6,4,8,4,,,0
+Orobanche reticulata var. pallidiflora,7,7,6,4,8,4,,,0
+Orobanche reticulata var. reticulata,8,4,6,3,8,2,,,0
+Orobanche salviae,4,5,4,5,8,6,,,0
+Orobanche teucrii,8,5,4,2,9,2,,,0
+Orthilia secunda,4,5,6,5,5,2,,,0
+Oryza sativa,9,8,6,8,7,8,,~,0
+Ostrya carpinifolia,5,7,6,3,7,5,,,0
+Othocallis amoena,8,7,4,5,4,3,,,0
+Othocallis mischtschenkoana,6,8,3,5,5,5,,,0
+Othocallis siberica,6,6,7,6,5,5,,,0
+Oxalis acetosella,2,5,i,5,4,6,,,0
+Oxalis corniculata,7,7,i,4,6,6,,,1
+Oxalis corniculata var. corniculata,7,7,i,4,6,6,,,1
+Oxalis corniculata var. repens,7,7,3,5,6,6,,,0
+Oxalis debilis,6,7,2,4,6,7,,,0
+Oxalis dillenii,7,7,i,5,6,7,,,0
+Oxalis stricta,6,6,i,5,5,7,,,0
+Oxybasis chenopodioides,9,7,8,7,8,9,,,4
+Oxybasis glauca,8,6,7,6,7,9,,,3
+Oxybasis rhombifolia,8,7,5,8,7,8,,,1
+Oxybasis rubra,8,7,i,6,7,9,,~,2
+Oxybasis urbica,8,7,7,5,7,8,,~,2
+Oxyria digyna,9,1,7,5,3,3,,,0
+Oxytropis campestris,9,2,7,4,6,2,,,0
+Oxytropis halleri,9,2,7,2,8,2,,,0
+Oxytropis lapponica,9,2,7,3,7,3,,,0
+Oxytropis montana,8,3,5,3,9,2,,,0
+Oxytropis neglecta,9,2,5,2,8,2,,,0
+Oxytropis pilosa,9,7,8,1,7,1,,,0
+Oxytropis triflora,9,2,7,4,8,2,,,0
+Oxytropis x carinthiaca,9,2,6,3,9,2,,,0
+Pachypleurum mutellinoides,9,1,6,4,6,2,,,0
+Pachysandra terminalis,5,8,3,5,5,5,,,0
+Paederota bonarota,8,3,6,4,8,2,,,0
+Paederota lutea,6,4,5,5,9,2,,,0
+Paeonia mascula,5,6,4,3,6,5,,,0
+Paeonia officinalis,5,6,5,4,7,5,,,0
+Panicum barbipulvinatum,8,7,5,5,6,7,,,1
+Panicum capillare,8,7,i,4,6,6,,,1
+Panicum dichotomiflorum,7,8,i,4,7,7,,,1
+Panicum gattingeri,8,7,i,5,6,7,,,0
+Panicum hillmani,8,7,3,3,8,7,,,0
+Panicum miliaceum,8,8,4,4,6,6,,,0
+Panicum miliaceum subsp. agricola,8,7,5,4,6,6,,,0
+Panicum miliaceum subsp. miliaceum,8,8,4,4,6,6,,,0
+Panicum miliaceum subsp. ruderale,8,7,5,6,6,6,,,0
+Panicum schinzii,8,7,3,5,8,3,,,0
+Panicum virgatum,8,8,i,3,7,6,,,0
+Papaver alpinum,9,2,5,4,8,2,,,0
+Papaver alpinum subsp. alpinum,9,2,5,4,9,2,,,0
+Papaver alpinum subsp. kerneri,9,2,5,4,8,2,,,0
+Papaver alpinum subsp. rhaeticum,9,2,5,4,7,2,,,0
+Papaver alpinum subsp. sendtneri,9,1,5,5,9,2,,,0
+Papaver argemone,8,7,4,3,5,5,,,0
+Papaver atlanticum,9,6,5,4,5,3,,,0
+Papaver cambricum,5,8,3,5,6,5,,,0
+Papaver croceum,7,3,7,3,5,5,,,0
+Papaver dubium,8,6,i,4,i,4,,,0
+Papaver dubium subsp. austromoravicum,8,7,7,3,7,3,,,0
+Papaver dubium subsp. confine,8,7,5,3,8,4,,,0
+Papaver dubium subsp. dubium,8,6,i,4,5,5,,,0
+Papaver hybridum,8,8,i,3,7,5,,,0
+Papaver orientale,7,5,8,4,7,6,,,0
+Papaver rhoeas,7,6,i,4,7,6,,,2
+Papaver somniferum,8,6,i,5,6,6,,,0
+Papaver somniferum subsp. setigerum,8,8,3,5,7,6,,,0
+Papaver somniferum subsp. somniferum,8,6,i,5,6,6,,,0
+Paradisea liliastrum,8,3,5,5,7,4,,~,0
+Paragymnopteris marantae,9,8,5,1,7,1,,,0
+Parietaria judaica,8,9,i,3,8,6,,,2
+Parietaria officinalis,5,7,5,6,7,7,,,0
+Paris quadrifolia,3,5,i,6,7,6,,,0
+Parnassia palustris,8,i,i,8,7,2,,~,0
+Paronychia kapela subsp. serpyllifolia,9,4,4,2,7,3,,,0
+Parthenocissus inserta,6,6,i,5,7,7,,,0
+Parthenocissus quinquefolia,6,6,i,5,7,7,,,0
+Parthenocissus tricuspidata,7,7,i,5,7,7,,,0
+Paspalum distichum,7,8,3,8,6,6,,,0
+Pastinaca sativa,8,6,i,5,7,5,,,1
+Pastinaca sativa subsp. sativa,8,6,i,5,7,5,,,1
+Pastinaca sativa subsp. urens,8,7,i,5,7,5,,,1
+Paulownia tomentosa,6,7,i,5,5,4,,,0
+Pedicularis aspleniifolia,9,1,6,5,8,3,,,0
+Pedicularis elongata,8,2,5,4,8,3,,,0
+Pedicularis foliosa,7,3,3,6,8,5,,,0
+Pedicularis hacquetii,7,3,5,5,7,6,,,0
+Pedicularis julica,8,2,5,3,8,2,,,0
+Pedicularis kerneri,9,1,6,3,2,1,,,0
+Pedicularis oederi,9,2,7,4,8,2,,,0
+Pedicularis palustris,8,4,i,9,5,2,,~,0
+Pedicularis portenschlagii,9,1,6,4,6,3,,,0
+Pedicularis recutita,7,3,6,6,7,6,,,0
+Pedicularis rosea,9,2,4,3,9,3,,,0
+Pedicularis rostratocapitata subsp. rostratocapitata,8,2,6,3,9,3,,,0
+Pedicularis rostratospicata,7,2,6,4,8,4,,,0
+Pedicularis rostratospicata subsp. helvetica,7,2,6,4,7,4,,,0
+Pedicularis rostratospicata subsp. rostratospicata,7,2,6,4,8,4,,,0
+Pedicularis sceptrum-carolinum,8,5,8,8,8,2,,~,0
+Pedicularis sylvatica,8,5,3,8,1,2,,~,0
+Pedicularis tuberosa,8,2,5,4,3,3,,,0
+Pedicularis verticillata,8,3,6,6,8,2,,,0
+Peltaria alliacea,6,6,6,4,8,4,,,0
+Pentanema britannicum,8,6,7,6,8,5,,~,3
+Pentanema ensifolium,8,7,7,3,8,2,,,0
+Pentanema germanicum,8,7,8,3,8,2,,,0
+Pentanema hirtum,7,6,7,2,8,2,,,0
+Pentanema oculus-christi,9,8,7,2,8,2,,,0
+Pentanema salicinum,7,6,7,6,8,3,,~,2
+Pentanema squarrosum,6,6,4,4,7,4,,,0
+Peplis portula,7,6,i,8,4,5,,=,1
+Persicaria amphibia,7,6,i,10,6,7,,~,1
+Persicaria capitata,5,8,3,4,5,5,,,0
+Persicaria hydropiper,7,6,i,8,5,7,,=,1
+Persicaria lapathifolia,7,6,i,7,6,8,,=,1
+Persicaria lapathifolia subsp. brittingeri,7,7,i,7,7,7,,=,1
+Persicaria lapathifolia subsp. lapathifolia,7,6,i,7,6,8,,=,1
+Persicaria lapathifolia subsp. pallida,7,6,5,6,6,8,,,1
+Persicaria maculosa,7,6,i,5,7,7,,~,1
+Persicaria minor,6,6,i,8,5,8,,=,0
+Persicaria mitis,6,6,i,8,6,7,,=,0
+Persicaria orientalis,8,8,4,7,5,7,,,0
+Persicaria pensylvanica,7,8,3,6,5,7,,,0
+Petasites albus,4,4,5,7,6,5,,~,0
+Petasites hybridus,7,5,5,8,7,7,,=,0
+Petasites paradoxus,8,3,4,6,8,3,,~,0
+Petrocallis pyrenaica,9,1,4,3,9,1,,,0
+Petrorhagia prolifera,8,7,6,2,6,2,,,0
+Petrorhagia saxifraga,8,7,5,2,7,2,,,0
+Petrosedum montanum,8,6,7,2,6,2,,,0
+Petrosedum montanum subsp. montanum,8,6,7,2,5,2,,,0
+Petrosedum montanum subsp. orientale,8,6,7,1,7,2,,,0
+Petrosedum rupestre,8,6,4,2,5,2,,,0
+Petroselinum crispum,7,7,5,5,6,7,,,2
+Peucedanum alsaticum,7,7,7,4,7,4,,~,0
+Peucedanum austriacum,5,6,5,3,8,4,,,0
+Peucedanum officinale,7,7,4,4,8,2,,~,2
+Peucedanum oreoselinum,6,6,5,3,b,2,,~,0
+Peucedanum ostruthium,6,3,3,5,6,6,,,0
+Peucedanum palustre,6,6,5,9,5,4,,=,1
+Peucedanum rablense,5,5,5,3,8,3,,,0
+Peucedanum verticillare,6,6,5,6,7,5,,~,0
+Phacelia tanacetifolia,8,7,i,5,7,7,,,0
+Phalaris arundinacea,7,5,i,8,7,7,,=,1
+Phalaris brachystachys,8,7,i,5,6,5,,,0
+Phalaris canariensis,8,7,3,4,7,6,,,1
+Phalaris minor,8,7,4,4,7,5,,,1
+Phalaris paradoxa,8,8,3,4,7,5,,,1
+Phaseolus coccineus,8,8,2,5,7,5,,,0
+Phaseolus vulgaris,8,7,2,5,7,5,,,0
+Phedimus ellacombeanus,8,6,6,3,5,3,,,0
+Phedimus hybridus,9,6,6,4,7,4,,,0
+Phedimus kamtschaticus,8,6,6,3,5,4,,,0
+Phedimus spurius,8,6,6,3,5,3,,,0
+Phedimus stolonifer,6,6,7,6,5,5,,,0
+Phegopteris connectilis,2,4,i,5,4,5,,,0
+Phelipanche arenaria,8,8,6,3,7,2,,,0
+Phelipanche bohemica,8,7,7,2,8,2,,,0
+Phelipanche caesia,8,7,7,2,8,2,,,0
+Phelipanche purpurea,8,7,6,3,8,3,,,0
+Phelipanche ramosa,7,7,6,4,7,6,,,0
+Philadelphus coronarius,6,6,5,4,7,5,,,0
+Phleum alpinum,8,2,i,6,4,4,,,0
+Phleum hirsutum,8,3,6,6,7,5,,,0
+Phleum nodosum,8,6,i,4,7,5,,~,1
+Phleum paniculatum,7,7,6,4,7,5,,,0
+Phleum phleoides,8,6,6,2,7,2,,,0
+Phleum pratense,7,5,i,5,6,7,,,1
+Phleum rhaeticum,8,3,5,5,6,6,,,0
+Phleum subulatum,8,8,4,4,7,6,,,1
+Phlomoides tuberosa,8,7,8,3,8,3,,,0
+Phlox paniculata,5,6,3,5,5,5,,,0
+Pholiurus pannonicus,9,8,8,4,8,2,,~,8
+Phragmites australis,7,5,i,10,7,6,,~,2
+Phyla nodiflora,7,8,3,7,7,5,,,0
+Physalis alkekengi,6,7,5,6,7,7,,~,0
+Physalis alkekengi var. alkekengi,6,7,5,6,7,7,,~,0
+Physalis alkekengi var. franchetii,6,8,5,6,7,7,,~,0
+Physalis angulata,5,8,3,5,5,7,,,0
+Physalis grisea,8,5,i,5,6,7,,,0
+Physalis peruviana,7,8,3,5,5,7,,~,0
+Physalis philadelphica,8,5,5,5,6,7,,,0
+Physocarpus opulifolius,7,7,4,6,6,5,,,0
+Physoplexis comosa,8,4,5,3,9,1,,,0
+Physostegia virginiana,7,7,3,6,5,6,,,0
+Phyteuma betonicifolium,7,3,6,5,4,4,,,0
+Phyteuma confusum,8,2,5,4,4,2,,,0
+Phyteuma globulariifolium,9,1,6,3,3,2,,,0
+Phyteuma hemisphaericum,8,2,5,4,2,1,,,0
+Phyteuma nigrum,7,5,4,5,6,4,,~,0
+Phyteuma orbiculare,8,i,5,i,8,3,,,0
+Phyteuma persicifolium,6,3,5,5,4,4,,,0
+Phyteuma scheuchzeri,8,4,5,4,i,3,,,0
+Phyteuma scheuchzeri subsp. columnae,8,5,5,4,9,3,,,0
+Phyteuma scheuchzeri subsp. scheuchzeri,8,4,5,4,5,3,,,0
+Phyteuma sieberi,9,2,4,3,9,2,,,0
+Phyteuma spicatum,5,5,5,5,6,5,,,0
+Phyteuma spicatum subsp. coeruleum,5,5,5,5,6,5,,,0
+Phyteuma spicatum subsp. ovatum,7,3,4,6,6,6,,,0
+Phyteuma spicatum subsp. spicatum,5,5,5,5,6,5,,,0
+Phytolacca americana,5,7,i,5,6,5,,,0
+Phytolacca esculenta,6,7,i,5,4,7,,,0
+Picea abies,5,3,5,i,i,4,,,0
+Picea pungens,7,7,7,5,5,5,,,0
+Picris hieracioides,8,5,i,i,7,5,,,0
+Picris hieracioides subsp. grandiflora,8,5,2,5,5,7,,,0
+Picris hieracioides subsp. hieracioides,8,7,3,5,7,5,,,0
+Picris hieracioides subsp. spinulosa,8,8,3,3,5,5,,,0
+Picris umbellata,8,3,2,7,5,5,,,0
+Pilosella acrothyrsa,8,5,6,5,4,3,,,0
+Pilosella acutifolia,8,7,5,4,5,3,,,0
+Pilosella alpicola,7,1,5,5,3,2,,,0
+Pilosella amaurocephala,7,3,4,5,4,3,,,0
+Pilosella arida,9,8,5,3,5,2,,,0
+Pilosella aurantella,8,3,5,5,4,3,,~,0
+Pilosella aurantiaca,7,3,5,5,5,3,,,0
+Pilosella auriculoides,8,7,5,3,6,2,,,0
+Pilosella basifurca,8,2,5,5,4,4,,,0
+Pilosella bauhini,8,6,5,3,7,2,,,0
+Pilosella bifurca,9,8,6,2,7,2,,,0
+Pilosella blyttiana,7,3,5,5,4,4,,,0
+Pilosella brachycoma,7,3,5,5,4,4,,,0
+Pilosella caespitosa,8,6,6,6,6,3,,~,0
+Pilosella calodon,9,8,6,3,7,2,,,0
+Pilosella calomastix,8,4,5,5,5,3,,,0
+Pilosella cana,8,7,5,4,6,3,,,0
+Pilosella chaunadenia,8,4,5,5,5,3,,,0
+Pilosella cochleata,8,5,6,5,4,3,,,0
+Pilosella corymbuloides,8,3,4,5,4,3,,,0
+Pilosella cymosa,8,7,6,3,7,2,,,0
+Pilosella cymosiformis,7,6,5,3,8,2,,,0
+Pilosella densiflora,8,7,5,4,7,2,,,0
+Pilosella echioides,9,7,7,2,6,1,,,0
+Pilosella erythrochrista,8,6,5,5,7,3,,~,0
+Pilosella euchaetia,9,9,6,4,7,2,,,0
+Pilosella fallacina,9,8,5,4,7,2,,,0
+Pilosella flagellaris,8,4,5,5,4,4,,,0
+Pilosella floribunda,8,4,5,5,3,4,,,0
+Pilosella fusca,8,4,5,5,3,3,,,0
+Pilosella glacialis,9,2,4,5,3,2,,,0
+Pilosella glomerata,7,4,6,3,4,3,,,0
+Pilosella guthnickiana,8,3,5,5,6,3,,,0
+Pilosella hoppeana,8,3,5,4,5,2,,~,0
+Pilosella hypeurya,8,3,5,5,4,2,,,0
+Pilosella koernickeana,8,5,5,5,5,3,,,0
+Pilosella lactucella,8,i,i,5,4,2,,~,0
+Pilosella laggeri,8,3,4,5,4,3,,,0
+Pilosella leptophyton,8,6,5,3,6,2,,,0
+Pilosella longiscapa,7,4,4,5,3,2,,,0
+Pilosella macrostolona,7,4,6,5,4,4,,,0
+Pilosella nigricarina,8,3,5,5,3,3,,,0
+Pilosella notha,8,3,5,5,3,3,,,0
+Pilosella officinarum,7,i,i,4,4,2,,,0
+Pilosella onegensis,7,7,6,7,5,3,,,0
+Pilosella pachypilon,8,3,5,5,3,2,,,0
+Pilosella peleteriana,9,7,4,3,3,2,,,0
+Pilosella permutata,8,3,5,5,3,3,,,0
+Pilosella piloselliflora,7,4,5,5,5,4,,,0
+Pilosella pilosellina,8,8,5,4,6,2,,,0
+Pilosella piloselloides,8,6,5,4,7,3,,~,0
+Pilosella plaicensis,8,3,5,5,5,4,,,0
+Pilosella polymastix,8,4,5,5,5,3,,,0
+Pilosella prussica,8,4,5,5,4,4,,,0
+Pilosella rothiana,9,7,6,2,7,2,,,0
+Pilosella rubriflora,7,3,5,5,4,3,,,0
+Pilosella scandinavica,7,4,5,6,4,3,,,0
+Pilosella schultesii,8,4,5,5,4,3,,,0
+Pilosella sciadophora,7,4,5,4,6,2,,,0
+Pilosella sphaerocephala,8,2,5,5,3,3,,,0
+Pilosella stenosoma,8,4,5,5,4,3,,,0
+Pilosella sterrochaetia,9,8,6,3,6,2,,,0
+Pilosella stoloniflora,8,i,5,5,4,4,,,0
+Pilosella substoloniflora,8,3,5,5,4,3,,,0
+Pilosella sulphurea,8,4,5,5,5,3,,,0
+Pilosella tendina,8,3,4,5,4,3,,,0
+Pilosella tephrocephala,9,8,6,3,6,2,,,0
+Pilosella testimonialis,9,6,7,3,7,3,,,0
+Pilosella trigenes,8,4,5,5,5,3,,,0
+Pilosella tubulata,8,7,5,4,6,2,,,0
+Pilosella velutina,9,3,3,5,3,3,,,0
+Pilosella viridifolia,9,3,5,5,3,3,,,0
+Pilosella visianii,9,7,6,4,6,2,,,0
+Pilosella ziziana,9,i,6,4,6,3,,,0
+Pimpinella alpina,8,3,4,4,8,3,,,0
+Pimpinella anisum,7,8,6,4,6,6,,,0
+Pimpinella major,7,5,4,5,7,6,,,0
+Pimpinella major var. major,7,6,3,5,7,6,,,0
+Pimpinella major var. rubra,7,4,5,5,8,5,,,0
+Pimpinella peregrina,7,8,7,3,7,6,,,0
+Pimpinella saxifraga,7,5,i,3,6,3,,,1
+Pimpinella saxifraga subsp. nigra,8,7,i,3,6,3,,,1
+Pimpinella saxifraga subsp. saxifraga,7,5,i,3,6,3,,,1
+Pinguicula alpina,9,3,7,7,8,2,,~,0
+Pinguicula leptoceras,8,3,5,8,7,1,,,0
+Pinguicula vulgaris,8,i,3,8,7,2,,,0
+Pinus cembra,6,3,8,5,i,3,,,0
+Pinus mugo nothosubsp. x rotundata,8,4,5,8,1,2,,,0
+Pinus mugo subsp. mugo,8,3,4,i,i,3,,,0
+Pinus mugo subsp. uncinata,7,3,6,5,i,3,,,0
+Pinus nigra subsp. nigra,7,6,6,3,8,2,,,0
+Pinus strobus,5,6,5,5,i,3,,,0
+Pinus sylvestris,7,5,i,b,b,2,,,0
+Pinus wallichiana,8,3,5,8,2,2,,,0
+Pinus x engadinensis,8,4,7,i,i,2,,,0
+Plagiobothrys scouleri,8,4,5,8,5,5,,~,0
+Plantago alpina,8,3,3,5,3,2,,~,0
+Plantago altissima,7,7,7,7,7,5,,=,2
+Plantago arenaria,8,7,7,4,7,4,,,0
+Plantago atrata subsp. atrata,8,3,4,5,7,4,,,0
+Plantago capitellata,9,4,6,3,8,3,,,0
+Plantago coronopus,8,6,i,6,6,4,,~,4
+Plantago lanceolata,7,5,i,5,6,i,,,1
+Plantago major,8,5,i,5,6,6,,=,1
+Plantago major subsp. major,8,5,i,5,6,6,,,1
+Plantago major subsp. winteri,9,8,7,8,7,6,,=,6
+Plantago maritima,9,6,8,7,8,5,,=,7
+Plantago media,7,5,7,4,7,4,,,0
+Plantago media var. longifolia,8,7,7,3,6,4,,,0
+Plantago media var. media,7,5,7,4,7,4,,,0
+Plantago sempervirens,9,7,4,3,7,3,,,0
+Plantago strictissima,9,4,6,3,6,2,,,2
+Plantago tenuiflora,9,7,7,6,8,3,,~,8
+Plantago uliginosa,8,6,i,7,5,5,,~,2
+Plantago virginica,6,6,2,5,5,5,,,0
+Platanthera bifolia,6,5,i,5,7,4,,~,0
+Platanthera chlorantha,6,5,4,6,7,4,,~,0
+Platanthera muelleri,7,5,4,5,7,4,,~,0
+Platanus x hispanica,5,8,3,6,6,6,,~,1
+Platycaldus orientalis,7,6,3,6,5,3,,,0
+Pleurospermum austriacum,5,4,5,6,8,5,,~,0
+Poa alpina,7,2,6,5,6,6,,,0
+Poa annua,7,i,i,6,6,8,,,1
+Poa badensis,9,7,4,1,9,1,,,0
+Poa bulbosa,8,7,7,3,5,3,,~,1
+Poa cenisia,8,2,4,6,8,3,,,0
+Poa chaixii,6,4,4,6,4,4,,,0
+Poa compressa,9,6,i,3,7,3,,~,1
+Poa glauca,8,3,6,4,5,2,,,0
+Poa hybrida,6,3,5,6,6,7,,,0
+Poa infirma,8,9,4,4,6,5,,,0
+Poa laxa,8,1,5,5,3,2,,,0
+Poa minor,8,2,3,5,8,3,,,0
+Poa molinerii,9,5,5,2,6,2,,,0
+Poa nemoralis,6,i,i,5,i,4,,~,0
+Poa palustris,7,5,7,8,7,6,,=,1
+Poa pratensis,7,5,i,i,i,i,,~,1
+Poa pratensis subsp. angustifolia,7,6,i,4,i,4,,~,1
+Poa pratensis subsp. irrigata,8,5,i,6,5,4,,,3
+Poa pratensis subsp. pratensis,7,5,i,5,6,6,,~,1
+Poa remota,5,4,7,7,6,7,,,0
+Poa stiriaca,5,4,6,4,6,4,,,0
+Poa supina,8,4,6,6,6,7,,~,0
+Poa trivialis,i,5,i,7,6,7,,~,1
+Poa trivialis subsp. sylvicola,5,7,4,4,7,6,,~,0
+Poa trivialis subsp. trivialis,i,5,i,7,6,7,,,1
+Polemonium caeruleum,6,4,7,7,7,6,,,0
+Polycarpon tetraphyllum,9,8,i,3,5,7,,,1
+Polycnemum arvense,9,8,6,2,6,3,,,0
+Polycnemum heuffelii,9,8,7,2,5,2,,,0
+Polycnemum majus,9,8,6,3,8,4,,,0
+Polycnemum verrucosum,9,8,7,2,6,3,,,0
+Polygala alpestris subsp. alpestris,8,2,5,4,7,2,,,0
+Polygala alpina,9,2,5,4,6,2,,,0
+Polygala amara,8,4,5,4,8,2,,~,0
+Polygala amara subsp. amara,6,5,5,3,8,2,,~,0
+Polygala amara subsp. brachyptera,8,3,4,4,8,2,,,0
+Polygala amarella,8,i,5,i,8,2,,,0
+Polygala chamaebuxus,6,5,4,3,b,2,,,0
+Polygala comosa subsp. comosa,8,6,6,3,8,3,,~,0
+Polygala forojulensis,8,6,4,3,7,2,,~,0
+Polygala major,8,7,7,3,8,3,,~,0
+Polygala serpyllifolia,8,4,2,6,2,2,,,0
+Polygala vulgaris,8,5,4,4,4,3,,~,0
+Polygala vulgaris subsp. oxyptera,8,6,5,5,3,3,,~,0
+Polygala vulgaris subsp. vulgaris,8,5,4,4,4,3,,,0
+Polygonatum latifolium,4,7,5,5,8,5,,~,0
+Polygonatum multiflorum,3,6,i,5,6,5,,,0
+Polygonatum odoratum,7,i,6,2,i,3,,~,0
+Polygonatum verticillatum,3,4,4,5,5,5,,,0
+Polygonum arenastrum,8,7,5,4,6,7,,,1
+Polygonum aviculare,8,6,i,5,6,7,,,2
+Polygonum aviculare subsp. aviculare,8,6,i,5,6,7,,,1
+Polygonum aviculare subsp. rurivagum,8,6,i,4,6,7,,,1
+Polygonum bellardii,9,8,6,3,7,4,,~,3
+Polygonum equisetiforme,9,9,5,4,7,5,,,4
+Polygonum patulum,9,8,6,3,7,2,,~,3
+Polypodium interjectum,5,6,2,4,8,2,,~,0
+Polypodium vulgare,5,5,i,4,i,2,,~,0
+Polypodium x mantoniae,5,6,2,4,8,2,,~,0
+Polypogon monspeliensis,8,8,3,8,7,6,,,3
+Polypogon viridis,8,8,4,7,5,5,,,0
+Polystichum aculeatum,3,5,4,6,7,6,,,0
+Polystichum braunii,3,4,4,6,6,6,,,0
+Polystichum lonchitis,5,3,i,5,8,4,,,0
+Polystichum setiferum,3,7,3,6,6,5,,,0
+Pontechium maculatum,9,8,8,3,8,3,,,0
+Pontederia cordata,7,7,2,9,5,5,,=,0
+Populus alba,7,7,7,6,7,6,,~,1
+Populus balsamifera,5,7,4,7,5,7,,,0
+Populus gileadensis,6,6,4,7,i,7,,,0
+Populus nigra,5,6,i,8,7,7,,=,0
+Populus simonii,7,5,5,7,7,7,,,0
+Populus tremula,7,5,i,5,i,i,,~,0
+Populus trichocarpa,7,5,5,7,7,7,,,0
+Populus x canadensis,6,6,i,7,i,6,,,0
+Populus x canescens,6,7,5,5,7,5,,~,0
+Portulaca grandiflora,9,8,i,4,6,7,,,1
+Portulaca oleracea,8,8,i,4,7,7,,,2
+Portulaca oleracea subsp. granulatostellulata,8,7,3,3,5,7,,,1
+Portulaca oleracea subsp. nitida,8,7,3,3,5,7,,,0
+Portulaca oleracea subsp. oleracea,8,8,i,3,7,7,,,2
+Portulaca oleracea subsp. papillatostellulata,9,9,3,2,5,7,,,0
+Portulaca oleracea subsp. sativa,8,8,i,4,7,7,,,2
+Potamogeton acutifolius,7,6,5,12,6,6,,,1
+Potamogeton alpinus,7,4,i,11,6,5,,,1
+Potamogeton berchtoldii,6,5,i,12,7,6,,,1
+Potamogeton coloratus,8,7,4,11,8,5,,,0
+Potamogeton compressus,6,5,6,12,8,4,,,1
+Potamogeton crispus,6,6,i,12,7,6,,,1
+Potamogeton friesii,5,6,6,12,7,6,,,1
+Potamogeton gramineus,8,4,i,12,6,4,,,0
+Potamogeton lucens,6,6,i,12,7,7,,,1
+Potamogeton natans,6,5,i,11,7,5,,,1
+Potamogeton nodosus,6,6,7,12,8,6,,,1
+Potamogeton obtusifolius,6,6,i,12,6,6,,,0
+Potamogeton perfoliatus,6,6,i,12,7,5,,,1
+Potamogeton polygonifolius,7,6,4,10,3,2,,,0
+Potamogeton praelongus,8,4,6,12,8,4,,,1
+Potamogeton pusillus,6,6,i,12,7,7,,,2
+Potamogeton trichoides,8,6,i,11,6,5,,,1
+Potamogeton x nitens,7,5,i,12,7,5,,,0
+Potamogeton x salicifolius,6,5,5,12,7,6,,,0
+Potamogeton x zizii,7,6,i,12,7,5,,,0
+Potentilla alba,6,6,6,4,i,4,,~,0
+Potentilla anglica,7,5,3,6,5,4,,,0
+Potentilla argentea,9,6,i,2,5,3,,,0
+Potentilla atrosanguinea,6,7,7,4,6,4,,,0
+Potentilla aurea,8,2,4,4,3,3,,,0
+Potentilla brauneana,9,1,4,6,8,5,,,0
+Potentilla caulescens,8,3,4,3,8,3,,~,0
+Potentilla chrysantha,7,i,7,3,5,4,,,0
+Potentilla clusiana,9,2,5,3,9,2,,,0
+Potentilla collina agg.,8,7,4,2,5,3,,,0
+Potentilla crantzii,8,3,6,4,7,2,,,0
+Potentilla crantzii var. crantzii,9,3,6,4,7,2,,,0
+Potentilla crantzii var. serpentini,7,4,7,3,7,2,,,0
+Potentilla erecta,6,i,6,b,i,3,,,0
+Potentilla frigida,9,1,6,3,3,1,,,0
+Potentilla grandiflora,9,2,6,3,4,2,,,0
+Potentilla heptaphylla,8,6,6,3,7,2,,~,0
+Potentilla incana,8,7,6,1,8,2,,,0
+Potentilla inclinata,9,7,6,3,6,2,,,0
+Potentilla indica,6,6,3,5,7,7,,,0
+Potentilla intermedia,8,6,5,3,7,4,,,0
+Potentilla micrantha,5,6,5,4,8,4,,,0
+Potentilla neglecta,8,6,5,3,6,2,,,0
+Potentilla nitida,9,2,4,3,9,2,,,0
+Potentilla nivea,9,1,6,3,6,2,,,0
+Potentilla norvegica,7,6,6,6,5,5,,~,1
+Potentilla patula,8,7,7,3,7,2,,,1
+Potentilla puberula,8,6,5,2,7,2,,,0
+Potentilla recta,9,7,5,3,7,3,,,0
+Potentilla reptans,7,6,i,6,7,6,,~,1
+Potentilla sterilis,7,6,2,5,6,4,,~,0
+Potentilla supina,8,6,7,7,6,7,,=,2
+Potentilla verna,8,6,5,2,6,2,,,0
+Potentilla x italica,7,6,4,5,7,4,,,0
+Prenanthes purpurea,4,4,5,5,i,5,,,0
+Primula auricula,8,i,5,5,8,2,,~,0
+Primula auricula subsp. auricula,8,i,4,5,8,2,,~,0
+Primula auricula subsp. balbisii,7,4,6,3,9,1,,,0
+Primula clusiana,8,3,5,5,9,2,,,0
+Primula daonensis,9,2,4,4,3,3,,,0
+Primula elatior subsp. elatior,6,5,5,6,7,6,,~,0
+Primula farinosa,8,i,5,8,8,2,,~,0
+Primula glutinosa,9,1,6,5,3,1,,,0
+Primula halleri,9,2,5,4,8,2,,,0
+Primula hirsuta,9,2,6,5,3,2,,,0
+Primula integrifolia,8,2,5,6,3,3,,,0
+Primula matthioli,5,3,7,6,7,6,,,0
+Primula minima,8,2,6,5,2,1,,,0
+Primula veris,7,6,i,4,7,3,,,0
+Primula villosa,8,3,5,4,3,2,,,0
+Primula vulgaris,5,5,2,5,7,5,,~,0
+Primula wulfeniana,6,3,4,4,7,2,,,0
+Prunella grandiflora,7,i,5,4,8,3,,~,0
+Prunella laciniata,8,7,i,3,7,3,,~,0
+Prunella vulgaris,7,i,i,6,6,i,,~,1
+Prunus armeniaca,8,8,3,4,7,5,,,0
+Prunus avium,6,5,4,5,7,5,,~,0
+Prunus cerasifera,7,6,6,4,6,5,,~,0
+Prunus cerasus,6,7,6,5,7,5,,,0
+Prunus domestica,6,6,4,5,6,5,,,0
+Prunus domestica subsp. domestica,6,6,3,5,7,5,,,0
+Prunus domestica subsp. insititia,7,7,5,5,6,5,,,0
+Prunus dulcis,8,9,2,5,7,5,,,0
+Prunus fruticosa,8,7,8,3,8,4,,,0
+Prunus laurocerasus,6,8,i,5,5,5,,,0
+Prunus mahaleb,7,7,6,3,8,3,,,0
+Prunus padus,5,5,6,7,7,6,,=,0
+Prunus padus subsp. padus,5,5,6,7,7,6,,=,0
+Prunus padus subsp. petraea,7,4,6,5,6,5,,,0
+Prunus persica,7,7,4,3,6,5,,,0
+Prunus serotina,6,7,i,5,4,4,,,1
+Prunus spinosa,7,6,i,4,6,i,,~,1
+Prunus tenella,8,8,9,3,8,3,,,0
+Prunus virginiana,7,5,5,5,5,5,,,0
+Prunus x eminens,7,7,i,4,7,6,,,0
+Prunus x fruticans,6,6,6,5,6,4,,,0
+Psammophiliella muralis,8,6,7,6,3,3,,=,0
+Pseudofumaria alba,5,7,5,4,9,5,,,0
+Pseudofumaria lutea,6,6,5,5,9,5,,,0
+Pseudorchis albida,8,3,i,5,3,2,,,0
+Pseudosasa japonica,7,7,4,4,5,5,,,0
+Pseudostellaria europaea,3,7,6,6,6,5,,=,0
+Pseudotsuga menziesii,7,6,i,5,3,3,,,0
+Pseudoturritis turrita,6,6,5,3,8,4,,,0
+Psilathera ovata,9,1,5,3,8,2,,,0
+Pteridium aquilinum,6,i,i,5,3,3,,~,0
+Pteridium aquilinum subsp. aquilinum,6,i,i,5,3,3,,~,0
+Pteridium aquilinum subsp. pinetorum,6,5,i,4,4,3,,~,0
+Pterocarya fraxinifolia,7,7,4,7,7,6,,=,0
+Puccinellia distans,9,6,i,6,7,6,,~,6
+Puccinellia limosa,9,7,7,7,7,5,,~,8
+Puccinellia peisonis,9,7,6,7,7,4,,~,7
+Pulicaria dysenterica subsp. dysenterica,8,6,i,7,7,6,,~,4
+Pulicaria vulgaris,9,7,i,8,6,7,,~,2
+Pulmonaria angustifolia,6,7,6,4,6,3,,~,0
+Pulmonaria australis,7,4,5,4,5,3,,,0
+Pulmonaria carnica,6,4,5,4,8,5,,,0
+Pulmonaria kerneri,7,4,5,4,9,4,,,0
+Pulmonaria mollis,5,i,7,5,8,5,,~,0
+Pulmonaria mollis subsp. alpigena,5,4,5,5,8,5,,,0
+Pulmonaria mollis subsp. mollis,5,6,7,4,8,5,,~,0
+Pulmonaria obscura,4,6,5,6,7,7,,,0
+Pulmonaria officinalis,4,5,5,5,7,6,,,0
+Pulmonaria saccharata,5,5,4,5,6,5,,~,0
+Pulmonaria stiriaca,5,4,5,5,5,5,,,0
+Pulsatilla alpina,8,2,4,5,i,3,,~,0
+Pulsatilla alpina subsp. alba,8,2,4,5,2,2,,,0
+Pulsatilla alpina subsp. alpina,8,2,3,5,8,3,,,0
+Pulsatilla alpina subsp. apiifolia,8,2,4,5,3,4,,,0
+Pulsatilla alpina subsp. austroalpina,7,3,3,4,9,2,,,0
+Pulsatilla alpina subsp. schneebergensis,7,3,3,4,9,2,,,0
+Pulsatilla pratensis subsp. nigricans,8,6,6,2,7,3,,,0
+Pulsatilla styriaca,8,6,6,2,9,2,,,0
+Pulsatilla vernalis,8,3,5,4,3,2,,,0
+Pulsatilla vulgaris,8,6,5,2,i,2,,,0
+Pulsatilla vulgaris subsp. grandis,7,6,5,2,i,1,,,0
+Pulsatilla vulgaris subsp. oenipontana,8,6,6,3,7,3,,,0
+Pulsatilla vulgaris subsp. vulgaris,8,6,5,2,7,2,,,0
+Puschkinia scilloides,5,6,7,6,5,5,,,0
+Pyracantha coccinea,7,8,3,4,6,4,,,0
+Pyrola chlorantha,5,6,6,4,5,2,,,0
+Pyrola media,4,4,5,4,4,3,,,0
+Pyrola minor,6,5,5,5,4,3,,,0
+Pyrola rotundifolia subsp. rotundifolia,4,5,5,5,5,3,,~,0
+Pyrus austriaca,6,7,5,4,6,3,,,0
+Pyrus communis,6,6,5,5,7,5,,,0
+Pyrus pyraster,6,6,i,4,7,4,,~,0
+Pyrus salviifolia,6,7,6,3,7,5,,,0
+Pyrus x nivalis,7,7,6,4,8,3,,~,0
+Quercus cerris,6,7,6,4,i,4,,~,0
+Quercus frainetto,6,8,6,5,6,4,,,0
+Quercus petraea,6,6,4,4,i,4,,,0
+Quercus pubescens,7,7,5,3,b,3,,,0
+Quercus robur,7,6,i,i,i,i,,=,0
+Quercus rubra,6,6,i,5,6,5,,,0
+Rabelera holostea,5,6,i,5,6,5,,~,0
+Ranunculus aconitifolius,6,4,4,8,6,6,,,0
+Ranunculus acris,7,i,i,6,i,i,,,1
+Ranunculus acris subsp. acris,7,i,i,6,i,i,,,1
+Ranunculus acris subsp. friesianus,7,6,2,6,6,7,,,0
+Ranunculus allemannii,7,3,8,7,5,4,,,0
+Ranunculus alpestris,8,2,4,6,8,4,,,0
+Ranunculus aquatilis,7,6,4,12,6,6,,,1
+Ranunculus argoviensis,5,6,7,5,5,4,,,0
+Ranunculus arvensis,7,6,4,4,7,5,,,0
+Ranunculus auricomus agg.,i,i,i,i,i,i,,,0
+Ranunculus baudotii,8,7,4,11,8,7,,,4
+Ranunculus breyninus,8,3,4,4,8,3,,,0
+Ranunculus bulbosus,8,6,3,4,7,4,,~,0
+Ranunculus carinthiacus,8,3,3,4,8,3,,,0
+Ranunculus carpinetorum,4,7,6,5,5,4,,,0
+Ranunculus cassubicifolius,3,6,7,7,6,5,,,0
+Ranunculus circinatus,7,6,7,12,7,6,,,2
+Ranunculus confervoides,7,3,3,12,7,3,,,0
+Ranunculus crenatolobus,7,6,7,7,5,7,,,0
+Ranunculus crenatus,8,1,6,7,2,2,,,0
+Ranunculus dactylophyllus,6,3,8,7,5,4,,,0
+Ranunculus elegantifrons,5,7,7,6,6,6,,~,0
+Ranunculus flammula,7,5,i,9,5,2,,=,1
+Ranunculus fluitans,8,6,4,12,5,7,,,0
+Ranunculus gayeri,5,7,8,5,7,5,,,0
+Ranunculus glacialis,8,1,6,6,3,2,,,0
+Ranunculus graecensis,5,6,7,5,5,4,,,0
+Ranunculus hybridus,8,2,5,4,9,3,,,0
+Ranunculus illyricus,8,8,8,3,7,3,,,0
+Ranunculus kuepferi subsp. orientalis,8,2,5,5,3,2,,,0
+Ranunculus lanuginosus,3,5,5,6,7,7,,,0
+Ranunculus lateriflorus,9,8,4,8,4,7,,~,4
+Ranunculus laticrenatus,4,7,7,7,6,6,,=,0
+Ranunculus lingua,7,6,i,10,6,6,,,0
+Ranunculus mediosectus,7,7,7,7,6,7,,~,0
+Ranunculus megacarpus,4,7,5,7,6,6,,~,0
+Ranunculus megalocaulis,5,7,7,6,7,6,,~,0
+Ranunculus melzeri,9,3,7,6,3,5,,,0
+Ranunculus mendosus,5,7,7,6,6,5,,,0
+Ranunculus montanus,8,3,4,5,7,4,,,0
+Ranunculus nemorosifolius,6,6,4,5,6,6,,,0
+Ranunculus noricus,7,5,5,7,6,6,,~,0
+Ranunculus notabilis,6,7,7,7,6,5,,~,0
+Ranunculus oxyodon,7,5,6,7,6,7,,~,0
+Ranunculus pannonicus,7,7,8,7,6,6,,=,0
+Ranunculus parnassiifolius subsp. heterocarpus,9,2,4,6,8,3,,,0
+Ranunculus pedatus,8,7,7,2,8,3,,,5
+Ranunculus peltatus,8,6,4,12,7,6,,,1
+Ranunculus penicillatus,8,6,i,12,7,6,,,1
+Ranunculus pentadactylus,6,7,7,7,6,6,,,0
+Ranunculus phragmiteti,5,7,7,8,5,5,,=,0
+Ranunculus pilisiensis,5,8,7,5,6,5,,,0
+Ranunculus platanifolius,5,4,5,6,6,6,,,0
+Ranunculus polyanthemos,i,i,i,5,6,i,,~,0
+Ranunculus polyanthemos subsp. nemorosus,6,5,i,5,6,4,,~,0
+Ranunculus polyanthemos subsp. polyanthemophyllus,7,5,4,5,7,4,,~,0
+Ranunculus polyanthemos subsp. polyanthemos,8,7,6,4,6,3,,~,0
+Ranunculus polyanthemos subsp. serpens,4,4,3,5,5,6,,,0
+Ranunculus praetermissus,7,6,5,6,5,7,,~,0
+Ranunculus pseudofluitans,7,7,3,12,3,3,,,0
+Ranunculus pygmaeus,8,1,7,7,3,2,,,0
+Ranunculus repens,6,i,i,7,6,7,,~,1
+Ranunculus reptans,8,6,6,9,8,2,,=,0
+Ranunculus rionii,8,7,7,11,7,5,,,2
+Ranunculus sardous,8,6,4,8,7,7,,=,3
+Ranunculus sarntheinianus,7,6,6,5,7,7,,,0
+Ranunculus sceleratus,7,6,i,9,7,9,,=,2
+Ranunculus seguieri,8,2,5,5,9,2,,,0
+Ranunculus staubii,6,8,8,6,7,7,,~,0
+Ranunculus styriacus,6,7,6,6,5,6,,,0
+Ranunculus thora,9,2,5,3,9,3,,,0
+Ranunculus traunfellneri,8,2,4,6,8,3,,,0
+Ranunculus trichophyllus,7,5,i,12,7,6,,,1
+Ranunculus truniacus,6,5,3,8,8,7,,,0
+Ranunculus udicola,5,7,7,8,5,5,,~,0
+Ranunculus variabilis,7,7,7,6,6,6,,,0
+Ranunculus villarsii,9,2,4,4,2,3,,,0
+Ranunculus vindobonensis,7,6,6,6,5,4,,~,0
+Raphanus raphanistrum,7,6,i,5,5,6,,,1
+Raphanus sativus,7,7,i,5,7,7,,,0
+Rapistrum perenne,8,7,8,3,8,5,,,0
+Rapistrum rugosum,8,7,i,3,8,6,,,0
+Reseda alba,9,8,3,3,7,4,,,0
+Reseda lutea,8,6,i,3,8,i,,,0
+Reseda luteola,8,7,i,4,8,6,,,0
+Reseda odorata,8,9,i,2,8,6,,,1
+Reseda phyteuma,9,8,5,2,8,3,,,0
+Reynoutria japonica,7,5,4,7,6,8,,=,0
+Reynoutria sachalinensis,7,6,3,7,7,8,,=,0
+Reynoutria x bohemica,7,6,i,7,6,8,,=,0
+Rhagadiolus edulis,7,8,4,4,6,4,,,0
+Rhamnus alpina subsp. fallax,7,5,5,3,8,3,,,0
+Rhamnus cathartica,7,5,i,4,8,4,,,0
+Rhamnus pumila,8,3,4,2,9,2,,,0
+Rhamnus saxatilis subsp. saxatilis,7,6,4,2,9,2,,,0
+Rhaponticoides scariosum subsp. rhaponticum,7,3,4,5,7,5,,~,0
+Rheum rhabarbarum,7,5,3,6,5,9,,,0
+Rhinanthus alectorolophus,8,5,3,4,7,5,,,0
+Rhinanthus freynii,8,5,5,4,7,3,,,0
+Rhinanthus glacialis,8,3,4,i,7,2,,,0
+Rhinanthus minor,7,5,i,5,i,3,,~,0
+Rhinanthus riphaeus,8,4,5,5,6,3,,~,0
+Rhinanthus riphaeus subsp. carinthiacus,8,3,5,5,6,3,,~,0
+Rhinanthus riphaeus subsp. riphaeus,8,4,6,5,6,3,,,0
+Rhinanthus serotinus,8,6,6,6,8,3,,~,1
+Rhinanthus serotinus subsp. borbasii,9,7,7,6,8,2,,~,1
+Rhinanthus serotinus subsp. serotinus,8,6,6,6,7,3,,~,1
+Rhodiola rosea,7,3,6,5,4,2,,,0
+Rhododendron ferrugineum,7,3,6,5,2,2,,,0
+Rhododendron hirsutum,7,3,5,4,7,3,,,0
+Rhododendron luteum,5,6,7,5,5,4,,,0
+Rhododendron ponticum,4,7,3,6,4,5,,,0
+Rhododendron tomentosum,5,4,7,8,2,2,,,0
+Rhododendron x intermedium,7,3,5,5,7,2,,,0
+Rhodothamnus chamaecistus,6,3,5,5,8,2,,~,0
+Rhus typhina,8,7,6,4,6,5,,,0
+Rhynchospora alba,8,5,i,9,3,2,,=,0
+Rhynchospora fusca,8,5,4,9,2,2,,=,0
+Ribes alpinum,5,4,5,5,8,6,,,0
+Ribes aureum,7,7,5,5,7,6,,,0
+Ribes nigrum,4,6,6,8,6,5,,=,0
+Ribes petraeum,5,4,i,5,6,6,,,0
+Ribes rubrum,4,6,4,6,6,6,,,0
+Ribes sanguineum,5,7,3,6,6,5,,,0
+Ribes spicatum,4,6,6,6,6,7,,=,0
+Ribes uva-crispa,4,5,4,4,6,6,,,0
+Ricinus communis,9,9,5,4,6,7,,,0
+Ridolfia segetum,9,9,4,3,6,5,,,0
+Robinia pseudoacacia,6,6,7,4,6,7,,,1
+Rodgersia podophylla,3,7,3,6,5,7,,,0
+Rorippa amphibia,7,6,6,10,7,8,,,0
+Rorippa austriaca,7,7,7,7,7,7,,~,1
+Rorippa islandica,9,2,6,9,3,4,,=,0
+Rorippa lippizensis,7,7,7,3,7,4,,,0
+Rorippa palustris,7,6,i,8,6,7,,=,1
+Rorippa pyrenaica,8,7,5,4,6,7,,,0
+Rorippa sylvestris,7,6,i,8,7,7,,=,1
+Rorippa x anceps,7,6,5,9,7,7,,=,1
+Rorippa x armoracioides,7,6,i,7,7,7,,=,0
+Rorippa x astyla,7,6,4,6,6,7,,,0
+Rosa abietina,8,6,4,4,7,3,,,0
+Rosa acicularis,5,6,9,6,6,6,,,0
+Rosa agrestis,8,6,5,3,8,3,,,0
+Rosa altaica,8,7,9,3,7,5,,,0
+Rosa arvensis,5,6,3,5,7,5,,~,0
+Rosa balsamica,7,6,5,4,8,4,,,0
+Rosa blanda,7,7,5,5,7,5,,,0
+Rosa caesia,7,5,5,4,8,3,,,1
+Rosa canina s. lat.,7,5,i,4,6,i,,,0
+Rosa canina var. andegavensis,8,6,4,5,6,5,,,0
+Rosa canina var. blondaeana,8,6,4,4,7,4,,,0
+Rosa canina var. canina,7,5,3,4,6,3,,,0
+Rosa canina var. corymbifera,7,6,i,4,7,4,,,0
+Rosa canina var. deseglisei,8,6,i,4,7,4,,,0
+Rosa canina var. squarrosa,8,6,4,4,8,4,,,0
+Rosa dumalis,7,4,3,4,6,3,,,0
+Rosa elliptica,8,6,5,3,7,3,,~,0
+Rosa foetida,6,7,6,3,5,4,,,0
+Rosa gallica,7,7,6,4,7,4,,~,0
+Rosa glauca,8,4,4,4,7,2,,,0
+Rosa gremlii,8,6,5,3,7,3,,,0
+Rosa inodora s. lat. (inkl. R. elliptica),8,6,5,3,6,3,,~,0
+Rosa inodora s. str.,8,6,5,3,6,3,,,0
+Rosa majalis,7,6,7,5,8,3,,,0
+Rosa marginata,8,6,6,4,7,4,,~,0
+Rosa micrantha,8,6,5,3,8,3,,,0
+Rosa montana,8,6,4,3,6,4,,,0
+Rosa multiflora,6,7,2,3,6,5,,,0
+Rosa pendulina,6,4,4,5,7,5,,,0
+Rosa pseudoscabriuscula,7,5,i,3,8,3,,,0
+Rosa rhaetica,7,4,7,3,5,4,,,0
+Rosa rubiginosa,8,6,i,3,8,3,,,0
+Rosa rugosa,8,6,6,4,7,6,,,3
+Rosa sherardii,8,6,4,4,7,3,,,0
+Rosa spinosissima,8,7,6,3,8,3,,,0
+Rosa stylosa,7,7,2,4,8,4,,,0
+Rosa subcanina,7,5,i,4,7,4,,,0
+Rosa subcollina,7,5,6,4,7,4,,,0
+Rosa tomentosa,8,5,i,4,7,4,,,0
+Rosa villosa,7,4,5,3,8,3,,,0
+Rosa virginiana,5,5,5,4,5,5,,,0
+Rosa zalana,8,7,7,3,4,3,,,0
+Rubia tinctorum,7,9,5,4,8,6,,,0
+Rubus albiflorus,7,7,4,5,5,5,,,0
+Rubus allegheniensis,7,5,4,5,5,5,,,0
+Rubus ambrosius,6,5,5,5,5,6,,,0
+Rubus amphistrophos,6,5,4,4,5,5,,,0
+Rubus angustipaniculatus,7,6,6,5,5,4,,,0
+Rubus apricus,5,5,4,5,4,4,,,0
+Rubus armeniacus,7,7,4,4,6,5,,,0
+Rubus austromoravicus,7,6,5,5,5,5,,,0
+Rubus austroslovacus,8,6,6,4,7,4,,,0
+Rubus austrotiroliensis,8,7,5,5,5,4,,,0
+Rubus balatonicus,6,6,5,5,7,5,,,0
+Rubus bavaricus,6,4,4,5,5,5,,,0
+Rubus bertramii,7,4,4,6,4,5,,~,0
+Rubus bicolor,7,6,5,5,5,4,,,0
+Rubus bifrons,6,6,6,4,6,5,,,0
+Rubus bregutiensis,6,5,4,5,5,5,,,0
+Rubus brunneri,5,5,5,5,4,4,,~,0
+Rubus caesius,7,6,i,6,6,6,,~,3
+Rubus canadensis,7,5,4,5,4,5,,,0
+Rubus canescens,8,7,6,3,7,3,,,0
+Rubus clusii,6,5,5,6,5,5,,,0
+Rubus constrictus,7,6,5,5,5,5,,,0
+Rubus crispomarginatus,7,6,6,5,7,5,,,0
+Rubus devitatus,7,7,5,5,5,5,,,0
+Rubus doerrii,8,6,5,5,5,5,,,0
+Rubus dollnensis,6,5,5,5,5,4,,,0
+Rubus elatior,7,6,5,5,5,5,,,0
+Rubus epipsilos,6,5,4,5,5,6,,,0
+Rubus fasciculatus,7,6,6,4,7,5,,,0
+Rubus ferox,7,6,5,5,5,5,,,0
+Rubus foliosus,6,6,4,5,3,5,,,0
+Rubus franconicus,7,6,5,4,5,5,,,0
+Rubus gayeri,6,5,5,5,5,5,,,0
+Rubus grabowskii,7,5,5,5,5,5,,,0
+Rubus gracilis,7,6,5,4,5,4,,,0
+Rubus graecensis,7,6,5,5,4,5,,,0
+Rubus guentheri ,7,5,4,5,4,4,,,0
+Rubus guttiferus,8,6,6,4,7,4,,,0
+Rubus henrici-egonis,7,6,6,5,6,5,,,0
+Rubus hirtus s. lat.,6,4,5,6,5,5,,~,0
+Rubus holandrei,7,6,6,4,7,5,,,0
+Rubus holosericeaus,7,5,5,4,5,4,,,0
+Rubus idaeus,7,4,5,6,5,6,,~,0
+Rubus juennensis,7,6,6,4,5,5,,,0
+Rubus kletensis,7,5,5,5,5,5,,,0
+Rubus kuleszae,7,6,6,5,5,5,,,0
+Rubus laciniatus,7,6,5,5,4,5,,,0
+Rubus liubensis,7,6,6,4,6,5,,,0
+Rubus lobifolius,7,6,6,4,6,5,,,0
+Rubus macrophyllus,6,6,5,5,5,5,,,0
+Rubus macrostemonides,7,6,5,5,5,5,,,0
+Rubus mollis,7,6,6,4,7,4,,,0
+Rubus montanus,7,6,5,5,5,5,,,0
+Rubus muhelicus,7,6,5,5,5,5,,,0
+Rubus nessensis,7,4,5,5,4,5,,~,0
+Rubus noricus,7,5,5,5,5,5,,,0
+Rubus obtusangulus,7,6,6,5,7,5,,,0
+Rubus occidentalis,7,6,3,5,5,5,,,0
+Rubus odoratus,7,6,3,4,5,6,,,0
+Rubus orthostachyoides,7,7,5,5,7,5,,,0
+Rubus orthostachys,7,5,5,5,5,4,,,0
+Rubus parthenocissus,7,6,6,5,6,5,,,0
+Rubus parviflorus,7,7,5,5,5,5,,,0
+Rubus passaviensis,7,6,5,5,5,4,,,0
+Rubus pedemontanus,4,3,4,5,5,4,,,0
+Rubus percrispatus,7,6,5,5,5,5,,,0
+Rubus perperus,8,6,6,4,7,4,,,0
+Rubus perpungens,7,6,5,5,5,5,,,0
+Rubus perrobustus,7,5,6,5,5,5,,,0
+Rubus phoenicolasius,6,5,5,5,5,6,,,0
+Rubus phyllostachys,7,6,5,5,5,5,,,0
+Rubus plicatus,7,4,4,5,4,4,,~,0
+Rubus portae-moravicae,7,7,7,4,7,5,,,0
+Rubus praecocifrons,7,6,5,5,5,5,,,0
+Rubus procerus,8,7,7,4,7,5,,,0
+Rubus pruinosus,7,5,4,5,5,5,,,0
+Rubus pseudopsis,7,6,5,5,5,5,,,0
+Rubus radula,6,6,5,5,4,4,,,0
+Rubus rudis,8,6,4,5,6,7,,,0
+Rubus salisburgensis,6,5,4,5,6,5,,,0
+Rubus salzmanii,7,7,6,5,5,5,,,0
+Rubus saxatilis,6,4,5,5,7,3,,,0
+Rubus scabrosus,7,6,5,4,5,4,,,0
+Rubus scarbantinus,7,6,6,4,6,5,,,0
+Rubus schleicheri,6,5,5,5,5,5,,,0
+Rubus scissoides,7,4,4,6,4,5,,~,0
+Rubus semitomentosus,6,5,5,4,4,4,,,0
+Rubus sendtneri,6,5,5,5,5,4,,,0
+Rubus silesiacus,7,5,4,5,3,4,,,0
+Rubus silvae-norticae,6,5,6,5,5,5,,,0
+Rubus solvensis,7,6,6,5,5,5,,,0
+Rubus sprengelii,6,5,3,5,3,4,,,0
+Rubus stimulifer,7,6,6,5,6,5,,,0
+Rubus styriacus,6,5,5,5,4,4,,,0
+Rubus suevicola,7,6,5,4,6,4,,,0
+Rubus sulcatus,6,4,5,5,5,6,,,0
+Rubus sylvulicola,6,5,4,5,6,5,,~,0
+Rubus tabanimontanus,6,5,5,5,6,5,,,0
+Rubus ulmifolius,8,8,2,5,8,7,,,0
+Rubus vatavensis,7,6,6,5,5,5,,,0
+Rubus velutinus,7,6,5,5,5,5,,,0
+Rubus venosus,6,7,6,5,5,5,,,0
+Rubus vestitus,7,6,5,5,5,5,,,0
+Rubus villarsianus,7,6,4,5,6,7,,,0
+Rubus viridilucidus,7,6,5,4,5,5,,,0
+Rubus weizensis,7,5,5,5,5,5,,,0
+Rubus widderi,7,6,6,4,6,4,,,0
+Rubus wimmerianus,7,5,5,6,5,6,,,0
+Rudbeckia fulgida,8,7,6,6,8,6,,,0
+Rudbeckia hirta,8,7,6,5,8,6,,,0
+Rudbeckia laciniata,7,6,i,8,7,7,,~,0
+Rudbeckia triloba,7,7,i,4,7,5,,,0
+Rumex acetosa,7,5,i,5,6,6,,,1
+Rumex acetosella,8,i,i,3,i,2,,,0
+Rumex acetosella subsp. acetosella,8,5,3,3,3,2,,,0
+Rumex acetosella subsp. acetoselloides,8,7,7,2,2,2,,,0
+Rumex acetosella subsp. pyrenaicus,8,5,5,2,2,2,,,0
+Rumex alpinus,8,3,4,6,6,8,,,0
+Rumex aquaticus,7,5,7,8,7,8,,=,0
+Rumex arifolius,7,3,6,6,6,7,,,0
+Rumex bucephalophorus,8,8,4,3,3,4,,,4
+Rumex confertus,8,6,5,6,6,7,,,1
+Rumex conglomeratus,7,6,4,7,7,8,,~,1
+Rumex crispus,8,6,i,6,6,7,,~,1
+Rumex cristatus,7,8,5,4,6,7,,,0
+Rumex hydrolapathum,8,7,i,10,7,7,,,1
+Rumex kerneri,7,8,7,5,6,6,,~,0
+Rumex longifolius,8,6,6,5,6,8,,,0
+Rumex maritimus,8,7,7,9,7,8,,=,2
+Rumex nivalis,9,1,6,7,8,3,,,0
+Rumex obtusifolius,7,i,i,6,6,8,,~,1
+Rumex obtusifolius subsp. obtusifolius,7,i,3,6,6,8,,~,1
+Rumex obtusifolius subsp. subalpinus,6,5,6,5,7,7,,,0
+Rumex obtusifolius subsp. sylvestris,7,6,6,5,7,7,,,0
+Rumex obtusifolius subsp. transiens,7,6,5,6,8,8,,,0
+Rumex palustris,8,7,4,9,7,8,,=,1
+Rumex patientia,8,7,7,5,6,8,,,1
+Rumex pseudonatronatus,8,7,8,6,7,4,,=,6
+Rumex pulcher,8,7,i,5,6,7,,~,3
+Rumex pulcher subsp. divaricatus,8,8,3,4,6,8,,~,1
+Rumex pulcher subsp. pulcher,8,7,i,5,6,7,,~,3
+Rumex sanguineus,i,6,4,6,7,7,,~,0
+Rumex scutatus,8,4,4,4,7,3,,~,0
+Rumex stenophyllus,8,7,8,7,8,7,,=,3
+Rumex thyrsiflorus,8,7,7,4,7,5,,~,2
+Rumex triangulivalvis,8,6,6,7,7,7,,,0
+Ruscus aculeatus,4,9,3,4,7,4,,,0
+Ruscus hypoglossum,3,7,5,5,5,5,,,0
+Ruta graveolens,9,8,5,3,7,4,,,0
+Sabulina austriaca,9,2,6,3,9,2,,,0
+Sabulina gerardii,9,2,6,4,7,2,,,0
+Sabulina glaucina,9,8,7,2,7,1,,,0
+Sabulina tenuifolia,9,7,6,3,8,3,,,0
+Sabulina viscosa,9,7,7,2,4,2,,,0
+Sagina apetala,8,7,i,5,6,5,,~,1
+Sagina apetala subsp. apetala,8,7,i,5,6,5,,~,1
+Sagina apetala subsp. erecta,8,7,3,5,6,5,,~,1
+Sagina nodosa,8,4,i,8,8,4,,~,2
+Sagina procumbens,7,5,i,5,6,4,,~,2
+Sagina revelierei,8,6,4,6,4,3,,~,0
+Sagina saginoides,7,3,i,6,6,4,,~,0
+Sagittaria latifolia,7,6,i,10,7,6,,,0
+Sagittaria sagittifolia,7,6,7,10,7,6,,,0
+Salicornia perennans,9,8,8,9,8,7,,=,9
+Salix alba,6,6,6,8,7,7,,=,0
+Salix alpina,8,2,6,6,8,4,,,0
+Salix appendiculata,7,3,6,6,7,5,,,0
+Salix aurita,7,5,i,8,4,3,,~,0
+Salix babylonica,7,8,3,6,6,6,,~,0
+Salix bicolor,8,3,3,8,4,3,,=,0
+Salix breviserrata,8,2,6,6,7,3,,,0
+Salix caesia,8,3,5,7,4,3,,,0
+Salix caprea,7,5,i,5,6,5,,,0
+Salix cinerea,7,6,i,9,5,4,,~,1
+Salix daphnoides,7,4,5,7,7,4,,~,0
+Salix eleagnos,8,5,3,i,8,4,,~,0
+Salix foetida,8,3,6,7,4,3,,~,0
+Salix fragilis,6,6,i,8,6,7,,=,0
+Salix glabra,7,3,5,6,8,4,,,0
+Salix glaucosericea,8,3,6,6,3,3,,,0
+Salix hastata,7,3,6,7,6,4,,~,0
+Salix hegetschweileri,7,3,5,7,5,3,,~,0
+Salix helvetica,8,3,3,6,3,3,,,0
+Salix herbacea,9,1,i,7,3,3,,,0
+Salix laggeri,7,3,5,6,3,3,,,0
+Salix mielichhoferi,7,4,6,7,6,4,,=,0
+Salix myrsinifolia,7,5,5,7,6,4,,=,0
+Salix myrtilloides,7,4,7,9,3,2,,,0
+Salix pentandra,7,4,6,8,5,4,,~,0
+Salix purpurea,8,5,5,7,i,5,,=,0
+Salix purpurea subsp. angustior,8,3,5,7,i,5,,=,0
+Salix purpurea subsp. purpurea,8,5,4,7,i,5,,=,0
+Salix repens,8,5,i,7,i,3,,~,1
+Salix repens subsp. repens,8,5,3,7,5,2,,~,0
+Salix repens subsp. rosmarinifolia,8,5,8,7,7,3,,~,1
+Salix reticulata,8,2,6,6,8,3,,,0
+Salix retusa,8,2,5,5,8,4,,,0
+Salix serpillifolia,9,1,4,4,8,2,,,0
+Salix triandra,7,5,i,8,7,6,,=,0
+Salix triandra subsp. amygdalina,7,6,7,8,7,6,,=,0
+Salix triandra subsp. triandra,7,5,3,8,7,6,,=,0
+Salix viminalis,7,6,6,8,7,6,,=,0
+Salix waldsteiniana,7,3,4,6,8,4,,~,0
+Salix x rubens,6,6,i,8,6,6,,=,0
+Salsola tragus,9,7,8,2,7,6,,,3
+Salvia aethiopis,9,8,9,3,7,4,,,0
+Salvia austriaca,9,8,8,2,8,4,,,0
+Salvia farinacea,9,7,5,4,7,6,,,0
+Salvia glutinosa,4,5,5,6,7,7,,,0
+Salvia nemorosa,8,7,8,3,8,4,,,0
+Salvia officinalis,8,8,5,3,8,3,,,0
+Salvia pratensis,7,6,5,3,8,4,,,0
+Salvia reflexa,8,4,4,4,7,4,,,0
+Salvia sclarea,8,8,6,3,7,5,,,0
+Salvia verticillata,8,6,5,4,7,5,,,0
+Salvia viridis,8,8,4,3,8,5,,,1
+Salvinia natans,7,8,5,11,7,7,,,0
+Sambucus ebulus,7,6,5,5,7,7,,,0
+Sambucus nigra,7,5,i,6,7,8,,,0
+Sambucus racemosa,6,4,5,5,5,7,,,0
+Samolus valerandi,8,6,6,8,7,5,,=,6
+Sanguisorba dodecandra,7,5,4,7,5,7,,,0
+Sanguisorba minor,7,6,i,3,8,3,,,0
+Sanguisorba minor subsp. balearica,8,7,i,2,8,2,,,0
+Sanguisorba minor subsp. minor,7,6,i,3,8,3,,,0
+Sanguisorba officinalis,7,6,6,6,7,5,,~,1
+Sanicula epipactis,4,6,5,4,8,3,,,0
+Sanicula europaea,4,5,i,5,7,6,,~,0
+Sanvitalia procumbens,8,9,3,4,5,5,,,0
+Saponaria ocymoides,7,4,5,3,6,2,,~,0
+Saponaria officinalis,7,6,i,5,7,6,,,0
+Saponaria pumila,9,2,5,3,2,2,,,0
+Satureja hortensis,8,7,6,3,5,5,,,0
+Satureja montana,8,6,6,2,7,3,,,0
+Saussurea alpina subsp. alpina,9,2,i,5,5,3,,,0
+Saussurea discolor,9,2,6,5,8,2,,,0
+Saussurea pygmaea,9,2,5,4,8,2,,,0
+Saxifraga adscendens,9,2,5,5,7,4,,,0
+Saxifraga aizoides,8,3,i,8,7,3,,=,0
+Saxifraga androsacea,7,2,5,7,7,3,,,0
+Saxifraga aphylla,9,1,6,5,9,3,,,0
+Saxifraga aspera,8,3,6,4,3,2,,,0
+Saxifraga biflora,9,1,3,6,7,3,,,0
+Saxifraga blepharophylla,9,1,6,5,7,2,,,0
+Saxifraga bryoides,9,1,5,4,3,2,,,0
+Saxifraga bulbifera,8,7,5,3,6,3,,,0
+Saxifraga burseriana,9,3,5,3,9,1,,,0
+Saxifraga caesia,9,2,5,3,9,1,,,0
+Saxifraga carpatica,9,2,5,6,4,3,,,0
+Saxifraga cernua,6,2,7,6,7,5,,,0
+Saxifraga cotyledon,8,4,4,5,3,2,,,0
+Saxifraga crustata,9,3,4,2,9,1,,,0
+Saxifraga cuneifolia subsp. robusta,4,4,4,4,7,2,,~,0
+Saxifraga exarata,9,1,6,4,b,2,,,0
+Saxifraga exarata subsp. carniolica,7,2,4,3,9,3,,,0
+Saxifraga exarata subsp. exarata,9,1,6,4,2,2,,,0
+Saxifraga granulata,7,6,4,4,5,4,,,0
+Saxifraga hirculus,8,5,6,9,4,3,,=,0
+Saxifraga hirsuta,4,6,4,6,5,4,,,0
+Saxifraga hohenwartii,8,2,4,5,9,2,,,0
+Saxifraga hostii subsp. hostii,8,3,5,3,8,2,,,0
+Saxifraga moschata,8,2,5,4,7,2,,,0
+Saxifraga moschata subsp. moschata,8,2,5,5,7,2,,,0
+Saxifraga moschata subsp. pseudoexarata,8,2,5,5,8,2,,,0
+Saxifraga muscoides,9,1,7,5,6,2,,,0
+Saxifraga mutata,7,4,6,7,8,2,,~,0
+Saxifraga oppositifolia subsp. oppositifolia,9,2,3,5,8,2,,,0
+Saxifraga paniculata,8,3,i,3,8,2,,,0
+Saxifraga paradoxa,3,5,4,5,5,3,,~,0
+Saxifraga petraea,5,6,4,2,9,3,,,0
+Saxifraga retusa,9,1,6,3,2,1,,,0
+Saxifraga rotundifolia,5,4,4,6,7,6,,,0
+Saxifraga rudolphiana,9,1,3,5,7,2,,,0
+Saxifraga sedoides,9,2,4,6,8,2,,,0
+Saxifraga seguieri,9,1,3,6,3,2,,,0
+Saxifraga squarrosa,9,2,6,3,9,1,,,0
+Saxifraga stolonifera,5,8,2,5,5,5,,,0
+Saxifraga styriaca,7,1,5,5,6,3,,,0
+Saxifraga tenella,7,3,3,6,9,1,,,0
+Saxifraga tridactylites,9,6,2,2,7,2,,,0
+Saxifraga x geum,4,6,4,6,4,5,,,0
+Saxifraga x macropetala,9,1,4,6,8,3,,,0
+Saxifraga x urbium,5,6,3,7,3,5,,,0
+Scabiosa canescens,8,7,6,2,8,3,,,0
+Scabiosa columbaria,8,5,5,3,8,3,,,0
+Scabiosa lucida,8,3,5,4,8,3,,,0
+Scabiosa lucida subsp. lucida,8,3,5,4,8,3,,,0
+Scabiosa lucida subsp. stricta,8,4,5,4,8,3,,,0
+Scabiosa ochroleuca,8,6,8,3,8,3,,,0
+Scabiosa triandra,8,6,5,2,8,2,,,0
+Scandix pecten-veneris subsp. pecten-veneris,8,7,i,3,8,4,,,0
+Scheuchzeria palustris,9,4,6,9,1,1,,=,0
+Schlagintweitia huteri,7,3,4,4,3,3,,,0
+Schlagintweitia intybaceum,8,3,4,4,3,2,,,0
+Schoenoplectiella mucronatus,8,7,i,10,7,8,,,2
+Schoenoplectiella pungens,8,8,i,10,7,7,,~,2
+Schoenoplectus lacustris,8,6,i,11,7,6,,,2
+Schoenoplectus litoralis,8,8,2,10,8,7,,,2
+Schoenoplectus supinus,8,7,7,8,6,3,,=,1
+Schoenoplectus tabernaemontani,8,7,7,10,8,6,,,5
+Schoenoplectus triqueter,8,7,i,10,7,7,,,2
+Schoenus ferrugineus,9,4,5,8,8,2,,~,1
+Schoenus nigricans,9,6,i,9,9,2,,~,1
+Scilla bifolia,5,6,6,6,7,6,,,0
+Scilla bifolia subsp. bifolia,5,6,6,6,7,6,,,0
+Scilla bifolia subsp. bifolia var. bifolia,5,6,6,6,7,6,,,0
+Scilla bifolia subsp. bifolia var.drunensis,5,6,5,6,7,6,,,0
+Scilla bifolia subsp. spetana,5,7,6,6,7,6,,,0
+Scilla luciliae,5,7,5,4,7,5,,,0
+Scilla sardensis,5,7,5,3,7,5,,,0
+Scilla siehei,5,7,5,5,7,5,,,0
+Scilla tmoli,5,7,5,5,7,5,,,0
+Scilla vindobonensis,5,6,6,6,8,6,,~,0
+Scirpoides holoschoenus,8,7,i,8,7,6,,~,4
+Scirpus atrovirens,8,6,3,7,5,7,,,0
+Scirpus georgianus,8,6,4,8,5,5,,~,0
+Scirpus radicans,7,6,7,9,7,6,,=,0
+Scirpus sylvaticus,6,5,i,8,i,5,,=,0
+Scleranthus annuus,7,5,i,5,4,4,,,2
+Scleranthus perennis,8,6,5,2,4,1,,,0
+Scleranthus polycarpos,9,5,5,2,3,2,,,0
+Scleranthus verticillatus,9,8,7,2,6,2,,,1
+Sclerochloa dura,8,7,7,4,8,5,,~,1
+Scolymus hispanicus,9,8,4,2,6,7,,,1
+Scopolia carniolica,3,6,7,7,7,8,,,0
+Scorzonera aristata,9,3,5,3,7,3,,,0
+Scorzonera austriaca,7,7,7,2,9,2,,~,0
+Scorzonera cana,8,7,7,4,8,4,,~,3
+Scorzonera hispanica,7,7,8,4,8,3,,~,0
+Scorzonera humilis,7,5,5,7,i,3,,~,0
+Scorzonera laciniata,8,8,6,3,8,3,,~,1
+Scorzonera parviflora,8,8,8,7,8,3,,,5
+Scorzonera purpurea,8,7,8,3,8,3,,~,0
+Scorzonera rosea,7,4,6,5,8,5,,,0
+Scorzoneroides autumnalis,7,5,i,5,5,5,,~,1
+Scorzoneroides crocea,7,3,5,6,5,5,,,0
+Scorzoneroides helvetica,8,2,4,5,3,2,,,0
+Scorzoneroides montana,9,1,5,5,8,3,,,0
+Scorzoneroides montana subsp. melanotricha,9,1,5,5,8,3,,,0
+Scorzoneroides montana subsp. montana,9,1,4,5,8,3,,,0
+Scorzoneroides montaniformis,8,2,4,4,9,1,,,0
+Scrophularia canina,8,6,4,3,8,3,,,0
+Scrophularia juratensis,9,4,4,3,8,2,,=,0
+Scrophularia neesii,7,7,6,9,7,7,,=,1
+Scrophularia nodosa,4,5,i,6,6,7,,,0
+Scrophularia scopolii,4,5,5,6,7,7,,,0
+Scrophularia umbrosa,7,6,6,9,7,7,,=,1
+Scrophularia umbrosa agg.,7,6,6,9,7,7,,=,1
+Scrophularia vernalis,5,6,4,5,7,6,,,0
+Scutellaria altissima,6,7,7,5,7,6,,,0
+Scutellaria galericulata,7,6,i,9,7,6,,=,1
+Scutellaria hastifolia,7,7,8,8,7,5,,=,2
+Scutellaria minor,7,6,2,8,2,3,,,0
+Secale cereale,8,5,8,5,6,5,,,0
+Securigera varia,7,6,5,4,8,4,,~,0
+Sedum acre,8,6,i,2,6,2,,,1
+Sedum album,9,5,i,2,7,1,,,1
+Sedum alpestre,9,2,3,5,4,2,,,0
+Sedum annuum,9,3,5,2,4,2,,,0
+Sedum atratum,9,2,4,5,8,2,,,0
+Sedum dasyphyllum,8,4,5,2,6,1,,,0
+Sedum hispanicum,9,6,4,3,7,3,,,0
+Sedum pallidum,8,6,6,3,7,4,,,5
+Sedum sarmentosum,8,7,3,3,5,5,,,0
+Sedum sexangulare,8,5,5,2,7,2,,,0
+Sedum urvillei,9,7,6,1,9,1,,,0
+Sedum villosum,9,5,6,9,3,1,,~,0
+Selaginella helvetica,6,i,5,5,8,2,,~,0
+Selaginella selaginoides,8,2,i,6,7,3,,,0
+Selinum carvifolia,7,5,5,7,6,4,,~,0
+Selinum dubium,7,7,7,7,6,5,,=,1
+Sempervivum arachnoideum,9,i,4,1,i,1,,,0
+Sempervivum arachnoideum subsp. arachnoideum,9,i,4,1,6,1,,,0
+Sempervivum arachnoideum subsp. tomentosum,9,6,4,1,2,1,,,0
+Sempervivum braunii,9,2,6,3,3,1,,,0
+Sempervivum marmoreum,9,7,5,1,6,1,,,0
+Sempervivum montanum,9,2,4,3,2,1,,,0
+Sempervivum pittonii,9,6,6,1,7,1,,,0
+Sempervivum tectorum,9,5,4,2,6,2,,,0
+Sempervivum wulfenii,9,3,6,3,4,1,,,0
+Senecio abrotanifolius,7,3,5,4,6,3,,,0
+Senecio abrotanifolius var. abrotanifolius,7,3,5,4,7,3,,,0
+Senecio abrotanifolius var. tirolensis,8,2,5,4,4,3,,,0
+Senecio alpinus,7,3,5,6,8,8,,~,0
+Senecio aquaticus,7,6,4,8,5,5,,~,0
+Senecio carniolicus,9,2,5,4,1,1,,,0
+Senecio cineraria,9,8,2,2,7,1,,,1
+Senecio disjunctus,9,2,5,3,6,2,,,0
+Senecio doria,7,7,6,7,7,5,,,3
+Senecio doronicum,8,2,3,4,8,3,,,0
+Senecio erraticus subsp. barbareifolius,7,7,3,6,6,5,,~,2
+Senecio erucifolius,8,6,i,5,8,4,,~,1
+Senecio erucifolius subsp. erucifolius,8,6,3,5,8,4,,~,0
+Senecio erucifolius subsp. tenuifolius,8,8,7,4,8,4,,~,1
+Senecio fontanicola,7,6,6,7,9,3,,,0
+Senecio inaequidens,9,7,i,3,6,4,,,1
+Senecio insubricus,9,2,5,2,3,1,,,0
+Senecio jacobaea,8,6,i,4,7,5,,~,1
+Senecio jacobaea subsp. jacobaea,8,6,i,4,7,5,,,1
+Senecio jacobaea subsp. pannonicus,8,7,6,4,7,4,,,0
+Senecio nemorensis,6,i,i,5,6,7,,~,0
+Senecio nemorensis subsp. cacaliaster,6,3,5,6,5,7,,,0
+Senecio nemorensis subsp. fuchsii,6,5,5,5,6,7,,,0
+Senecio nemorensis subsp. glabratus,6,5,6,5,6,7,,,0
+Senecio nemorensis subsp. hercynicus,6,3,4,6,5,7,,,0
+Senecio nemorensis subsp. jacquinianus,6,6,6,4,7,7,,,0
+Senecio noricus,9,2,5,3,1,1,,,0
+Senecio paludosus,7,6,6,9,6,6,,=,0
+Senecio paludosus subsp. angustifolius,7,6,6,9,6,6,,=,0
+Senecio paludosus subsp. paludosus,7,5,6,9,6,6,,=,0
+Senecio sarracenicus,7,7,6,8,7,7,,=,0
+Senecio squalidus subsp. rupestris,8,4,6,5,7,7,,,0
+Senecio subalpinus,6,3,5,6,7,8,,~,0
+Senecio sylvaticus,7,6,4,5,5,7,,,0
+Senecio umbrosus,8,7,6,4,7,5,,~,0
+Senecio vernalis,9,6,6,3,7,6,,,1
+Senecio viscosus,8,5,5,4,6,6,,,0
+Senecio vulgaris,8,5,i,5,6,8,,,1
+Serratua tinctoria,6,i,6,5,7,3,,~,1
+Serratula tinctoria subsp. macrocephala,7,3,7,6,7,3,,,0
+Serratula tinctoria subsp. tinctoria,6,6,5,5,7,3,,~,1
+Seseli annuum,8,7,5,3,7,2,,,0
+Seseli austriacum,8,6,6,1,9,1,,,0
+Seseli campestre,8,7,5,4,6,3,,,5
+Seseli hippomarathrum,9,7,8,1,9,1,,,0
+Seseli libanotis,7,i,i,3,7,3,,,0
+Seseli libanotis subsp. intermedium,7,4,6,2,7,3,,,0
+Seseli libanotis subsp. libanotis,7,i,4,3,7,3,,,0
+Seseli osseum,8,8,7,1,7,1,,,0
+Seseli pallasii,8,8,7,2,7,2,,,0
+Sesleria caerulea,i,i,3,i,9,3,,,0
+Sesleria sadleriana,9,7,6,3,9,2,,,0
+Sesleria uliginosa,8,6,6,8,8,3,,~,1
+Sesleriella sphaerocephala,9,2,4,3,9,2,,,0
+Setaria faberi,8,7,7,4,6,7,,,1
+Setaria italica,8,7,i,4,7,8,,,1
+Setaria parviflora,8,7,5,5,6,8,,,0
+Setaria pumila,8,6,6,4,i,6,,,1
+Setaria verticillata,8,7,6,4,7,7,,,1
+Setaria verticilliformis,8,8,7,4,7,7,,,1
+Setaria viridis,8,6,i,5,6,7,,~,1
+Setaria viridis var. viridis,8,6,i,5,6,7,,~,1
+Setaria viridis var.major,8,7,i,5,5,7,,~,1
+Sherardia arvensis,7,6,4,4,7,6,,,1
+Sibbaldia procumbens,8,2,6,7,2,4,,,0
+Sicyos angulatus,8,8,3,6,6,5,,,0
+Sida spinosa,8,8,2,3,5,7,,,0
+Sideritis montana,9,8,6,2,8,3,,,0
+Sigesbeckia serrata,7,6,3,6,8,8,,,0
+Silaum silaus,7,6,3,6,7,4,,~,2
+Silene acaulis,9,2,i,4,i,1,,,0
+Silene acaulis subsp. exscapa,9,1,6,4,2,1,,,0
+Silene acaulis subsp. longiscapa,9,2,3,4,8,1,,,0
+Silene baccifera,6,6,6,7,7,7,,=,0
+Silene bupleuroides subsp. bupleuroides,9,8,7,2,8,2,,,0
+Silene conica,9,7,6,2,6,2,,,1
+Silene conoidea,9,8,5,2,6,5,,,0
+Silene cretica,8,9,5,3,6,4,,,0
+Silene csereii,9,6,6,4,7,3,,,1
+Silene dichotoma,7,7,8,4,7,6,,,0
+Silene dioica,5,4,4,6,7,7,,,0
+Silene flavescens,9,8,7,1,9,1,,,0
+Silene gallica,8,7,4,4,6,4,,~,0
+Silene italica subsp. italica,5,8,5,3,7,3,,,0
+Silene latifolia,8,6,i,4,7,6,,,0
+Silene latifolia subsp. alba,8,6,i,4,7,7,,,0
+Silene latifolia subsp. latifolia,8,8,4,4,8,4,,,0
+Silene linicola,8,7,4,4,6,5,,,0
+Silene multiflora,8,8,6,4,8,3,,,2
+Silene muscipula,8,8,4,3,6,5,,,0
+Silene nemoralis,7,6,6,3,8,3,,,0
+Silene noctiflora,7,6,5,4,8,6,,~,0
+Silene nutans,6,i,i,3,i,3,,,0
+Silene nutans subsp. insubrica,7,5,7,4,7,3,,,0
+Silene nutans subsp. nutans,6,i,i,3,i,3,,,0
+Silene otites,9,7,6,2,7,2,,,0
+Silene otites subsp. hungarica,9,7,7,1,7,2,,,0
+Silene otites subsp. otites,9,7,6,2,7,2,,,0
+Silene pendula,7,8,5,3,4,4,,,0
+Silene saxifraga,8,4,5,2,8,2,,,0
+Silene viridiflora,6,7,5,4,7,4,,,0
+Silene viscosa,9,7,8,3,6,2,,,4
+Silene vulgaris,8,i,i,4,i,3,,,1
+Silene vulgaris subsp. antelopum,7,4,5,4,5,4,,,0
+Silene vulgaris subsp. glareosa,9,2,6,5,8,2,,,0
+Silene vulgaris subsp. vulgaris,7,i,i,4,6,3,,,1
+Siler montanum,6,6,4,3,8,2,,,0
+Silphiodaucus prutenicum,6,6,6,6,6,3,,~,0
+Silphium perfoliatum,6,7,5,7,6,6,,,0
+Silybum marianum,9,9,i,3,6,7,,,1
+Sinacalia tangutica,8,5,4,6,7,7,,,0
+Sinapis alba,8,7,i,4,7,6,,,0
+Sinapis alba subsp. alba,8,7,i,4,7,6,,,0
+Sinapis alba subsp. dissecta,8,7,i,3,7,6,,,0
+Sinapis arvensis,8,5,i,5,7,6,,,0
+Sisymbrium altissimum,8,7,7,3,7,5,,,0
+Sisymbrium austriacum,7,6,4,4,8,7,,,0
+Sisymbrium irio,8,8,4,3,7,6,,,0
+Sisymbrium loeselii,8,7,7,3,7,5,,,0
+Sisymbrium officinale,8,6,i,4,7,7,,~,1
+Sisymbrium orientale,8,7,7,4,7,6,,,0
+Sisymbrium pallescens,8,8,3,3,8,8,,,0
+Sisymbrium strictissimum,6,6,6,6,7,6,,,0
+Sisymbrium volgense,8,6,9,3,7,6,,,1
+Sisyrinchium montanum,7,5,6,8,6,3,,~,0
+Sium latifolium,7,7,4,10,7,7,,,0
+Sixalix atropurpurea,7,8,5,3,6,4,,,0
+Smyrnium perfoliatum,5,9,6,4,8,7,,,0
+Solanum carolinense,8,7,3,3,7,8,,,0
+Solanum dulcamara,6,5,i,8,6,8,,~,1
+Solanum lycopersicum,7,6,i,6,6,8,,,1
+Solanum melongena,8,8,i,4,7,7,,,0
+Solanum nigrum,7,6,i,5,6,8,,,1
+Solanum nigrum subsp. nigrum,7,6,i,5,7,8,,,0
+Solanum nigrum subsp. schultesii,8,8,i,4,5,7,,,1
+Solanum nitidibaccatum,8,8,4,4,5,7,,,0
+Solanum pimpinellifolium,8,8,i,5,6,8,,,0
+Solanum pseudocapsicum,8,8,3,4,8,6,,,0
+Solanum rostratum,9,8,4,3,6,6,,,0
+Solanum triflorum,9,7,1,6,8,7,,,6
+Solanum tuberosum,8,7,1,5,6,7,,,0
+Solanum villosum,8,7,4,5,6,7,,,1
+Solanum villosum subsp. alatum,7,7,4,5,6,8,,,0
+Solanum villosum subsp. villosum,8,7,3,5,6,7,,,1
+Soldanella alpina,8,2,4,7,7,4,,,0
+Soldanella austriaca,8,2,5,7,9,3,,,0
+Soldanella major,4,3,4,6,3,3,,,0
+Soldanella minima,9,2,5,7,9,3,,,0
+Soldanella montana,4,4,5,6,3,3,,,0
+Soldanella pusilla,9,1,6,7,4,3,,,0
+Soleirolia solerolii,6,9,2,6,6,6,,,0
+Solidago canadensis,8,6,i,5,7,6,,,0
+Solidago gigantea,7,6,i,6,6,7,,,0
+Solidago rugosa,5,6,3,6,5,5,,,0
+Solidago virgaurea,5,i,i,5,i,4,,,0
+Solidago virgaurea subsp. minuta,7,3,i,5,i,3,,,0
+Solidago virgaurea subsp. virgaurea,5,5,i,5,i,4,,,0
+Sonchus arvensis,7,5,i,5,7,7,,~,1
+Sonchus arvensis subsp. arvensis,7,5,i,5,7,7,,~,1
+Sonchus arvensis subsp. uliginosus,8,6,4,7,7,7,,~,3
+Sonchus asper subsp. asper,7,5,i,5,7,7,,,1
+Sonchus oleraceus,7,6,4,5,7,8,,,0
+Sonchus palustris,7,7,7,8,7,7,,~,2
+Sophora japonica,7,8,3,5,5,5,,,0
+Sorbaria kirilowii,5,5,7,5,5,7,,,0
+Sorbaria sorbifolia,7,6,6,6,5,6,,,0
+Sorbaria tomentosa,8,6,4,5,5,4,,,0
+Sorbus algoviensis,5,3,3,5,7,5,,,0
+Sorbus aria,6,5,3,3,7,3,,,0
+Sorbus aucuparia,6,5,i,5,4,4,,,0
+Sorbus aucuparia subsp. aucuparia,6,5,i,5,4,4,,,0
+Sorbus aucuparia subsp. glabrata,6,3,4,5,4,4,,,0
+Sorbus austriaca,6,5,5,3,7,3,,,0
+Sorbus chamaemespilus,7,3,4,4,8,3,,,0
+Sorbus collina,7,6,5,4,7,4,,,0
+Sorbus cucullifera,7,6,5,3,5,3,,,0
+Sorbus danubialis,7,6,6,3,8,3,,,0
+Sorbus doerriana,6,3,3,5,7,3,,,0
+Sorbus hardeggensis,7,6,5,3,6,3,,,0
+Sorbus intermedia s. lat. ,6,5,6,4,7,4,,,0
+Sorbus latifolia agg.,6,7,6,4,7,4,,,0
+Sorbus mougeotii,7,4,4,3,6,3,,,0
+Sorbus thayensis,7,6,5,3,5,3,,,0
+Sorbus torminalis,4,7,4,4,6,4,,,0
+Sorghum bicolor,9,8,3,4,7,7,,,0
+Sorghum halepense,8,7,7,6,7,7,,~,1
+Sorghum sudanense,8,8,i,7,8,7,,,0
+Sparganium angustifolium,7,3,i,11,3,1,,,0
+Sparganium emersum,7,6,i,11,6,7,,,1
+Sparganium erectum,7,6,i,10,i,7,,,1
+Sparganium erectum subsp. erectum,7,6,i,10,7,7,,,1
+Sparganium erectum subsp. microcarpum,7,5,i,10,4,7,,,1
+Sparganium erectum subsp. neglectum,7,6,3,10,5,7,,,1
+Sparganium erectum subsp. oocarpum,7,7,5,10,5,7,,,1
+Sparganium natans,8,5,i,11,5,3,,,0
+Spartium junceum,8,8,4,4,6,4,,,0
+Spergula arvensis,8,5,i,5,3,6,,,0
+Spergula morisonii,9,7,5,2,2,1,,,0
+Spergula pentandra,9,6,i,2,4,2,,,0
+Spergularia echinosperma subsp. albensis,8,6,4,8,6,7,,=,0
+Spergularia kurkae,8,6,3,8,5,5,,=,0
+Spergularia marina,8,6,9,7,8,5,,~,9
+Spergularia media,8,7,8,7,8,5,,~,8
+Spergularia rubra,8,5,i,5,4,4,,~,1
+Spinacia oleracea,9,7,4,5,6,8,,,0
+Spiraea alba,6,7,5,6,5,6,,,0
+Spiraea billardii,7,5,6,7,7,5,,,0
+Spiraea chamaedryfolia,6,6,7,4,7,5,,,0
+Spiraea decumbens subsp. decumbens,5,5,6,3,9,2,,,0
+Spiraea douglasii,5,7,5,6,5,7,,,0
+Spiraea japonica,5,6,3,6,4,5,,,0
+Spiraea media,8,6,7,3,8,3,,,0
+Spiraea salicifolia,7,6,6,8,6,6,,~,0
+Spiraea thunbergii,7,7,3,5,5,5,,,0
+Spiranthes aestivalis,9,6,4,8,9,2,,~,0
+Spiranthes spiralis,8,6,3,5,i,3,,~,1
+Spirodela polyrhiza,7,6,i,11,6,7,,,1
+Sporobolus aculeatus,9,8,8,7,8,6,,=,9
+Sporobolus alopecuroides,9,8,6,6,7,7,,~,6
+Sporobolus indicus,7,9,3,3,6,5,,,1
+Sporobolus neglectus,9,6,5,4,7,5,,,1
+Sporobolus schoenoides,9,8,7,7,7,7,,~,8
+Sporobolus vaginiflorus,9,6,5,4,7,5,,,1
+Stachys alpina,7,4,4,5,7,7,,,0
+Stachys annua,8,6,6,3,8,5,,,0
+Stachys arvensis,8,6,3,5,3,6,,~,0
+Stachys byzantina,8,8,6,3,8,6,,,0
+Stachys germanica,8,7,6,3,8,5,,,0
+Stachys palustris,7,6,i,7,7,6,,~,1
+Stachys recta,7,7,6,2,8,2,,,0
+Stachys recta subsp. labiosa,7,6,5,2,9,2,,,0
+Stachys recta subsp. recta,7,6,6,3,8,2,,,0
+Stachys recta subsp. subcrenata,7,7,6,3,8,2,,,0
+Stachys sylvatica,4,5,i,7,6,7,,~,0
+Staphylea pinnata,6,7,6,5,8,5,,~,0
+Stellaria alsine,6,4,i,8,4,4,,~,0
+Stellaria apetala,8,7,i,3,7,6,,,1
+Stellaria aquatica,7,6,i,8,7,8,,=,1
+Stellaria glochidisperma,4,6,4,7,6,7,,,0
+Stellaria graminea,7,5,i,5,5,4,,~,1
+Stellaria longifolia,5,4,7,6,2,3,,,0
+Stellaria media,7,5,5,5,7,8,,,1
+Stellaria neglecta,6,7,i,6,6,8,,~,1
+Stellaria nemorum,4,5,6,7,6,7,,,0
+Stellaria palustris,6,6,6,8,5,4,,~,0
+Stellaria ruderalis,7,6,i,5,7,8,,,1
+Stenotaphrum secundatum,9,9,3,2,8,3,,,0
+Stephanandra incisa,3,8,3,5,5,5,,,0
+Stipa borysthenica,9,7,8,1,7,1,,,0
+Stipa capillata,9,7,8,2,8,2,,,0
+Stipa dasyphylla,9,7,8,2,7,2,,,0
+Stipa epilosa,9,6,8,1,7,1,,,0
+Stipa eriocaulis,9,6,6,1,8,1,,,0
+Stipa eriocaulis subsp. austriaca,9,6,6,1,8,1,,,0
+Stipa eriocaulis subsp. eriocaulis,9,7,7,1,9,1,,,0
+Stipa pennata,8,7,7,2,7,2,,,0
+Stipa pulcherrima,9,7,7,2,8,2,,,0
+Stipa styriaca,9,6,7,2,7,3,,,0
+Stipa tirsa,8,7,7,3,7,3,,,0
+Stratiotes aloides,7,7,6,11,8,6,,,1
+Streptopus amplexifolius,5,3,i,6,6,6,,,0
+Struthiopteris spicant,3,4,3,6,2,3,,,0
+Stuckenia filiformis,7,4,7,12,5,3,,,1
+Stuckenia pectinatus,6,6,i,12,8,7,,,1
+Stuckenia pectinatus subsp. helveticus,6,7,6,12,8,6,,,2
+Stuckenia pectinatus subsp. pectinatus,6,6,i,12,8,7,,,1
+Suaeda pannonica,9,8,8,8,8,7,,=,8
+Suaeda prostrata,9,8,9,8,7,7,,=,9
+Succisa pratensis,7,5,i,7,i,3,,~,0
+Succisella inflexa,8,7,6,8,6,3,,~,0
+Swertia perennis,8,4,5,9,6,3,,~,0
+Symphoricarpos albus subsp. laevigatus,5,6,i,6,6,7,,,0
+Symphoricarpos x chenaultii,5,7,3,5,5,5,,,0
+Symphotrichum laeve,7,7,7,6,7,7,,,0
+Symphotrichum lanceolatum,7,6,6,6,7,8,,=,1
+Symphotrichum novae-angliae,7,6,6,6,7,8,,=,5
+Symphotrichum novi-belgii,8,6,4,5,7,8,,~,1
+Symphotrichum parviflorum,6,6,5,4,5,7,,,0
+Symphotrichum tradescantii,7,6,2,7,8,8,,=,0
+Symphotrichum x salignum,6,6,5,6,7,8,,=,1
+Symphotrichum x versicolor,6,7,4,6,7,7,,=,0
+Symphytum asperum,8,6,7,5,7,8,,,0
+Symphytum bulbosum,5,7,6,5,6,6,,,0
+Symphytum caucasicum,6,4,6,5,4,4,,,0
+Symphytum ibericum,6,7,3,4,4,7,,,0
+Symphytum officinale,7,6,i,7,7,8,,~,1
+Symphytum orientale,7,6,6,6,7,7,,,0
+Symphytum tanaicense,7,7,8,7,6,7,,~,0
+Symphytum tuberosum,4,6,i,5,7,6,,,0
+Symphytum x uplandicum,7,7,3,6,5,7,,~,0
+Syringa vulgaris,7,7,7,4,7,5,,,0
+Syringa x persica,7,6,4,5,6,6,,,0
+Tagetes minuta,8,7,4,4,6,6,,,0
+Tagetes patula,8,7,2,5,5,5,,,0
+Tamarix parviflora,8,8,2,7,7,5,,,1
+Tamarix ramosissima,9,9,1,7,7,6,,,3
+Tanacetum balsamita,8,8,6,5,5,6,,,0
+Tanacetum corymbosum,6,i,6,3,i,3,,,0
+Tanacetum corymbosum subsp. corymbosum,6,7,6,3,i,3,,,0
+Tanacetum corymbosum subsp. subcorymbosum,6,4,5,4,8,4,,,0
+Tanacetum macrophyllum,6,5,6,6,6,7,,,0
+Tanacetum parthenium,7,6,4,5,6,7,,,1
+Tanacetum vulgare,8,6,i,5,7,6,,,1
+Taraxacum bessarabicum,9,7,8,6,8,5,,~,8
+Taraxacum fascicans-Gruppe,7,6,4,7,5,4,,,1
+Taraxacum nordstedtii,7,6,4,7,5,4,,,0
+Taraxacum pacheri,9,1,4,7,7,3,,,0
+Taraxacum peralatum,8,3,6,7,5,5,,,0
+Taraxacum reichenbachii,9,1,6,4,3,3,,,0
+Taraxacum rhaeticum-Gruppe,7,4,4,6,6,6,,,0
+Taraxacum schroeterianum,8,2,4,9,5,4,,,0
+Taraxacum Sect. Alpina,8,2,3,6,i,6,,,0
+Taraxacum Sect. Arctica,9,1,6,4,3,3,,,0
+Taraxacum Sect. Borealia,9,1,5,5,5,4,,,0
+Taraxacum Sect. Celtica,7,6,4,7,5,4,,,0
+Taraxacum Sect. Crocea,8,3,6,9,6,5,,,0
+Taraxacum Sect. Cucullata,8,2,6,6,5,4,,~,0
+Taraxacum Sect. Dioszegia,9,8,7,3,8,3,,,0
+Taraxacum Sect. Erythrocarpa,9,5,7,3,8,3,,,0
+Taraxacum Sect. Erythrosperma,8,6,i,3,i,3,,,0
+Taraxacum Sect. Hamata,7,5,4,7,5,6,,,0
+Taraxacum Sect. Obliqua,9,5,7,3,8,3,,,0
+Taraxacum Sect. Pachera,9,1,4,7,7,3,,,0
+Taraxacum Sect. Palustria,8,i,i,8,8,4,,~,2
+Taraxacum Sect. Piesis,9,7,8,6,8,5,,~,8
+Taraxacum Sect. Rhodocarpa,7,3,4,6,6,6,,,0
+Taraxacum Sect. Taraxacum,8,i,5,5,5,8,,,1
+Taraxacum serotinum,9,8,7,2,8,3,,,0
+Taxodium distichum,8,5,5,9,5,5,,~,0
+Taxus baccata,4,5,4,5,7,4,,,0
+Teesdalia nudicaulis,9,6,4,3,2,1,,,0
+Telekia speciosa,7,5,6,7,7,7,,,0
+Teloxys aristata,9,7,6,3,8,4,,,0
+Tephroseris crispa,6,4,5,8,6,6,,=,0
+Tephroseris helenitis subsp. helenitis,8,6,3,7,7,2,,~,0
+Tephroseris helenitis subsp. helenitis var. helenitis,8,6,3,7,7,2,,~,0
+Tephroseris helenitis subsp. helenitis var. salisburgensis,8,6,5,8,7,2,,~,0
+Tephroseris integrifolia,7,i,i,4,7,3,,~,0
+Tephroseris integrifolia subsp. aurantiaca,8,6,4,4,8,3,,~,0
+Tephroseris integrifolia subsp. capitata,8,2,6,4,7,3,,,0
+Tephroseris integrifolia subsp. integrifolia,7,7,7,3,7,3,,~,0
+Tephroseris integrifolia subsp. serpentini,7,6,7,3,7,2,,,0
+Tephroseris longifolia,7,4,6,5,7,6,,,0
+Tephroseris longifolia subsp. gaudinii,7,3,6,6,8,6,,,0
+Tephroseris longifolia subsp. longifolia,7,4,6,5,7,5,,,0
+Tephroseris longifolia subsp. pseudocrispa,7,4,6,5,7,6,,,0
+Tetragonia tetragonoides,9,9,3,5,5,7,,,3
+Teucrium botrys,9,7,4,2,8,2,,,0
+Teucrium chamaedrys,7,6,6,3,7,3,,~,0
+Teucrium hircanicum,8,7,4,4,7,5,,,0
+Teucrium montanum,8,i,5,1,8,1,,,0
+Teucrium scordium,7,7,6,8,8,4,,~,2
+Teucrium scorodonia subsp. scorodonia,6,6,2,4,3,3,,,0
+Thalictrum alpinum,9,2,6,6,7,2,,~,0
+Thalictrum aquilegiifolium,5,4,5,6,7,6,,~,0
+Thalictrum flavum,7,7,i,8,8,5,,~,1
+Thalictrum foetidum,8,4,8,2,8,2,,,0
+Thalictrum lucidum,7,6,6,7,7,5,,~,1
+Thalictrum minus,7,i,i,2,8,3,,,0
+Thalictrum minus subsp. majus,7,6,7,1,9,3,,,0
+Thalictrum minus subsp. minus,7,7,7,2,8,3,,,0
+Thalictrum minus subsp. pratense,7,5,5,2,6,3,,,0
+Thalictrum minus subsp. saxatile,7,5,5,1,8,3,,,0
+Thalictrum simplex,8,6,6,7,8,4,,~,0
+Thalictrum simplex subsp. galioides,8,7,6,7,8,3,,~,0
+Thalictrum simplex subsp. simplex,8,5,7,6,7,4,,~,0
+Thalictrum simplex subsp. tenuifolium,8,6,6,5,8,4,,~,0
+Thelypteris palustris,5,6,i,8,5,3,,~,0
+Thesium alpinum,7,3,5,4,7,2,,,0
+Thesium bavarum,7,6,4,3,8,3,,~,0
+Thesium dollineri,8,7,6,3,8,3,,,0
+Thesium ebracteatum,8,7,7,6,5,2,,~,0
+Thesium linophyllon,8,7,5,3,8,2,,~,0
+Thesium pyrenaicum,8,4,5,3,i,2,,,0
+Thesium pyrenaicum subsp. grandiflorum,8,3,6,3,4,2,,,0
+Thesium pyrenaicum subsp. pyrenaicum,8,4,4,3,7,3,,,0
+Thesium ramosum,8,7,6,3,8,2,,~,0
+Thesium rostratum,6,5,5,3,9,2,,~,0
+Thladiantha dubia,7,7,5,5,5,6,,,0
+Thlaspi arvense,8,5,i,5,7,7,,,0
+Thuja occidentalis,7,6,3,6,5,4,,~,0
+Thuja plicata,5,6,3,5,5,3,,,0
+Thymelaea passerina,9,7,7,3,7,4,,~,0
+Thymus drucei,7,4,3,4,5,4,,,0
+Thymus longicaulis,7,7,3,4,7,3,,,0
+Thymus odoratissimus,8,7,7,2,7,2,,,0
+Thymus pannonicus,8,7,8,2,8,2,,,0
+Thymus pannonicus agg.,8,7,7,2,7,2,,,0
+Thymus praecox,8,i,6,2,7,1,,,0
+Thymus praecox subsp. polytrichus,8,3,6,3,7,2,,,0
+Thymus praecox subsp. praecox,8,6,6,2,8,1,,,0
+Thymus praecox subsp. widderi,8,7,7,2,8,1,,,0
+Thymus pulegioides,8,6,4,3,i,3,,,0
+Thymus pulegioides subsp. carniolicus,8,7,3,2,8,2,,,0
+Thymus pulegioides subsp. montanus,8,6,4,4,6,3,,,0
+Thymus pulegioides subsp. pulegioides,8,5,4,3,i,3,,,0
+Thymus serpyllum,8,7,5,2,3,1,,,0
+Thymus vulgaris,8,8,5,1,7,3,,,0
+Thymus x citriodorus,8,7,4,4,5,2,,,0
+Tilia cordata,5,6,5,5,i,5,,~,0
+Tilia platyphyllos,4,6,5,5,7,6,,,0
+Tilia tomentosa,4,7,7,5,7,6,,~,0
+Tilia vulgaris,7,6,5,5,5,5,,,0
+Tofieldia calyculata,8,4,5,8,8,2,,~,0
+Tofieldia pusilla,9,2,6,8,7,1,,,0
+Tolmiea menziesii,3,6,2,6,7,7,,,0
+Tordylium maximum,7,8,i,3,7,5,,,0
+Torilis arvensis,7,7,i,4,7,6,,,1
+Torilis arvensis subsp. arvensis,7,7,i,4,7,6,,,1
+Torilis arvensis subsp. neglecta,7,8,5,3,7,7,,,1
+Torilis arvensis subsp. recta,8,7,3,2,8,7,,,0
+Torilis japonica,6,6,i,5,7,7,,,1
+Torilis nodosa,8,7,i,4,7,6,,,1
+Tozzia alpina subsp. alpina,5,3,4,6,7,6,,,0
+Trachystemon orientale,3,7,5,6,5,3,,,0
+Tradescantia virginiana,7,8,3,6,5,6,,,0
+Tradescantia x andersoniana,7,8,3,5,7,7,,,0
+Tragopogon dubius,8,7,7,3,7,5,,,1
+Tragopogon minor,7,5,2,4,6,6,,,0
+Tragopogon orientalis,8,6,6,5,7,7,,,0
+Tragopogon porrifolius,8,8,5,4,7,5,,,0
+Tragopogon pratensis,8,6,4,5,7,6,,,0
+Tragus racemosus,9,8,i,2,7,4,,,1
+Trapa natans,8,7,6,11,6,7,,,0
+Traunsteinera globosa,7,4,4,5,8,3,,,0
+Tribulus terrestris,9,9,9,3,7,5,,,1
+Trichophorum alpinum,9,4,6,9,2,2,,=,0
+Trichophorum cespitosum,8,4,i,9,1,1,,~,0
+Trientalis europaea,6,4,6,6,3,3,,,0
+Trifolium alexandrinum,8,7,i,4,5,5,,~,0
+Trifolium alpestre,7,6,5,3,7,3,,~,0
+Trifolium alpinum,8,2,3,4,2,2,,,0
+Trifolium angulatum,8,8,6,4,6,2,,~,4
+Trifolium arvense subsp. arvense,8,6,i,3,4,1,,~,1
+Trifolium aureum,7,5,5,4,4,3,,,0
+Trifolium badium,8,3,4,6,7,5,,,0
+Trifolium campestre,8,6,i,4,7,4,,~,1
+Trifolium dubium,7,6,4,5,6,5,,~,1
+Trifolium echinatum,8,8,6,3,4,2,,,0
+Trifolium fragiferum,8,6,i,7,7,7,,~,5
+Trifolium fragiferum var. bonannii,8,6,i,7,8,7,,~,5
+Trifolium fragiferum var. fragiferum,8,6,i,7,7,7,,~,5
+Trifolium hybridum,7,6,5,6,i,6,,~,1
+Trifolium hybridum subsp. elegans,7,7,5,4,3,5,,,0
+Trifolium hybridum subsp. hybridum,7,6,5,6,7,7,,~,1
+Trifolium incarnatum,8,6,i,i,i,i,,,1
+Trifolium incarnatum subsp. incarnatum,8,6,i,5,6,6,,,1
+Trifolium incarnatum subsp. molineri,8,8,i,2,3,3,,,0
+Trifolium medium,7,6,i,4,6,4,,,0
+Trifolium medium subsp. banaticum,7,6,5,4,6,4,,,0
+Trifolium medium subsp. medium,7,6,i,4,6,4,,,0
+Trifolium micranthum,9,6,4,7,7,4,,~,4
+Trifolium montanum,7,i,5,3,8,3,,~,0
+Trifolium mutabile,8,8,4,4,5,3,,,0
+Trifolium nigrescens,8,7,4,2,5,5,,,1
+Trifolium noricum,8,2,5,4,7,4,,,0
+Trifolium ochroleucon,8,6,5,4,7,3,,~,0
+Trifolium pallescens,8,2,6,5,5,4,,,0
+Trifolium pannonicum,8,7,i,3,7,4,,,0
+Trifolium patens,8,7,i,6,7,6,,~,1
+Trifolium pratense,7,i,i,5,7,6,,,1
+Trifolium pratense subsp. americanum,7,5,i,5,7,6,,,1
+Trifolium pratense subsp. nivale,8,2,4,5,6,4,,,0
+Trifolium pratense subsp. pratense,7,5,i,5,6,6,,,1
+Trifolium pratense subsp. sativum,7,5,i,5,7,6,,,1
+Trifolium repens,8,i,i,i,6,6,,,1
+Trifolium repens subsp. prostratum,8,8,6,2,7,7,,,0
+Trifolium repens subsp. repens ,8,i,i,6,6,6,,~,1
+Trifolium resupinatum,8,7,i,6,7,6,,~,2
+Trifolium retusum,8,7,6,3,7,3,,,1
+Trifolium rubens,7,6,5,3,8,3,,,0
+Trifolium saxatile,9,2,7,3,4,2,,=,0
+Trifolium spadiceum,8,4,5,7,3,3,,~,0
+Trifolium squarrosum,9,8,4,3,3,3,,,0
+Trifolium stellatum,9,9,5,3,6,5,,,1
+Trifolium striatum,8,7,4,3,4,2,,~,1
+Trifolium suaveolens,8,7,3,6,6,7,,~,1
+Trifolium subterraneum,9,9,3,1,6,4,,,2
+Trifolium thalii,8,2,3,6,8,5,,,0
+Triglochin maritima,8,7,7,8,8,4,,~,8
+Triglochin palustris,8,5,i,9,7,2,,~,3
+Trigonella caerulea,7,8,7,4,7,5,,,1
+Trigonella foenum-graecum,8,9,4,3,7,5,,,1
+Trigonella procumbens,8,8,6,4,7,4,,,1
+Trinia glauca subsp. glauca,9,8,5,2,8,2,,,0
+Trinia kitaibelii,9,8,7,2,8,2,,,2
+Tripleurospermum inodorum,8,6,i,5,6,7,,,1
+Tripleurospermum tenuifolium,8,6,5,4,6,6,,,0
+Tripolium pannonicum subsp.pannonicum,8,7,8,6,7,4,,=,8
+Trisetaria alpestris,8,3,6,3,8,3,,,0
+Trisetaria argentea,9,3,4,4,9,2,,,0
+Trisetaria cristata,9,8,6,2,8,3,,,1
+Trisetaria distichophylla,9,2,5,5,9,3,,,0
+Trisetaria flavescens,7,i,i,5,6,i,,,0
+Trisetaria flavescens var. flavescens,7,i,i,5,6,i,,,0
+Trisetaria flavescens var. purpurascens,8,3,5,5,7,5,,,0
+Trisetaria panicea,8,8,4,5,8,5,,,0
+Triticum aestivum,9,7,7,4,6,6,,,0
+Triticum aestivum subsp. aestivum,9,7,7,4,6,6,,,0
+Triticum aestivum subsp. compactum,8,7,7,4,5,5,,,0
+Triticum cylindricum,9,9,7,2,6,4,,,0
+Triticum dicoccon,9,8,7,4,7,5,,,0
+Triticum durum,9,8,7,3,8,5,,,0
+Triticum monococcum,8,7,6,4,6,4,,,0
+Triticum polonicum,9,7,8,4,7,5,,,0
+Triticum spelta,8,7,7,4,6,5,,,0
+Triticum turgidum,9,8,7,4,7,6,,,0
+Trollius europaeus,8,i,5,7,7,5,,~,0
+Tropaeolum majus,7,9,2,5,6,7,,,0
+Tsuga heterophylla,6,6,3,6,3,4,,,0
+Tulipa gesneriana,7,6,6,4,7,6,,,0
+Tulipa sylvestris,6,7,6,4,7,5,,~,0
+Turgenia latifolia,8,7,i,3,9,3,,,0
+Turritis glabra,6,6,6,3,7,5,,,0
+Tussilago farfara,7,i,i,6,7,6,,~,0
+Typha angustifolia,8,7,i,10,7,7,,,1
+Typha latifolia,8,6,i,10,7,8,,,1
+Typha laxmannii,8,7,7,10,8,7,,,1
+Typha minima,8,6,7,9,8,2,,=,0
+Typha shuttleworthii,8,6,5,10,7,4,,,1
+Ulex europaeus,7,6,1,5,3,3,,,0
+Ulmus glabra,5,5,3,6,7,6,,,0
+Ulmus laevis,5,7,5,8,7,7,,=,0
+Ulmus minor,6,7,6,i,7,i,,~,1
+Ulmus minor subsp. canescens,6,8,6,4,8,6,,~,1
+Ulmus minor subsp. minor,6,7,5,i,7,i,,~,1
+Ulmus pumila,5,7,6,4,6,5,,,4
+Ulmus x hollandica,6,6,5,5,7,7,,,0
+Urospermum picroides,9,9,5,2,7,6,,,2
+Urtica dioica,i,i,i,6,6,9,,~,1
+Urtica dioica subsp. dioica,i,i,i,6,6,9,,~,1
+Urtica dioica subsp. subinermis,4,6,6,7,6,8,,~,0
+Urtica kioviensis,7,7,7,9,7,8,,=,1
+Urtica pilulifera,8,8,5,4,8,8,,,0
+Urtica urens,7,6,i,5,7,8,,,2
+Utricularia australis,8,6,4,12,5,5,,,0
+Utricularia bremii,8,6,5,12,4,2,,,0
+Utricularia intermedia,8,6,i,12,5,1,,,0
+Utricularia minor,8,5,i,12,5,2,,,0
+Utricularia ochroleuca,8,6,5,12,3,1,,,0
+Utricularia stygia,8,5,5,12,3,2,,,0
+Utricularia vulgaris,8,7,i,12,6,5,,,0
+Vaccinium macrocarpon,7,5,5,8,1,3,,,0
+Vaccinium microcarpum,8,4,7,9,1,1,,,0
+Vaccinium myrtillus,i,i,i,i,2,3,,,0
+Vaccinium oxycoccos,7,5,i,9,1,1,,,0
+Vaccinium uliginosum,7,i,i,i,2,2,,,0
+Vaccinium uliginosum subsp. microphyllum,8,2,i,5,3,2,,,0
+Vaccinium uliginosum subsp. uliginosum,6,4,6,8,1,2,,,0
+Vaccinium vitis-idaea,6,5,i,i,2,1,,,0
+Valeriana celtica subsp. celtica,9,2,6,4,2,2,,,0
+Valeriana dioica,7,i,3,8,6,3,,,1
+Valeriana elongata,7,2,5,4,9,1,,,0
+Valeriana montana,8,2,3,5,8,3,,,0
+Valeriana officinalis,7,i,i,i,6,6,,~,1
+Valeriana officinalis subsp. angustifolia,7,i,6,4,7,4,,,1
+Valeriana officinalis subsp. excelsa,6,5,3,8,6,7,,=,0
+Valeriana officinalis subsp. officinalis,7,5,6,8,7,5,,~,1
+Valeriana officinalis subsp. sambucifolia,6,5,5,8,6,7,,~,0
+Valeriana officinalis subsp. versifolia,7,3,5,6,6,6,,,0
+Valeriana officinalis subsp. vorarlbergensis,7,6,6,7,7,7,,,0
+Valeriana phu,7,5,7,7,7,6,,,0
+Valeriana pyrenaica,6,4,3,6,6,5,,,0
+Valeriana saliunca,9,2,4,3,7,2,,,0
+Valeriana saxatilis,8,3,5,3,9,2,,~,0
+Valeriana supina,9,2,6,5,9,2,,,0
+Valeriana tripteris,5,4,4,5,8,3,,,0
+Valerianella carinata,7,7,i,3,8,5,,,0
+Valerianella dentata,7,6,4,4,7,6,,,0
+Valerianella locusta,7,6,4,4,7,6,,,0
+Valerianella rimosa,7,6,4,4,7,6,,~,0
+Vallisneria spiralis,6,8,7,12,7,5,,,0
+Ventenata dubia,9,8,6,3,6,3,,,0
+Veratrum album,7,i,5,7,i,6,,~,0
+Veratrum album subsp. album,7,i,5,7,i,6,,~,0
+Veratrum album subsp. lobelianum,7,3,6,6,i,6,,~,0
+Veratrum nigrum,6,7,7,4,8,5,,~,0
+Verbascum alpinum,7,4,6,4,7,6,,,0
+Verbascum blattaria,8,7,6,4,7,6,,~,1
+Verbascum chaixii,7,6,6,3,7,5,,,0
+Verbascum chaixii subsp. austriacum,7,6,6,3,7,5,,,0
+Verbascum chaixii subsp. chaixii,7,5,6,3,7,5,,,0
+Verbascum crassifolium,8,4,7,3,6,5,,,0
+Verbascum densiflorum,8,6,5,4,7,6,,,0
+Verbascum lychnitis,8,6,6,3,7,4,,,0
+Verbascum nigrum,7,5,i,4,6,6,,,0
+Verbascum phlomoides,8,6,5,3,7,6,,,0
+Verbascum phoeniceum,8,7,8,3,7,3,,~,0
+Verbascum pulverulentum,9,8,3,2,8,6,,,0
+Verbascum sinuatum,9,9,4,2,7,7,,,0
+Verbascum speciosum,9,8,8,3,7,6,,,0
+Verbascum thapsus,8,5,i,4,6,6,,,0
+Verbascum virgatum,8,7,3,3,5,6,,,0
+Verbena bonariensis,8,7,4,6,5,5,,,0
+Verbena bracteata,7,7,2,5,7,7,,,0
+Verbena officinalis,8,6,i,5,7,6,,~,1
+Verbesina encelioides subsp. exauriculata,7,6,6,4,5,7,,,0
+Veronica acinifolia,8,8,3,7,4,3,,~,1
+Veronica agrestis,8,5,i,6,6,7,,,0
+Veronica alpina,8,2,i,6,6,3,,,0
+Veronica anagallis-aquatica,8,6,i,9,6,7,,=,2
+Veronica anagalloides,8,7,7,9,7,7,,=,2
+Veronica aphylla,9,2,3,5,8,2,,,0
+Veronica arvensis,7,6,i,4,6,i,,~,0
+Veronica austriaca,7,7,7,2,8,2,,,0
+Veronica barrelieri,7,8,6,2,7,2,,,0
+Veronica beccabunga,6,i,i,9,7,6,,=,1
+Veronica bellidioides,8,2,4,4,1,2,,,0
+Veronica catenata,8,7,i,10,7,7,,~,2
+Veronica chamaedrys,6,i,i,5,7,6,,~,0
+Veronica chamaedrys subsp. chamaedrys,6,5,3,5,7,6,,~,0
+Veronica chamaedrys subsp. micans,7,3,5,6,7,5,,,0
+Veronica cymbalaria,7,8,4,3,6,5,,,1
+Veronica dillenii,9,6,6,2,4,2,,,0
+Veronica filiformis,7,6,5,5,6,7,,~,0
+Veronica fruticans,8,2,4,4,5,2,,,0
+Veronica fruticulosa,9,3,2,4,9,2,,,0
+Veronica gentianoides,8,5,6,6,6,4,,,0
+Veronica hederifolia,7,6,i,4,6,7,,,0
+Veronica maritima,7,7,7,8,7,6,,~,1
+Veronica montana,4,6,3,6,6,6,,,0
+Veronica officinalis,5,i,i,4,3,4,,~,0
+Veronica opaca,6,6,5,5,7,7,,,0
+Veronica orchidea,8,7,6,3,7,3,,,0
+Veronica peregrina,8,7,i,7,7,7,,~,1
+Veronica peregrina subsp. peregrina,8,7,i,7,7,7,,~,1
+Veronica peregrina subsp. xalapensis,8,7,i,7,8,6,,~,0
+Veronica persica,7,i,i,5,7,7,,,0
+Veronica polita,7,6,i,4,7,7,,,0
+Veronica praecox,9,7,5,2,8,2,,,0
+Veronica prostrata,8,7,8,2,8,2,,,0
+Veronica scardica,7,7,6,9,7,6,,=,3
+Veronica scheereri,7,7,7,2,8,3,,,0
+Veronica scutellata,8,5,i,9,4,3,,=,1
+Veronica serpyllifolia,7,i,i,5,5,7,,,1
+Veronica serpyllifolia subsp. humifusa,7,3,5,6,6,7,,,0
+Veronica serpyllifolia subsp. serpyllifolia,7,5,i,5,5,7,,,1
+Veronica spicata subsp. spicata,8,6,6,3,6,2,,,1
+Veronica spuria,7,7,6,4,7,3,,~,0
+Veronica sublobata,5,6,4,4,6,7,,,0
+Veronica teucrium,7,6,6,3,8,3,,,0
+Veronica triloba,8,7,6,4,7,7,,,0
+Veronica triphyllos,9,7,5,4,6,4,,~,0
+Veronica urticifolia,4,4,5,5,7,5,,,0
+Veronica verna,9,6,6,2,3,2,,,0
+Veronica vindobonensis,7,6,7,4,7,4,,~,0
+Viburnum farreri,5,7,3,5,5,5,,,0
+Viburnum lantana,7,6,i,4,8,4,,,0
+Viburnum opulus,6,5,i,6,7,6,,~,0
+Viburnum rhytidophyllum,5,8,3,5,5,3,,,0
+Vicia angustifolia,8,6,i,4,i,i,,~,1
+Vicia angustifolia subsp. angustifolia,8,6,i,4,i,i,,~,1
+Vicia angustifolia subsp. segetalis,8,6,i,4,5,5,,,0
+Vicia articulata,8,8,6,3,6,5,,,0
+Vicia benghalensis,8,8,3,4,7,6,,,0
+Vicia bithynica,8,8,4,4,6,4,,,0
+Vicia cassubica,6,7,5,4,6,3,,~,0
+Vicia cordata,8,8,5,5,5,5,,,0
+Vicia cracca,7,5,7,5,6,5,,,1
+Vicia dumetorum,6,6,5,5,7,5,,,0
+Vicia ervilia,8,8,i,3,5,5,,,0
+Vicia ervoides,9,8,3,3,7,3,,,1
+Vicia faba,8,6,4,5,7,7,,,0
+Vicia grandiflora,7,7,7,4,6,5,,,0
+Vicia hirsuta,7,6,i,4,6,5,,,0
+Vicia incana,7,6,7,3,8,3,,,0
+Vicia lathyroides,8,7,5,2,5,2,,,0
+Vicia lens,8,8,i,4,7,5,,,0
+Vicia lutea,7,7,i,4,6,5,,,1
+Vicia nigricans,9,8,5,2,7,3,,,0
+Vicia oreophila,7,3,7,5,8,4,,,0
+Vicia oroboides,6,6,6,5,8,5,,~,0
+Vicia pannonica,7,7,7,4,7,6,,,0
+Vicia peregrina,8,7,4,4,7,5,,,1
+Vicia pisiformis,6,7,6,4,7,4,,~,0
+Vicia sativa,7,6,6,5,7,6,,,0
+Vicia sepium,6,i,i,5,6,6,,,0
+Vicia serratifolia,7,8,5,3,8,4,,,0
+Vicia sylvatica,6,5,6,5,7,5,,~,0
+Vicia tenuifolia,7,6,i,4,7,4,,~,0
+Vicia tenuifolia subsp. dalmatica,7,7,7,3,8,4,,,0
+Vicia tenuifolia subsp. tenuifolia,8,6,i,4,7,4,,~,0
+Vicia tetrasperma,7,6,i,5,5,5,,~,0
+Vicia villosa,8,6,6,3,7,5,,,1
+Vicia villosa subsp. varia,8,6,7,3,7,5,,,1
+Vicia villosa subsp. villosa,7,6,6,3,6,5,,,1
+Vinca herbacea,8,8,7,3,8,2,,~,0
+Vinca major,6,7,5,5,6,6,,,0
+Vinca minor,4,6,3,5,7,6,,,0
+Vincetoxicum hirundinaria,6,5,6,3,7,3,,,0
+Viola alba,5,6,4,5,i,5,,~,0
+Viola alba subsp. alba,5,6,4,5,6,5,,~,0
+Viola alba subsp. alba var. alba,5,6,4,5,6,5,,~,0
+Viola alba subsp. alba var. scotophylla,5,6,3,5,7,5,,~,0
+Viola alba subsp. alba var. violacea,5,7,4,5,8,6,,~,0
+Viola alpina,9,2,5,4,9,3,,,0
+Viola ambigua,8,7,6,3,8,3,,,0
+Viola arvensis,7,i,i,i,6,i,,,0
+Viola arvensis subsp. arvensis,7,6,i,4,6,i,,,0
+Viola arvensis subsp. megalantha,8,5,5,5,6,4,,,0
+Viola biflora,3,3,6,7,6,5,,,0
+Viola calcarata,8,2,5,5,8,2,,,0
+Viola calcarata subsp. calcarata,8,2,6,6,8,2,,,0
+Viola calcarata subsp. zoysii,8,2,5,5,9,2,,,0
+Viola canina,7,5,i,i,4,3,,,0
+Viola canina subsp. canina,7,5,3,4,3,3,,~,0
+Viola canina subsp. ruppii,7,5,7,5,5,4,,~,0
+Viola collina,6,5,6,3,8,3,,,0
+Viola elatior,7,7,7,8,8,4,,~,1
+Viola hirta,6,6,i,4,7,3,,~,0
+Viola kitaibeliana,9,8,6,2,8,2,,,1
+Viola lutea subsp. sudetica,8,3,3,4,5,3,,,0
+Viola mirabilis,4,5,6,5,8,5,,~,0
+Viola odorata,5,6,i,5,7,6,,~,0
+Viola palustris,6,4,i,9,3,3,,,0
+Viola pinnata,8,4,7,2,8,2,,,0
+Viola pumila,8,7,7,7,7,4,,~,2
+Viola pyrenaica,6,4,4,4,8,4,,,0
+Viola reichenbachiana,3,i,4,5,7,6,,,0
+Viola riviniana,4,5,4,5,6,5,,,0
+Viola rupestris,7,i,6,3,8,2,,,0
+Viola sororia,6,7,3,6,7,6,,,0
+Viola stagnina,7,7,6,8,6,4,,~,0
+Viola suavis,6,7,6,4,7,6,,~,0
+Viola suavis var. albida,6,7,6,4,7,6,,,0
+Viola suavis var. suavis,6,7,6,4,7,6,,~,0
+Viola thomasiana,7,3,5,4,3,3,,~,0
+Viola tricolor,7,i,i,3,5,i,,,0
+Viola tricolor subsp. curtisii,8,8,3,2,4,2,,,0
+Viola tricolor subsp. polychroma,7,4,i,3,5,4,,,0
+Viola tricolor subsp. saxatilis,7,4,i,3,5,4,,,0
+Viola tricolor subsp. tricolor,7,6,i,3,5,4,,,0
+Viola x bavarica,4,5,i,5,7,5,,,0
+Viola x wittrockiana,8,6,i,4,6,5,,,0
+Viscaria alpina,9,2,7,3,3,2,,,0
+Viscaria vulgaris,6,6,4,3,4,3,,,0
+Viscum album,8,6,i,i,i,i,,,0
+Viscum album subsp. abietis,8,5,6,i,i,i,,,0
+Viscum album subsp. album,8,6,i,i,i,i,,,0
+Viscum album subsp. austriacum,8,6,6,i,i,i,,,0
+Vitis amurensis,5,6,6,6,6,5,,,0
+Vitis labrusca,7,7,5,6,5,5,,,0
+Vitis riparia,7,6,6,6,7,3,,=,0
+Vitis vinifera,7,7,i,6,7,6,,,0
+Vitis vinifera subsp. sylvestris,6,7,6,6,7,6,,,0
+Vitis vinifera subsp. vinifera,8,7,3,5,6,7,,,0
+Waldsteinia ternata subsp. trifolia,5,6,7,6,7,5,,,0
+Weigelia florida,5,7,3,5,5,5,,,0
+Willemetia stipitata,8,4,6,8,i,4,,~,0
+Wisteria sinensis,7,7,4,5,4,5,,,0
+Wolffia arrhiza,7,7,i,11,7,6,,,1
+Wolffia columbiana,7,7,i,11,7,6,,,1
+Woodsia alpina,9,2,7,4,4,1,,,0
+Woodsia ilvensis,8,4,6,3,3,1,,,0
+Woodsia pulchella,6,3,6,4,8,1,,,0
+Wulfenia carinthiaca,7,3,5,5,6,6,,,0
+Xanthium orientale,8,7,4,i,7,8,,=,1
+Xanthium orientale subsp. albinum,8,7,4,7,7,9,,=,1
+Xanthium orientale subsp. italicum,8,8,4,8,6,8,,,1
+Xanthium orientale subsp. orientale,8,6,5,6,7,7,,,1
+Xanthium orientale subsp. ripicola,8,7,4,7,7,9,,=,1
+Xanthium orientale subsp. saccharatum,8,7,5,6,7,8,,,1
+Xanthium pungens,8,7,5,5,7,7,,,2
+Xanthium spinosum,8,8,i,3,7,7,,,2
+Xanthium strumarium,8,7,i,6,7,6,,,2
+Xeranthemum annuum,8,8,7,2,6,2,,,0
+Yucca filamentosa,8,9,1,2,5,5,,,0
+Zannichellia palustris,7,6,i,12,8,8,,,5
+Zannichellia palustris subsp. palustris,7,6,i,12,8,8,,,1
+Zannichellia palustris subsp. pedicellata,7,8,2,12,8,7,,,5
+Zea mays,8,8,i,5,6,8,,,0
+Ziziphora acinos,8,6,i,2,7,2,,,0
+Ziziphora granatensis subsp. alpina,8,3,4,4,8,2,,,0
