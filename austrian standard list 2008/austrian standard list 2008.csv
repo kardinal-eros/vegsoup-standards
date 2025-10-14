@@ -1127,10 +1127,10 @@ vascular plants;Caryophyllaceae;dian alpi;Dianthus alpinus;-;-;-;-;-;-;;;sensu F
 vascular plants;Caryophyllaceae;dian aren;Dianthus arenarius;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Sand-Nelke;Dianthus arenarius subsp. arenarius;COR;
 vascular plants;Caryophyllaceae;dian arme arme;Dianthus armeria ssp. armeria;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Büschel-Nelke;Dianthus armeria;ULI;
 vascular plants;Caryophyllaceae;dian barb;Dianthus barbatus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Bart-Nelke;Dianthus barbatus subsp. barbatus;LOI;
-vascular plants;Caryophyllaceae;dian cart capi;Dianthus carthusianorum ssp. capillifrons;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Dianthus carthusianorum subsp. capillifrons;FES;
-vascular plants;Caryophyllaceae;dian cart cart;Dianthus carthusianorum ssp. carthusianorum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Eigentliche Kartäuser-Nelke;Dianthus carthusianorum subsp. carthusianorum;FES;
-vascular plants;Caryophyllaceae;dian cart lati;Dianthus carthusianorum ssp. latifolius;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Voralpen-Kartäuser-Nelke;Dianthus carthusianorum subsp. latifolius;FES;
-vascular plants;Caryophyllaceae;dian cart slat;Dianthus carthusianorum s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kartäuser-Nelke;;;
+vascular plants;Caryophyllaceae;dian cart capi;Dianthus carthusianorum ssp. capillifrons;8;6;5;3;7;3;Karrer2024;;sensu Fischer et al. 2008;;;Dianthus carthusianorum subsp. capillifrons;FES;
+vascular plants;Caryophyllaceae;dian cart cart;Dianthus carthusianorum ssp. carthusianorum;8;5;6;3;6;2;Karrer2024;;sensu Fischer et al. 2008;;Eigentliche Kartäuser-Nelke;Dianthus carthusianorum subsp. carthusianorum;FES;
+vascular plants;Caryophyllaceae;dian cart lati;Dianthus carthusianorum ssp. latifolius;8;5;4;3;7;3;Karrer2024;;sensu Fischer et al. 2008;;Voralpen-Kartäuser-Nelke;Dianthus carthusianorum subsp. latifolius;FES;
+vascular plants;Caryophyllaceae;dian cart slat;Dianthus carthusianorum s.lat.;8;5;6;3;6;2;Karrer2024;as Dianthus carthusianorum ssp. carthusianorum;sensu Fischer et al. 2008;;Kartäuser-Nelke;;;
 vascular plants;Caryophyllaceae;dian cart vagi;Dianthus carthusianorum ssp. vaginatus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Scheidige Kartäuser-Nelke;Dianthus carthusianorum subsp. vaginatus;FES;
 vascular plants;Caryophyllaceae;dian coll;Dianthus collinus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Hügel-Nelke;Dianthus carthusianorum subsp. vaginatus;FES;
 vascular plants;Caryophyllaceae;dian delt;Dianthus deltoides;8;5;4;3;3;2;Karrer;;sensu Fischer et al. 2008;;Heide-Nelke;Dianthus deltoides subsp. deltoides;COR+NAR+PYR;
@@ -1487,7 +1487,7 @@ vascular plants;Poaceae;fest pulc jura;Festuca pulchella ssp. jurana;-;-;-;-;-;-
 vascular plants;Poaceae;fest pulc pulc;Festuca pulchella ssp. pulchella;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Eigentlicher Zier-Schwingel;Leucopoa pulchella subsp. pulchella;SES;
 vascular plants;Poaceae;fest pulc slat;Festuca pulchella s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;;
 vascular plants;Poaceae;fest pumi;Festuca pumila;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Zwerg-Schwingel;Festuca quadriflora;KOB+SES;
-vascular plants;Poaceae;fest rubr;Festuca rubra;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Ausläufer-Rot-Schwingel;Festuca rubra subsp. rubra;MOL;
+vascular plants;Poaceae;fest rubr;Festuca rubra;x;x;x;x;x;x;Karrer2024;;sensu Fischer et al. 2008;;Ausläufer-Rot-Schwingel;Festuca rubra subsp. rubra;MOL;
 vascular plants;Poaceae;fest rubr aggr;Festuca rubra agg.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Rot-Schwingel Artengruppe;;;
 vascular plants;Poaceae;fest rubr junc;Festuca rubra ssp. juncea;8;6;4;6;7;5;Karrer;as Festuca rubra ssp. litoralis;sensu Fischer et al. 2008;;Binsenartiger Ausläufer-Rot-Schwingel;Festuca rubra subsp. juncea;TRI;
 vascular plants;Poaceae;fest rubr rubr;Festuca rubra ssp. rubra;x;x;5;6;6;x;;;sensu Fischer et al. 2008;;Eigentlicher Ausläufer-Rot-Schwingel;Festuca rubra subsp. rubra;MOL;
