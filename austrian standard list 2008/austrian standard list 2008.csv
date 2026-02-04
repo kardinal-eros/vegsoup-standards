@@ -2256,6 +2256,7 @@ vascular plants;Lythraceae;lyth sali;Lythrum salicaria;7;5;5;8;6;x;Karrer;;sensu
 vascular plants;Lythraceae;lyth virg;Lythrum virgatum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Ruten-Blutweiderich;Lythrum virgatum;MOL;
 vascular plants;Berberidaceae;maho aqui;Mahonia aquifolium;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Gewöhnliche Mahonie;;;
 vascular plants;Asparagaceae;maia bifo;Maianthemum bifolium;3;x;6;5;3;3;;;sensu Fischer et al. 2008;;Zweiblättriges Schattenblümchen;Maianthemum bifolium;PIC+QUE;
+vascular plants;Rosaceae;majo ambi;Majovskya ambigua;-;-;-;-;-;-;;;(Michalet ex Decne.) Sennikov & Kurtto;Sorbus aria × Sorbus chamaemespilus = Sorbus × ambigua;;;;
 vascular plants;Orchidaceae;mala mono mono;Malaxis monophyllos ssp. monophyllos;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Einblättriger Weichständel;Malaxis monophyllos;POP;
 vascular plants;Orchidaceae;mala palu;Malaxis paludosa;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Sumpf-Weichständel;Hammarbya paludosa;SCH;
 vascular plants;Rosaceae;malu dasy;Malus dasyphylla;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Filz-Apfel;Malus dasyphylla;RHA;
@@ -3965,7 +3966,7 @@ vascular plants;Plantaginaceae;vero frut losa;Veronica fruticulosa;9;3;4;5;9;2;K
 vascular plants;Plantaginaceae;vero gent;Veronica gentianoides;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Enzian-Ehrenpreis;Veronica gentianoides;KOB;
 vascular plants;Plantaginaceae;vero hede hede;Veronica hederifolia (s.str.);-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Efeu-Ehrenpreis ieS;Veronica hederifolia;PAR;
 vascular plants;Plantaginaceae;vero hede aggr;Veronica hederifolia agg.;-;-;-;-;-;-;;;sensu Ehrendorfer 1973;;;;;
-vascular plants;Plantaginaceae;vero mari;Veronica maritima;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Langblättriger Blauweiderich;Veronica maritima;MOL;
+vascular plants;Plantaginaceae;vero mari;Veronica maritima;-;-;-;-;-;-;;;sensu Fischer et al. 2008;Veronica longifolia;Langblättriger Blauweiderich;Veronica maritima;MOL;
 vascular plants;Plantaginaceae;vero mont;Veronica montana;4;5;2;7;5;6;;;sensu Fischer et al. 2008;;Berg-Ehrenpreis;Veronica montana;FAG;
 vascular plants;Plantaginaceae;vero offi;Veronica officinalis;6;x;3;4;3;4;;;sensu Fischer et al. 2008;;Echter Ehrenpreis;Veronica officinalis;NAR+QUE;
 vascular plants;Plantaginaceae;vero opac;Veronica opaca;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Glanzloser Ehrenpreis;Veronica opaca;PAR;
