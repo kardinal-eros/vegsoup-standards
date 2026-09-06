@@ -1170,7 +1170,7 @@ vascular plants;Brassicaceae;dipl tenu;Diplotaxis tenuifolia;-;-;-;-;-;-;;;sensu
 vascular plants;Caprifoliaceae;dips full;Dipsacus fullonum;9;6;3;6;8;7;Karrer;;sensu Fischer et al. 2008;;Wild Karde;Dipsacus fullonum;ART+EPI
 vascular plants;Caprifoliaceae;dips laci;Dipsacus laciniatus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Schlitzblättrige Karde;Dipsacus laciniatus;ART
 vascular plants;Caprifoliaceae;dips pilo;Dipsacus pilosus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Borsten-Karde;Dipsacus pilosus;EPI
-vascular plants;Caprifoliaceae;dipsstri;Dipsacus strigosus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Schlanke Karde;;
+vascular plants;Caprifoliaceae;dips stri;Dipsacus strigosus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Schlanke Karde;;
 vascular plants;Compositae;ditt grav;Dittrichia graveolens;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Duft-Klebalant;Dittrichia graveolens;CHE+LYG
 vascular plants;Compositae;doro aust;Doronicum austriacum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Österreichische Gamswurz;Doronicum austriacum;MUL
 vascular plants;Compositae;doro clus slat;Doronicum clusii s.lat;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Clusius-Gamswurz;;
@@ -2586,7 +2586,7 @@ vascular plants;Papaveraceae;papa dubi slat;Papaver dubium s.lat.;-;-;-;-;-;-;;;
 vascular plants;Papaveraceae;papa hybr;Papaver hybridum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Steifhaariger Mohn;Papaver hybridum;PAR
 vascular plants;Papaveraceae;papa pilo;Papaver pilosum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Bithynischer Mohn;;
 vascular plants;Papaveraceae;papa rhoe;Papaver rhoeas;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Klatsch-Mohn;Papaver rhoeas;PAR
-papa somn slat;vascular plants;Papaveraceae;Papaver somniferum s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Papaver somniferum;PAR
+vascular plants;Papaveraceae;papa somn slat;Papaver somniferum s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Papaver somniferum;PAR
 vascular plants;Papaveraceae;papa somn seti;Papaver somniferum ssp. setigerum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Borstiger Schlaf-Mohn;Papaver somniferum;PAR
 vascular plants;Papaveraceae;papa somn somn;Papaver somniferum ssp. somniferum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kahler Schlaf-Mohn;Papaver somniferum;PAR
 vascular plants;Asparagaceae;para lili;Paradisea liliastrum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;Paradisea liliastrum;TRI
@@ -4351,7 +4351,7 @@ lichen;;phys dubi tere;Physcia dubia var. teretiuscula;-;-;-;-;-;-;;;(Ach.) Clau
 lichen;;phys vain;Physcia vainioi;-;-;-;-;-;-;;;Räsänen;;;;
 lichen;;phys musc slat;Physconia muscigena s.lat.;-;-;-;-;-;-;;;;;;;
 lichen;;phys musc musci;Physconia muscigena var. muscigena;-;-;-;-;-;-;;;(Ach.) Poelt;;;;
-lichen;;phys musc bayeri;Physconia muscigena var. bayeri;-;-;-;-;-;-;;;(Nádv.) Poelt;;;;
+lichen;;phys musc baye;Physconia muscigena var. bayeri;-;-;-;-;-;-;;;(Nádv.) Poelt;;;;
 lichen;;phys caes slat;Physcia caesia s.lat.;-;-;-;-;-;-;;;;;;;
 lichen;;phys caes caes;Physcia caesia var. caesia;-;-;-;-;-;-;;;(Hoffm.) Fürnr.;;;;
 lichen;;phys caes rhae;Physcia caesia var. rhaetica;-;-;-;-;-;-;;;Frey;;;;
