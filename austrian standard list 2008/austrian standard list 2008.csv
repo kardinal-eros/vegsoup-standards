@@ -680,7 +680,7 @@ vascular plants;Cyperaceae;care buek;Carex buekii;8;6;8;9;7;6;Karrer2024;;sensu 
 vascular plants;Cyperaceae;care buxb;Carex buxbaumii s.str.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Moor-Segge;Carex buxbaumii;PHR+SCH
 vascular plants;Cyperaceae;care cane cane;Carex canescens ssp. canescens;7;4;x;9;4;2;Karrer;;sensu Fischer et al. 2008;;Grau-Segge;Armeria canescens subsp. canescens;FES
 vascular plants;Cyperaceae;care capi;Carex capillaris;8;1;?;8;8;2;Karrer;;sensu Fischer et al. 2008;;Haarstiel-Segge;Carex capillaris;KOB
-vascular plants;Cyperaceae;care capi;carex capitata;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;
+vascular plants;Cyperaceae;care capi tata;Carex capitata;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;
 vascular plants;Cyperaceae;care cary;Carex caryophyllea;8;x;3;4;x;2;;;sensu Fischer et al. 2008;;Frühlings-Segge;Carex caryophyllea;FES+PIL
 vascular plants;Cyperaceae;care cesp;Carex cespitosa;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Rasen-Segge;Carex cespitosa;MOL+PHR
 vascular plants;Cyperaceae;care chor;Carex chordorrhiza;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Strick-Segge;Carex chordorrhiza;SCH
@@ -1755,7 +1755,7 @@ vascular plants;Ranunculaceae;hell dume;Helleborus dumetorum;-;-;-;-;-;-;;;sensu
 vascular plants;Ranunculaceae;hell foet;Helleborus foetidus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Stink-Nieswurz;Helleborus foetidus;FAG+PUB
 vascular plants;Ranunculaceae;hell nige;Helleborus niger;3;5;4;5;8;4;Karrer;;sensu Fischer et al. 2008;;Schneerose;Helleborus niger subsp. niger;PUB
 vascular plants;Ranunculaceae;hell orie;Helleborus orientalis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Garten-Nieswurz;;
-;Ranunculaceae;hell spec ies;Helleborus sp.;-;-;-;-;-;-;;;;;Nieswurz;;
+vascular plants;Ranunculaceae;hell spec ies;Helleborus sp.;-;-;-;-;-;-;;;;;Nieswurz;;
 vascular plants;Ranunculaceae;hell viri;Helleborus viridis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Grüne Nieswurz;Helleborus viridis subsp. viridis;FAG
 vascular plants;Compositae;helm echi;Helminthotheca echioides;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Wurmlattich;Helminthotheca echoides;ART
 vascular plants;Apiaceae;helo repe;Helosciadium repens;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Kriech-Sumpfschirm;Helosciadium repens;PHR
@@ -2162,7 +2162,7 @@ vascular plants;Liliaceae;lili bulb croc;Lilium bulbiferum ssp. croceum;-;-;-;-;
 vascular plants;Liliaceae;lili bulb slat;Lilium bulbiferum s.lat.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;;;
 vascular plants;Liliaceae;lili cand;Lilium candidum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Weiße Lilie;;
 vascular plants;Liliaceae;lili mart;Lilium martagon;4;x;5;5;7;5;;;sensu Fischer et al. 2008;;Türkenbund-Lilie;Lilium martagon;FAG
-vascular plants;Liliaceae;lili spec ies;Lilium spec ies;-;-;-;-;-;-;;;;;Lilie;;
+vascular plants;Liliaceae;lili spec ies;Lilium sp.;-;-;-;-;-;-;;;;;Lilie;;
 vascular plants;Limnanthaceae;limn doug;Limnanthes douglasii;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Sumpfblume;;
 vascular plants;Orchidaceae;limo abor;Limodorum abortivum;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Dingel;Limodorum abortivum;PUB
 vascular plants;Scrophulariaceae;limo aqua;Limosella aquatica;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Gewöhnlicher Schlammling;Limosella aquatica;ISO
@@ -3427,12 +3427,11 @@ vascular plants;Caprifoliaceae;scab vele;Scabiosa velenovskyana;-;-;-;-;-;-;;;Bo
 vascular plants;Apiaceae;scan pect vene;Scandix pecten-veneris;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Gewöhnlicher Venuskamm;Scandix pecten-veneris;CHE
 vascular plants;Scheuchzeriaceae;sche palu;Scheuchzeria palustris;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Blasensimse;Scheuchzeria palustris;SCH
 vascular plants;Cyperaceae;scho ferr;Schoenus ferrugineus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Braune Knopfbinse;Schoenus ferrugineus;SCH
-vascular plants;Cyperaceae;shoe nigr;Schoenus nigricans;-;-;-;-;-;-;;;;;Schwarze Knopfbinse;;
+vascular plants;Cyperaceae;scho nigr;Schoenus nigricans;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Schwarze Knopfbinse;Schoenus nigricans;MOL+SCH
 vascular plants;Cyperaceae;scho enus spec ies;Schoenus sp.;-;-;-;-;-;-;;;;;Knopfbinse;;
 vascular plants;Cyperaceae;scho lacu;Schoenoplectus lacustris s.str.;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Grüne Teichbinse;Schoenoplectus lacustris;PHR
 vascular plants;Cyperaceae;scho mucr;Schoenoplectus mucronatus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Spitze Teichbinse;Schoenoplectus mucronatus;ORY+PHR
 vascular plants;Cyperaceae;scho ectus spec ies;Schoenoplectus sp.;-;-;-;-;-;-;;;;;Teichbinse;;
-vascular plants;Cyperaceae;scho nigr;Schoenus nigricans;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Schwarze Knopfbinse;Schoenus nigricans;MOL+SCH
 vascular plants;Cyperaceae;scho pung;Schoenoplectus pungens;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Stechende Teichbinse;Schoenoplectus pungens;PHR
 vascular plants;Cyperaceae;scho supi;Schoenoplectus supinus;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Zwerg-Teichbinse;Schoenoplectus supinus;ISO+ORY
 vascular plants;Cyperaceae;scho tabe;Schoenoplectus tabernaemontani;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Graue Teichbinse;Schoenoplectus tabernaemontani;PHR
@@ -3924,7 +3923,7 @@ vascular plants;Typhaceae;typh shut;Typha shuttleworthii;-;-;-;-;-;-;;;sensu Fis
 vascular plants;Ulmaceae;ulmu glab;Ulmus glabra;4;5;3;6;7;7;;;sensu Fischer et al. 2008;;Berg-Ulme;Ulmus glabra;FAG
 vascular plants;Ulmaceae;ulmu laev;Ulmus laevis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Flatter-Ulme;Ulmus laevis;POP+ROB
 vascular plants;Ulmaceae;ulmu mino mino;Ulmus minor ssp. minor;6;7;5;x;7;x;;;sensu Fischer et al. 2008;;Feld-Ulme;Ulmus minor;FAG+POP+ROB
-vascular plants;Ulmaceae;ulm spec ies;Ulmus sp.;-;-;-;-;-;-;;;;;Ulme;;
+vascular plants;Ulmaceae;ulmu spec ies;Ulmus sp.;-;-;-;-;-;-;;;;;Ulme;;
 vascular plants;Urticaceae;urti dioc slat;Urtica dioica s.lat.;x;x;x;6;7;9;;;sensu Fischer et al. 2008;;Große Brennnessel;;
 vascular plants;Urticaceae;urti dioi dioi;Urtica dioica ssp. dioica;x;x;x;6;7;9;;;sensu Fischer et al. 2008;;Gewöhnliche Große Brennnessel;Urtica dioica subsp. dioica;EPI+POP+ROB
 vascular plants;Urticaceae;urti dioi subi;Urtica dioica ssp. subinermis;-;-;-;-;-;-;;;sensu Fischer et al. 2008;;Harmlose Große Brennnessel;Urtica dioica subsp. subinermis;FAG+PUR
